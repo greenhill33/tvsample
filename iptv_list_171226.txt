@@ -3,3 +3,4 @@ Cinema,m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u
 ASIA,m3u,g,https://raw.githubusercontent.com/yuanxin69/m3u/master/janpan1.m3u
 战旗频道,m3u,g,https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/ZhanQi.m3u
 CCTV,m3u,g,https://gist.githubusercontent.com/skylu/7683f3187c9b9b061c4e12fcd2f5da8c/raw/eec5e93cf866c2795b6bb5f13d563fcf313b6926/SCITV_UDPXY.M3U
+天映、KIX、唐人,csv,g,https://pastebin.com/raw/gUzrQXZh
