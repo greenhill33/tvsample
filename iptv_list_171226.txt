@@ -3,4 +3,4 @@
 Cinema,m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u
 ASIA (2017/11/30),m3u,g,https://raw.githubusercontent.com/yuanxin69/m3u/master/janpan1.m3u
 战旗频道 (2017/2/18),m3u,g,https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/ZhanQi.m3u
-港台放映 (2017/11/30),json,g,https://raw.githubusercontent.com/yuanxin69/m3u/master/xiaoxiaotvdp.json
+香港台放映 (2017/11/30),json,g,https://raw.githubusercontent.com/yuanxin69/m3u/master/xiaoxiaotvdp.json
