@@ -1,5 +1,5 @@
 第四台,build,1,http://tempuri
-影視直播源yoqu (2018/1/17),csv,g,https://pastebin.com/raw/3ZSdbPYH
+影視直播源yoqu (2018/1/17),csv,g,https://pastebin.com/raw/TgeVERYK
 大陸衛視CCTV (2018/1/9),csv,g,https://pastebin.com/raw/2xAJtBEd
 唐人放映 (2018/1/8),csv,g,https://pastebin.com/raw/de9FB8Ub
 Cinema,m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u
