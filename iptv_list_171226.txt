@@ -1,5 +1,5 @@
-第四台網路,build,1,http://tempuri
-第四台備用 (2018/3/2),csv,g,https://pastebin.com/raw/x3p4mDfU
+第四台 (試播有時效性),build,1,http://tempuri
+常用電台 (2018/3/2),csv,g,https://pastebin.com/raw/gR2mcMu5
 大陸電視 (2018/2/24),csv,g,https://pastebin.com/raw/7SvQsKFy
 戰旗電影 (2018/1/27),csv,g,https://pastebin.com/raw/8nBHNduX
 影視直播源yoqu (2018/1/17),csv,g,https://pastebin.com/raw/mZemyG41
