@@ -1,3 +1,4 @@
+常用電台 (2018/3/16),csv,g,https://pastebin.com/raw/725n57Xj
 基本電台 (2018/3/15),csv,g,https://pastebin.com/raw/Y6s28Gcy
 第四台普通頻道 (2018/3/11),build,1,http://210.61.151.11/ltv_service.asmx
 大陸電視 (2018/2/24),csv,g,https://pastebin.com/raw/7SvQsKFy
