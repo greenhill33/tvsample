@@ -1,5 +1,5 @@
-常用電台 (2018/3/16),csv,g,https://pastebin.com/raw/725n57Xj
-基本電台 (2018/3/15),csv,g,https://pastebin.com/raw/Y6s28Gcy
+常用電台 (2018/3/16),csv,g,https://pastebin.com/raw/C6Dap753
+基本電台 (2018/3/15),csv,g,https://pastebin.com/raw/U4gqYZFJ
 第四台普通頻道 (2018/3/11),build,1,http://210.61.151.11/ltv_service.asmx
 大陸電視 (2018/2/24),csv,g,https://pastebin.com/raw/7SvQsKFy
 戰旗電影 (2018/1/27),csv,g,https://pastebin.com/raw/8nBHNduX
