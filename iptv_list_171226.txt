@@ -1,17 +1,19 @@
-常用電台 (2018/3/16),csv,g,https://pastebin.com/raw/C6Dap753
-基本電台 (2018/3/15),csv,g,https://pastebin.com/raw/U4gqYZFJ
-Free IPTV (2018/3/11),m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
-第四台普通頻道 (2018/3/3),build,1,http://210.61.151.11/ltv_service.asmx
-Cinema (2018/3/2),m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u
-大陸電視 (2018/2/24),csv,g,https://pastebin.com/raw/7SvQsKFy
-台灣台 41頻道 (2018/2/23),m3u,g,https://pastebin.com/raw/ZZwuprSh
-火貓、戰旗 201頻道 (2018/2/15),csv,g,https://pastebin.com/raw/3zPFxdvt
-CCTV、NewTV 53頻道 (2018/2/7),m3u,g,https://pastebin.com/raw/UR0JUEaN
-戰旗電影 (2018/1/27),csv,g,https://pastebin.com/raw/8nBHNduX
-影視直播源yoqu (2018/1/17),csv,g,https://pastebin.com/raw/mZemyG41
-CCTV 37頻道 (2018/1/13),m3u,g,https://pastebin.com/raw/AvsnmxeA
-唐人放映 (2018/1/8),csv,g,https://pastebin.com/raw/de9FB8Ub
-港澳台 16頻道 (2017/12/31),m3u,g,https://pastebin.com/raw/9LANcBMT
-香港台放映 (2017/11/30),json,g,https://raw.githubusercontent.com/yuanxin69/m3u/master/xiaoxiaotvdp.json
-英韓港澳 46頻道 (2017/11/14),m3u,g,https://pastebin.com/raw/UKGsVzTy
-戰旗頻道 (2017/2/18),m3u,g,https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/ZhanQi.m3u
+新港澳(2018/3/19)_19頻道,m3u,g,https://pastebin.com/raw/r7FYYi60
+華人頻道(2018/3/17)_96頻道,m3u,g,https://pastebin.com/raw/96fkUdky
+台灣常用電台(2018/3/16),csv,g,https://pastebin.com/raw/C6Dap753
+台灣基本電台(2018/3/15),csv,g,https://pastebin.com/raw/U4gqYZFJ
+Free IPTV(2018/3/11),m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
+台灣第四台(2018/3/3),build,1,http://210.61.151.11/ltv_service.asmx
+Cinema(2018/3/2),m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u
+大陸電視(2018/2/24),csv,g,https://pastebin.com/raw/7SvQsKFy
+台灣台(2018/2/23)_41頻道,m3u,g,https://pastebin.com/raw/ZZwuprSh
+火貓、戰旗_201頻道 (2018/2/15),csv,g,https://pastebin.com/raw/3zPFxdvt
+CCTV、NewTV_53頻道 (2018/2/7),m3u,g,https://pastebin.com/raw/UR0JUEaN
+戰旗電影(2018/1/27),csv,g,https://pastebin.com/raw/8nBHNduX
+影視直播源yoqu(2018/1/17),csv,g,https://pastebin.com/raw/mZemyG41
+CCTV(2018/1/13)_37頻道,m3u,g,https://pastebin.com/raw/AvsnmxeA
+唐人放映(2018/1/8),csv,g,https://pastebin.com/raw/de9FB8Ub
+港澳台(2017/12/31)_16頻道,m3u,g,https://pastebin.com/raw/9LANcBMT
+香港台放映(2017/11/30),json,g,https://raw.githubusercontent.com/yuanxin69/m3u/master/xiaoxiaotvdp.json
+英韓港澳(2017/11/14)_46頻道,m3u,g,https://pastebin.com/raw/UKGsVzTy
+戰旗頻道(2017/2/18),m3u,g,https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/ZhanQi.m3u
