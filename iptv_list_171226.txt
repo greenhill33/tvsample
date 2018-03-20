@@ -1,9 +1,7 @@
 新港澳(2018/3/19)_19頻道,m3u,g,https://pastebin.com/raw/r7FYYi60
 華人頻道(2018/3/17)_96頻道,m3u,g,https://pastebin.com/raw/96fkUdky
-台灣常用電台(2018/3/16),csv,g,https://pastebin.com/raw/C6Dap753
-台灣基本電台(2018/3/15),csv,g,https://pastebin.com/raw/U4gqYZFJ
+高清影院(2018/3/14)_87頻道,m3u,g,https://pastebin.com/raw/Y3dKuKTe
 Free IPTV(2018/3/11),m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
-台灣第四台(2018/3/3),build,1,http://210.61.151.11/ltv_service.asmx
 Cinema(2018/3/2),m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u
 大陸電視(2018/2/24),csv,g,https://pastebin.com/raw/7SvQsKFy
 台灣台(2018/2/23)_41頻道,m3u,g,https://pastebin.com/raw/ZZwuprSh
