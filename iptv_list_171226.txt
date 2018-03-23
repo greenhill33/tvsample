@@ -2,6 +2,7 @@
 華人頻道(2018/3/17)_96頻道,m3u,g,https://pastebin.com/raw/96fkUdky
 高清影院(2018/3/14)_87頻道,m3u,g,https://pastebin.com/raw/Y3dKuKTe
 Free IPTV(2018/3/11),m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u
+台灣購物台(2018/3/10)_16頻道,m3u,g,https://pastebin.com/raw/Sg6E2aWs
 Cinema(2018/3/2),m3u,g,https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u
 大陸電視(2018/2/24),csv,g,https://pastebin.com/raw/7SvQsKFy
 台灣台(2018/2/23)_41頻道,m3u,g,https://pastebin.com/raw/ZZwuprSh
