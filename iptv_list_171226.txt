@@ -1,7 +1,7 @@
 河北頻道(2018/3/23)_20頻道,m3u,g,https://pastebin.com/raw/PfTg1SNA
-台灣常用電台(2018/3/21)_68頻道,csv,g,https://pastebin.com/raw/Jv9J0bW9
+台灣常用電台(2018/3/21)_65頻道,csv,g,https://pastebin.com/raw/WffYMeEt
 新港澳(2018/3/19)_19頻道,m3u,g,https://pastebin.com/raw/r7FYYi60
-購物宗教(2018/3/17)_48頻道,m3u,g,https://pastebin.com/raw/n3tG5x8X
+購物宗教(2018/3/17)_48頻道,m3u,g,https://pastebin.com/raw/EsYENfTy
 高清影院(2018/3/14)_87頻道,m3u,g,https://pastebin.com/raw/Y3dKuKTe
 大陸電視(2018/2/24)_156頻道,csv,g,https://pastebin.com/raw/7SvQsKFy
 戰旗電影(2018/1/27)_87頻道,csv,g,https://pastebin.com/raw/8nBHNduX
