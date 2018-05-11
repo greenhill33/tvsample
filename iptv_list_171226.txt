@@ -1,13 +1,7 @@
-河北頻道(2018/3/23)_20頻道,m3u,g,https://pastebin.com/raw/PfTg1SNA
+大陸村村通(2018/5/11)_124頻道,m3u,g,https://pastebin.com/raw/QNfTk6Q5
 台灣常用電台(2018/3/21)_65頻道,csv,g,https://pastebin.com/raw/WffYMeEt
-新港澳(2018/3/19)_19頻道,m3u,g,https://pastebin.com/raw/r7FYYi60
 購物宗教(2018/3/17)_48頻道,m3u,g,https://pastebin.com/raw/EsYENfTy
-高清影院(2018/3/14)_87頻道,m3u,g,https://pastebin.com/raw/Y3dKuKTe
 大陸電視(2018/2/24)_156頻道,csv,g,https://pastebin.com/raw/7SvQsKFy
 戰旗電影(2018/1/27)_87頻道,csv,g,https://pastebin.com/raw/8nBHNduX
 影視直播源yoqu(2018/1/17)_76頻道,csv,g,https://pastebin.com/raw/mZemyG41
-CCTV(2018/1/13)_37頻道,m3u,g,https://pastebin.com/raw/AvsnmxeA
-唐人放映(2018/1/8)_8頻道,csv,g,https://pastebin.com/raw/de9FB8Ub
-港澳台(2017/12/31)_16頻道,m3u,g,https://pastebin.com/raw/9LANcBMT
-香港台放映(2017/11/30)_211頻道,json,g,https://raw.githubusercontent.com/yuanxin69/m3u/master/xiaoxiaotvdp.json
-戰旗頻道(2017/2/18)_73頻道,m3u,g,https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/ZhanQi.m3u
+港澳電台(2017/12/31)_16頻道,m3u,g,https://pastebin.com/raw/2cPbQabE
