@@ -1,0 +1,14 @@
+#SET_PREF tv_service=http://wwtv.ddns.net/l2tv/l2tv_service.asmx
+#SET_PREF CHANNEL_NO=CHANNEL_NO
+#SET_PREF CHANNEL_URL=LTV_CHANNEL_URL
+#SET_PREF TEMP_URI=http://tempuri.org/
+#SET_PREF ADD_PROPERTY=['REGISTER_ID=L2TV','REGISTER_MAC=02:00:00:00:00:00','REGISTER_IP=IP']
+#SET_PREF MD5_ST=['t24R8g7v3','TIME']
+
+大陸村村通(2018/5/11)_124頻道,m3u,g,https://pastebin.com/raw/QNfTk6Q5
+常用電台(2018/6/25)_53頻道,csv,g,https://pastebin.com/raw/v5rbCp7Q
+購物宗教(2018/3/17)_48頻道,m3u,g,https://pastebin.com/raw/GrCWDRVL
+大陸電視(2018/2/24)_156頻道,csv,g,https://pastebin.com/raw/7SvQsKFy
+戰旗電影(2018/1/27)_87頻道,csv,g,https://pastebin.com/raw/8nBHNduX
+影視直播源yoqu(2018/1/17)_76頻道,csv,g,https://pastebin.com/raw/mZemyG41
+港澳電台(2017/12/31)_16頻道,m3u,g,https://pastebin.com/raw/2cPbQabE
