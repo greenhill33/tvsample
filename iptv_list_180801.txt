@@ -6,7 +6,7 @@
 #SET_PREF MD5_ST=['t24R8g7v3','TIME']
 
 大陸村村通(2018/5/11)_124頻道,m3u,g,https://pastebin.com/raw/QNfTk6Q5
-常用電台(2018/6/25)_53頻道,csv,g,https://pastebin.com/raw/QuCJjeDe
+常用電台(2018/6/25)_53頻道,csv,g,https://pastebin.com/raw/EKchLgkt
 購物宗教(2018/3/17)_48頻道,m3u,g,https://pastebin.com/raw/GrCWDRVL
 大陸電視(2018/2/24)_156頻道,csv,g,https://pastebin.com/raw/7SvQsKFy
 戰旗電影(2018/1/27)_87頻道,csv,g,https://pastebin.com/raw/8nBHNduX
