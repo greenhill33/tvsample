@@ -21,7 +21,7 @@
 常用電台,愛放動漫2台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001811$json::url::msg
 常用電台,Boomerang,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001810$json::url::msg
 常用電台,達文西兒童科學,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001720$json::url::msg
-常用電台,民視新聞台,https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+常用電台,民視新聞台,https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv13&channel_id=31
 常用電台,台視新聞台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001806$json::url::msg
 常用電台,中視新聞台,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv074&channel_id=33
 常用電台,華視新聞,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv052&channel_id=34
@@ -49,7 +49,7 @@
 常用電台,MTV HD,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv025&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,亞洲旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn17&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,民視旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv07&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,愛爾達娛樂台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv070&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
+常用電台,愛爾達娛樂台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv070&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$s://eltaott.tv/change_channel/play_v2$json::url
 常用電台,優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 常用電台,fyi生活頻道,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv031&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,龍華偶像台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn12&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
@@ -65,7 +65,8 @@
 常用電台,科幻電影,https://ws4.streamhls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-1521103915-1_1200/playlist.m3u8
 常用電台,CI罪案偵查,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv027&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,爆笑頻道,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv024&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,麥卡貝,"hweb$://www.camerabay.tv$reg::m3u8::.*Url.*?(http.*?m3u8)"".*::$1$$$hweb$://www.camerabay.tv/channel/master1$reg::m3u8::.*Url.*?(http.*?m3u8)"".*::$1"
+常用電台,愛爾達體育2,"hget$s://eltaott.tv/channel/play/105/5$reg::m3u8::.*file:.*?(http.*?m3u8.*?)"".*::$1"
+常用電台,愛爾達體育3,"hget$s://eltaott.tv/channel/play/110/6$reg::m3u8::.*file:.*?(http.*?m3u8.*?)"".*::$1"
 常用電台,MC賽車,http://liveal.quanmin.tv/live/2132332338.flv
 常用電台,五星體育,http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 常用電台,香港奇妙電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
