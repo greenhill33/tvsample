@@ -15,6 +15,7 @@
 常用電台,靖洋戲劇台,http://61.58.60.230:9000/live/203.m3u8
 常用電台,大愛電視台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv007&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,大愛二台,http://61.58.60.230:9000/live/191.m3u8
+常用電台,好消息GOODTV,http://live.streamingfast.net/osmflivech14.m3u8$$$http://live.streamingfast.net/osmflivech3.m3u8$$$http://live.streamingfast.net/osmflivech1.m3u8$$$http://live.streamingfast.net/osmflivech12.m3u8
 常用電台,CNEX紀實,http://61.58.60.230:9000/live/257.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001773$json::url::msg
 常用電台,東森綜合台,http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
 常用電台,東森衛視,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv020&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
@@ -71,6 +72,7 @@
 常用電台,好萊塢電影,https://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
 常用電台,科幻電影,https://ws4.streamhls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-1521103915-1_1200/playlist.m3u8
 常用電台,CI罪案偵查,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv027&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
+常用電台,CHC高清電影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 常用電台,爆笑頻道,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv024&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,愛爾達體育2,"hget$s://eltaott.tv/channel/play/105/5$reg::m3u8::.*file:.*?(http.*?m3u8.*?)"".*::$1"
 常用電台,愛爾達體育3,"hget$s://eltaott.tv/channel/play/110/6$reg::m3u8::.*file:.*?(http.*?m3u8.*?)"".*::$1"
