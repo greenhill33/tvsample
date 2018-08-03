@@ -6,7 +6,7 @@
 #SET_PREF MD5_ST=['1Qaw3esZx','TIME']
 #SET_PREF IP_ADDRESS=['58.153.177.181','116.49.14.237']
 
-港澳體育集合(2018/8/2)_200頻道,m3u,g,https://pastebin.com/raw/9VZRMGZf
+港澳體育集合(2018/8/2)_106頻道,m3u,g,https://pastebin.com/raw/3qD875Uf
 常用電台(2018/6/25)_60頻道,csv,g,https://raw.githubusercontent.com/greenhill33/tvsample/master/common_url_180801
 購物宗教(2018/3/17)_20頻道,m3u,g,https://pastebin.com/raw/jUVMfuCe
 大陸電視(2018/2/24)_156頻道,csv,g,https://pastebin.com/raw/7SvQsKFy
