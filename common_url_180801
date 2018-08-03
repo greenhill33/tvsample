@@ -37,6 +37,7 @@
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,東森新聞台,hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=9
 常用電台,東森財經新聞,http://btsu4k5-hisng.cdn.hinet.net:8080/live/pool/4gtv-4gtv019/litv-pc/4gtv-4gtv019-video=3000000-audio_AACL_und_81000_600=81000.m3u8
+常用電台,台股資訊,http://61.58.60.230:9000/live/200.m3u8
 常用電台,三立iNEWS,"hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,半島國際新聞,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv10&channel_id=85
 常用電台,CNBC,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv030&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
@@ -67,6 +68,7 @@
 常用電台,衛視電影台,http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
 常用電台,靖天電影台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv061&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,优電影,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv075&channel_id=135$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv081&channel_id=136$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv087&channel_id=137
+常用電台,天威影視,http://guoguang.live.otvcloud.com/otv/xjgg/live/channel87/1300.m3u8
 常用電台,好萊塢流行,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv034&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,好萊塢電影,https://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
 常用電台,CI罪案偵查,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv027&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
