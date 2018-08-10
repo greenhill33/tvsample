@@ -68,7 +68,6 @@
 常用電台,衛視電影台,http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
 常用電台,靖天電影台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv061&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,优電影,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv075&channel_id=135$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv081&channel_id=136$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv087&channel_id=137
-常用電台,天威影視,http://guoguang.live.otvcloud.com/otv/xjgg/live/channel87/1300.m3u8
 常用電台,好萊塢流行,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv034&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,好萊塢電影,https://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
 常用電台,CI罪案偵查,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv027&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
