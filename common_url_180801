@@ -72,7 +72,7 @@
 常用電台,好萊塢流行,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv034&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,好萊塢電影,https://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
 常用電台,CI罪案偵查,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv027&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,CHC高清電影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+常用電台,動作電影,http://223.110.243.155:80/PLTV/3/224/3221225529/index.m3u8$$$http://ivi.bupt.edu.cn/hls/chchd.m3u8
 常用電台,Newtv明星大片,http://223.110.243.155:80/PLTV/3/224/3221225535/index.m3u8
 常用電台,爆笑頻道,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv024&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,愛爾達體育2,"hget$s://eltaott.tv/channel/play/105/5$reg::m3u8::.*file:.*?(http.*?m3u8.*?)"".*::$1"
