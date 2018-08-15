@@ -3,7 +3,7 @@
 常用電台,民視第一台,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv003&channel_id=1
 常用電台,民視影劇台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001775$json::url::msg
 常用電台,民視綜藝台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv004&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,台視 HD,http://125.227.35.176:18080/CTS/index.m3u8$$$https://livestream-udn.ivideosmart.com/ttvmainliveorigin/TTVMainStream/chunklist.m3u8
+常用電台,台視 HD,https://livestream-udn.ivideosmart.com/ttvmainliveorigin/TTVMainStream/chunklist.m3u8$$$http://125.227.35.176:18080/CTS/index.m3u8
 常用電台,中視 HD,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv040&channel_id=4
 常用電台,華視 HD,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv041&channel_id=6
 常用電台,公視 HD,hget$s://service.ptsplus.tv/api/live/15077062508340722$json::youtube_link::brief
