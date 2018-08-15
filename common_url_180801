@@ -1,9 +1,9 @@
-常用電台,民視 HD,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv002&channel_id=3
+常用電台,民視 HD,http://125.227.35.176:18080/ftv/index.m3u8$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv002&channel_id=3
 常用電台,民視台灣台,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv001&channel_id=2
 常用電台,民視第一台,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv003&channel_id=1
 常用電台,民視影劇台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001775$json::url::msg
 常用電台,民視綜藝台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv004&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,台視 HD,https://livestream-udn.ivideosmart.com/ttvmainliveorigin/TTVMainStream/chunklist.m3u8
+常用電台,台視 HD,http://125.227.35.176:18080/CTS/index.m3u8$$$https://livestream-udn.ivideosmart.com/ttvmainliveorigin/TTVMainStream/chunklist.m3u8
 常用電台,中視 HD,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv040&channel_id=4
 常用電台,華視 HD,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv041&channel_id=6
 常用電台,公視 HD,hget$s://service.ptsplus.tv/api/live/15077062508340722$json::youtube_link::brief
@@ -13,6 +13,9 @@
 常用電台,原住民電視台,hget$://titv.ipcf.org.tw/live.jsp$jsoup::iframe[src]
 常用電台,人間衛視,hget$://www.bltv.tv/about/?f=audience$jsoup::source[src]
 常用電台,靖洋戲劇台,http://61.58.60.230:9000/live/203.m3u8
+常用電台,三立台灣台,http://125.227.35.176:18080/set/index.m3u8
+常用電台,三立都會台,http://60.250.23.14:18080/setcity/index.m3u8
+常用電台,天映频道,http://95.211.216.77:8278/Celestial/playlist.m3u8
 常用電台,大愛電視台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv007&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,大愛二台,http://61.58.60.230:9000/live/191.m3u8
 常用電台,CNEX紀實,http://61.58.60.230:9000/live/257.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001773$json::url::msg
@@ -31,10 +34,11 @@
 常用電台,三立新聞台,"hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,中天新聞台,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv009&channel_id=30
 常用電台,非凡新聞台,hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27
+常用電台,年代新聞台,http://60.250.23.14:18080/eranews/index.m3u8
 常用電台,壹電視新聞,http://wowza4.nexttv.com.tw/liveedge/eratv4/chunklist.m3u8$$$http://www.ssh101.com/m3u8/dyn/NEXTTVHD/index.m3u8
 常用電台,寰宇新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn14&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
-常用電台,東森新聞台,hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=9
+常用電台,東森新聞台,http://60.250.23.14:18080/CtiNews/index.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=9
 常用電台,東森財經新聞,http://btsu4k5-hisng.cdn.hinet.net:8080/live/pool/4gtv-4gtv019/litv-pc/4gtv-4gtv019-video=3000000-audio_AACL_und_81000_600=81000.m3u8
 常用電台,台股資訊,http://61.58.60.230:9000/live/200.m3u8
 常用電台,三立iNEWS,"hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
