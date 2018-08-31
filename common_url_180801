@@ -9,9 +9,9 @@
 常用電台,公視 HD,hget$s://service.ptsplus.tv/api/live/15077062508340722$json::youtube_link::brief
 常用電台,公視二台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv107&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,公視戲劇,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv042&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,客家電視台,http://61.216.177.73/sta/ch1864024.m3u8$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv043&channel_id=107
-常用電台,原住民電視台,http://61.216.177.73/sta/ch1864031.m3u8$$$hget$://titv.ipcf.org.tw/live.jsp$jsoup::iframe[src]
-常用電台,人間衛視,http://61.216.177.73/sta/ch1864016.m3u8$$$hget$://www.bltv.tv/about/?f=audience$jsoup::source[src]
+常用電台,客家電視台,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv043&channel_id=107$$$http://61.216.177.73/sta/ch1864024.m3u8
+常用電台,原住民電視台,hget$://titv.ipcf.org.tw/live.jsp$jsoup::iframe[src]
+常用電台,人間衛視,hget$://www.bltv.tv/about/?f=audience$jsoup::source[src]$$$http://61.216.177.73/sta/ch1864016.m3u8
 常用電台,靖洋戲劇台,http://61.58.60.230:9000/live/203.m3u8
 常用電台,三立都會台,http://60.250.23.14:18080/setcity/index.m3u8
 常用電台,大愛電視台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv007&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
