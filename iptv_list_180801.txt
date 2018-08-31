@@ -7,7 +7,7 @@
 #SET_PREF IP_ADDRESS=['58.153.177.181','116.49.14.237']
 
 常用電台(2018/6/25)_60頻道,csv,g,https://raw.githubusercontent.com/greenhill33/tvsample/master/common_url_180801
-購物宗教(2018/3/17)_20頻道,m3u,g,https://pastebin.com/raw/DSdPY73E
+購物宗教(2018/3/17)_20頻道,m3u,g,https://pastebin.com/raw/TCJX9jLm
 大陸電視(2018/2/24)_156頻道,csv,g,https://pastebin.com/raw/7SvQsKFy
 戰旗電影(2018/1/27)_45頻道,csv,g,https://pastebin.com/raw/yaUTtj90
 港澳電台(2017/12/31)_107頻道,m3u,g,https://pastebin.com/raw/SRTRhHGN
