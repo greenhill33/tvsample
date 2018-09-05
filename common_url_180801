@@ -72,7 +72,6 @@
 常用電台,影迷數位電影,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv011&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,龍華電影台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn03&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,衛視電影台,http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
-常用電台,衛視電影2台,http://pulllive-al.wasu.cn/live/1528461345367101.m3u8
 常用電台,靖天電影台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv061&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,优電影,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv075&channel_id=135$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv081&channel_id=136$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv087&channel_id=137
 常用電台,好萊塢流行,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv034&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
@@ -92,6 +91,6 @@
 常用電台,新唐人亞太台,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv050&channel_id=117
 常用電台,美國之音,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv03&channel_id=86
 常用電台,德國之聲,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv071&channel_id=132
-常用電台,新加坡電視,http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
+常用電台,新加坡電視,https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8$$$http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
 常用電台,國會頻道1,http://61.58.60.230:9000/live/123.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=17
 常用電台,國會頻道2,http://61.58.60.230:9000/live/124.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=18
