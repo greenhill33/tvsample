@@ -31,7 +31,7 @@
 常用電台,三立新聞台,"hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,中天新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv009&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,非凡新聞台,hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27$$$http://210.201.54.112/gtlive/ustvhd/chunklist_w309286992.m3u8
-常用電台,年代新聞台,http://www.ssh101.com/m3u8/dyn/jch83929/index.m3u8$$$http://60.250.23.14:18080/eranews/index.m3u8
+常用電台,年代新聞台,http://60.250.23.14:18080/eranews/index.m3u8
 常用電台,壹電視新聞,http://wowza4.nexttv.com.tw/liveedge/eratv4/chunklist.m3u8$$$http://www.ssh101.com/m3u8/dyn/NEXTTVHD/index.m3u8
 常用電台,寰宇新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn14&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
@@ -51,7 +51,6 @@
 常用電台,華研音樂台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv11&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,華研娛樂台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv12&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,MTV HD,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv025&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,afc頻道,http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
 常用電台,亞洲旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn17&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,民視旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv07&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,愛爾達娛樂台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv070&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$s://eltaott.tv/change_channel/play_v2$json::url
