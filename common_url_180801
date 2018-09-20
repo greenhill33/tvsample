@@ -13,7 +13,6 @@
 常用電台,原住民電視台,hget$://titv.ipcf.org.tw/live.jsp$jsoup::iframe[src]$$$http://61.216.177.73/sta/ch1865031.m3u8
 常用電台,人間衛視,hget$://www.bltv.tv/about/?f=audience$jsoup::source[src]$$$http://61.216.177.73/sta/ch1865016.m3u8
 常用電台,靖洋戲劇台,http://61.58.60.230:9000/live/203.m3u8
-常用電台,三立都會台,http://60.250.23.14:18080/setcity/index.m3u8
 常用電台,大愛電視台,http://61.58.60.230:9000/live/10.m3u8$$$hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv007&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,大愛二台,http://61.58.60.230:9000/live/191.m3u8
 常用電台,TVBS HD,"http://210.201.54.102/gtlive2/tc-tvbs/chunklist_w1101125571.m3u8$$$hget$://tv168.info/ademo/ervbs1.js$http://tv168.info/news/tvbs1.html$reg::source::.*source:.*?(http.*?)"".*::$1"
@@ -55,7 +54,7 @@
 常用電台,MTV HD,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv025&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,亞洲旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn17&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,民視旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv07&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,愛爾達娛樂台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv070&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$s://eltaott.tv/change_channel/play_v2$json::url
+常用電台,愛爾達娛樂台,"hget$://tv168.info/a_admo/jwelappjquery.js$http://tv168.info/video/elppy.html$reg::source::.*source:.*?(http.*?)"".*::$1$$$hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv070&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$s://eltaott.tv/change_channel/play_v2$json::url"
 常用電台,韓國娛樂,"hget$://tv168.info/a_admo/jwkorejquery.js$http://tv168.info/video/korea.html$reg::source::.*source:.*?(http.*?)"".*::$1"
 常用電台,靖天資訊台,http://61.58.60.230:9000/live/202.m3u8
 常用電台,靖天育樂台,http://61.58.60.230:9000/live/204.m3u8
@@ -68,12 +67,11 @@
 常用電台,龍華偶像台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn12&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,龍華日韓台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn11&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,靖天日本台,http://61.58.60.230:9000/live/243.m3u8$$$hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv047&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,緯來日本台,http://60.250.23.14:18080/VLJP/index.m3u8
 常用電台,影迷數位電影,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv011&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,龍華電影台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn03&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,衛視電影台,http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
 常用電台,靖天電影台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv061&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,优電影,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv075&channel_id=135$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv081&channel_id=136$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv087&channel_id=137
+常用電台,优電影,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv075&channel_id=135$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv081&channel_id=136$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv087&channel_id=137$$$http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1.m3u8
 常用電台,好萊塢流行,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv034&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,好萊塢電影,https://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
 常用電台,CI罪案偵查,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv027&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
