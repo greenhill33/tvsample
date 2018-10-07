@@ -54,7 +54,7 @@
 常用電台,亞洲旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn17&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,民視旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv07&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,愛爾達娛樂台,"hget$://tv168.info/a_admo/jwelappjquery.js$http://tv168.info/video/elppy.html$reg::source::.*source:.*?(http.*?)"".*::$1$$$hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv070&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$s://eltaott.tv/change_channel/play_v2$json::url"
-常用電台,韓國娛樂,"hget$://tv168.info/a_admo/jwkorejquery.js$http://tv168.info/video/korea.html$reg::source::.*source:.*?(http.*?)"".*::$1"
+常用電台,韓國娛樂,"hget$://tv168.info/a_admo/jwkorejquery.js$http://tv168.info/video/korea.html$reg::source::.*source:.*?(http.*?)"".*::$1$$$http://122.202.129.136:1935/live/ch4/playlist.m3u8"
 常用電台,靖天資訊台,http://61.58.60.230:9000/live/202.m3u8
 常用電台,靖天育樂台,http://61.58.60.230:9000/live/204.m3u8
 常用電台,靖天國際台,http://61.58.60.230:9000/live/205.m3u8
@@ -82,7 +82,8 @@
 常用電台,ELEVEN體育1,http://61.58.60.230:9000/live/75.m3u8
 常用電台,ELEVEN體育2,http://61.58.60.230:9000/live/102.m3u8
 常用電台,MC賽車,http://liveal.quanmin.tv/live/2132332338.flv
-常用電台,五星體育,http://223.110.243.155:80/PLTV/3/224/3221225543/index.m3u8$$$http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
+常用電台,Newtv精品體育,http://223.110.243.155:80/PLTV/3/224/3221225543/index.m3u8
+常用電台,五星體育,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225772/1.m3u8$$$http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 常用電台,香港奇妙電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 常用電台,唐人經典台,http://174.127.67.246/live330/playlist.m3u8
 常用電台,新唐人亞太台,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv050&channel_id=117
@@ -90,5 +91,6 @@
 常用電台,德國之聲,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv071&channel_id=132
 常用電台,新加坡電視,https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8$$$http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
 常用電台,HBO hits,http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
+常用電台,韓國中央台,http://122.202.129.136:1935/live/ch5/playlist.m3u8
 常用電台,國會頻道1,http://61.58.60.230:9000/live/123.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=17
 常用電台,國會頻道2,http://61.58.60.230:9000/live/124.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=18
