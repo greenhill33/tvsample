@@ -32,7 +32,7 @@
 常用電台,中天新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv009&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,非凡新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27$$$hget$://tv168.info/ademo/erfei1.js$http://tv168.info/news/fei1.html$reg::source::.*source:.*?(http.*?)"".*::$1"
 常用電台,壹電視新聞,http://wowza4.nexttv.com.tw/liveedge/eratv4/chunklist.m3u8$$$http://www.ssh101.com/m3u8/dyn/NEXTTVHD/index.m3u8
-常用電台,年代新聞台,http://208.79.154.254/live/zaaca1/chunks.m3u8?nimblesessionid=46379$$$http://www.ssh101.com/m3u8/dyn/adca23433/index.m3u8$$$http://60.250.23.14:18080/eranews/index.m3u8
+常用電台,年代新聞台,http://www.ssh101.com/m3u8/dyn/zaaca1/index.m3u8$$$http://www.ssh101.com/m3u8/dyn/adca23433/index.m3u8$$$http://60.250.23.14:18080/eranews/index.m3u8
 常用電台,寰宇新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn14&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,東森新聞台,hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=9
