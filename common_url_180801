@@ -91,11 +91,11 @@
 常用電台,美國之音,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv03&channel_id=86
 常用電台,德國之聲,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv071&channel_id=132
 常用電台,新加坡電視,https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8$$$http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
-常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
-常用電台,東方衛視,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
-常用電台,北京衛視,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
-常用電台,浙江衛視,http://223.110.243.153/PLTV/3/224/3221227215/index.m3u8
-常用電台,江蘇衛視,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
+常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221227191/1.m3u8
+常用電台,東方衛視,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221227208/1.m3u8
+常用電台,北京衛視,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221225574/1.m3u8
+常用電台,浙江衛視,http://223.110.243.153/PLTV/3/224/3221227215/index.m3u8$$$http://223.110.243.158/PLTV/3/224/3221225544/1.m3u8
+常用電台,江蘇衛視,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221227185/1.m3u8
 常用電台,韓國中央台,http://122.202.129.136:1935/live/ch5/playlist.m3u8
 常用電台,國會頻道1,http://61.58.60.230:9000/live/123.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=17
 常用電台,國會頻道2,http://61.58.60.230:9000/live/124.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=18
