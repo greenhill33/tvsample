@@ -13,14 +13,17 @@
 常用電台,原住民電視台,"https://bcovlive-a.akamaihd.net/eb0d5f1fea974a468d06be43eea9fb2f/ap-northeast-1/5817780548001/profile_2/chunklist.m3u8"
 常用電台,人間衛視,hget$://www.bltv.tv/about/?f=audience$jsoup::source[src]
 常用電台,靖洋戲劇台,http://61.58.60.230:9000/live/203.m3u8
-常用電台,大愛電視台,http://61.58.60.230:9000/live/10.m3u8$$$hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv007&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
+常用電台,大愛電視台,http://61.58.60.230:9000/live/10.m3u8$$$hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv007&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
 常用電台,大愛二台,http://61.58.60.230:9000/live/191.m3u8
-常用電台,TVBS HD,"hget$://tv168.info/ademo/ervbs1.js$http://tv168.info/news/tvbs1.html$reg::source::.*source:.*?(http.*?)"".*::$1"
+常用電台,TVBS HD,"http://210.201.54.100/gtlive2/tc-tvbs/chunklist_w724826045.m3u8$$$hget$://tv168.info/ademo/ervbs1.js$http://tv168.info/news/tvbs1.html$reg::source::.*source:.*?(http.*?)"".*::$1"
 常用電台,TVBS歡樂台,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001693$json::url::msg$$$hget$://tv168.info/a_admo/jwppyjquery.js$http://tv168.info/tvbs.html$reg::source::.*source:.*?(http.*?)"".*::$1"
 常用電台,八大綜合台,http://www.ssh101.com/m3u8/dyn/carun882/index.m3u8
 常用電台,中天綜合台,http://www.ssh101.com/m3u8/dyn/jjy2/index.m3u8
+常用電台,三立台灣台,http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
 常用電台,CNEX紀實,http://61.58.60.230:9000/live/257.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001773$json::url::msg
 常用電台,東森亞洲,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv020&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$://tv168.info/a_admo/jwasiajquery.js$http://tv168.info/video/asia.html$reg::source::.*source:.*?(http.*?)"".*::$1"
+常用電台,東森超視,http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
+常用電台,東森美洲,http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
 常用電台,東森幼幼台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv021&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,愛放動漫台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv15&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,靖洋卡通台,http://61.58.60.230:9000/live/206.m3u8
@@ -29,7 +32,7 @@
 常用電台,台視新聞台,https://skyking.unifieddeliverynetwork.net/Ericsson/twglive_1500k/chunklist.m3u8$$$hget$s://www.ttv.com.tw/videocity/video_play.asp?id=99$jsoup::meta[content~=youtube]
 常用電台,中視新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv074&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,華視新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv052&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,TVBS新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=11&clientId=$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv072&channel_id=129"
+常用電台,TVBS新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=11&clientId=$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv072&channel_id=129$$$http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8"
 常用電台,三立新聞台,"hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,中天新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv009&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,非凡新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27&clientId=$$$hget$://tv168.info/ademo/erfei1.js$http://tv168.info/news/fei1.html$reg::source::.*source:.*?(http.*?)"".*::$1"
@@ -53,7 +56,7 @@
 常用電台,華研音樂台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv11&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,華研娛樂台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv12&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,MTV HD,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv025&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,亞洲旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn17&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
+常用電台,亞洲旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn17&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
 常用電台,民視旅遊台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv07&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,愛爾達娛樂台,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv070&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$s://eltaott.tv/change_channel/play_v2$json::url$$$hget$://tv168.info/a_admo/jwelappjquery.js$http://tv168.info/video/elppy.html$reg::source::.*source:.*?(http.*?)"".*::$1"
 常用電台,靖天資訊台,http://61.58.60.230:9000/live/202.m3u8
@@ -63,7 +66,7 @@
 常用電台,Newtv家庭劇場,http://223.110.243.155:80/PLTV/3/224/3221225549/index.m3u8
 常用電台,food美食,http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
 常用電台,fyi生活頻道,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv031&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,巧家综合,http://r.gslb.lecloud.com/live/hls/2018072030000002u13/desc.m3u8
+常用電台,中旺頻道,http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
 常用電台,龍華偶像台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn12&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,龍華日韓台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn11&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,靖天日本台,http://61.58.60.230:9000/live/243.m3u8$$$hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv047&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
@@ -91,6 +94,7 @@
 常用電台,美國之音,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv03&channel_id=86
 常用電台,德國之聲,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv071&channel_id=132
 常用電台,新加坡電視,https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8$$$http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
+常用電台,巧家综合,http://r.gslb.lecloud.com/live/hls/2018072030000002u13/desc.m3u8
 常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221227191/1.m3u8
 常用電台,東方衛視,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221227208/1.m3u8
 常用電台,北京衛視,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221225574/1.m3u8
