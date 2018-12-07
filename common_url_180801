@@ -84,6 +84,7 @@
 常用電台,愛爾達體育3,"hget$s://eltaott.tv/free/index/110/6$reg::m3u8::.*file:.*?(http.*?m3u8.*?)"".*::$1"
 常用電台,ELEVEN體育1,http://61.58.60.230:9000/live/75.m3u8
 常用電台,ELEVEN體育2,http://61.58.60.230:9000/live/102.m3u8
+常用電台,博斯魅力,"hget$://m.iptv186.com/?act=play&token=668841fe0f80f118375da9312af93ab4&tid=gt&id=43$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
 常用電台,Newtv精品體育,http://223.110.243.155:80/PLTV/3/224/3221225543/index.m3u8
 常用電台,五星體育,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225772/1.m3u8$$$http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 常用電台,香港奇妙電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
