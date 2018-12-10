@@ -20,6 +20,7 @@
 常用電台,八大綜合台,http://www.ssh101.com/m3u8/dyn/zss221/index.m3u8$$$http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9402cdb0b5112.m3u8
 常用電台,三立台灣台,"http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8?$FitXY$$$hget$://m.iptv186.com/?act=play&token=ff05b04d0055d53053af7a1d101b8b2d&tid=gt&id=72$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
 常用電台,CNEX紀實,http://61.58.60.230:9000/live/257.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001773$json::url::msg
+常用電台,東森戲劇,http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9436cdb0b5112.m3u8
 常用電台,東森亞洲,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv020&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$://tv168.info/a_admo/jquery.mi_v1.05.js$http://tv168.info/video/asia.html$reg::source::.*source:.*?(http.*?)"".*::$1"
 常用電台,東森幼幼台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv021&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,愛放動漫台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv15&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
