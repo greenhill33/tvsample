@@ -45,6 +45,7 @@
 常用電台,半島國際新聞,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv10&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,CNBC,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv030&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,DISCOVERY,"hget$://tv168.info/a_admo/jquery.mi_v1.22.js$http://tv168.info/video/dis.html$reg::source::.*source:.*?(http.*?)"".*::$1"
+常用電台,動物星球,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 常用電台,歷史頻道,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv026&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,空中英語教室,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv012&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,ELTV生活英語,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn20&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
