@@ -18,7 +18,7 @@
 常用電台,TVBS歡樂台,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001693$json::url::msg$$$hget$://tv168.info/ademo/erhappy.js$http://tv168.info/happy.html$reg::source::.*source:.*?(http.*?)"".*::$1"
 常用電台,中天綜合台,"http://60.250.69.26:8080/live/cti89.m3u8$$$hget$://m.iptv186.com/?act=play&token=e8647034c9ebf6cd435d2ee384b881c6&tid=gt&id=83$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
 常用電台,三立台灣台,"hget$://m.iptv186.com/?act=play&token=ff05b04d0055d53053af7a1d101b8b2d&tid=gt&id=72$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1$$$http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8?$FitXY"
-常用電台,東森綜合台,"hget$://m.iptv186.com/?act=play&token=b6467b8868c015f2235d84eda7c9d065&tid=gt&id=211$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
+常用電台,東森綜合台,"http://60.250.69.26:8080/live/ebc89.m3u8$$$hget$://m.iptv186.com/?act=play&token=b6467b8868c015f2235d84eda7c9d065&tid=gt&id=211$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
 常用電台,緯來綜合,http://60.250.69.26:8080/live/vl89.m3u8
 常用電台,CNEX紀實,http://61.58.60.230:9000/live/257.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001773$json::url::msg
 常用電台,東森亞洲,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv020&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$://tv168.info/a_admo/jquery.mi_v1.05.js$http://tv168.info/video/asia.html$reg::source::.*source:.*?(http.*?)"".*::$1"
@@ -34,8 +34,8 @@
 常用電台,三立新聞台,"hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,中天新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv009&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,非凡新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27&clientId=$$$hget$://tv168.info/ademo/erfei1.js$http://tv168.info/news/fei1.html$reg::source::.*source:.*?(http.*?)"".*::$1"
-常用電台,壹電視新聞,http://wowza4.nexttv.com.tw/liveedge/eratv4/chunklist.m3u8$$$http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8$$$http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8$$$http://www.ssh101.com/m3u8/dyn/NEXTTVHD/index.m3u8
-常用電台,年代新聞台,http://ssh101.com/m3u8/dyn/MAA2311/index.m3u8
+常用電台,壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8$$$http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8$$$http://www.ssh101.com/m3u8/dyn/NEXTTVHD/index.m3u8
+常用電台,年代新聞台,http://ssh101.com/m3u8/dyn/jch83929/index.m3u8
 常用電台,寰宇新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn14&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,東森新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=9&clientId=$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv14&channel_id=29"
