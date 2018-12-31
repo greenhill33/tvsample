@@ -19,6 +19,7 @@
 常用電台,中天綜合台,"http://60.250.69.26:8080/live/cti89.m3u8$$$hget$://m.iptv186.com/?act=play&token=e8647034c9ebf6cd435d2ee384b881c6&tid=gt&id=83$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
 常用電台,三立台灣台,"hget$://m.iptv186.com/?act=play&token=ff05b04d0055d53053af7a1d101b8b2d&tid=gt&id=72$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1$$$http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8?$FitXY"
 常用電台,東森綜合台,"http://60.250.69.26:8080/live/ebc89.m3u8$$$hget$://m.iptv186.com/?act=play&token=b6467b8868c015f2235d84eda7c9d065&tid=gt&id=211$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
+常用電台,八大綜合台,"hget$://m.iptv186.com/?act=play&token=3229e24192a2010d933b776c99137b21&tid=gt&id=220$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1$$$http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8?$FitXY"
 常用電台,緯來綜合,http://60.250.69.26:8080/live/vl89.m3u8
 常用電台,CNEX紀實,http://61.58.60.230:9000/live/257.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001773$json::url::msg
 常用電台,東森亞洲,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv020&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$://tv168.info/a_admo/jquery.mi_v1.05.js$http://tv168.info/video/asia.html$reg::source::.*source:.*?(http.*?)"".*::$1"
