@@ -16,12 +16,11 @@
 常用電台,大愛二台,http://61.58.60.230:9000/live/191.m3u8$$$https://www.youtube.com/watch?v=aGmRaGyAU8s
 常用電台,TVBS HD,"hget$://tv168.info/a_admo/jquery.mi_v1.40.js$http://tv168.info/news/tvbs2.html$reg::source::.*source:.*?(http.*?)"".*::$1$$$hget$://tv168.info/ademo/ervbs1.js$http://tv168.info/news/tvbs1.html$reg::source::.*source:.*?(http.*?)"".*::$1"
 常用電台,TVBS歡樂台,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001693$json::url::msg$$$hget$://tv168.info/ademo/erhappy.js$http://tv168.info/happy.html$reg::source::.*source:.*?(http.*?)"".*::$1"
-常用電台,中天綜合台,"http://60.250.69.26:8080/live/cti89.m3u8$$$hget$://m.iptv186.com/?act=play&token=5040f7c4f99ac082db44ea7f106e012a&tid=gt&id=49$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
+常用電台,中天娛樂台, http://60.250.69.26:8080/live/ctihappy89.m3u8
 常用電台,三立台灣台,"hget$://m.iptv186.com/?act=play&token=52ba8dff14b1b7266f94840268c69b11&tid=gt&id=42$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1$$$http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8?$FitXY"
-常用電台,三立都會台,"hget$://m.iptv186.com/?act=play&token=668841fe0f80f118375da9312af93ab4&tid=gt&id=43$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
+常用電台,三立都會台,"hget$://m.iptv186.com/?act=play&token=668841fe0f80f118375da9312af93ab4&tid=gt&id=43$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1$$$http://60.250.69.26:8080/live/setcity89.m3u8"
 常用電台,東森綜合台,"http://60.250.69.26:8080/live/ebc89.m3u8$$$hget$://m.iptv186.com/?act=play&token=80502d4961dd82b8dd6906dc59989bbc&tid=gt&id=248$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
-常用電台,八大綜合台,"hget$://m.iptv186.com/?act=play&token=22a0db06ffba66dc65e5b766058bd3ea&tid=gt&id=162$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1$$$http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8?$FitXY"
-常用電台,豬哥亮歌廳秀,"hget$://m.iptv186.com/?act=play&token=35d9c3a3c044da99a019521530bbb26f&tid=gt&id=129$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
+常用電台,東森戲劇台,"http://60.250.69.26:8080/live/ebcdrama89.m3u8$$$http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8?$FitXY"
 常用電台,緯來綜合,http://60.250.69.26:8080/live/vl89.m3u8
 常用電台,CNEX紀實,http://61.58.60.230:9000/live/257.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001773$json::url::msg
 常用電台,東森亞洲,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv020&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$hget$://tv168.info/a_admo/jquery.mi_v1.05.js$http://tv168.info/video/asia.html$reg::source::.*source:.*?(http.*?)"".*::$1"
@@ -42,9 +41,8 @@
 常用電台,寰宇新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn14&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,東森新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=9&clientId=$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv14&channel_id=29"
-常用電台,東森財經新聞,"hget$://m.iptv186.com/?act=play&token=ca9390504a4bc696dfca60c92c723788&tid=gt&id=142$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1$$$http://btsu4k5-hisng.cdn.hinet.net:8080/live/pool/4gtv-4gtv019/litv-pc/4gtv-4gtv019-video=3000000-audio_AACL_und_81000_600=81000.m3u8"
+常用電台,東森財經新聞,"hget$://m.iptv186.com/?act=play&token=4b9e402c07157cbac42233a8ddbd6f2e&tid=gt&id=247$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1$$$http://btsu4k5-hisng.cdn.hinet.net:8080/live/pool/4gtv-4gtv019/litv-pc/4gtv-4gtv019-video=3000000-audio_AACL_und_81000_600=81000.m3u8"
 常用電台,非凡商業新聞,"hget$://tv168.info/a_admo/jquery.mi_v1.13.js$http://tv168.info/news/feis.html$reg::source::.*source:.*?(http.*?)"".*::$1"
-常用電台,台股資訊,http://61.58.60.230:9000/live/200.m3u8
 常用電台,三立iNEWS,"hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,半島國際新聞,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv10&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,CNBC,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv030&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
@@ -75,7 +73,7 @@
 常用電台,影迷數位電影,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv011&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,龍華電影台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn03&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,靖天電影台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv061&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,优電影,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv081&channel_id=136$$$hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv087&channel_id=137$$$http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1.m3u8
+常用電台,优電影,https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8$$$https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 常用電台,好萊塢流行,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv034&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,HBO,"hget$://m.iptv186.com/?act=play&token=9753b206017d71375c4417f6132d6aee&tid=gt&id=28$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
 常用電台,CI罪案偵查,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv027&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
@@ -99,10 +97,10 @@
 常用電台,德國之聲,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv071&channel_id=132
 常用電台,新加坡電視,https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8$$$http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
 常用電台,巧家综合,http://r.gslb.lecloud.com/live/hls/2018072030000002u13/desc.m3u8?$FitXY
-常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221227191/1.m3u8
-常用電台,東方衛視,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221227208/1.m3u8
-常用電台,北京衛視,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221225574/1.m3u8
-常用電台,浙江衛視,http://223.110.243.153/PLTV/3/224/3221227215/index.m3u8$$$http://223.110.243.158/PLTV/3/224/3221225544/1.m3u8
-常用電台,江蘇衛視,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8$$$http://223.110.243.158/PLTV/3/224/3221227185/1.m3u8
+常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+常用電台,東方衛視,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
+常用電台,北京衛視,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
+常用電台,浙江衛視,http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8$$$http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225755/1.m3u8
+常用電台,江蘇衛視,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
 常用電台,國會頻道1,http://61.58.60.230:9000/live/123.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&clientId=&streamingId=17
 常用電台,國會頻道2,http://61.58.60.230:9000/live/124.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&clientId=&streamingId=18
