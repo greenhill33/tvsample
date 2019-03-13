@@ -15,7 +15,7 @@
 常用電台,人間衛視,hget$://www.bltv.tv/about/?f=audience$jsoup::source[src]
 常用電台,大愛電視台,http://61.58.60.230:9000/live/10.m3u8$$$hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv007&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
 常用電台,大愛二台,http://61.58.60.230:9000/live/191.m3u8$$$https://www.youtube.com/watch?v=aGmRaGyAU8s
-常用電台,TVBS HD,"hget$://m.iptv186.com/?act=play&token=4e2fddc5a045b7d06cbb9115358ff65d&tid=gt&id=68$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
+常用電台,TVBS HD,"hget$://www.tv543.org/tvbs-直播.html$reg::m3u8::.*data-item.*?(http.*?)&quot;.*::$1"
 常用電台,TVBS歡樂台,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001693$json::url::msg"
 常用電台,中天綜合HD,"hget$://m.iptv186.com/?act=play&token=e8647034c9ebf6cd435d2ee384b881c6&tid=gt&id=83$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
 常用電台,三立台灣台,"http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8?$FitXY$$$hget$://m.iptv186.com/?act=play&token=52ba8dff14b1b7266f94840268c69b11&tid=gt&id=42$reg::m3u8?::.*?(\.m3u8.*?)"".*::http://cdn.iptv888.com:888/play$1"
