@@ -39,7 +39,7 @@
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,東森新聞台,"hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv14&channel_id=29"
 常用電台,非凡商業新聞,"hget$://m.iptv200.com/?act=play&token=35d9c3a3c044da99a019521530bbb26f&tid=gt&id=129$reg::/play::.*?/play.*?(\?t.*?)"".*::http://api2.iptv888.com/play.m3u8$1"
-常用電台,三立iNEWS,"hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
+常用電台,三立iNEWS,"hget$://m.iptv200.com/?act=play&token=32adab052c23f304d080575a020f71b6&tid=gt&id=74$reg::/play::.*?/play.*?(\?t.*?)"".*::http://api2.iptv888.com/play.m3u8$1$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,東森財經新聞,"hget$://m.iptv200.com/?act=play&token=a45f220b564ed533ff08154661b888ae&tid=gt&id=122$reg::/play::.*?/play.*?(\?t.*?)"".*::http://api2.iptv888.com/play.m3u8$1"
 常用電台,半島國際新聞,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-ftv10&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,HCTVNews,http://wowzaprod125-i.akamaihd.net/hls/live/518790/24ecf04a/playlist.m3u8
@@ -91,7 +91,7 @@
 常用電台,鳳凰衛視香港,"hget$://m.iptv200.com/?act=play&token=a681ae3696bb756cd864a3377d6832d5&tid=gt&id=4$reg::/play::.*?/play.*?(\?t.*?)"".*::http://api2.iptv888.com/play.m3u8$1"
 常用電台,美國之音,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv03&channel_id=86
 常用電台,德國之聲,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv071&channel_id=132
-常用電台,新加坡電視,https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8$$$http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
+常用電台,新加坡新聞臺,http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 常用電台,東方衛視,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
 常用電台,北京衛視,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
