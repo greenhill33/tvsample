@@ -34,7 +34,7 @@
 常用電台,三立新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=39&clientId=$$$hget$://m.iptv200.com/?act=play&token=5040f7c4f99ac082db44ea7f106e012a&tid=gt&id=49$reg::/play::.*?/play.*?(\?t.*?)"".*::http://api2.iptv888.com/play.m3u8$1$$$hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1$$$http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8"
 常用電台,中天新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv009&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,非凡新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27&clientId="
-常用電台,壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8$$$http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8
+常用電台,壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8$$$http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8$$$http://wowza4.nexttv.com.tw/liveedge/eratv2/chunklist.m3u8
 常用電台,寰宇新聞台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn14&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,東森新聞台,"hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv14&channel_id=29"
