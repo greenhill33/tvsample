@@ -3,7 +3,7 @@
 常用電台,民視第一台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv003&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,民視影劇台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001775$json::url::msg$FitXY
 常用電台,民視綜藝台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv004&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,台視,https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
+常用電台,台視 HD,http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8$$$https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
 常用電台,中視 HD,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv040&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html"
 常用電台,華視 HD,"hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv041&channel_id=6"
 常用電台,公視 HD,"hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
@@ -85,6 +85,7 @@
 常用電台,美國之音,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv03&channel_id=86
 常用電台,德國之聲,hpost$s://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv071&channel_id=132
 常用電台,新加坡新聞臺,http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+常用電台,新加坡頻道8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 常用電台,東方衛視,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
 常用電台,北京衛視,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
