@@ -149,7 +149,7 @@
 	 url="http://goodlife.tw/assets/gas/fb-icon-gas.png"/>
   <item  group="新聞" name="即時路況資訊" type="web" draw="freeway.webp" show="true"
 	 link="https://1968.freeway.gov.tw/"
-	 url="https://1968.freeway.gov.tw/assets/img/appicon.png"/>
+	 url="http://1968.freeway.gov.tw/assets/img/app/app_icon.png"/>
   <item  group="新聞" name="統一發票" type="rss" draw="ETW183W2.webp" show="true"
 	 link="http://invoice.etax.nat.gov.tw/invoice.xml"
 	 url="http://taichung.tranews.com/Show/images/News/63312_1.jpg"/>
@@ -161,7 +161,7 @@
 	 url="http://twtraffic.tra.gov.tw/twrail/mobile/images/TRA_Logo.png"/>
   <item  group="新聞" name="高鐵時刻表" type="web" draw="revision_logo.webp" show="true"
 	 link="https://m.thsrc.com.tw/tw/TimeTable/SearchResult"
-	 url="https://m.thsrc.com.tw/Content/images/logo_640.png"/>
+	 url="http://m.thsrc.com.tw/Content/images/logo_640.png"/>
   <item  group="新聞" name="批踢踢八卦板" type="web" draw="ptt_gossiping.webp" show="true"
 	 link="https://www.ptt.cc/bbs/Gossiping"
 	 url="http://ibb.com.tw/images/ptt-hot-boards-01.png"
