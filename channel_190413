@@ -1,0 +1,1177 @@
+  <item  group="直播" name="我的直播" type="rtmp" draw="live.png" sort="no" show="true" link="在線直播" description="自行添加串流"/>
+  <item  group="直播" name="新聞直播" type="live" show="true" sort="no" filter="(新聞|國會|公共|大愛|財經|盤中)" link="yt#PLU12uITxBEPFJGVb2zSgCaWvMBe7vHonB"
+  	 url="https://yt3.ggpht.com/7xqC5TXeVwzt4_Yergj3yEBX1z0JyO152DgWyUoKycm66TeJbXhXe2oMK_wDuVyvByuzWhqFs9-T07b_f5k=s%d-nd-c-k-no"
+  	 description="Youtube直播中"/>
+  <item  group="直播" name="正在直播" type="live" show="true" sort="no" link="yt#PLU12uITxBEPFJGVb2zSgCaWvMBe7vHonB"
+  	 url="https://yt3.ggpht.com/BQSIiLDxZiZpzR4C6pK-NKkKOv3fsPsWuKVJxpmYCnEASI8W5pglXP1vF30D98doHzsP_JwPLycrfd-FFnw=s%d-nd-c-k-no"
+  	 description="Youtube正在直播中"/>
+  <item  group="直播" name="壹新聞" type="live" draw="nexttv.webp" show="false"
+	 link="['http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8','http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8','http://www.ssh101.com/m3u8/dyn/NEXTTVHD/index.m3u8']"
+	 url="http://s.nexttv.com.tw/g/img/nexttv_logo.png"/>
+  <item  group="直播" name="體育直播" type="live" show="false" sort="no" link="yt#PL8fVUTBmJhHJrxHg_uNTMyRmsWbFltuQV"
+  	 url="https://yt3.ggpht.com/onI7jrH8ZWTnfJgXzGHnfRIuwMZqN0GctBWnsqnSS9ZeIgSed8K2H6sZYW_DQnQs6nyedKk3jl8cvOX-e1I=s%d-nd-c-k-no"/>
+  <item  group="直播" name="即將播送" type="live" show="false" sort="no" link="yt#PLU12uITxBEPHb1IgzEPHZpje-903Qkfne"
+  	 url="https://yt3.ggpht.com/BQSIiLDxZiZpzR4C6pK-NKkKOv3fsPsWuKVJxpmYCnEASI8W5pglXP1vF30D98doHzsP_JwPLycrfd-FFnw=s%d-nd-c-k-no"/>
+  <item  group="直播" name="動物直播" type="live" show="false" sort="no" link="yt#PLIFqWCuxNyoiKKthaTBqjIH6m6A9INomt"
+  	 url="https://yt3.ggpht.com/gt9BsPFAz4QottK5ddAFyUROcId1DaRbjjh_5vPzEDWz5TEb5ysvhnjzPGGt92PLVQxqxKWmGU_QDepddQ=s%d-nd-c-k-no"/>
+  <item  group="直播" name="電玩直播" type="live" show="false" sort="no" link="yt#PLiCvVJzBupKlQ50jZqLas7SAztTMEYv1f"
+  	 url="https://yt3.ggpht.com/2tDwwVVEuy0ja92htLiC-JZdfqUB1ogR--jjSph3Ybk068mSQkoOhG9YdvYvgDrWyjCIvi9JOubtFIyi=s%d-nd-c-k-no"/>
+  <item  group="直播" name="科技直播" type="live" show="false" sort="no" link="yt#PL57quI9usf_sQMlMeQrUr5O_pCncZilx3"
+  	 url="https://yt3.ggpht.com/bCuzre2RoTJFOzOtYMaCC6gZS8x5ff0uMdhEFECw_7I1tDzjceoGdoD1499008aE1m7qxoGGbOgfgtL32w=s%d-nd-c-k-no"/>
+
+  <item  group="新聞" name="國內焦點新聞" type="ytItem" show="true" link="PLNjtpXOAJhQIId9CWVMpKhhp2OrrM9iok"
+	 url="https://yt3.ggpht.com/lJ--VcehMEav4ZRvOBvdkkTsRHAk3AzFIv7lezB5ORSBfVruoFsaj3PKxFz6jCCkBqNrItsaXgKE8rEVhg=s%d-nd-c-k-no"
+	 description="Youtube自動產生最新報導"/>
+  <item  group="新聞" name="時下熱門精選" type="ytVideo" mix="true" draw="hot_video.webp" show="true" link="chart=mostPopular&amp;regionCode=TW"
+	 url="https://yt3.ggpht.com/fDruQ6odgPE2OZUVI0Putfb9BOhN_tbbn5ezQ40f1D2-VuxEc-0dv8BzTdRuLb5rkGK4loBeR-uk1IpCpA=s%d-nd-c-k-no"
+	 description="Youtube自動產生主題頻道"/>
+  <item  group="新聞" name="TVBS" type="yt" draw="tvbs.webp" show="true" link="UC5nwNW4KdC0SzrhF9BXEYOQ"
+	 url="https://yt3.ggpht.com/-mEke_unF72Q/AAAAAAAAAAI/AAAAAAAAAAA/2XUjCR2p4Ng/s%d-c-k-no/photo.jpg"
+	 description="TVBS Taiwan News Live"/>
+  <item  group="新聞" name="公視新聞網" type="yt" draw="pnnpts.webp" show="true" link="UCexpzYDEnfmAvPSfG4xbcjA"
+	 url="https://yt3.ggpht.com/-Lt0CRtKxD-Q/AAAAAAAAAAI/AAAAAAAAAAA/nYkCYlQkGe8/s%d-c-k-no/photo.jpg"
+	 description="PNN Youtube頻道"/>
+  <item  group="新聞" name="民視綜合" type="yt" draw="FTVCP.webp" show="true" link="UC2VmWn8dAqkzlQqvy02E1PA"
+	 url="https://yt3.ggpht.com/-JCWjQ1rwgc0/AAAAAAAAAAI/AAAAAAAAAAA/Nk4KCmzu-PU/s%d-c-k-no/photo.jpg"
+	 description="Formosa TV General Channel"/>
+  <item  group="新聞" name="民視新聞節目" type="yt" draw="ftvnp.webp" show="true" link="UCS3nuaXXw7nsiSzdJ5HJaoQ"
+	 url="https://yt3.ggpht.com/-j28dx5lrs8U/AAAAAAAAAAI/AAAAAAAAAAA/i7tY0LjqB4E/s%d-c-k-no/photo.jpg"
+	 description="Formosa TV News"/>
+  <item  group="新聞" name="民視英語新聞" type="yt" draw="FTVEnglishNews.webp" show="true" link="UC21BtM_TJfRfOyEWKlrBgfQ"
+	 url="https://yt3.ggpht.com/-oR0m2Ezr7uM/AAAAAAAAAAI/AAAAAAAAAAA/T9GY3MvyodY/s%d-c-k-no/photo.jpg"
+	 description="Formosa English News"/>
+  <item  group="新聞" name="三立新聞台" type="yt" draw="setnews159.webp" show="true" link="UC2TuODJhC03pLgd6MpWP0iw"
+	url="https://i.ytimg.com/vi/X3tMp8Pf0W4/mqdefault.jpg"
+	description="SET Live News"/>
+  <item  group="新聞" name="中視新聞" type="yt" draw="chinatvnews.webp" show="true" link="UCO3bfz4KY6zGT5IOaFJuxpA"
+	 url="https://yt3.ggpht.com/-Bp9r5O888lc/AAAAAAAAAAI/AAAAAAAAAAA/UglcidI14E8/s%d-c-k-no/photo.jpg"
+	 description="即時報導一手掌握"/>
+  <item  group="新聞" name="中華電視" type="yt" draw="tbscts.webp" show="true" link="UCDCJyLpbfgeVE9iZiEam-Kg"
+	 url="https://yt3.ggpht.com/-tkCaXvT_Qu0/AAAAAAAAAAI/AAAAAAAAAAA/YAvo9ZyQ0u8/s%d-c-k-no/photo.jpg"
+	 description="最新的新聞資訊"/>
+  <item  group="新聞" name="台視新聞" type="yt" draw="ttvnewsview.webp" show="true" link="UC8ROUUjHzEQm-ndb69CX8Ww"
+	 url="https://yt3.ggpht.com/-9WNmqV7KrX4/AAAAAAAAAAI/AAAAAAAAAAA/o3qwviHr1-o/s%d-c-k-no/photo.jpg"
+	 description="專業、用心、堅持"/>
+  <item  group="新聞" name="必PoTV" type="yt" draw="quicktv.webp" show="true" link="UCokOmKCQAugpV1t6lombFFA"
+	 url="https://yt3.ggpht.com/-RGdsoqHF3m4/AAAAAAAAAAI/AAAAAAAAAAA/uXzjvJBJZ4U/s%d-c-k-no/photo.jpg"
+	 description="中天快點TV"/>
+  <item  group="新聞" name="GTV八大新聞" type="ytItem" draw="gtv272841k.webp" show="true" link="PLik4698VTZrESLXN_y4zCblLWZ1HW11eQ"
+	 url="https://yt3.ggpht.com/-eZ3XbwnxaFA/AAAAAAAAAAI/AAAAAAAAAAA/s806uRWM7S8/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="USTV非凡電視台" type="yt" draw="ustv.webp" show="true" link="UCYIVkruUoN04UjV9pkBTswg"
+	 url="https://yt3.ggpht.com/-Oem4aRfAPK0/AAAAAAAAAAI/AAAAAAAAAAA/SGoPFlczmfA/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="台灣蘋果日報" type="yt" draw="twappledaily.webp" show="true" link="UChLEhd2gouo1H-c9Zy9WGDA"
+	 url="https://yt3.ggpht.com/-lZ7xBAHXkiw/AAAAAAAAAAI/AAAAAAAAAAA/NCXkSHR-a9A/s%d-c-k-no/photo.jpg"
+	 description="3D動畫模擬新聞"/>
+  <item  group="新聞" name="蘋果動新聞" type="yt" draw="hkapple.webp" show="false" link="UCeqUUXaM75wrK5Aalo6UorQ"
+	 url="https://yt3.ggpht.com/-UnzSE4d_M1s/AAAAAAAAAAI/AAAAAAAAAAA/NeWTKNbP3TY/s%d-c-k-no/photo.jpg"
+	 description="香港蘋果日報"/>
+  <item  group="新聞" name="TITV 原視" type="yt" draw="taiwanindigenoustv.webp" show="true" link="UCjJWicFvAqzrNjPAcG6ufVQ"
+	 url="https://yt3.ggpht.com/-WRQgZ1-IYrw/AAAAAAAAAAI/AAAAAAAAAAA/EpygTn_U0P4/s%d-c-k-no/photo.jpg"
+	 description="IPCF-TITV原文會"/>
+  <item  group="新聞" name="年代新聞" type="yt" draw="eranews.webp" show="true" link="UCHBv5vSp3pETSLq8oWTsmqA"
+	 url="https://yt3.ggpht.com/-ezkABhitEHg/AAAAAAAAAAI/AAAAAAAAAAA/fTW1hjjUjRc/s%d-c-k-no/photo.jpg"
+	 description="專業的年代，巨觀的新聞"/>
+  <item  group="新聞" name="優視焦點" type="yt" draw="Uchannelus.webp" show="true" link="UC9QotuR3RBijf3UHBs5Jdew"
+	 url="https://yt3.ggpht.com/-URVd3l9OpKk/AAAAAAAAAAI/AAAAAAAAAAA/x_RU71B4Po0/s%d-c-k-no/photo.jpg"
+	 description="公眾優質的資訊"/>
+  <item  group="新聞" name="NOW今日新聞" type="yt" draw="NOWnewscom.webp" show="true" link="UCg8EwsqYmiw7G267xxPyXsg"
+	 url="https://yt3.ggpht.com/-F6Xk59-ymps/AAAAAAAAAAI/AAAAAAAAAAA/xwPfZr4267M/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="東森新聞" type="ytItem" draw="newsebc.webp" show="true" link="PLp7hnLHxd1KHfBguJW0qB_8S6XldZC4fe"
+	 url="https://yt3.ggpht.com/-Tde9HzEFQZI/AAAAAAAAAAI/AAAAAAAAAAA/RN3PefMXBLA/s%d-c-k-no/photo.jpg"
+	 description="最即時的東森新聞"/>
+  <item  group="新聞" name="東森新聞雲" type="yt" draw="ettoday.webp" show="true" link="UCl3aKvzB7uC5mTlVEWiCogA"
+	 url="https://yt3.ggpht.com/-sVasxgVvtZE/AAAAAAAAAAI/AAAAAAAAAAA/JU6PbuFDC38/s%d-c-k-no/photo.jpg"
+	 description="深度的評論與解析"/>
+  <item  group="新聞" name="大愛新聞" type="yt" draw="DaaiWorldNews.webp" show="true" link="UC4NL28kbpJjq42NM9XLN2Rw"
+	 url="https://yt3.ggpht.com/-ECHC2ITGDJg/AAAAAAAAAAI/AAAAAAAAAAA/79cQRiIlBeQ/s%d-c-k-no/photo.jpg"
+	 description="DaAi World News"/>
+  <item  group="新聞" name="寰宇新聞" type="yt" draw="huanyunews.webp" show="true" link="UCp2f7tGJGN6R9Muxipem8Nw"
+	 url="https://yt3.ggpht.com/-TqFpj5yidbA/AAAAAAAAAAI/AAAAAAAAAAA/KI-NvnBUQ98/s%d-c-k-no/photo.jpg"
+	 description="獨一無二最專屬新聞頻道"/>
+  <item  group="新聞" name="中廣新聞網" type="yt" draw="bcc.webp" show="true" link="UCkqrvXuqW7dN3E2_4v8Ha5Q"
+	 url="https://yt3.ggpht.com/a-/AN66SAx57P6aDkrSsuE8yEZLtq9F6tDx65pXcV5RaA=s%d-c-k-no"/>
+  <item  group="新聞" name="57新聞王" type="ytItem" draw="newsking57.webp" show="false" link="PLXum85pWmFYQhwRrKM02Phhus1D1dbTlf"
+	 url="https://yt3.ggpht.com/-n6eI3gTuT60/AAAAAAAAAAI/AAAAAAAAAAA/MtDIIykepug/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="udn 新聞" type="ytItem" show="true" link="PL_P8_T8v8mroo9YHhT_iOdMRaxVadEMqS"
+  	 url="https://yt3.ggpht.com/-c9cNgeG4Gsg/AAAAAAAAAAI/AAAAAAAAAAA/Ov2YKQAA95A/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="香港時事" type="yt" show="false" link="UCZCwZKiNtUICsdiCGkBB3og"
+	 url="https://yt3.ggpht.com/-3_5nNZLz908/AAAAAAAAAAI/AAAAAAAAAAA/62vMKq7-viI/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="自由時報" type="yt" draw="tvforltn.webp" show="true" link="UCrbctXCueK60wHFE2o8YL-Q"
+	 url="https://yt3.ggpht.com/-L25FBShTKFU/AAAAAAAAAAI/AAAAAAAAAAA/i3IV4ZcoVig/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="自由 LIVE" type="yt" draw="free_live.webp" show="false" link="UC9ShHmhZOe5DSNDeA0TMfEw"
+	 url="https://yt3.ggpht.com/-1dAseBht1-Q/AAAAAAAAAAI/AAAAAAAAAAA/lWSKJtR3nNI/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="行政院資訊網" type="yt" draw="cabinet3356.webp" show="false" link="UCGPcI0_ch-Yl12KTlPbisPw"
+	 url="https://yt3.ggpht.com/-6MnMNUN8KiY/AAAAAAAAAAI/AAAAAAAAAAA/L62CvsaQG4Y/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="更生日報" type="yt" draw="kengsheng2.webp" show="true" link="UCSkpmTUqwu9B8cqxk5zfvQg"
+	 url="https://yt3.ggpht.com/-_wubCiTmIig/AAAAAAAAAAI/AAAAAAAAAAA/NZ-ei_ADnDc/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="台灣軍事新聞" type="ytItem" show="false" link="PLYxIZHNL5ypONrzkfiRZ1lehOGErxa4BP"
+	 url="https://yt3.ggpht.com/-WhpINDUxu_Y/AAAAAAAAAAI/AAAAAAAAAAA/JhdK2T3x9jE/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="眼球中央電視台" type="yt" draw="eyectv.webp" show="false" link="UCTqPBBnP2T57kmiPQ87986g"
+	 url="https://yt3.ggpht.com/-LgJ6j7PJXDM/AAAAAAAAAAI/AAAAAAAAAAA/AafyLQSYyMM/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="Dailymotion" type="dm" draw="dailymotion.webp" show="true" link="channel/news"
+	 url="http://1.bp.blogspot.com/_vPauWBaob6w/TEIrA6hdsUI/AAAAAAAAAGE/P9j0EB6lVhg/S240/Dailymotion-Logo.png"/>
+  <item  group="新聞" name="Google 新聞" type="rss" draw="google_news.webp" show="false"
+	 link="https://news.google.com/news/rss/?ned=tw&amp;hl=zh-TW&amp;gl=TW"
+	 url="http://www.gstatic.com/news-static/img/logo/zh-TW_tw/news.gif"/>
+  <item  group="新聞" name="聯合新聞" type="rss" draw="udn_logo.webp" show="false"
+	 link="https://udn.com/rssfeed/news/2/6638?ch=news"
+	 url="https://udn.com/static/img/logo_mark.svg"/>
+  <item  group="新聞" name="奇摩新聞" type="rss" draw="yahoo_news.webp" show="false"
+	 link="https://tw.news.yahoo.com/rss/"
+	 url="http://img.scl13.com/yahoo20-2/y1.jpg"/>
+  <item  group="新聞" name="奇摩社會新聞" type="rss" draw="yahoo_news_cdn.webp" show="false"
+	 link="http://tw.news.yahoo.com/rss/society"
+	 url="https://cdn1.iconfinder.com/data/icons/3in1-social-media-piconic/512/696415-yahoo-128.png"/>
+  <item  group="新聞" name="天下雜誌" type="rss" draw="cwtv.png" show="false"
+	 link="http://www.cw.com.tw/RSS/cw_content.xml"/>
+  <item  group="新聞" name="商業周刊最新" type="rss" draw="bwnet.png" show="false"
+	 link="http://bw.businessweekly.com.tw/feedsec.php"/>
+  <item  group="新聞" name="工商時報" type="rss" draw="newspaper.webp" show="false"
+	 link="http://www.chinatimes.com/rss/commercial.xml"
+	 url="https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/newspaper-128.png"/>
+  <item  group="新聞" name="旺報" type="rss" draw="newspaper.webp" show="false"
+	 link="http://www.chinatimes.com/rss/want-daily.xml"
+	 url="https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/newspaper-128.png"/>
+  <item  group="新聞" name="國道最新消息" type="rss" draw="freeway.jpg" show="false"
+	 link="http://www.freeway.gov.tw/Rss/freewayrss1.xml"/>
+  <item  group="新聞" name="國道新聞稿" type="rss" draw="freeway.jpg" show="false"
+	 link="http://www.freeway.gov.tw/Rss/freewayrss2.xml"/>
+  <item  group="新聞" name="國道重要訊息" type="rss" draw="freeway.jpg" show="false"
+	 link="http://www.freeway.gov.tw/Rss/freewayrss4.xml"/>
+  <item  group="新聞" name="妞新聞" type="web" draw="niusnews.webp" show="false"
+	 link="http://www.niusnews.com/news/new"
+	 url="https://yt3.ggpht.com/-xFaAlG4t5hU/AAAAAAAAAAI/AAAAAAAAAAA/YSCJW_9Bpi8/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="油價資訊" type="web" draw="moeaboe.webp" show="false"
+	 link="https://www2.moeaboe.gov.tw/oil102"
+	 url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ROC_Bureau_of_Energy_Emblem.svg/200px-ROC_Bureau_of_Energy_Emblem.svg.png"/>
+  <item  group="新聞" name="油價預測" type="web" draw="goodlife.webp" show="true"
+	 link="https://m.gas.goodlife.tw"
+	 url="http://goodlife.tw/assets/gas/fb-icon-gas.png"/>
+  <item  group="新聞" name="即時路況資訊" type="web" draw="freeway.webp" show="true"
+	 link="https://1968.freeway.gov.tw/"
+	 url="https://1968.freeway.gov.tw/assets/img/appicon.png"/>
+  <item  group="新聞" name="統一發票" type="rss" draw="ETW183W2.webp" show="true"
+	 link="http://invoice.etax.nat.gov.tw/invoice.xml"
+	 url="http://taichung.tranews.com/Show/images/News/63312_1.jpg"/>
+  <item  group="新聞" name="貨幣匯率" type="web" draw="etnetbank.webp" show="true"
+	 link="https://ibank.firstbank.com.tw/NetBank/7/0201.html?sh=none"
+	 url="http://www.hitrust.com.tw/images/logos/LOGO003.jpg"/>
+  <item  group="新聞" name="台鐵時刻表" type="web" draw="twtraffic.webp" show="true"
+	 link="http://twtraffic.tra.gov.tw/twrail/mobile/home.aspx"
+	 url="http://twtraffic.tra.gov.tw/twrail/mobile/images/TRA_Logo.png"/>
+  <item  group="新聞" name="高鐵時刻表" type="web" draw="revision_logo.webp" show="true"
+	 link="https://m.thsrc.com.tw/tw/TimeTable/SearchResult"
+	 url="https://m.thsrc.com.tw/Content/images/logo_640.png"/>
+  <item  group="新聞" name="批踢踢八卦板" type="web" draw="ptt_gossiping.webp" show="true"
+	 link="https://www.ptt.cc/bbs/Gossiping"
+	 url="http://ibb.com.tw/images/ptt-hot-boards-01.png"
+	 description="PTT看板 Gossiping"/>
+
+  <item  group="國際" name="國際焦點新聞" type="ytItem" show="true" link="PLr1-FC1l_JLEQIukjyY0gvmx9HULyEpdP"
+	 url="https://yt3.ggpht.com/wFzIMQkD7T4GelAT7xOs0gTZ9tiUg_dkuEfNCWeHj6UhcGf-lFLcmOM5xetp2IAEL3e9HW4Vjj15pb3O=s%d-nd-c-k-no"
+	 description="Youtube自動產生主題頻道"/>
+  <item  group="國際" name="天下雜誌" type="yt" draw="cwtv.webp" show="true" link="UCoS753iLrVE-1PZrsUak6Qg"
+	 url="https://yt3.ggpht.com/-H1xtySJxr3c/AAAAAAAAAAI/AAAAAAAAAAA/6cTKeWhTCK8/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="TomoNews 台灣" type="yt" draw="nmanews.webp" show="true" link="UC778cAEgKGDmh-teUWdg-uQ"
+	 url="https://yt3.ggpht.com/-bHbDm5nHuZ8/AAAAAAAAAAI/AAAAAAAAAAA/KwtVrVTmE48/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="兩岸時報" type="yt" draw="0982079985.webp" show="true" link="UCFTps-sk8F-V1_B6l9UtBfg"
+	url="https://yt3.ggpht.com/a-/AAuE7mDJOjKkGOGzJFmtRnCAo6UvlPxqYTWIffDh5Q=s%d-c-k-no"/>
+  <item  group="國際" name="華語晚間新聞" type="ytItem" draw="UCBwTT2stRrz7PUneqs--5YQ.webp" show="true" link="PLtqYHBUpyPc9knrH9Ya-ZHzDAkrr7q46P"
+	url="https://yt3.ggpht.com/-3atLjT62Uko/AAAAAAAAAAI/AAAAAAAAAAA/kdCBJiRESp4/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="CCTV中文国际" type="yt" draw="cctvch.webp" show="true" link="UCnAsZ46UTeFEgwOEwMezngQ"
+	 url="https://yt3.ggpht.com/-4lFfPodO1GU/AAAAAAAAAAI/AAAAAAAAAAA/4ew5ck8Te1Q/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="iCNTV新闻" type="yt" draw="chinanewscctv.webp" show="false" link="UCh44VuGfjHlQaBHTfoojy7A"
+	 url="https://yt3.ggpht.com/-wFFRR81hbwA/AAAAAAAAAAI/AAAAAAAAAAA/9pXteLeFtc8/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="新唐人電視台" type="yt" draw="ntdtvchinese3.webp" show="false" link="UCyARfLYu6RvoWqX_mekVLnw"
+	 url="https://yt3.ggpht.com/-YpivWH9VG7Y/AAAAAAAAAAI/AAAAAAAAAAA/z3wHzyq6BoU/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="新唐人亞太電視" type="yt" draw="ntdaptv.webp" show="true" link="UCi4AGjvmSMB9Nn6oyFPYPeQ"
+	 url="https://yt3.ggpht.com/-_i1m9vmk0tY/AAAAAAAAAAI/AAAAAAAAAAA/1MSt3UmVROk/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="新闻联播" type="yt" draw="newchinachannel.webp" show="false" link="UC4joCmkKflJGeutxVMaGdVw"
+	 url="https://yt3.ggpht.com/-nOK5eE_yXXI/AAAAAAAAAAI/AAAAAAAAAAA/vgQ5b7aWmB8/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="亚太联播" type="yt" draw="rfachinese.webp" show="false" link="UC06ZfP4ru4C8uV6nkq58IuQ"
+	 url="https://yt3.ggpht.com/-oi2nucOtTPU/AAAAAAAAAAI/AAAAAAAAAAA/bOMOVbBb0AU/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="星島電視" type="yt" draw="singtaotv.webp" show="true" link="UCYWSlgQB1BpfQTkNm_P5qIw"
+	 url="https://yt3.ggpht.com/-TsGW-v8CD84/AAAAAAAAAAI/AAAAAAAAAAA/oP6fpcpy8SQ/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="Al Jazeera" type="yt" draw="AlJazeeraEnglish.webp" show="true" link="UCNye-wNBqNL5ZzHSJj3l8Bg"
+	 url="https://yt3.ggpht.com/-8IFpTckNBOQ/AAAAAAAAAAI/AAAAAAAAAAA/D3as0FRtFfo/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="The Young Turks" type="yt" draw="theyoungturks.webp" show="true" link="UC1yBKRuGpC1tSM73A0ZjYjQ"
+	 url="https://yt3.ggpht.com/-8EmOV6Uyan8/AAAAAAAAAAI/AAAAAAAAAAA/lsr2usyFUO0/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="Associated Press" type="yt" draw="associatedpress.webp" show="true" link="UC52X5wxOL_s5yw0dQk7NtgA"
+	 url="https://yt3.ggpht.com/-w68FQ_fAEwk/AAAAAAAAAAI/AAAAAAAAAAA/0O-NUcXQDOA/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="RT" type="yt" draw="russiatoday.webp" show="true" link="UCpwvZwUam-URkxB7g4USKpg"
+	 url="https://yt3.ggpht.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAAA/5NdDPcu1rz8/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="ABC News" type="yt" draw="abcnews.webp" show="true" link="UCBi2mrWuNuyYy4gbM6fU18Q"
+	 url="https://yt3.ggpht.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAAAA/Yt468AF7XKE/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="CNN 新聞" type="yt" draw="cnn.webp" show="true" link="UCupvZG-5ko_eiXAupbDfxWw"
+	 url="https://yt3.ggpht.com/-K12xTWC-rMI/AAAAAAAAAAI/AAAAAAAAAAA/2N_u5pcKB3w/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="BBC 新聞" type="yt" draw="bbcnews.webp" show="true" link="UC16niRr50-MSBwiO3YDb3RA"
+	 url="https://yt3.ggpht.com/-Em-drWQ3uYI/AAAAAAAAAAI/AAAAAAAAAAA/b-RZ1gDQAIc/s%d-c-k-no/photo.jpg"/>
+  <item  group="國際" name="BBC" type="yt" draw="bbc.webp" show="false" link="UCCj956IF62FbT7Gouszaj9w"
+	 url="https://yt3.ggpht.com/-8EjKDh376Uw/AAAAAAAAAAI/AAAAAAAAAAA/-91t-1CKRD0/s%d-c-k-no/photo.jpg"/>
+	 
+  <item  group="地方" name="台灣公民新聞" type="yt" draw="peoponews.webp" show="false" link="UCI2rdKuv0zW9OUbC6UqClcw"
+	 url="https://yt3.ggpht.com/-Bcjb9uP57PA/AAAAAAAAAAI/AAAAAAAAAAA/xB1RWgKlQ60/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="觀天下新聞雲" type="yt" draw="guantaixia.webp" show="true" link="UC63KHomi3HziFypQnVfEjdw"
+	 url="https://yt3.ggpht.com/-0qyUhwIybf4/AAAAAAAAAAI/AAAAAAAAAAA/NL5NJfqS38Q/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="公視南部開講" type="yt" draw="ptssouthtalk.webp" show="true" link="UC65T6hhHSCBZplxgiTEJSmw"
+	 url="https://yt3.ggpht.com/-SYut3o94M8k/AAAAAAAAAAI/AAAAAAAAAAA/GEtzWn_s-i4/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="大新店地方" type="yt" draw="bignewstore.webp" show="true" link="UCp0epKO347igB5ujs5zKqWw"
+	 url="https://yt3.ggpht.com/-L1fgJChgvTM/AAAAAAAAAAI/AAAAAAAAAAA/CqworCyWXF0/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="紅樹林新聞" type="yt" draw="redforestnews.webp" show="true" link="UCBekjy3cWsLpEjibeFYecLQ"
+	 url="https://yt3.ggpht.com/-uw290s4TUIQ/AAAAAAAAAAI/AAAAAAAAAAA/gOyHYNV40jY/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="豐盟山線新聞" type="yt" draw="fmcatv1968.webp" show="true" link="UCBNwSjWLSkiKh84P5QDvUbQ"
+	 url="https://yt3.ggpht.com/-j_2xrSA8yCI/AAAAAAAAAAI/AAAAAAAAAAA/SNOQaE6mLbI/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="桃園有線新聞" type="yt" draw="ntyprogram.webp" show="true" link="UCFmODKUuOEFh7-67cgCuAcQ"
+	 url="https://yt3.ggpht.com/-PqS-t3L6gX8/AAAAAAAAAAI/AAAAAAAAAAA/lpj1ZXeTSEs/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="新竹振道新聞部" type="yt" draw="hsinshu_locnews.webp" show="true" link="UCANtgYMp3bxGWmr3qL4NdBA"
+	 url="https://yt3.ggpht.com/-XtaCw7rqinQ/AAAAAAAAAAI/AAAAAAAAAAA/724a4VgRRtg/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="大彰化新聞" type="yt" draw="kbronews2.webp" show="true" link="UCwY3pld7Wp_dRO-Skc_HNXg"
+	 url="https://yt3.ggpht.com/-EQQXz6veuSA/AAAAAAAAAAI/AAAAAAAAAAA/RKeQ6xUf924/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="中嘉新聞" type="yt" draw="cnstaipei.webp" show="true" link="UCCvQqg1UKGP1Wshak1078hw"
+	 url="https://yt3.ggpht.com/-xNdTbqwZUkA/AAAAAAAAAAI/AAAAAAAAAAA/MmCHCH5gUbw/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="新高雄新聞" type="yt" draw="gaoshung_locnews.webp" show="true" link="UCGSON1JQXE3ThpN0LVG0vmg"
+	 url="https://yt3.ggpht.com/-d39-tICwucs/AAAAAAAAAAI/AAAAAAAAAAA/ZWDtEADmCFk/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="屏東新聞" type="yt" draw="ptnews2012.webp" show="true" link="UC_uqpRd6j8IPK3IcS9D0syQ"
+	 url="https://yt3.ggpht.com/-Dc_Bdn72ozA/AAAAAAAAAAI/AAAAAAAAAAA/lFdZlcq4sUQ/s%d-c-k-no/photo.jpg"/>
+  <item  group="地方" name="東台有線" type="yt" draw="dontai_locnews.webp" show="true" link="UCWINTKD1WAUDwPf-d_PdV9A"
+	 url="https://yt3.ggpht.com/-o4oRyjnmDnU/AAAAAAAAAAI/AAAAAAAAAAA/wl1kX8Az7wU/s%d-c-k-no/photo.jpg"/>
+
+  <item  group="氣象" name="天氣風險整理" type="yt" draw="WeatherRiskMedia.webp" show="true" link="UCrJNljJ0vdVVLTqdB0qYgEA"
+	 url="https://yt3.ggpht.com/-ZratLqJBbBM/AAAAAAAAAAI/AAAAAAAAAAA/9tEDRPrEimg/s%d-c-k-no/photo.jpg"/>
+  <item  group="氣象" name="民視氣象預報" type="ytItem" show="true" refresh="true" link="PL05E88006D42B812E"
+	 url="https://i.ytimg.com/vi/4Pp4SMtNwOw/mqdefault.jpg"/>
+  <item  group="氣象" name="三立準氣象" type="ytItem" show="true" refresh="true" link="PLd5zGth6CDdUHAsoVtz2uS50pYjbfROwF"
+	 url="https://i.ytimg.com/vi/arfTv0p_y3M/mqdefault.jpg"/>
+  <item  group="氣象" name="大愛氣象" type="ytItem" show="true" refresh="true" link="PL9GjONJu_nMJlSPldXwKfBFAVyOa62wTr"
+	 url="https://i.ytimg.com/vi/dUJp1VDxz0w/mqdefault.jpg"/>
+  <item  group="氣象" name="中視氣象台" type="ytItem" show="true" refresh="true" link="PLu_yoBy_pbO2B6R3uZksexM5LfGLPOAMY"
+	 url="https://i.ytimg.com/vi/FztH1x2MyXk/mqdefault.jpg"/>
+  <item  group="氣象" name="年代氣象" type="ytItem" show="true" refresh="true" link="PLbyorRThEk_Jx6CxIEBt6fcBSuswrNyFD"
+	 url="https://i.ytimg.com/vi/paPclGT25Sk/mqdefault.jpg"/>
+  <item  group="氣象" name="原視山海氣象" type="ytItem" show="true" refresh="true" link="PLg1mbcTIhW06r5ov7Sl-_07Ot-pwdMYim"
+	 url="https://i.ytimg.com/vi/4KiMWbUhpG0/mqdefault.jpg"/>
+  <item  group="氣象" name="東森氣象" type="ytItem" show="true" refresh="true" link="PLp7hnLHxd1KHK1HUzgpM9bJWdavXPE-Bl"
+	 url="https://i.ytimg.com/vi/mMDTNygCQqU/mqdefault.jpg"/>
+  <item  group="氣象" name="TVBS氣象時間" type="ytItem" show="false" refresh="true" link="PLpVngkNmlnOw02arIHGMtxyohyiaarmov"
+	 url="https://i.ytimg.com/vi/z38toC2WJD4/mqdefault.jpg"/>
+  <item  group="氣象" name="氣象局 CWB" type="yt" draw="cwbwebtv.webp" show="false" link="UCZ5sPtENGmSa2p9piZ64o-Q"
+	 url="https://yt3.ggpht.com/-48l_cH7TWxM/AAAAAAAAAAI/AAAAAAAAAAA/FGDQ_PuRJV8/s%d-c-k-no/photo.jpg"/>
+  <item  group="氣象" name="颱風記者會" type="ytItem" show="false" link="PLO_zmnVQCC49Oovjvf2ym04ASdyl7aXR-"
+	 url="https://i.ytimg.com/vi/sV0vjkFMTfg/mqdefault.jpg"/>
+  <item  group="氣象" name="AQI空氣品質" type="web" draw="hinet_aqi.webp" show="false"
+	 link="https://times.hinet.net/mobile/aqi#goTop"
+	 url="https://respromask.files.wordpress.com/2012/05/1338065443_aqi-logo.jpg"/>
+  <item  group="氣象" name="災害停班停課" type="web" draw="stop_working.webp" show="false"
+	 link="http://typhoon.ws/lifeinfo/stop_working"
+	 url="http://typhoon.ws/favicon.ico"/>
+  <item  group="氣象" name="中央氣象特報" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/Data/cwb_warning.xml"/>
+  <item  group="氣象" name="臺北市氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_01.xml"/>
+  <item  group="氣象" name="新北市氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_04.xml"/>
+  <item  group="氣象" name="臺中市氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_08.xml"/>
+  <item  group="氣象" name="臺南市氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_13.xml"/>
+  <item  group="氣象" name="高雄市氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_02.xml"/>
+  <item  group="氣象" name="基隆市氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_03.xml"/>
+  <item  group="氣象" name="桃園縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_05.xml"/>
+  <item  group="氣象" name="新竹縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_06.xml"/>
+  <item  group="氣象" name="新竹市氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_14.xml"/>
+  <item  group="氣象" name="苗栗縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_07.xml"/>
+  <item  group="氣象" name="彰化縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_09.xml"/>
+  <item  group="氣象" name="南投縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_10.xml"/>
+  <item  group="氣象" name="雲林縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_11.xml"/>
+  <item  group="氣象" name="嘉義縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_12.xml"/>
+  <item  group="氣象" name="嘉義市氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_16.xml"/>
+  <item  group="氣象" name="屏東縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_15.xml"/>
+  <item  group="氣象" name="宜蘭縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_17.xml"/>
+  <item  group="氣象" name="花蓮縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_18.xml"/>
+  <item  group="氣象" name="台東縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_19.xml"/>
+  <item  group="氣象" name="澎湖縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_20.xml"/>
+  <item  group="氣象" name="金門縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_21.xml"/>
+  <item  group="氣象" name="連江縣氣象" type="rss" draw="cwblogo.png" show="false"
+	 link="http://www.cwb.gov.tw/rss/forecast/36_22.xml"/>
+  <item  group="氣象" name="颱風動態" type="web" draw="pta_new.webp" show="false"
+	 link="http://www.cwb.gov.tw/V7/prevent/typhoon/Data/PTA_NEW/index.htm"
+	 url="http://www.cwb.gov.tw/V7/images/Mark.jpg"/>
+  <item  group="氣象" name="全球風速" type="web" draw="ikona.webp" show="true"
+	 link="https://www.windyty.com/"
+	 url="https://www.windy.com/img/favicons/apple-touch-icon-180x180.png"/>
+  <item  group="氣象" name="災害示警" type="web" draw="publicalerts.webp" show="false"
+	 link="http://www.google.org/publicalerts"
+	 url="https://www.google.org/crisisresponse/.static/images/favicon.ico"/>
+  <item  group="氣象" name="台灣水庫水情" type="web" draw="taiwanstat.webp" show="false"
+	 link="https://water.taiwanstat.com/"
+	 url="https://s3-ap-northeast-1.amazonaws.com/static.twstat.com/realtime/images/assert/round-logo.png"/>
+  <item  group="氣象" name="批踢踢大氣板" type="web" draw="ptt_TY_Research.webp" show="true"
+	 link="https://www.ptt.cc/bbs/TY_Research"
+	 url="http://i.imgur.com/YOImWIL.jpg"
+	 description="PTT看板 TY_Research"/>
+
+  <item  group="財經" name="財經焦點新聞" type="ytItem" show="true" link="PLQ3HMgwndlsUPjx-KYZtcca7mSsa9LbUL"
+	 url="https://yt3.ggpht.com/y9K3KJEUWSOTg1i6o42zp19FhEtTjq7i-3Gv4SSLEMrd66eSSTaRnBCebnELQCXuPiSDPkgiYFakLwDj7HQ=s%d-nd-c-k-no"
+	 description="Youtube自動產生主題頻道"/>
+  <item  group="財經" name="東森財經新聞台" type="yt" draw="57ETFN.webp" show="true" link="UCuzqko_GKcj9922M1gUo__w"
+	 url="https://yt3.ggpht.com/-3kYs5RQo7CY/AAAAAAAAAAI/AAAAAAAAAAA/ExRG8nQu3Vk/s%d-c-k-no/photo.jpg"
+	 description="A channel for better life"/>
+  <item  group="財經" name="經濟日報" type="yt" draw="hketvideo.webp" show="true" link="UCFgvtFvTFRjqhGC1XfIB02w"
+	 url="https://yt3.ggpht.com/-rQ0zIgmg7pQ/AAAAAAAAAAI/AAAAAAAAAAA/dD7nK9UCFc0/s%d-c-k-no/photo.jpg"
+	 description="香港經濟日報 HKET"/>
+  <item  group="財經" name="今周刊" type="yt" draw="businesstodaytw.webp" show="true" link="UCPBTziiHub0FbIuhVW808fA"
+	 url="https://yt3.ggpht.com/-v_hwFwcL8xU/AAAAAAAAAAI/AAAAAAAAAAA/9sXgmIYbwZ0/s%d-c-k-no/photo.jpg"
+	 description="財經理財雜誌"/>
+  <item  group="財經" name="文茜財經周報" type="ytItem" show="true" link="PLvHT0yeWYIuBJVvCzPYLsto1cYEbX0ML_"
+	url="https://i.ytimg.com/vi/P2KPPmMH-ug/mqdefault.jpg"
+	description="文茜的世界周報 Sisy's World News"/>
+  <item  group="財經" name="財經懶人包" type="ytItem" show="true" link="PLSg6_lakxpXEzvVyddpbWsHSHsV8xqBbm"
+	url="https://i.ytimg.com/vi/G8r1X-AvW24/mqdefault.jpg"
+	description="USTV 非凡電視"/>
+  <item  group="財經" name="信報財經" type="yt" draw="hkejvideo.webp" show="false" link="UClRaYVzu5DIh3kRZkXIX9WA"
+	 url="https://yt3.ggpht.com/-MCBel_QqAwM/AAAAAAAAAAI/AAAAAAAAAAA/nVi7nrnkvZE/s%d-c-k-no/photo.jpg"/>
+  <item  group="財經" name="中華財經台" type="yt" draw="csecuritiestv.webp" show="true" link="UCAg1jxXzYrVSfkJyeOH2gqg"
+	 url="https://yt3.ggpht.com/-GafOEzef618/AAAAAAAAAAI/AAAAAAAAAAA/u_pT1LVPkZM/s%d-c-k-no/photo.jpg"
+	 description="CSTV中華財經電視台"/>
+  <item  group="財經" name="股票 Fun" type="yt" draw="stock88988.webp" show="true" link="UC1bv3onYw3uLQbrdxJrbhDw"
+	 url="https://yt3.ggpht.com/-3nvk6z3EByI/AAAAAAAAAAI/AAAAAAAAAAA/elbTg1FJCeU/s%d-c-k-no/photo.jpg"
+	 description="寳得富Fun投資"/>
+  <item  group="財經" name="57金錢爆" type="yt" draw="The57Watcher.webp" show="false" link="UC_d42su5rbQyrqvd0VPoQqw"
+	 url="https://yt3.ggpht.com/-gKJ9pIoVK1E/AAAAAAAAAAI/AAAAAAAAAAA/SkUPSL1kAKg/s%d-c-k-no/photo.jpg"/>
+  <item  group="財經" name="九八新聞台" type="yt" draw="news98radio.webp" show="false" link="UCOc2A2GJ9-WhjZSUO3nVEgQ"
+	 url="https://yt3.ggpht.com/-zkNHDSmkyqU/AAAAAAAAAAI/AAAAAAAAAAA/eGFDtWF05MQ/s%d-c-k-no/photo.jpg"/>
+  <item  group="財經" name="now 財經台" type="yt" draw="nowbnc.webp" show="false" link="UCChMBgirwM2nnT3Bbe8METQ"
+	 url="https://yt3.ggpht.com/-OADeKvhfmRM/AAAAAAAAAAI/AAAAAAAAAAA/BoeZKtR9dk0/s%d-c-k-no/photo.jpg"/>
+  <item  group="財經" name="耀才財經台" type="yt" draw="bsgroup1428.webp" show="false" link="UC-AUsvWyDm1fHeYoRA3X9MQ"
+	 url="https://yt3.ggpht.com/-2a1p3IUP7-8/AAAAAAAAAAI/AAAAAAAAAAA/UMTRAk7NL9g/s%d-c-k-no/photo.jpg"/>
+  <item  group="財經" name="批踢踢股票" type="web" draw="ptt_stock.webp" show="true"
+	 link="https://www.ptt.cc/bbs/Stock"
+	 url="http://ibb.com.tw/images/ptt-hot-boards-06.png"
+	 description="PTT看板 Stock"/> 
+	 
+  <item  group="政論" name="政經看民視" type="yt" show="true" draw="zhenjinkanminshi.webp" link="UCYIADVzNi0a3tebP67uKqpA"
+	 url="https://yt3.ggpht.com/a-/AN66SAxdJMHNTr_smMyGKlXNO-D_VZhK3U4_BiA-LA=s%d-c-k-no"
+	 description="民視看正晶"/>
+  <item  group="政論" name="新聞挖挖哇！" type="yt" draw="eravideo002.webp" show="true" link="UCRYM7X1WTLZeFHf4uuqkYCQ"
+	 url="https://yt3.ggpht.com/-icSUMpXjLPE/AAAAAAAAAAI/AAAAAAAAAAA/qeE_2h_npa8/s%d-c-k-no/photo.jpg"
+	 description="挖掘新聞內幕"/>
+  <item  group="政論" name="大政治大爆卦" type="ytItem" show="true" draw="dazhenzidabaogua.webp" link="PLbgjkReRTSsNcQ1baAcZoOfwKIzqTdgI_"
+	 url="https://yt3.ggpht.com/-LszZbiu8Ttg/AAAAAAAAAAI/AAAAAAAAAAA/kORB88sne3E/s%d-c-k-no/photo.jpg"
+	 description="中天新聞台"/>
+  <item  group="政論" name="挑戰新聞" type="ytItem" show="false" link="PLf2VRok0uRO00Dd_0juWfzbOnUF2SLVX_"
+	 url="https://i.ytimg.com/vi/cYGb-pNy7QU/mqdefault.jpg"/>
+  <item  group="政論" name="關鍵時刻" type="yt" draw="ettvCTime.webp" show="false" link="UCKQVSNdzGBJSXaUmS4TOWww"
+	 url="https://yt3.ggpht.com/-xmuYGVph-ps/AAAAAAAAAAI/AAAAAAAAAAA/FrlL0k6MuXk/s%d-c-k-no/photo.jpg"/>
+  <item  group="政論" name="新聞觀測站" type="ytItem" show="false" link="PLf2VRok0uRO3tyDwlvbQyuaslw_AcEO5N"
+	 url="https://i.ytimg.com/vi/JXH33q2lJ_8/mqdefault.jpg"/>
+  <item  group="政論" name="新聞大解讀" type="ytItem" show="true" link="PLf2VRok0uRO04hJPAn99SPGe9ucRXMYfO"
+	 url="https://i.ytimg.com/vi/1heFIxR3x3w/mqdefault.jpg"
+	 description="主持人:胡忠信"/>
+  <item  group="政論" name="石濤TV" type="yt" draw="shitaotv.webp" show="false" link="UCAwZ8EvcM8IQNtOW5gRIGZg"
+	 url="https://yt3.ggpht.com/-zSL1LFmfZ2M/AAAAAAAAAAI/AAAAAAAAAAA/RV7-L2R3nLo/s%d-c-k-no/photo.jpg"/>
+  <item  group="政論" name="少康戰情室" type="ytItem" show="true" draw="shaokangzanqinshi.webp" link="PL64Si-sSRnvbUf3hUoFvrq4LyMiiRf7kb"
+     url="https://yt3.ggpht.com/-yNyklmwUzuU/AAAAAAAAAAI/AAAAAAAAAAA/d5TSBz3ZIQY/s%d-c-k-no/photo.jpg"
+     description="用「趙少康式」獨到觀點"/>
+  <item  group="政論" name="夜問打權" type="ytItem" show="true" draw="yewendaquan.webp" link="PLXBKElwchj2XNAS9VNiT7edzpVSqH73JT"
+     url="https://yt3.ggpht.com/-xMLvuUeVy38/AAAAAAAAAAI/AAAAAAAAAAA/AXylLkSN9z8/s%d-c-k-no/photo.jpg"
+     description="黃智賢，問社會不公"/>
+  <item  group="政論" name="蔻蔻早餐" type="yt" draw="hitfmcoco.webp" show="true" link="UCCqzJQ5njsxCQ_nZFct7lrw"
+     url="https://yt3.ggpht.com/-Fvh7Q_edHGM/AAAAAAAAAAI/AAAAAAAAAAA/itDwL5pXGZ4/s%d-c-k-no/photo.jpg"
+     description="周玉蔻嗆新聞"/>
+  <item  group="政論" name="前進新台灣" type="ytItem" show="true" link="PLd5zGth6CDdWAZYkB6s0j844ywVVTPyFl"
+	url="https://i.ytimg.com/vi/qVeLaNePVSQ/mqdefault.jpg"
+	description="主播:林楚茵"/>
+  <item  group="政論" name="新台灣加油" type="ytItem" show="false" link="PLF0zBBU4L_6j5b28MqEuTBz8CVut_6D6Y"
+	url="https://i.ytimg.com/vi/TJ8_aRUIBMU/mqdefault.jpg"/>
+  <item  group="政論" name="新聞面對面" type="ytItem" show="true" link="PLbyorRThEk_JGS6h0vE_HofTNJPMgh_b3"
+	url="https://i.ytimg.com/vi/WuAx5_LyW0o/mqdefault.jpg"
+	description="📺年代新聞台(50頻道)"/>
+  <item  group="政論" name="新聞追追追" type="ytItem" show="true" link="PLbyorRThEk_K5jWTcQowYNi7EbKDBmToq"
+	url="https://i.ytimg.com/vi/MRTvIrvnreA/mqdefault.jpg"
+	description="一起追真相、追是非"/>
+  <item  group="政論" name="國民大會" type="ytItem" show="true" draw="guomindahuei.webp" link="PLbYC4Hm3bHJaXGqN57lPpqWP2GyaVY_wQ"
+	 url="https://yt3.ggpht.com/-WeviC3F_6ig/AAAAAAAAAAI/AAAAAAAAAAA/VTxmKKKgMcQ/s%d-c-k-no/photo.jpg"
+	 description="主持人 : 于美人"/>
+  <item  group="政論" name="驚爆新聞線" type="yt" show="true" draw="jingbaonews.webp" link="UCwDyCMbrFn0RkqXdCKxjIbg"
+	 url="https://yt3.ggpht.com/-isee7uzzFws/AAAAAAAAAAI/AAAAAAAAAAA/3kB23dq78V0/s%d-c-k-no/photo.jpg"
+	 description="呂惠敏帶您報內幕追真相"/>
+  <item  group="政論" name="文字播放 News" type="yt" show="false" link="UCH5fR0JxZcCafpEjpvfGamQ"
+	 url="https://yt3.ggpht.com/a-/AN66SAyFAKxSxN5DXZjbt_WXH7QpQYIwBAe5RD9RPw=s%d-nd-c-k-no"/>
+	 
+  <item  group="綜合" name="中天電視" type="yt" draw="ctitv.webp" show="false" link="UC5l1Yto5oOIgRXlI4p4VKbw"
+	 url="https://yt3.ggpht.com/-oT_rZXRB2ws/AAAAAAAAAAI/AAAAAAAAAAA/gZAHLeO5jZM/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜合" name="中天亞洲台" type="yt" draw="ctiasia.webp" show="false" link="UCys6fpFsyUIHMVhn9g10trQ"
+	 url="https://yt3.ggpht.com/-ekUcsysVyJI/AAAAAAAAAAI/AAAAAAAAAAA/INf4_peD7XY/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜合" name="台灣公共電視" type="yt" draw="pts.webp" show="true" link="UCH_5vj94el18quHAg_QwlMw"
+	 url="https://yt3.ggpht.com/-zHo3MjR3QA0/AAAAAAAAAAI/AAAAAAAAAAA/9EVZK5XnnjU/s%d-c-k-no/photo.jpg"
+	 description="Taiwan Public Television"/>
+  <item  group="綜合" name="東森綜合台" type="yt" draw="ettv32.webp" show="false" link="UCet3uxeYnTk3n1acNCNlJgA"
+	 url="https://yt3.ggpht.com/-hy8bkeiBmp4/AAAAAAAAAAI/AAAAAAAAAAA/TROfUmTo72M/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜合" name="緯來綜合台" type="yt" draw="26VideoLand.webp" show="false" link="UC5VFvRqJYiLp2jzWvix9O0w"
+	 url="https://yt3.ggpht.com/-2JbUnr1QMG4/AAAAAAAAAAI/AAAAAAAAAAA/1vEtUWI_Spw/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜合" name="生活智慧王" type="ytItem" show="false" link="PLbYMfMn1wPGU6TbsyKKZZataMFNt8HMHw"
+	 url="https://i.ytimg.com/vi/i7fyPv17ank/mqdefault.jpg"/>
+  <item  group="綜合" name="Vogue 每月封面人物" type="ytItem" show="true" link="PLOAJtSxO04pyHqpLFDXgL4ajqUCfkJJsf"
+  	 url="https://yt3.ggpht.com/-wdG6_V-jDXk/AAAAAAAAAAI/AAAAAAAAAAA/rTPcI9V7wvc/s%d-c-k-no/photo.jpg"
+  	 description="關於時尚，VOGUE說了算！"/>
+  <item  group="綜合" name="台灣1001個故事" type="yt" draw="ettvtaiwan1001.webp" show="false" link="UCPlO3Az7v08IUdl9RuKRUVA"
+	 url="https://yt3.ggpht.com/-cWTiemtRA1U/AAAAAAAAAAI/AAAAAAAAAAA/27-eRvG2uVA/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜合" name="民視交通電視台" type="yt" draw="FMTV168.webp" show="true" link="UC9cynHNIKmLVlSZC4JO49PA"
+	 url="https://yt3.ggpht.com/-5n2zM4SJgNs/AAAAAAAAAAI/AAAAAAAAAAA/DHMhXfbfbZY/s%d-c-k-no/photo.jpg"
+	 description="台灣交通電視台"/>
+  <item  group="綜合" name="小燕有約" type="ytItem" show="false" link="PL_xI9hWsJN8XlAWW4W8poKucH1tZisZgl"
+	url="https://i.ytimg.com/vi/kvdz4DL44Fc/mqdefault.jpg"/>
+  <item  group="綜合" name="美鳳有約" type="ytItem" show="true" link="PLi0ZZWlxtL4Hhr0WBln2-6e70RJQIkgGU"
+   	url="https://i.ytimg.com/vi/TcRkz1vZVuw/mqdefault.jpg"
+   	description="民視綜藝娛樂"/>
+  <item  group="綜合" name="台灣達人秀" type="yt" draw="talentshow.webp" show="true" link="UCIECJyQ6meDyN-UnVHgXAMA"
+	 url="https://yt3.ggpht.com/-kgjm1I1Quok/AAAAAAAAAAI/AAAAAAAAAAA/gwAlwlZA37o/s%d-c-k-no/photo.jpg"
+	 description="最強自媒體聯播網"/>
+  <item  group="綜合" name="草地狀元" type="yt" draw="set29itake.webp" show="false" link="UC4vuXgV5ng5IM9u5lI19-FA"
+	 url="https://yt3.ggpht.com/-JKAatnu7YYs/AAAAAAAAAAI/AAAAAAAAAAA/sG04BOKf83I/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜合" name="壹電視" type="yt" draw="twnexttv.webp" show="true" link="UC6hWBu1hfbNNk8Yeokd5aZQ"
+	 url="https://yt3.ggpht.com/-5JYukW7Lvi0/AAAAAAAAAAI/AAAAAAAAAAA/uwiZ4-4OaUU/s%d-c-k-no/photo.jpg"
+	 description="落實本土，放眼國際"/>
+  <item  group="綜合" name="體育Sports" type="ytItem" show="false" link="PLi0ZZWlxtL4EnMc_c4cPEMYdCn5cBDFLS"
+	 url="https://i.ytimg.com/vi/dcnUMfTGQWU/mqdefault.jpg"/>
+  <item  group="綜合" name="SuperTV超視" type="yt" draw="monica.webp" show="false" link="UCL7bheTrjSa9wipFYHw_6gA"
+	 url="https://yt3.ggpht.com/-2FBfLS25ym0/AAAAAAAAAAI/AAAAAAAAAAA/KdTAbJKJ9wo/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜合" name="客家電視台" type="yt" draw="hakkatv.webp" show="false" link="UCyGUGDvCeXapYlu8FYZHFag"
+	 url="https://yt3.ggpht.com/-O3tRg2i13n0/AAAAAAAAAAI/AAAAAAAAAAA/xFnatqA3vI8/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜合" name="News金探號" type="ytItem" show="true" link="PLSg6_lakxpXEdIzAzu4nWz61GoFuBqozt"
+	url="https://i.ytimg.com/vi/bvKvy7zBza8/mqdefault.jpg"
+	description="USTV 非凡電視"/>
+  <item  group="綜合" name="醫師好辣" type="ytItem" show="false" link="PLbYMfMn1wPGVFIiYdPz2lh5R1KeOXO1Zd"
+	url="https://i.ytimg.com/vi/foepCk_b4hc/mqdefault.jpg"/>
+  <item  group="綜合" name="驚奇4超人" type="ytItem" show="false" link="PLvrTMNP6Iw6qCNvr8nGNHeXTzW7gQOoP7"
+	url="https://i.ytimg.com/vi/bVvdRqshZr0/mqdefault.jpg"/>
+  <item  group="綜合" name="婆媳當家" type="yt" draw="MommySaysCH30.webp" show="false" link="UCu2I09luLgo1AaDulEMSbnA"
+	 url="https://yt3.ggpht.com/-YVfcYEMvQgw/AAAAAAAAAAI/AAAAAAAAAAA/clEaQg81xbg/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜合" name="東方衛視" type="yt" draw="kankanews.webp" show="true" link="UCahKjkez9olNwcpc5pZwzvg"
+  	url="https://yt3.ggpht.com/a-/AJLlDp3D24KUkpPOU6TPSrdHL41smt-d3k44RZBwkg=s%d-mo-c-k-no"
+  	description="SMG上海電視台官方頻道"/>
+
+  <item  group="綜藝" name="⚽台灣綜藝" type="web" show="false" sort="title" draw="twtalkshow.webp" link="http://feeds.feedburner.com/twtalkshow?format=xml"
+  	ckaddr="\.mei.*/shows"
+  	url="http://icons.iconarchive.com/icons/dailyoverview/tv/128/television-04-icon.png"/>
+  <item  group="綜藝" name="綜藝大集合" type="ytItem" show="true" link="PLi0ZZWlxtL4HAiQjwZ6djimZBm7uW8jOf"
+	 url="https://i.ytimg.com/vi/4jI-QKvRc9g/mqdefault.jpg"
+	 description="各種吃喝玩樂的內容"/>
+  <item  group="綜藝" name="超級夜總會" type="yt" draw="UCOCcxhYGf0tRhWTL77QQHEA.webp" show="true" sort="no" link="UCOCcxhYGf0tRhWTL77QQHEA"
+	 url="https://yt3.ggpht.com/-UqUkI_CSqHE/AAAAAAAAAAI/AAAAAAAAAAA/ss8qdocQVTI/s%d-c-k-no/photo.jpg"
+	 description="澎恰恰、許效舜、苗可麗"/>
+  <item  group="綜藝" name="我愛玩很大" type="ytItem" show="true" link="PLKOpTKkFrTy_nX9SHIKMHXogoJnvf9cLi"
+  	 url="https://yt3.ggpht.com/-jOIQ6TK2ZlQ/AAAAAAAAAAI/AAAAAAAAAAA/xOpJCq8pGr0/s%d-c-k-no/photo.jpg"
+  	 description="綜藝玩很大全集"/>
+  <item  group="綜藝" name="綜藝大熱門" type="ytItem" show="true" link="PLguD-VYfmQid2Zo6MFFx14udxaNM-7FmX"
+	 url="https://yt3.ggpht.com/-2J_SxJtvUfo/AAAAAAAAAAI/AAAAAAAAAAA/d0EePZ9kOok/s%d-c-k-no/photo.jpg"
+	 description="綜藝大熱門全集"/>
+  <item  group="綜藝" name="舞力全開" type="ytItem" show="false" link="PLi0ZZWlxtL4GyERnyg7MbrapvyDC3rGdH"
+	 url="https://i.ytimg.com/vi/udgLxPlp_ug/mqdefault.jpg"/>
+  <item  group="綜藝" name="小明星大跟班" type="ytItem" show="true" link="PLPgID1Rky7XnGpn0-fuXi0jXDvkbLRtA5"
+	 url="https://yt3.ggpht.com/-OpymHflOs9U/AAAAAAAAAAI/AAAAAAAAAAA/r5SJqjubVWI/s%d-c-k-no/photo.jpg"
+	 description="吳宗憲與吳姍儒"/>
+  <item  group="綜藝" name="國光幫幫忙" type="yt" draw="gangkuokuan.webp" show="true" link="UCNz2YbRPdGvyBq5qq7iqNwQ"
+	 url="https://yt3.ggpht.com/-LUrO4_wTrbs/AAAAAAAAAAI/AAAAAAAAAAA/Ff0t_H-jvRc/s%d-c-k-no/photo.jpg"
+	 description="最愛,國光幫幫忙"/>
+  <item  group="綜藝" name="WTO姐妹會" type="ytItem" show="true" link="PLik4698VTZrHlZbO8Y7luS8cZi0wbGTZw"
+	 url="https://i.ytimg.com/vi/EfUpbt3LXqk/mqdefault.jpg"
+	 description="GTV八大電視"/>
+  <item  group="綜藝" name="天才衝衝衝" type="ytItem" show="true" link="PLJ2QT-PhqTiJHrztQjdISo6A4sxj9eoJO"
+	 url="https://i.ytimg.com/vi/f__jUxu0ycU/mqdefault.jpg"
+	 description="華視綜藝頻道"/>
+  <item  group="綜藝" name="瘋神無雙" type="yt" show="true" draw="superfunnyshow2013.webp" link="UCqi4kCcN1eVJmLHpQktotlg"
+	 url="https://yt3.ggpht.com/-TXqw6JeLMCU/AAAAAAAAAAI/AAAAAAAAAAA/E9lyRmnLYHs/s%d-c-k-no/photo.jpg"
+	 description="許效舜搞笑詮釋"/>
+  <item  group="綜藝" name="麥卡貝" type="ytItem" show="true" link="PLB-gEgoxyAhW2j3aqdWsld5-NaAd_4ODf"
+	 url="https://yt3.ggpht.com/-oLU9mQPL9ug/AAAAAAAAAAI/AAAAAAAAAAA/cLTzZ70-9cw/s%d-c-k-no/photo.jpg"
+	 description="笑到腹肌都出來"/> 
+  <item  group="綜藝" name="一袋女王" type="yt" draw="abegqueen.webp" show="true" link="UC_Evz1ZRNFgzL-4baKmIhvQ"
+	 url="https://yt3.ggpht.com/-GwQfJOISblY/AAAAAAAAAAI/AAAAAAAAAAA/541babx9mgw/s%d-c-k-no/photo.jpg"
+	 description="主持人曾國城"/>
+  <item  group="綜藝" name="校花點點名" type="ytItem" show="false" link="PLT_RlniiiurXZYLKTc6QDwtuuzw39Z7kW"
+	 url="https://i.ytimg.com/vi/WR7F0UFrSWw/mqdefault.jpg"/>
+  <item  group="綜藝" name="麻辣天后傳" type="ytItem" show="true" link="PLq_o2rIpiltYGskEGzXCTiOOWjf8PBXXG"
+	url="https://i.ytimg.com/vi/CyXX8_hgFLY/mqdefault.jpg"
+	description="利菁重磅主持"/>
+  <item  group="綜藝" name="我愛十點鐘" type="yt" draw="mrpeistar.webp" show="false" link="UC-z9BI8hMHNPrvnccyWgjyg"
+	 url="https://yt3.ggpht.com/-x4WMECaM0J0/AAAAAAAAAAI/AAAAAAAAAAA/-bpE3zKVqbs/s%d-c-k-no/photo.jpg"/>
+  <item  group="綜藝" name="豬哥亮歌廳秀" type="ytItem" show="false" link="PLmChlM9SxSqVRhkG37_dIJHS-qrYLG7zy"
+    url="https://i.ytimg.com/vi/_auhENo6ZM8/mqdefault.jpg"/>
+  <item  group="綜藝" name="天王豬哥秀" type="ytItem" show="false" link="PLJ2QT-PhqTiK4BLfP6wdzPPDizdzr5Fag"
+	url="https://i.ytimg.com/vi/AAMz71GoaAQ/mqdefault.jpg"/>
+  <item  group="綜藝" name="來自星星的事" type="yt" draw="kingzero.webp" show="true" link="UCmBfE2mQbAi-Sm1YCoYy4wA"
+	url="https://i.ytimg.com/vi/693qCBVafAE/mqdefault.jpg"
+	description="KING ZERO"/>
+  <item  group="綜藝" name="飢餓遊戲" type="ytItem" show="true" link="PLHCwVsO5oxdOwDPP4hs3ECeXEjvsGeTrv"
+	url="https://i.ytimg.com/vi/xpJ5VrfbAc0/mqdefault.jpg"
+	description="中視CTV官方頻道"/>
+  <item  group="綜藝" name="2分之一強" type="ytItem" show="false" link="PLGaMea0lA6ftypG6JbEWmnH2RDT8IQk3-"
+	url="https://i.ytimg.com/vi/KAUNTfw5uuU/mqdefault.jpg"/>
+  <item  group="綜藝" name="命運好好玩" type="yt" draw="eravideo004.webp" show="true" link="UC4yuK2uKP3y5upFB6xgWz4Q"
+	url="https://yt3.ggpht.com/-TJSzTTwUwcs/AAAAAAAAAAI/AAAAAAAAAAA/JaqREsOEJZg/s%d-c-k-no/photo.jpg"
+	description="主持人何篤霖，郭靜純"/>
+  <item  group="綜藝" name="同學!搞什麼鬼" type="ytItem" show="false" link="PLik4698VTZrGtNd5mMkN3JC0pyRavKMKz"
+	url="https://i.ytimg.com/vi/V5coqn2z9cw/mqdefault.jpg"/>
+  <item  group="綜藝" name="上班這黨事" type="ytItem" show="true" link="PLPQnUIbwPtbly8uQrDRnEjCjuoF9Sft-I"
+	url="https://yt3.ggpht.com/-3W29n1oLIv8/AAAAAAAAAAI/AAAAAAAAAAA/HDje6D2011I/s%d-c-k-no/photo.jpg"
+	description="主持人陳建州 舒子晨"/>
+  <item  group="綜藝" name="一字千金" type="combo" show="true" sort="no" link="['mei#177859','yt#PLCRIJJin1BjiQ21T1AOlAefFVmpCYtzfQ']"
+ 	url="http://i.ytimg.com/vi/8lmrLNPLUnQ/mqdefault.jpg"
+ 	description="公視文化事業基金會"/>
+  <item  group="綜藝" name="綜藝菲常讚" type="combo" show="true" sort="title" link="['yj#6537','bw#10525','ms#綜藝菲常讚']"
+ 	url="https://i.ytimg.com/vi/5PC8tLmg_j4/mqdefault.jpg"/>
+  <item  group="綜藝" name="閃亮的年代" type="ytItem" show="false" link="PLEThWw1TwtAKSRlT3YwkDmGRX_2wFM0rJ"
+ 	url="https://yt3.ggpht.com/rfEntjcOdNhDF8TOMTh0uVgw2enQq7wHrRl6XvkVanqeHsaMLk4zu-nb5kXVcfYW3bEfF3PaRLBR-bS9Hg=s%d-c-k-no"
+ 	description="YouTube探索系統自動產生"/>
+
+  <item  group="娛樂" name="娛樂焦點新聞" type="ytItem" show="true" link="PLivYonEKHnxwIH3-PheabJNs_kXGsvDO0"
+	 url="https://yt3.ggpht.com/vj22mPIEKr0NszAU6ibQSyWkaIHc0w9dAwbq3TcaAKg64hRXgzg3BML4dVZxUCbmZmUxhEcdduyRaOBy=s%d-nd-c-k-no"
+	 description="Youtube自動產生主題頻道"/>
+  <item  group="娛樂" name="歡樂智多星" type="yt" draw="544875a78a920.webp" show="false" link="UCW1zlfMoq8wWt34bfITJAnA"
+	 url="http://www.vbpps.com/Uploads/vod/2014-10-23/544875a78a920.jpg"/>	 
+  <item  group="娛樂" name="Yes娛樂" type="yt" draw="chinayestv.webp" show="true" link="UCr-8dNDiVQHpWs7Znw4UQdQ"
+	 url="https://yt3.ggpht.com/-RZMsAvbJ7DI/AAAAAAAAAAI/AAAAAAAAAAA/aj31oKgJfAU/s%d-c-k-no/photo.jpg"/>
+  <item  group="娛樂" name="噓!星聞" type="yt" draw="udnstar.webp" show="false" link="UCeF6JP-sxqJnznCAQo_K66g"
+	 url="https://yt3.ggpht.com/a-/AN66SAz8xBPzqwk3z2XfzrzHitLeXAeENgfNtyU7kw=s%d-c-k-no"/>
+  <item  group="娛樂" name="娛樂新聞" type="yt" draw="news2407.webp" show="true" link="UCE4bagua0uJel4j0sjQcZAQ"
+	 url="https://yt3.ggpht.com/a-/AN66SAy6XHIjmy07qvvuiWclOw5kY2N_ZztEQCSdmA=s%d-c-k-no"/>
+  <item  group="娛樂" name="八大娛樂百分百" type="yt" draw="GTV100ENTERTAINMENT.webp" show="true" link="UCR2NvuBypJZl9n11qLAauWQ"
+	 url="https://yt3.ggpht.com/-wLxWZkBY5S4/AAAAAAAAAAI/AAAAAAAAAAA/CRH4KUBlb4Q/s%d-c-k-no/photo.jpg"/>
+  <item  group="娛樂" name="周刊時報" type="yt" draw="weeklytimes.webp" show="false" link="UC6F2yDBvfZSu6hOtmUcMSxg"
+	 url="https://yt3.ggpht.com/-p2gjo_S94tU/AAAAAAAAAAI/AAAAAAAAAAA/3YxgvM_RMO4/s%d-c-k-no/photo.jpg"/>
+  <item  group="娛樂" name="Wow!新聞網" type="yt" draw="WowNEWSVideo.webp" show="false" link="UCQHLzoUUxzyBJVoakYrxQyQ"
+	 url="https://yt3.ggpht.com/-oXbp09JCGdM/AAAAAAAAAAI/AAAAAAAAAAA/1BOORQQyr8w/s%d-c-k-no/photo.jpg"/>
+  <item  group="娛樂" name="卡提諾論壇" type="yt" draw="ck10.webp" show="true" link="UCVF3bTd3dxM4IfOMFCbNADA"
+	 url="https://yt3.ggpht.com/-4iw2Erc9YMs/AAAAAAAAAAI/AAAAAAAAAAA/pLDARFZvN1s/s%d-c-k-no/photo.jpg"/>
+  <item  group="娛樂" name="ETtoday星光雲" type="yt" draw="ettoday_star.webp" show="true" link="UCX157UE-NdaUGQJDkQ-XKnw"
+	 url="https://yt3.ggpht.com/-5cZyzXguNuk/AAAAAAAAAAI/AAAAAAAAAAA/LGTzZykc5Ac/s%d-c-k-no/photo.jpg"/>
+  <item  group="娛樂" name="完全娛樂" type="yt" draw="SETShowBiz.webp" show="true" link="UCX9VHpN62jkqCCntHxymPOA"
+	 url="https://yt3.ggpht.com/a-/AN66SAwgNL2Kl-1o-yCtI7tYZj48CegYcWeWeDiRsg=s%d-c-k-no"/>
+  <item  group="娛樂" name="中時娛樂電子報" type="rss" draw="chinatimes_ii.webp" show="false"
+	 link="http://www.chinatimes.com/rss/realtimenews-showbiz.xml"
+	 url="http://icons.iconarchive.com/icons/musett/coffee-shop/128/Newspaper-icon.png"/>
+  <item  group="娛樂" name="奇摩影劇新聞" type="rss" draw="yahoo_news_cdn.webp" show="false"
+	 link="https://tw.news.yahoo.com/rss/entertainment"
+	 url="https://cdn1.iconfinder.com/data/icons/3in1-social-media-piconic/512/696415-yahoo-128.png"/>
+  <item  group="娛樂" name="自由時報影視" type="rss" draw="freenewpaper.webp" show="false"
+	 link="http://news.ltn.com.tw/rss/entertainment.xml"
+	 url="https://cdn3.iconfinder.com/data/icons/alien/128/news.png"/>
+  <item  group="娛樂" name="電玩宅速配" type="yt" draw="efuntv.webp" show="true" link="UCLokbPMY7AVM8cTxo4AQ88g"
+	 url="https://yt3.ggpht.com/-tTGHWqyhaw4/AAAAAAAAAAI/AAAAAAAAAAA/BjmBeJnsqdM/s%d-c-k-no/photo.jpg"/>
+  <item  group="娛樂" name="批踢踢笨板" type="web" draw="ptt_StupidClown.webp" show="true"
+	 link="https://www.ptt.cc/bbs/StupidClown"
+	 url="http://ibb.com.tw/images/ptt-hot-boards-09.png"
+	 description="PTT看板 StupidClown"/>
+
+  <item  group="旅遊" name="台灣好好玩" type="ytItem" show="false" refresh="true" link="PLf2VRok0uRO29AX6r07jekdgwLe9qIaVl"
+	 url="https://i.ytimg.com/vi/Yzkk_IWCwlQ/mqdefault.jpg"/>
+  <item  group="旅遊" name="GOGO捷運" type="ytItem" show="false" refresh="true" link="PLi0ZZWlxtL4GGcML3_LV17ykHw5ktK-uA"
+	 url="https://i.ytimg.com/vi/dkDLfpr-VB8/mqdefault.jpg"/>
+  <item  group="旅遊" name="Go Go Taiwan 玩台灣" type="ytItem" show="false" refresh="true" link="PLi0ZZWlxtL4FBF5FviIXiSB6nx0z44qyL"
+	 url="https://i.ytimg.com/vi/5VX5MyUBmD0/mqdefault.jpg"/>
+  <item  group="旅遊" name="MIT台灣誌" type="yt" draw="ctvmit.webp" show="true" link="UCKRjODp1ZYOSYNH5IA32g3Q"
+     url="https://yt3.ggpht.com/-IpNINW0feGI/AAAAAAAAAAI/AAAAAAAAAAA/PvFC4ZoDj-E/s%d-c-k-no/photo.jpg"/>
+  <item  group="旅遊" name="大陸尋奇" type="ytItem" show="true" link="PLPlqExP6kZDS1GUN3GN6tjz0LotWmZLhh"
+     url="https://yt3.ggpht.com/CRyvI-J3Xr3e8JWQn9a8C9A2aq1--dJvOAoIE19IvJN9y4klDrDZqr9LoFnnUvFkXUms6nvg633kE71RDbc=s%d"/>
+  <item  group="旅遊" name="驚奇日本" type="yt" draw="xpcubex.webp" show="true" link="UCzqlJ8YEDtFJNRc-b1lzeTg"
+	 url="https://yt3.ggpht.com/-zOcbjee92xg/AAAAAAAAAAI/AAAAAAAAAAA/UMM4zAE0eTE/s%d-c-k-no/photo.jpg"/>
+  <item  group="旅遊" name="影動台灣" type="yt" draw="pitourtw.webp" show="false" link="UC6S-3AuLr2WvZS_YqU5Ii2w"
+	 url="https://yt3.ggpht.com/-iLO_BNQO8uA/AAAAAAAAAAI/AAAAAAAAAAA/WRtQC5rNZQs/s%d-c-k-no/photo.jpg"/>
+  <item  group="旅遊" name="寶島神很大" type="ytItem" show="false" link="PLSV0e_16dYDZcWMUavFbgYImHeUrFDEoP"
+	 url="https://yt3.ggpht.com/-gBsUb6R8vF0/AAAAAAAAAAI/AAAAAAAAAAA/8N4-iHEOMuM/s%d-c-k-no/photo.jpg"/>
+
+  <item  group="美食" name="夢幻廚房在我家" type="yt" draw="dreamchefhome.webp" show="true" link="UCUz5OVO4aYhfur0R-TCaBtg"
+	 url="https://yt3.ggpht.com/a-/AAuE7mBce3517hMKEUUfc8yCzgjknH8BiYwzki9pYA=s%d-c-k-no"
+	 description="跟著影音學做菜"/>
+  <item  group="美食" name="大師來上菜" type="ytItem" show="true" link="PLxs0zPb8D0BzpMQ0CDdDNsvCOPDrrsg7a"
+    url="https://i.ytimg.com/vi/jMtZ_6_DwxU/mqdefault.jpg"
+    description="美味生活HowLiving"/>
+  <item  group="美食" name="小高姐" type="yt" show="true" link="UCCKlp1JI9Yg3-cUjKPdD3mw"
+	 url="https://yt3.ggpht.com/a-/AN66SAz9xaHqgWmDlGWNb7ZK9RqN3cyxJ2HjiMEkmg=s%d-c-k-no"
+	 description="製作很多西安美食"/>
+  <item  group="美食" name="曼食慢語" type="yt" draw="amandaslittlekitchen.webp" show="true" link="UCmXkJ9ReY5hjvYPcnmBwing"
+	 url="https://yt3.ggpht.com/a-/AN66SAyR1pccBz3JjXhfDscKuJKwCgJTNqZLFX9vWw=s%d-c-k-no"
+	 description="Amanda的小厨房"/>
+  <item  group="美食" name="烘焙甜點手作坊" type="yt" draw="Weichi.webp" show="true" link="UCqPUL8iNYux30OnvZEm-fow"
+	 url="https://yt3.ggpht.com/a-/AN66SAzMOWx-GJa2bJN7_OJ34OlN_W_q7Zgag8xZqg=s%d-c-k-no"
+	 description="熱愛甜點的高中生"/>
+  <item  group="美食" name="楊桃美食網" type="yt" draw="ytower01.webp" show="true" link="UCctVKh07hVAyQtqpl75pxYA"
+	 url="https://yt3.ggpht.com/-euuR016v2rw/AAAAAAAAAAI/AAAAAAAAAAA/Pqwm0agDMvA/s%d-c-k-no/photo.jpg"
+	 description="華文最強食譜資訊"/>
+  <item  group="美食" name="回家吃飯" type="ytItem" draw="dailydietofficia.webp" show="true" link="PLoFgjsHU7UTBO8NGpUNPMIPxpvP-fZcvm"
+	 url="https://yt3.ggpht.com/a-/AN66SAyCuOB0_gNsFwqNKqxegyUc2clbs6BCAmaVxg=s%d-c-k-no"
+	 description="CCTV美食頻道"/>
+  <item  group="美食" name="美食台 Food Video" type="yt" draw="FoodVideo.webp" show="true" link="UCJsq4QYu9BaxXDk0qR8Ms3w"
+	 url="https://yt3.ggpht.com/-05k45XsGjZA/AAAAAAAAAAI/AAAAAAAAAAA/pZCbiQzO_s8/s%d-c-k-no/photo.jpg"/>
+  <item  group="美食" name="美食好簡單" type="ytItem" show="true" link="PLtww_vcpAB8qvxQkGzyN4Y2FldfIY2IwX"
+	 url="https://i.ytimg.com/vi/JOpnKKCjJ_I/mqdefault.jpg"
+	 description="台視官方頻道"/>
+  <item  group="美食" name="食尚玩家" type="yt" draw="shshangwanjia.webp" show="true" link="UC00wMIWR48SYidE6jmpL7Qg"
+	 url="https://yt3.ggpht.com/-0AGfBUkhxrU/AAAAAAAAAAI/AAAAAAAAAAA/jzoMZWK67_I/s%d-c-k-no/photo.jpg"
+	 description="吃喝玩樂一手包辦"/>
+  <item  group="美食" name="田园时光" type="yt" draw="MsCnck.webp" show="true" link="UCEkG-qWrskKVdawEFA99koA"
+	 url="https://yt3.ggpht.com/a-/AN66SAyk3nGLDSRLnpRaxS3VxCOglMtEzPogChUecw=s%d-c-k-no"/>
+  <item  group="美食" name="甜悦下午茶" type="yt" draw="tinrry2013.webp" show="true" link="UCkcl1RXQtnd5ZKCEPLHvX1Q"
+	 url="https://yt3.ggpht.com/a-/AN66SAwXaxvnbjymp2DNdcTG5mCJC0ZlJNEQd3RCGA=s%d-c-k-no"
+	 description="Tinrry下午茶西點烘培"/>
+  <item  group="美食" name="琳達公主的廚房" type="yt" draw="linda1224.webp" show="false" link="UCtyoVKfoboHxDN4BYDMRXxg"
+	 url="https://yt3.ggpht.com/a-/AN66SAzT8CERBIKi4JqcsjGnH6GEv6wzmbRTH8S_Hg=s%d-c-k-no"/>
+  <item  group="美食" name="韓國媳婦凱莉之料理女王" type="yt" draw="KellyseoulKR.webp" show="false" link="UCco6Epuz5S3_crW-9cZQuGw"
+	 url="https://yt3.ggpht.com/a-/AN66SAzQY36qFAguoMb1R6isnqmGsxVuAWt5CfAJbA=s%d-c-k-no"/>
+  <item  group="美食" name="客庄好味道" type="ytItem" show="false" link="PLzgAweye8Ud5mlJXYNoec-y_GMXNuiakI"
+    url="https://yt3.ggpht.com/-O3tRg2i13n0/AAAAAAAAAAI/AAAAAAAAAAA/xFnatqA3vI8/s%d-c-k-no/photo.jpg"/>
+  <item  group="美食" name="型男大主廚" type="ytItem" show="true" link="PLNQ_xa7e46qbns3nNIvOSUl_10AgqiWvD"
+  	url="https://yt3.ggpht.com/-2GkixxJSCbw/AAAAAAAAAAI/AAAAAAAAAAA/XCRCxSr-aD0/s%d-c-k-no/photo.jpg"
+  	description="曾國城、五熊、詹姆士"/>
+  <item  group="美食" name="食在料理王" type="ytItem" show="false" link="PLzgAweye8Ud41zt_0Cs_koIcf8DJbUgJp"
+  	url="https://i.ytimg.com/vi/TxIKGIADbG4/mqdefault.jpg"/>
+  <item  group="美食" name="麵包機美食" type="combo" show="false" link="['yt#PLfUi6IrkT16h3nMZsFK4SXCNmg18dyrW6','yt#PLeQPzbZ-cT3H25pGueHe2NXz_Qrh896zO','yt#PLNRLcf3nNowoVh51VQ6vfXaB5_vXZyTAM','yt#PLtFSmaNWLyvw2GmCl4LHmBHw8XRmJE0vO']"
+    url="https://i.ytimg.com/vi/2g93lx64UYQ/mqdefault.jpg"/>
+  <item  group="美食" name="大胃王密子君" type="ytItem" show="false" link="PLC2-B3ykfgJECfParQXUlVuMRaogJEoP2"
+    url="https://yt3.ggpht.com/-V_0vq5doAnA/AAAAAAAAAAI/AAAAAAAAAAA/zITQZHYfkQw/s%d-c-k-no/photo.jpg"/>    
+  <item  group="美食" name="花樣妹妹 共40集2018" type="combo" show="false" sort="no" link="['ok#11606']"
+ 	 url="http://pic.china-gif.com/pic/upload/vod/2018-04/152301600011.jpg"/>
+  <item  group="美食" name="非凡大探索" type="ytItem" show="true" link="PLSg6_lakxpXEVXMGs8ihevmAL5iTK_ELg"
+	url="https://i.ytimg.com/vi/m61uQMDkptQ/mqdefault.jpg"
+	description="USTV 非凡電視"/>
+  <item  group="美食" name="黄小厨的春夏秋冬" type="ytItem" show="false" link="PLMX26aiIvX5rhJ41cRZRUgdYQRUQ04B3C"
+	url="https://i.ytimg.com/vi/hdRDViv6GE0/mqdefault.jpg"/>
+  <item  group="美食" name="白種元三大天王" type="ytItem" show="false" link="PLkbeiMZ67fh9cqqA_soSM5Rdq2yJ9kfIh"
+	url="https://yt3.ggpht.com/a-/AAuE7mAQXUTKUUpQ5_HBnRCw5-xOvQj53DbNp5q7wg=s%d-c-k-no"/>
+  <item  group="美食" name="咖啡廳遊牧民族" type="web" draw="cafenomad.webp" show="false"
+	 link="https://cafenomad.tw/" url="https://cafenomad.tw/apple-touch-icon.png"/>
+  <item  group="美食" name="台灣夜市地圖" type="browser" draw="twnightmarket.webp" show="false"
+	 link="https://www.google.com/maps/d/embed?mid=1KslcquNpR57IbKJbZ14_wbk-Z4g"
+	 url="https://cdn.pixabay.com/photo/2015/06/05/10/35/dishes-798316_960_720.png"/>
+
+  <item  group="音樂" name="熱門音樂" type="ytItem" mix="true" draw="hot_music.webp" show="true" link="PLFgquLnL59amN9tYr7o2a60yFUfzQO3sU"
+	 url="https://yt3.ggpht.com/0v8T0CTAv8VPxA5lJtz-tqJe-tR-3VQc0ONhD6Az2RWjNRnwh5QQzPYz5I7wbYljU_tQjZ2ok2W59_v_=s%d-nd-c-k-no"
+	 description="Youtube自動產生主題頻道"/>
+  <item  group="音樂" name="台灣點歌王" type="web" draw="songcorp.webp" show="true"  ckaddr="youtu.be"
+	 link="https://song.corp.com.tw/company.aspx?company=%E9%9F%B3%E5%9C%93"
+	 url="https://song.corp.com.tw/images/org_180.png"
+	 description="支援觸屏、滑鼠"/>
+  <item  group="音樂" name="台灣那麼旺" type="ytItem" draw="ya1650.webp" show="true" link="PLU4sOKAxAVf0wY1124O3f8GacGz1sRno8"
+	url="https://i.ytimg.com/vi/9c__7DDoCMA/mqdefault.jpg"/>
+  <item  group="音樂" name="我是歌手.五" type="dm" draw="changhung882.webp" show="false" link="user/qq81538946"
+	 url="https://yt3.ggpht.com/-R6LVBmeA37c/AAAAAAAAAAI/AAAAAAAAAAA/2STC3R2hBRU/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="中國好聲音" type="ytItem" mix="true" draw="VoiceOfChina.webp" show="true" link="PLx7bDGpUCq3je8UkiHfoVYAjl_i-DSx29"
+     url="https://yt3.ggpht.com/iBGWAVasVocKUy3SQZB8_-kCLSI3UaXiUGq7kw7UEKNtGpoxBoTiLGuCtg9OoBaGOYcMpd71JGJyb_wC1A=s%d"/>
+  <item  group="音樂" name="滾石唱片" type="yt" draw="RockRecordsTaipei.webp" show="true" link="UCPcF3KTqhD67ADkukx_OeDg"
+	 url="https://yt3.ggpht.com/-_XspBkMxqcw/AAAAAAAAAAI/AAAAAAAAAAA/Z6xnWUNaC2c/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="華研國際" type="yt" draw="HIMservice.webp" show="true" link="UCCsUQXwhDj4iVlhG4VCq6Kg"
+	 url="https://yt3.ggpht.com/-yv9zsQgSxy4/AAAAAAAAAAI/AAAAAAAAAAA/kY4wSfZOZF8/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="華納音樂" type="yt" draw="warnertaiwan.webp" show="true" link="UCStpPtoeQUYII1Jsbl0qf8A"
+	 url="https://yt3.ggpht.com/-qplfSA593G0/AAAAAAAAAAI/AAAAAAAAAAA/rMSJjih3qtE/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="相信音樂" type="yt" draw="binmusictaipei.webp" show="true" link="UC7ovu6a8ydIbDy0fAKmoZ9A"
+	 url="https://yt3.ggpht.com/-mPzdsfu8Foo/AAAAAAAAAAI/AAAAAAAAAAA/iU7838SA9bs/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="風潮音樂" type="yt" draw="windmusictv.webp" show="false" link="UCyyL7g6miayh6i73ISnhweQ"
+	 url="https://yt3.ggpht.com/-XSNDboBgQf0/AAAAAAAAAAI/AAAAAAAAAAA/sTUx0EeQYUM/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="環球華語音樂" type="yt" draw="universaltwn.webp" show="true" link="UCgQ8olRhkepJWlVF9IVmPGQ"
+	 url="https://yt3.ggpht.com/-UO5TDB0Ef5I/AAAAAAAAAAI/AAAAAAAAAAA/EnJH46WqrK4/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="福茂唱片" type="yt" draw="linfairrecords.webp" show="true" link="UCEsinqZjZ11w0T9ZvyKIr6A"
+	 url="https://yt3.ggpht.com/-QFpiOaLqz94/AAAAAAAAAAI/AAAAAAAAAAA/B7cGk9IItfs/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="海蝶音樂" type="yt" draw="oceanbutterfliesus.webp" show="true" link="UCQLXNMjfZXnEEGYqVwX2CoA"
+	 url="https://yt3.ggpht.com/-A9jZCmskIso/AAAAAAAAAAI/AAAAAAAAAAA/ilvPYuSXcqI/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="豐華唱片" type="yt" draw="fowrmusic.webp" show="true" link="UCWuxankMMiLybinHy9JgP8w"
+	 url="https://yt3.ggpht.com/-adDJh-j4LmI/AAAAAAAAAAI/AAAAAAAAAAA/sGf_Qn192YI/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="種子音樂" type="yt" draw="seedmusic2008.webp" show="true" link="UCzlIY_B9uPngUnRMtVVaGsg"
+	 url="https://yt3.ggpht.com/-UUj_nqY-4Fo/AAAAAAAAAAI/AAAAAAAAAAA/wnXGvhv9QSs/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="華特國際音樂" type="yt" draw="watermusictaiwan.webp" show="false" link="UC8XxOBkde9S2A0IEbPk_4PQ"
+	 url="https://yt3.ggpht.com/-gJ6XmNP4I-M/AAAAAAAAAAI/AAAAAAAAAAA/AT12QBEmbzI/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="江蕙影片" type="ytItem" mix="true" draw="JodyChiang.webp" show="false" link="PL5wXtAkBXzlxAG5UD0ScEyZdOMvE33IxC"
+     url="https://yt3.ggpht.com/oR1RV8aP37Kq7PPQc_I-HQkPAkNsOclD24myUr_6k1532n-Yxbh6cFkvWCTM6o1riUGFj6QUq2uxZm6oU_0=s%d"/>
+  <item  group="音樂" name="費玉清影片" type="ytItem" mix="true" draw="feiyuching.webp" show="true" link="PLgad1f2XE3j_58zG4kJ3R0jMZJHqJyUMl"
+     url="https://yt3.ggpht.com/wP6huoZhQZX1lzoGdmm0hCCCejQIadgLcK2Bxpso1BNFCIXC0N6tu9ts1s1DwWj4YW6RxEH1atGWW26x=s%d"/>
+  <item  group="音樂" name="豪記唱片" type="yt" draw="HCMMUSIC.webp" show="true" link="UCd7PrpU3WR60jMEZu4rCqzg"
+	 url="https://yt3.ggpht.com/-BxsZv7oOYD4/AAAAAAAAAAI/AAAAAAAAAAA/3NEln-40JVE/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="台灣古早老歌" type="yt" draw="tzen04.webp" show="false" link="UCOOrEcscYc4GoW16wvNIavg"
+	 url="https://yt3.ggpht.com/-m9TwvPyAZ9M/AAAAAAAAAAI/AAAAAAAAAAA/eihjYCmAwTw/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="台版老歌謠" type="yt" draw="aho0501.webp" show="false" link="UC6gremq54rL_oEFGcL1URZA"
+	 url="https://yt3.ggpht.com/-RCFjyHl8rNA/AAAAAAAAAAI/AAAAAAAAAAA/3JSPobq8e2k/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="鏡音樂坊" type="yt" draw="kagaminelab.webp" show="false" link="UCkQEvmyRb9kxKN2j8_hiEXg"
+	 url="https://yt3.ggpht.com/-EibVWBXDSKQ/AAAAAAAAAAI/AAAAAAAAAAA/uvzPe4ZKj1g/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="翻唱组合" type="yt" draw="walkofftheearth.webp" show="false" link="UC9PEibgWOqZ-1I1JdxRmr6g"
+	 url="https://yt3.ggpht.com/-ZdG3S9N6o84/AAAAAAAAAAI/AAAAAAAAAAA/U8GZEFGREIc/s%d-c-k-no/photo.jpg"/>
+  <item  group="音樂" name="自學吉他" type="yt" draw="MusicianStory.webp" show="false" link="UCtKkGPhvBZkJfxDnVJBrKIg"
+	 url="https://yt3.ggpht.com/a-/AN66SAz2nw6mDTfdJhEzMnVbqriUOsAC2NplId1JPQ=s%d-c-k-no"/>
+  <item  group="音樂" name="吉他日誌" type="yt" draw="ice75127.webp" show="false" link="UCoL2HJk-0Dj2cGBUmClPL_w"
+	 url="https://yt3.ggpht.com/a-/AN66SAyV6BxJMUGVgR4rXUECG8XBMfGINXbjGlfEug=s%d-c-k-no"/>
+	 
+  <item  group="新知" name="公共電視-我們的島" type="yt" draw="ourislandTAIWAN.webp" show="true" link="UCiNrmbGfxRnzVVqg4a9banQ"
+	 url="https://yt3.ggpht.com/-g9aIpRU1okQ/AAAAAAAAAAI/AAAAAAAAAAA/nOx5JbUOa6g/s%d-c-k-no/photo.jpg"
+	 description="忠實紀錄台灣環境"/>
+  <item  group="新知" name="DiscoveryTV" type="yt" draw="DiscoveryTV.webp" show="true" link="UC9cGX5x0_EXkdfmWlvPbu3g"
+	 url="https://yt3.ggpht.com/-fnnLbbYK1m4/AAAAAAAAAAI/AAAAAAAAAAA/zBps1RCdAN8/s%d-c-k-no/photo.jpg"
+	 description="Enjoy clips and exclusives"/>
+  <item  group="新知" name="文茜世界週報" type="ytItem" show="true" refresh="true" link="PLvHT0yeWYIuDkHl6gRVymeM01ZqgvgMuY"
+	url="https://i.ytimg.com/vi/oPIyv4GUCcQ/mqdefault.jpg"
+	description="Sisy's World News"/>
+  <item  group="新知" name="中天調查報告" type="ytItem" show="false" refresh="true" link="PL539E75CF591F8885"
+    url="https://i.ytimg.com/vi/q9lqOXuiOeM/mqdefault.jpg"/>
+  <item  group="新知" name="民視異言堂" type="ytItem" show="true" refresh="true" link="PL7B80AAB72C739F7F"
+    url="https://i.ytimg.com/vi/SDXqZYvxdjA/mqdefault.jpg"/>
+  <item  group="新知" name="台灣演義" type="ytItem" show="false" refresh="true" link="PLf2VRok0uRO2bH10tnVg9rWCIGeddXcSk"
+    url="https://i.ytimg.com/vi/EV2ejJ4IvJs/mqdefault.jpg"/>
+  <item  group="新知" name="臺北市立動物園" type="yt" draw="taipeizoo.webp" show="true" link="UCPDobokK10J8jnDtGgdyDtg"
+	 url="https://yt3.ggpht.com/-QhXC2x3nhUo/AAAAAAAAAAI/AAAAAAAAAAA/nDhVkE_t7tA/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="泛科學" type="rss" draw="pansci.webp" show="false"
+	 link="http://pansci.tw/feed"
+	 url="http://pansci.tw/wp-content/uploads/2013/08/logo2.png"/>
+  <item  group="新知" name="郝廣才,改變世界的密碼" type="ytItem" show="false" link="PLu_yoBy_pbO3Yi-GS1Jk6exWwXxbhvyrn"
+	url="https://i.ytimg.com/vi/JkE10J4I7pY/mqdefault.jpg"/>
+  <item  group="新知" name="健康智慧王" type="ytItem" show="false" link="PLHCwVsO5oxdMsbuqrqVBDOOMHXhcsNrx6"
+    url="https://i.ytimg.com/vi/VtQAlLTm5sc/mqdefault.jpg"/>
+  <item  group="新知" name="健康醫療網" type="rss" draw="healthnews.webp" show="true"
+	 link="http://www.healthnews.com.tw/news_rss_ok.php"
+	 url="http://www.healthnews.com.tw/images/healthnews.gif"/>
+  <item  group="新知" name="別讓身體不開心" type="ytItem" show="false" link="PLDiUzuRBeOAp-KXl_wscqb9oPY_8R1KY0"
+	url="https://yt3.ggpht.com/-2hbC749KEqE/AAAAAAAAAAI/AAAAAAAAAAA/fuOEB6gWbnA/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="金牌大健諜" type="ytItem" show="true" link="PLOZoSpUQ3v6KUTt1ziZLgtN6yTRuMXMc7"
+	url="https://yt3.ggpht.com/-1yhWqUd4nNQ/AAAAAAAAAAI/AAAAAAAAAAA/8ul1FjYLeec/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="直擊生產線" type="ytItem" show="false" link="PLSg6_lakxpXF8aNAfuvlzDye_6ge1v9Uy"
+	url="https://i.ytimg.com/vi/G4Ikl-EiHYc/mqdefault.jpg"/>
+  <item  group="新知" name="流言追追追1-6季" type="ytItem" show="false" link="PLR9-cXLksRCspL-dly1lchdQY3gjEpyhC"
+  	url="https://i.ytimg.com/vi/2HTOmIo7MTA/mqdefault.jpg"/>
+  <item  group="新知" name="下課花路米" type="ytItem" show="false" link="PLR9-cXLksRCspBKpofNXxIRllKlqgJDzC"
+   	url="https://i.ytimg.com/vi/RBD3SZfaYPk/mqdefault.jpg"/>
+  <item  group="新知" name="消費高手一起購" type="yt" draw="Pure17Go.webp" show="false" link="UC3jCTk3HIC7hMJBFsYjeW3g"
+	 url="https://yt3.ggpht.com/-Vd1i_YU-sWY/AAAAAAAAAAI/AAAAAAAAAAA/Q0BsX5xwy4Q/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="手機評測" type="yt" draw="PhoneArena.webp" show="false" link="UCwPRdjbrlqTjWOl7ig9JLHg"
+	 url="https://yt3.ggpht.com/-syRRbWWssG8/AAAAAAAAAAI/AAAAAAAAAAA/Xo690THAArQ/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="美妝達人" type="yt" draw="MichellePhan.webp" show="false" link="UCuYx81nzzz4OFQrhbKDzTng"
+	 url="https://yt3.ggpht.com/-tXL4ywC60FY/AAAAAAAAAAI/AAAAAAAAAAA/0YRMBFvAsCo/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="從頭到腳" type="yt" draw="frmheadtotoe.webp" show="true" link="UCecyOxHZpL3yfNFaUz2W_Ow"
+	 url="https://yt3.ggpht.com/-gRLRpMyEcP0/AAAAAAAAAAI/AAAAAAAAAAA/76P4KCRBKuI/s%d-c-k-no/photo.jpg"
+	 description="Beauty blogger"/>
+  <item  group="新知" name="非常異視界" type="ytItem" show="false" link="PLiiLHhcKicMxN7rL48R2fkX1Dnja_3KqF"
+     url="https://i.ytimg.com/vi/xZHtHf8MKGE/mqdefault.jpg"/>
+  <item  group="新知" name="新聞龍捲風" type="ytItem" show="true" link="PLVPDn9uRR66WXqkZ0U2RdZIKlesWnz2P-"
+     url="https://yt3.ggpht.com/-vX8I7o30nvE/AAAAAAAAAAI/AAAAAAAAAAA/wSxGVfOonMs/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="恐怖在線" type="yt" draw="edmondpoonhk.webp" show="false" link="UCMC8hUqLiADZOhnBV5pue4Q"
+	 url="https://yt3.ggpht.com/-08d-VIxa68A/AAAAAAAAAAI/AAAAAAAAAAA/jkRu8yFBrc4/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="INFINI HD 4K" type="yt" draw="dan201.webp" show="false" link="UCUFNaNGi3lnBPq4gtdfJCAA"
+	 url="https://yt3.ggpht.com/-UKLXRaEtDpI/AAAAAAAAAAI/AAAAAAAAAAA/xCBcwJSZ7_w/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="地球黃金線" type="ytItem" show="true" link="PLxNhZ2zIJ34u-EquNuVRJD_twbBx719WH"
+	 url="https://yt3.ggpht.com/-J__rAUzs4No/AAAAAAAAAAI/AAAAAAAAAAA/qWYoqfm_pKc/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="一手車訊" type="yt" draw="carcarnews.webp" show="false" link="UC7PYlhGzPIc10qHwlYtHdZA"
+	 url="https://yt3.ggpht.com/-DGbGiwryBW4/AAAAAAAAAAI/AAAAAAAAAAA/So_7nJJJCQ0/s%d-c-k-no/photo.jpg"/>
+  <item  group="新知" name="Go車誌" type="yt" draw="buycartv.webp" show="true" link="UC-MByr5LRnWmVN94Ija4XJg"
+	 url="https://yt3.ggpht.com/-OO5JQwU4q5E/AAAAAAAAAAI/AAAAAAAAAAA/-BVf77Xx96g/s%d-c-k-no/photo.jpg"
+	 description="汽車影音資訊"/>
+  <item  group="新知" name="男人幫" type="yt" draw="FHMTW.webp" show="true" link="UC8Gm6D9Y1iS1tHMrT-Mc9jw"
+	 url="https://yt3.ggpht.com/-jdgtefUoFfs/AAAAAAAAAAI/AAAAAAAAAAA/1-DLyVCQ2ss/s%d-c-k-no/photo.jpg"
+	 description="FOR HIM MAGAZINE"/>
+  <item  group="新知" name="中時醫藥健康" type="rss" draw="newspaper.webp" show="false"
+	 link="http://www.chinatimes.com/rss/want-daily-health.xml"
+	 url="https://cdn2.iconfinder.com/data/icons/social-buttons-2/512/newspaper-128.png"/>
+  <item  group="新知" name="黃帝內經-百家講壇" type="ytItem" show="false" link="PLDWq0rdWH5wz40o7gn2-pJmxlptDI3vJd"
+     url="https://i.ytimg.com/vi/rODYyUboT20/mqdefault.jpg"/>
+  <item  group="新知" name="郝萬山傷寒論" type="ytItem" show="false" link="PLBD8144D3157C499D"
+     url="https://i.ytimg.com/vi/HZ0ZczuJylQ/mqdefault.jpg"/>
+  <item  group="新知" name="脈診診療" type="ytItem" show="false" link="PLAaq0Tsnbi19Q8zemlTRCqqNoWsWC8W7Y"
+     url="https://i.ytimg.com/vi/fO19bt5zOGc/mqdefault.jpg"/>
+  <item  group="新知" name="鬼手武醫" type="yt" show="false" link="UCzfxxdF1g0J_QZCNFz5XPww"
+     url="https://yt3.ggpht.com/a-/AN66SAw8ZwC9kZtcuX8onhi70ed_BqdzeTA4csSWCQ=s%d-c-k-no"/>
+  <item  group="新知" name="整脊正骨復位" type="ytItem" show="false" link="PLl5NJ5KNDspZuNt7Ckfk3UQOtep2Pj281"
+     url="https://i.ytimg.com/vi/9gJBF8bypNQ/mqdefault.jpg"/>
+  <item  group="新知" name="脊椎側彎協會" type="ytItem" show="false" link="PLRGHEtOi7231g_q8fAsHn121eS3fx4zXH"
+     url="https://i.ytimg.com/vi/jNv1wWuYsqg/mqdefault.jpg"/>
+  <item  group="新知" name="推拿按摩" type="ytItem" show="false" link="PLLChe13RHJuWFDB9Dh5EBWnKDv5rdQRoc"
+     url="https://i.ytimg.com/vi/IjGuogJhCzM/mqdefault.jpg"/>
+  <item  group="新知" name="太極正骨法" type="yt" show="false" link="UCWfeuLOwj6A5GVCf5aYYbqQ"
+     url="https://i.ytimg.com/vi/0DgRCAu_9LM/mqdefault.jpg"/>
+     
+  <item  group="體育" name="體育焦點新聞" type="ytItem" show="true" link="PL4Yp_5ExVAU0GI6RQ2MvOabByKv5KXAv7"
+	 url="https://yt3.ggpht.com/aPy5C6iJOyFjDsYlkQD5j3G8pYecBo3R3_a6MjQrOpRfGvDukQUzwbU6cBw5uxc8kocPrNGIUjCjLrDDpA=s%d-nd-c-k-no"
+	 description="Youtube自動產生主題頻道"/>
+  <item  group="體育" name="緯來體育台" type="yt" draw="vlsports.webp" show="true" link="UC3P83RUWwKbZ4bkhNti4ZuQ"
+	 url="https://yt3.ggpht.com/-EqZjuKNfAAc/AAAAAAAAAAI/AAAAAAAAAAA/PhJi6grRXw4/s%d-c-k-no/photo.jpg"
+	 description="台灣專業的體育頻道"/>
+  <item  group="體育" name="愛爾達體育家族" type="yt" draw="ELTASPORTSHD.webp" show="true" link="UCCQvP4hsRW9emj0meGk15jg"
+	 url="https://yt3.ggpht.com/-fUHuX97vizI/AAAAAAAAAAI/AAAAAAAAAAA/q31moyzFiYE/s%d-c-k-no/photo.jpg"
+	 description="愛爾達電視台"/>
+  <item  group="體育" name="中華職棒CPBL" type="yt" draw="cpblofficial.webp" show="false" link="UCDt9GAqyRzc2e5BNxPrwZrw"
+	 url="https://yt3.ggpht.com/-R7iRrhsqNTU/AAAAAAAAAAI/AAAAAAAAAAA/vWmV_jIK-uI/s%d-c-k-no/photo.jpg"/>
+  <item  group="體育" name="ABL澳洲職棒" type="ytItem" show="false" link="PLYiPrBHMJXa7OcNQim9iJtMr1NGIRTs0a"
+     url="https://i.ytimg.com/vi/WClZAtaDLDQ/mqdefault.jpg"/>
+  <item  group="體育" name="羽球Badminton" type="yt" draw="victorsportglobal.webp" show="false" link="UCrqFPpQO2xEN52RTiu9RR2w"
+	 url="https://yt3.ggpht.com/a-/AN66SAyI3E7XHcsgkGEpqG96cKjVaPpAm-_rSo7peg=s%d-c-k-no"/>
+  <item  group="體育" name="雅加達-巨港亞運" type="ytItem" show="false" link="PLDB8ct-UxVommN_7aLe9iObuqZdS5icaT"
+  	 url="https://yt3.ggpht.com/a-/AAuE7mCWtBgHV-D0cfFqOGeyft6FVFeWPFsr42Cc=s%d-c-k-no"/>
+  <item  group="體育" name="Vogue 健身教室" type="ytItem" show="false" refresh="true" link="PLOAJtSxO04pzlO6FjWx47AsSUWrtihmfP"
+    	 url="https://yt3.ggpht.com/a-/AAuE7mDCToHWBHREsP0gjWwIAijO6VOFN2SneJqCWA=s%d-c-k-no"/>
+  <item  group="體育" name="鄭多燕減肥瘦身操" type="ytItem" show="false" link="PLNbSNja9pEjYpwZ1JLbCzrh7Bu18rNrIw"
+    	 url="https://yt3.ggpht.com/a-/AAuE7mDdV6w2HRarIyhF6lYSQFa-EzHfsSkPkD8kRA=s%d-c-k-no"/>
+  <item  group="體育" name="快樂來運動" type="ytItem" show="false" refresh="true" link="PLi0ZZWlxtL4ERXWMLAMdrWhBiJ3hrFmDV"
+    	 url="https://yt3.ggpht.com/a-/AAuE7mCc5berbLrkH-EHv8eg_N9OPHqZ4iD1wRG8gg=s%d-c-k-no"/>
+  <item  group="體育" name="運動Play吧" type="ytItem" show="false" refresh="true" link="PLDB8ct-UxVokZPphJiwjEHuZc15k_f4dw"
+  	 url="https://i.ytimg.com/vi/nQuIhxWlHiw/mqdefault.jpg"/>
+  <item  group="體育" name="中時體育電子報" type="rss" draw="chinatimes_ii.webp" show="false"
+	 link="http://www.chinatimes.com/rss/realtimenews-sport.xml"
+	 url="http://icons.iconarchive.com/icons/musett/coffee-shop/128/Newspaper-icon.png"/>
+  <item  group="體育" name="華視運動新聞" type="rss" draw="tbscts_cdn.webp" show="false"
+	 link="http://news.cts.com.tw/rss/sports.xml"
+	 url="https://cdn2.iconfinder.com/data/icons/e-commerce-icons-2/256/Ecommerce_Icons_Rose_Color-45-128.png"/>
+  <item  group="體育" name="自由時報體育" type="rss" draw="freenewpaper.webp" show="false"
+	 link="http://news.ltn.com.tw/rss/sports.xml"
+	 url="https://cdn3.iconfinder.com/data/icons/alien/128/news.png"/>
+  <item  group="體育" name="奇摩體育新聞" type="rss" draw="yahoo_news_cdn.webp" show="false"
+	 link="https://tw.news.yahoo.com/rss/sports"
+	 url="https://cdn1.iconfinder.com/data/icons/3in1-social-media-piconic/512/696415-yahoo-128.png"/>
+  <item  group="體育" name="批踢踢NBA" type="web" draw="ptt_NBA.webp" show="false"
+	 link="https://www.ptt.cc/bbs/NBA"
+	 url="http://ibb.com.tw/images/ptt-hot-boards-02.png"
+	 description="PTT看板 NBA"/>
+	 
+  <item  group="教育" name="華視教學" type="yt" draw="ctseducation.webp" show="true" link="UC56wjbQvOLl6FKoCXv04tfQ"
+	 url="https://yt3.ggpht.com/-0PaeQ6TN-vk/AAAAAAAAAAI/AAAAAAAAAAA/RyHml-eqjwM/s%d-c-k-no/photo.jpg"
+	 description="空專、空院"/>
+  <item  group="教育" name="公視兒少" type="yt" draw="gwpw.webp" show="true" link="UCUK0qeXwXSu_sZukMo-gwpw"
+	 url="https://yt3.ggpht.com/-HeVHH0XUpH4/AAAAAAAAAAI/AAAAAAAAAAA/rO0IvV99rhY/s%d-c-k-no/photo.jpg"
+	 description="兒少節目"/>
+  <item  group="教育" name="阿滴英文" type="yt" draw="adi.webp" show="true" link="UCeo3JwE3HezUWFdVcehQk9Q"
+	 url="https://yt3.ggpht.com/-MtThWopqVpk/AAAAAAAAAAI/AAAAAAAAAAA/49-MlDLjqXk/s%d-c-k-no/photo.jpg"
+	 description="主題分享英文"/>
+  <item  group="教育" name="VoiceTube TV" type="yt" draw="VoiceTubetv.webp" show="false" link="UCa99X86NjYZzhz__nLKgPPg"
+	 url="https://yt3.ggpht.com/-tETyyo0Wd08/AAAAAAAAAAI/AAAAAAAAAAA/xwp0wlLzeY8/s%d-c-k-no/photo.jpg"/>
+  <item  group="教育" name="林函臻 Regina Lin" type="yt" draw="reginalin0803.webp" show="false" link="UCX1uHDthIb06UlL72GOZFhA"
+	 url="https://yt3.ggpht.com/-E9acnUDY05Q/AAAAAAAAAAI/AAAAAAAAAAA/AMJNAg4Xd64/s%d-c-k-no/photo.jpg"/>
+  <item  group="教育" name="Rachel 英文老師" type="yt" draw="rachelsenglish.webp" show="true" link="UCvn_XCl_mgQmt3sD753zdJA"
+	 url="https://yt3.ggpht.com/-cW3PdWJ6oUk/AAAAAAAAAAI/AAAAAAAAAAA/hESQ2xV6DDs/s%d-c-k-no/photo.jpg"
+	 description="Rachel's English"/>
+  <item  group="教育" name="Ronnie 英文學習" type="yt" draw="EnglishLessons4U.webp" show="true" link="UC4cmBAit8i_NJZE8qK8sfpA"
+	 url="https://yt3.ggpht.com/-JobG09RDhg0/AAAAAAAAAAI/AAAAAAAAAAA/m86B7f7v23A/s%d-c-k-no/photo.jpg"
+	 description="Free English"/>
+  <item  group="教育" name="Benjamin 英國腔" type="yt" draw="EnglishBenjamin.webp" show="false" link="UCrBhVZa7t7D5tZ979eBqO9g"
+	 url="https://yt3.ggpht.com/-symfarw5-Mk/AAAAAAAAAAI/AAAAAAAAAAA/CcG5gGp6XSY/s%d-c-k-no/photo.jpg"/>
+  <item  group="教育" name="Duncan教英語" type="yt" draw="duncaninchina.webp" show="true" link="UC8pPDhxSn1nee70LRKJ0p3g"
+	 url="https://yt3.ggpht.com/-JtRMyAgEXXI/AAAAAAAAAAI/AAAAAAAAAAA/aaN-IV31DOQ/s%d-c-k-no/photo.jpg"
+	 description="Misterduncan"/>
+  <item  group="教育" name="真實初學英語" type="yt" draw="realenglish1.webp" show="false" link="UCUqbE6Sd6DW6M6ZBkZFDfmA"
+	 url="https://yt3.ggpht.com/-pFDZd2Y6FZY/AAAAAAAAAAI/AAAAAAAAAAA/rXCwzeorWOE/s%d-c-k-no/photo.jpg"/>
+  <item  group="教育" name="兒童學英文" type="yt" draw="british.webp" show="false" link="UC-qWJlvaPME3MWvrY-yjXeA"
+	 url="https://yt3.ggpht.com/-Wk6NXGS1pAk/AAAAAAAAAAI/AAAAAAAAAAA/nBondFZLttw/s%d-c-k-no/photo.jpg"/>
+  <item  group="教育" name="商用英文學習" type="yt" draw="bizpod.webp" show="true" link="UCIiFsAO2Gh_vu8OStpjl16A"
+	 url="https://yt3.ggpht.com/-n-qGLLzQg6I/AAAAAAAAAAI/AAAAAAAAAAA/E-gaPWB-OPI/s%d-c-k-no/photo.jpg"
+	 description="ESL Business English"/>
+  <item  group="教育" name="TED talks" type="yt" draw="tedtalk.webp" show="true" link="UCAuUUnT6oDeKwE6v1NGQxug"
+	 url="https://yt3.ggpht.com/-bonZt347bMc/AAAAAAAAAAI/AAAAAAAAAAA/lR8QEKnqqHk/s%d-c-k-no/photo.jpg"
+	 description="ideas worth spreading"/>
+	 
+  <item  group="創作" name="IEP DIE WEP" type="yt" draw="PewDiePie.webp" show="true" link="UC-lHJZR3Gqxm24_Vd_AJ5Yw"
+	 url="https://yt3.ggpht.com/-rJq9gk1QIis/AAAAAAAAAAI/AAAAAAAAAAA/Kx4wkvKOfxY/s%d-c-k-no/photo.jpg"
+	 description="PewDiePie"/>
+  <item  group="創作" name="SMOSH" type="yt" draw="smosh.webp" show="false" link="UCY30JRSgfhYXA6i6xX1erWg"
+	 url="https://yt3.ggpht.com/-AufHIQ3sLmM/AAAAAAAAAAI/AAAAAAAAAAA/hPFE6k06-Ls/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="SMOSH中文字幕" type="yt" draw="HCHS63rdWilsonZombie.webp" show="true" link="UCX4mrio01mLc8NhThmYYadw"
+	 url="https://yt3.ggpht.com/-hdQFZj58UGo/AAAAAAAAAAI/AAAAAAAAAAA/bR6Vj6m_o_k/s%d-c-k-no/photo.jpg"
+	 description="Smosh主頻道"/>
+  <item  group="創作" name="老外看中國" type="yt" draw="Laowaikanzhongguo.webp" show="false" link="UCZZslGLyRd2rbnF07SVoouA"
+	 url="https://yt3.ggpht.com/-vLfSz1mmTuQ/AAAAAAAAAAI/AAAAAAAAAAA/MZVIxCq-j9k/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="阿兜仔不教美語" type="yt" draw="noldoazul.webp" show="false" link="UCYgpfeq5JyEo_pPmu-4VLiA"
+	 url="https://yt3.ggpht.com/-c7JMSjGK1ps/AAAAAAAAAAI/AAAAAAAAAAA/1AsexDrBgOM/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="蔡阿嘎" type="yt" draw="kyoko38.webp" show="false" link="UCPwxSX0DYDMQxCvgfeVDv_g"
+	 url="https://yt3.ggpht.com/-yJntIumko7E/AAAAAAAAAAI/AAAAAAAAAAA/1M3Sz0Apjl8/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="這群人" type="yt" draw="e84768131.webp" show="false" link="UC6FcYHEm7SO1jpu5TKjNXEA"
+	 url="https://yt3.ggpht.com/-31_h3-f0YEQ/AAAAAAAAAAI/AAAAAAAAAAA/ZTuEzWs6A8c/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="反骨男孩" type="yt" draw="KEVIN0204660.webp" show="true" link="UCEfetJrzg6OcXWWuX8uhdhw"
+	 url="https://yt3.ggpht.com/-Vk92QYvyY04/AAAAAAAAAAI/AAAAAAAAAAA/bPGcxFDaeR0/s%d-c-k-no/photo.jpg"
+	 description="一群愛搞怪的人"/>
+  <item  group="創作" name="万万没想到" type="yt" draw="wwmxd.webp" show="false" link="UC-sS4rKtwVFRY_k832uqHtQ"
+	 url="https://yt3.ggpht.com/-wnX-lInKe7A/AAAAAAAAAAI/AAAAAAAAAAA/RAmyf3NGLTo/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="酷瞧Coture" type="yt" draw="Coture.webp" show="false" link="UC9vKieCml-9Eg__oPhkYA5A"
+	 url="https://yt3.ggpht.com/-2-580ihIurA/AAAAAAAAAAI/AAAAAAAAAAA/D3_vV4CLefE/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="在不瘋狂就等死" type="yt" draw="crazydead.webp" show="true" link="UCqAYPUHgXuzsNlYNIzItfAQ"
+	 url="https://yt3.ggpht.com/-1i2CemKb_SQ/AAAAAAAAAAI/AAAAAAAAAAA/g6qVyzmv_-g/s%d-c-k-no/photo.jpg"
+	 description="狂人娛樂"/>
+  <item  group="創作" name="不要鬧" type="yt" draw="Stopkiddinstudio.webp" show="false" link="UCBgdVDkSsiPBVop4-Ms0ihQ"
+	 url="https://yt3.ggpht.com/-TER0YoYWtwE/AAAAAAAAAAI/AAAAAAAAAAA/usvRXZuxIP8/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="英雄日常" type="yt" draw="herosbaga.webp" show="false" link="UCRNsqNFhDF8exJpwQuCOXqw"
+	 url="https://yt3.ggpht.com/-0dYfLXga6EA/AAAAAAAAAAI/AAAAAAAAAAA/i9AkTpxwryw/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="JennaMarbles" type="yt" draw="JennaMarbles.webp" show="false" link="UC9gFih9rw0zNCK3ZtoKQQyA"
+	 url="https://yt3.ggpht.com/-34FbM3JM5Ck/AAAAAAAAAAI/AAAAAAAAAAA/qVlymUN44C8/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="Equals Three" type="yt" draw="RayWilliamJohnson.webp" show="false" link="UCGt7X90Au6BV8rf49BiM6Dg"
+	 url="https://yt3.ggpht.com/-70csHdsIFaA/AAAAAAAAAAI/AAAAAAAAAAA/GKYBS8_Thuc/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="RocketJump" type="yt" draw="freddiew.webp" show="false" link="UCDsO-0Yo5zpJk575nKXgMVA"
+	 url="https://yt3.ggpht.com/-XqVmWd8zqUc/AAAAAAAAAAI/AAAAAAAAAAA/5nkBsZfPDys/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="EPIC RAP BATTLES" type="yt" draw="ERB.webp" show="false" link="UCMu5gPmKp5av0QCAajKTMhw"
+	 url="https://yt3.ggpht.com/-D2GJNJR41jM/AAAAAAAAAAI/AAAAAAAAAAA/9ast1AAjluw/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="TheEllenShow" type="yt" draw="TheEllenShow.webp" show="false" link="UCp0hYYBW6IMayGgR-WeoCvQ"
+	 url="https://yt3.ggpht.com/-dDZUkj9sY4g/AAAAAAAAAAI/AAAAAAAAAAA/oy6dm2Uy8dc/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="adoramaTV" type="yt" draw="adoramaTV.webp" show="false" link="UC8Pksdbj37CdE00kmE7Z1dw"
+	 url="https://yt3.ggpht.com/-1Y8x3MKEQJA/AAAAAAAAAAI/AAAAAAAAAAA/QIjFzrRKiHs/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="A Jie動漫評論" type="yt" draw="JEI1125.webp" show="false" link="UCd4JzeAkgTsyJDEkWC11PoA"
+	 url="https://yt3.ggpht.com/-TDFj9KzozpY/AAAAAAAAAAI/AAAAAAAAAAA/lascS1pythY/s%d-c-k-no/photo.jpg"/>
+  <item  group="創作" name="開心劇樂部" type="ytItem" show="false" sort="no" link="PLmHvcli_9mkQZIZGi9PjkO0Sdf4jSAy0l"
+ url="https://i.ytimg.com/vi/NfxYYRgEDWQ/mqdefault.jpg"/>
+
+  <item  group="戲劇" name="⚽達意影視" type="web" draw="dayica.webp" show="false" link="http://www.dayi.ca" ckaddr="dayi.*?p="
+  	ckiframe="p.dayi-visited a[href~=(STD)]"
+  	url="http://www.dayi.ca/wp-content/uploads/2014/12/dayi-logo1.png"/>
+  <item  group="戲劇" name="⚽中國人線上看" type="web" draw="chinaq.webp" show="false" link="http://www.chinaq.me/kr"
+  	ckaddr="chinaq\..+?/.+?/.+?/"
+  	url="http://csdnimg.cn/public/favicon.ico"/>
+  <item  group="戲劇" name="⚽PlayQ線上看" type="web" draw="eyesplay.webp" show="false" link="http://www.playq.org" ckaddr="/ep[0-9]+\.php"
+  	url="http://www.playq.org/favicon.ico"/>
+  <item  group="戲劇" name="⚽DramaQ線上看" type="web" draw="dramaq.webp" show="false" link="http://www.dramaq.cc" ckaddr="/ep[0-9]+\.php"
+  	url="http://www.dramaq.cc/images/dramaq-header.png"/>
+  <item  group="戲劇" name="⚽伊莉影片區" type="web" draw="video_eyny.webp" show="true" link="http://video.eyny.com/"
+    ckaddr="watch\?v=" ckiframe="video#mediaplayer source[src]"
+    url="http://a0.att.hudong.com/27/42/20300001128119136308428788756_s.jpg"
+    description="EYNY伊莉影片"/>
+  <item  group="戲劇" name="⚽OK資源網" type="web" draw="okzyzy.webp" show="false" link="http://www.okzy.co/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
+    url="http://www.okzy.me/template/okokzy/images/logo.png"/>
+  <item  group="戲劇" name="⚽永久雲資源" type="web" draw="yongjiuzy.webp" show="true" link="http://www.yongjiuzy.cc/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
+    url="http://www.yongjiuzy.cc/template/35zy/images/logo.png"
+    description="永久云资源影片"/>
+  <item  group="戲劇" name="⚽最大資源" type="web" draw="zuidazy.webp" show="false" link="http://www.zuida.me/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
+    url="http://www.zuida.me/template/ziyuan3/images/logo.png"/>
+  <item  group="戲劇" name="⚽酷雲資源" type="web" draw="zuidazy.webp" show="false" link="http://kuyunzyw.net/list/?1.html" ckaddr="detail/?"
+    url="https://kuyunzy.vip/template/default/images/logo.png"/>
+  <item  group="戲劇" name="⚽LINE TV" type="web" draw="line_tv.webp" show="false" link="https://tv.line.me/c/drama/channels"
+    ckaddr="tv\.line\.me/v/" url="https://img.isuper.tv/live-tv/channel/line-tv-live.jpg"/>
+  <item  group="戲劇" name="⚽陸劇追劇" type="web" show="false" sort="title" draw="cn_tvshows.webp" link="http://feeds.feedburner.com/cn_tvshows?format=xml"
+  	ckaddr="\.mei.*/shows"
+  	url="http://downloadicons.net/sites/default/files/windows-media-player-logo-icon-66463.png"/>
+  <item  group="戲劇" name="⚽影視娛樂快播" type="web" show="false" sort="title" draw="tv8fun.webp" link="http://tv8.fun/category/flashtv"
+  	ckaddr="tv8.fun/" ckiframe="div.entry-content iframe[src~=(STD)]"
+  	url="http://pics.sc.chinaz.com/Files/pic/icons128/6085/tv13.png"/>
+  <item  group="戲劇" name="⚽韓劇網" type="web" draw="twkorean.webp" show="false" link="http://www.twkor.com"
+  	ckaddr="player.*html$" ckiframe="div.playleft embed[src], div.playleft video[src], div.playleft iframe[src]"
+  	url="http://twkor.com/images/logoa.gif"/>
+
+  <item  group="戲劇" name="⚽韓劇追劇" type="web" show="false" sort="title" draw="kreandrama.webp" link="http://feeds.feedburner.com/kreandrama?format=xml"
+  	ckaddr="\.mei.*/shows"
+    url="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/128/Korea-Flag-icon.png"/>
+  <item  group="戲劇" name="⚽日劇追劇" type="web" show="false" sort="title" draw="jp_tvshows.webp" link="http://feeds.feedburner.com/jp_tvshows?format=xml"
+  	ckaddr="\.mei.*/shows"
+    url="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/128/Japan-Flag-icon.png"/>
+
+  <item  group="戲劇" name="⚽骨朵傳媒排行榜" type="web" draw="guduomedia.webp" show="false" link="https://d.guduodata.com" ckaddr="guduodata.com/m/show/detail"
+  	 url="http://static.guduomedia.com/gd_logo.png"/>
+  <item  group="戲劇" name="⚽PTT娛樂區" type="web" draw="pttent.webp" show="false" link="https://pttent.com" ckaddr="youtube"
+  	 url="https://4.bp.blogspot.com/-8cJCGr5pIks/XCGtupFbYMI/AAAAAAAAAnc/5VfVvQ8YDMYZufIKK5HParpjfR9uzeaDQCEwYBhgL/s320/pptent.jpg"
+  	 description="PTT看板 娛樂區列表"/>
+    
+  <item  group="經典" name="春風愛河邊 60全2017" type="ytItem" show="false" sort="no" link="PL8MwjIpV5cFVgruHt1IoZvKSB2ZpSnVI-"
+ 	 url="https://i.ytimg.com/vi/6HEK744hzA4/mqdefault.jpg"/>
+  <item  group="經典" name="阿爸的願望 30全" type="ytItem" show="false" sort="no" link="PL2FfYhEj_1e6TkR8M7DUXvKlutPGNOqra"
+  	 url="https://i.ytimg.com/vi/FV6cFMICE2M/mqdefault.jpg"/>
+  <item  group="經典" name="甘味人生 491全" type="ytItem" show="false" sort="no" link="PLE6ICy7YAcNZdAgb6GWXe1d2P6GwhXQY_"
+  	 url="https://i.ytimg.com/vi/MquEppE8lkg/mqdefault.jpg"/>
+  <item  group="經典" name="春花望露 341全" type="ytItem" show="false" sort="no" link="PL02zpjjwMEjqFm_yxJrorkFxJrpsDALyB"
+     url="https://i.ytimg.com/vi/F1hcRLx7wao/mqdefault.jpg"/>
+  <item  group="經典" name="一家人 2017" type="ytItem" show="false" sort="no" link="PLE6ICy7YAcNaOF9Cuc2YBQRM7vZJyWx4W"
+	 url="https://yt3.ggpht.com/-0jK-IhklOYU/AAAAAAAAAAI/AAAAAAAAAAA/rh4LLgUgExg/s%d-c-k-no/photo.jpg"/>
+  <item  group="經典" name="牡丹花開 100全2017" type="ytItem" show="false" sort="no" link="PLtww_vcpAB8q99nRUbEwdqblYXkZOr-CL"
+     url="https://i.ytimg.com/vi/Nm5BMLRJnF8/mqdefault.jpg"/>
+  <item  group="經典" name="我的老師叫小賀 444全2017" type="ytItem" show="false" sort="no" link="PL02zpjjwMEjq6BTXjukFc3e4ylsYzXkif"
+	 url="https://i.ytimg.com/vi/DhbShONEBRQ/mqdefault.jpg"/>
+  <item  group="經典" name="媽媽不見了" type="ytItem" show="false" sort="no" link="PL02zpjjwMEjrJlMSkjg09erM2BC96upAX"
+     url="https://i.ytimg.com/vi/-iLBJNtCJZw/mqdefault.jpg"/>
+  <item  group="經典" name="台灣奇案 I" type="ytItem" show="false" sort="title" link="PL02zpjjwMEjrB6DUsTJFKLT53Rib4e-2-"/>
+  <item  group="經典" name="台灣奇案 II" type="ytItem" show="false" sort="title" link="PL02zpjjwMEjrVoMeQP5fXtqUW5fmhrc37"/>
+  <item  group="經典" name="戲說台灣" type="yt" draw="TWSuperTV.webp" show="true" link="UCfaFHYv9wZ_UUOPSzwRbSMg"
+	url="https://yt3.ggpht.com/-mKEdjIprrC8/AAAAAAAAAAI/AAAAAAAAAAA/Sbda-pOeuvo/s%d-c-k-no/photo.jpg"
+	description="台灣民間故事"/>
+  <item  group="經典" name="我和我母親" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHzdIXs3kCQxrG1NfVLDvZp0"
+ 	url="https://i.ytimg.com/vi/XGaaAelLgU4/mqdefault.jpg"/>
+  <item  group="經典" name="那一年鳳凰花開時" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHzmS9n-a2sKCDvtdbnoPcgl"
+ 	url="https://i.ytimg.com/vi/_ggW7Ko_wVE/mqdefault.jpg"/>
+  <item  group="經典" name="春風伴我行" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHz_td0YxYEKGzHsKD6X1WQi"
+ 	url="https://i.ytimg.com/vi/d_6HtI0w5Ks/mqdefault.jpg"/>
+  <item  group="經典" name="碧海映藍天" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHw-4sqAvrUYSF7d0Sftp_K7"
+ 	url="https://i.ytimg.com/vi/_G7vuaXKedY/mqdefault.jpg"/>
+  <item  group="經典" name="愛主的心願" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHyeuJaCuBFud69SZh69cNmN"
+ 	url="https://i.ytimg.com/vi/62QE5Ba7aRk/mqdefault.jpg"/>
+  <item  group="經典" name="春子" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHyYqfId5iUvNRd8dON2IW0Y"
+ 	url="https://i.ytimg.com/vi/LqzZqYeD1Z8/mqdefault.jpg"/>
+  <item  group="經典" name="玫瑰瞳鈴眼" type="ytItem" show="false" sort="title" link="PLtww_vcpAB8rPl-wvYOlB_LRSxNboql6Q"/>
+  <item  group="經典" name="台灣風雲" type="ytItem" show="false" sort="title" link="PLtww_vcpAB8qjU49h3OmTQ_w_xZeuBSp7"/>
+  <item  group="經典" name="藍色蜘蛛網" type="ytItem" show="false" sort="title" link="PLtww_vcpAB8pfC7IGf_95nKpMu-HmxsNt"
+  	url="https://i.ytimg.com/vi/3gYfzWIvaKA/mqdefault.jpg"/>
+  <item  group="經典" name="霹靂布袋戲" type="yt" draw="pili.webp" show="false" sort="no" link="UCgXjKdruFuLXv9X2FK6_Q7w"
+	 url="https://yt3.ggpht.com/-hprrCT_N9Tc/AAAAAAAAAAI/AAAAAAAAAAA/Hei2yDVeiU0/s%d-c-k-no/photo.jpg"/>
+  <item  group="經典" name="加油！美玲" type="ytItem" show="false" sort="title" link="PLtww_vcpAB8o-WgqFM8ZZn-1T9_B1qbs8"
+	 url="https://i.ytimg.com/vi/jwlnOqinrLw/mqdefault.jpg"/>
+  <item  group="經典" name="多桑の純萃年代" type="yt" draw="UCT1N38wSEHLSq7wYJSrNOcw.webp" show="false" sort="no" link="UCT1N38wSEHLSq7wYJSrNOcw"
+	 url="https://yt3.ggpht.com/-oHevDOQKRuY/AAAAAAAAAAI/AAAAAAAAAAA/GDgziACOjWk/s%d-c-k-no/photo.jpg"/>
+  <item  group="經典" name="來自未來的史密特" type="ytItem" show="false" sort="title" link="PLeuPaltH7SfF9NePkWYUOIMZU85IF8jfM"/>
+  <item  group="經典" name="麵包樹上的女人" type="ytItem" show="false" sort="title" link="PLeuPaltH7SfFrZRxMptvXh5WWyLmounLh"/>
+  <item  group="經典" name="幸福之約" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHxivbnidjoxG2-B4XbFq1b4"
+ 	url="https://i.ytimg.com/vi/pRF5AlBacmo/mqdefault.jpg"/>
+  <item  group="經典" name="稻香家味" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHyxZAd4w7YGu2nb1266Tmjp"
+ 	url="https://i.ytimg.com/vi/aKqg52Xj6rY/mqdefault.jpg"/>
+  <item  group="經典" name="純美時光" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHyCMW74Y4ms_YAhVQQ0CP_q"
+ 	url="https://i.ytimg.com/vi/vgNN3tyTJ6Q/mqdefault.jpg"/>
+  <item  group="經典" name="酸甜之味" type="maple" show="false" sort="title" link="酸甜之味" />
+  <item  group="經典" name="大三元" type="ytItem" show="false" sort="title" link="PLKG9jhFHRLwyTxvpp2TrCJedRR1BcVVPu"
+ 	url="https://i.ytimg.com/vi/5qZJuC3FRTU/mqdefault.jpg"/>
+  <item  group="經典" name="阿寬" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHxOn43Ts0gwfX6uj2HBNS4n"/>
+  <item  group="經典" name="臺灣植劇場" type="ytItem" draw="TaiwanDrama.webp" show="false" sort="title" link="PLnctVR_Jfn7PJ5K-Hfe9gBwnkM5pw13Np"
+	 url="https://yt3.ggpht.com/-U0GyHRv2RIo/AAAAAAAAAAI/AAAAAAAAAAA/Zt8SO3K_ScI/s%d-c-k-no/photo.jpg"/>
+  <item  group="經典" name="愛 來的剛好" type="ytItem" show="false" sort="title" link="PLl2tYmXaN6qummsNMOqzcgkgCwHpbtnsd"
+ 	url="https://i.ytimg.com/vi/lTjG9WrPLaU/mqdefault.jpg"/>
+  <item  group="經典" name="琅琊榜" type="combo" show="true" sort="title" link="['ok#4539','yt#PLf7jU5YdQ7ly7HSnixI3Mm0-EjeQ7J_xl']"
+ 	url="https://i.ytimg.com/vi/X1tZCWYuSGM/mqdefault.jpg"
+ 	description="愛爾達綜合台"/>
+  <item  group="經典" name="瑯琊榜2之風起長林 50全2017" type="combo" show="false" sort="no" link="['ok#4619','135#4795','yj#5690','131#9193','thread-3771.htm']"
+    url="https://i.ytimg.com/vi/-xIyldJlLx4/mqdefault.jpg"/>
+  <item  group="經典" name="楚喬傳 67全2017" type="combo" show="false" sort="no" link="['ky#117','dayi.ca/?p=165747']"
+ url="https://i.ytimg.com/vi/rPUp4_nkpv4/mqdefault.jpg"/>
+  <item  group="經典" name="三生三世十里桃花 2017" type="combo" show="false" sort="title" link="['ok#14344','131#1275','thread-2047.htm','dayi.ca/?p=165285']"
+ 	url="http://www.juqingba.cn/uploads/allimg/161007/16_161007100921_1.jpg"/>
+  <item  group="經典" name="我的前半生 42全2017" type="combo" show="false" sort="no" link="['ok#909','thread-2902.htm','dayi.ca/?p=186329']"
+	url="http://www.dayi.ca/wp-content/uploads/2017/06/%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F.jpg"/>
+  <item  group="經典" name="那年花開月正圓 74全2017" type="combo" show="false" sort="no" link="['yj#1192','bw#5018','thread-3265.htm','mei#333175','dayi.ca/?p=191310']"
+ 	url="https://i.ytimg.com/vi/G2YJcsXNe5Q/mqdefault.jpg"/>
+  <item  group="經典" name="芈月傳" type="ytItem" show="false" sort="no" link="PLf7jU5YdQ7lwsXOeDU-P9pwKuUPK1xeTV"
+ 	url="https://i.ytimg.com/vi/hAhu_PH_dqM/mqdefault.jpg"
+ 	description="愛爾達綜合台"/>
+  <item  group="經典" name="甄嬛傳" type="combo" show="false" sort="no" link="['yj#13063','kb#8964','ok#12518']"
+ 	url="http://img.zxziyuan.com/images/upload/vod/2018-06-15/152904206912.jpg"/>
+  <item  group="經典" name="延禧攻略" type="combo" show="false" sort="no" link="['yj#12811','131#16223','bw#16298']"
+ 	url="https://i.ytimg.com/vi/tr_R9s7gMgk/mqdefault.jpg"/>
+  <item  group="經典" name="如懿傳" type="combo" show="false" sort="no" link="['yj#13881','131#17333','bw#17193','ok#18599']"
+ 	url="https://i.ytimg.com/vi/5feBdku0GjM/mqdefault.jpg"/>
+  <item  group="經典" name="鹿鼎記" type="ytItem" show="false" sort="title" link="PLHljQIk6QUw_-yEXx33A3K7sIXXaYEZfn"/>
+  <item  group="經典" name="陸小鳳與花滿樓2015" type="ytItem" show="false" sort="title" link="PLf7jU5YdQ7lyuAxLVfOYc7mgyYG27ErkZ"/>
+  <item  group="經典" name="新醉打金枝" type="ytItem" show="false" sort="title" link="PLSIJismKOisEbSdby0r4IU2fEzzvO500G"/>
+  <item  group="經典" name="董鄂妃傳" type="ytItem" show="false" sort="title" link="PLeuPaltH7SfHQtk0-f-KB_ODCFRiI-y7s"/>
+  <item  group="經典" name="大秦帝國1-3" type="combo" show="false" sort="title" link="['ok#12880','ok#12964','ok#13733','131#1326','thread-1775.htm']"
+    url="http://www.juqingba.cn/uploads/allimg/160818/16_160818110715_1.jpg"/>
+  <item  group="經典" name="三國演義3D動畫 40全2017" type="combo" show="false" sort="no" link="['bw#10716','yt#PLNNKkgQ-e0TUvpmj44lcEGZaMzMh542hh','thread-3533.htm']"
+ 	url="https://i.ytimg.com/vi/x-7zhhAnABs/mqdefault.jpg"/>
+  <item  group="經典" name="司馬懿之軍師聯盟 42全2017" type="combo" show="false" sort="title" link="['131#2800','yj#4362','thread-2852.htm','dayi.ca/?p=165434']"
+	url="http://ww1.sinaimg.cn/large/7d172de2gy1fgtrc6adwpj208c0cit9y.jpg"/>
+  <item  group="經典" name="司馬懿之虎嘯龍吟 44全2017" type="combo" show="false" sort="title" link="['131#9708','yj#5304','thread-4262.htm','dayi.ca/?p=187791']"
+	url="http://ww1.sinaimg.cn/large/7d172de2gy1fm8kfgvuguj207i0anmxn.jpg"/>
+  <item  group="經典" name="隋唐演義" type="ytItem" show="true" sort="title" link="PLHndevUejuw4PjMj39z9QZgryN6f67x6_"
+   	description="永乐影视官方频道"/>
+  <item  group="經典" name="神鵰俠侶2014" type="ytItem" show="false" sort="title" link="PLf7jU5YdQ7lwuN7yq0NRVSgLZny9eOeCg"/>
+  <item  group="經典" name="笑傲江湖2013" type="ytItem" show="false" sort="title" link="PLe-IWkuj7NST4Q5n0EWvNOGoAvOSBZaPI"
+	url="https://i.ytimg.com/vi/kceury1fff4/mqdefault.jpg"/>
+  <item  group="經典" name="笑傲江湖(李亞鵬)" type="ytItem" show="false" sort="title" link="PLL7H7U6zd1f0IfK2LASb-E-vzq5R90OUm"
+   	description="热播剧场"/>
+  <item  group="經典" name="書劍恩仇錄 2009" type="combo" show="false" sort="no" link="['ky#14036']"
+	url="https://i.ytimg.com/vi/7DbrpUEwsGs/mqdefault.jpg"/>
+  <item  group="經典" name="夢斷紫禁城 48全" type="ytItem" show="false" sort="title" link="PLPMoq3bMKrKLYDrhvnMWqrrHnZQOlVvvY"
+ 	url="https://i.ytimg.com/vi/bAvSxZ_FNh8/mqdefault.jpg"
+   	description="NewTV经典剧场 Classic Drama"/>
+  <item  group="經典" name="絕命毒師1-5 2013(18+)" type="combo" show="false" sort="no" link="['ok#14334','ok#14335','ok#14336','ok#14338','ok#14339']"
+ 	url="http://pic.china-gif.com/pic/upload/vod/2018-05/15268931685.jpg"/>
+  <item  group="經典" name="絕命律師3-4 2018" type="combo" show="false" sort="no" link="['131#2154','131#16880']"
+ 	url="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2526785183.jpg"/>
+   <item  group="經典" name="超感獵殺/超感八人組1-3 2018" type="combo" show="false" sort="no" link="['ok#15230','ok#254','ok#15291']"
+ 	url="http://pic.china-gif.com/pic/upload/vod/2018-04/152283042210.jpg"/>
+  <item  group="經典" name="驚魂序曲/貝茲旅社1-5(12+)" type="combo" show="false" sort="no" link="['ok#20805','ok#20806','ok#20807','ok#20808','ok#139']"
+ 	url="http://pic.china-gif.com/pic/upload/vod/2017-09-11/150513102914.jpg"/>
+  <item  group="經典" name="冰與火之歌/權力遊戲1-8(18+)" type="combo" show="false" sort="no" link="['ok#1775','ok#1774','ok#1773','ok#1772','ok#1771','ok#1761','ok#1085','ok#31933']"
+ 	url="http://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2462245619.jpg"/>
+  <item  group="經典" name="陰屍路/行尸走肉1-9(18+)" type="combo" show="false" sort="no" link="['yj#2811','yj#2824','yj#2843','yj#2845','yj#2846','yj#2847','131#1928','yj#3577','yj#15195']"
+ 	url="http://ww1.sinaimg.cn/large/6b8ae5f3gy1fk3xaxppncj207g0b53yw.jpg"/>
+  <item  group="經典" name="紙鈔屋/紙房子1-2" type="combo" show="false" sort="no" link="['131#12201','131#12949','yj#9097','yj#9801']"
+ 	url="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505704270.jpg"/>
+    <item  group="經典" name="矽谷黑歷史1-5" type="combo" show="false" sort="no" link="['ok#14997','ok#14998','ok#14999','ok#214','ok#11012']"
+ 	url="http://pic.china-gif.com/pic/upload/vod/2018-06/201806051528187425.jpg"/>
+    <item  group="經典" name="黑鏡1-4" type="combo" show="false" sort="no" link="['ok#14949','ok#14950','ok#14951','ok#5431']"
+ 	url="http://pic.china-gif.com/pic/upload/vod/2018-06/201806041528089742.jpg"/>
+    <item  group="經典" name="西方極樂園/西部世界1-2(15+)" type="combo" show="false" sort="no" link="['131#3598','131#13268']"
+ 	url="http://ww1.sinaimg.cn/large/7d172de2gy1fhp9cwxpb4j208c0ccab4.jpg"/>
+    <item  group="經典" name="這就是我們/我们这一天1-3" type="combo" show="false" sort="no" link="['ok#20658','131#6345','131#18664']"
+ 	url="http://pic.china-gif.com/pic/upload/vod/2018-09/15379535217.jpg"/>
+
+  <item  group="電影" name="近期新片推薦" type="ytItem" show="true" link="PL316wRwpvsnGLncT6CHiy-mfibsREFDsF"
+	 url="https://yt3.ggpht.com/-j27YTxGrrpQ/AAAAAAAAAAI/AAAAAAAAAAA/Ws4MA2Dozlw/s%d-c-k-no/photo.jpg"/>
+  <item  group="電影" name="熱門影片" type="ytItem" show="true" sort="no" link="PLzjFbaFzsmMQ2AAzM2Y-ARGvMnQKyRaJw"
+	 url="https://yt3.ggpht.com/qgAMspKekhapIIu6oDpA1L9jTVqOdGsfRAV0UnNunasrAK7vmHAnF3roDJmcUUxWX0Asbzh1HTuGJIQ1Lw=s%d-c-k-no"
+	 description="Youtube自動產生主題頻道"/>
+  <item  group="電影" name="電影·拯救世界" type="ytItem" show="false" sort="no" link="PLhoZYEbHz0ub4QmYjPduJvxCrkgrtDugz"
+	 url="https://yt3.ggpht.com/a-/AAuE7mC8zoSXb3RhUT6lA9vED9_Mra6lsIYy_vGF8Q=s%d-c-k-no"/>
+  <item  group="電影" name="木魚水心影評" type="yt" draw="woodfish.webp" show="false" sort="no" link="UCYgbkPn7g6CZKAMn4cQavEw"
+	 url="https://yt3.ggpht.com/-kP4GltPrEMQ/AAAAAAAAAAI/AAAAAAAAAAA/BAiHVMEDGq8/s%d-c-k-no/photo.jpg"/>
+  <item  group="電影" name="阿斗講電影" type="yt" draw="hadou.webp" show="false" sort="no" link="UCohOr1LlszMeXkSPCU9T2ng"
+	 url="https://yt3.ggpht.com/-iC720nCvv-A/AAAAAAAAAAI/AAAAAAAAAAA/PjpcUMv4qC0/s%d-c-k-no/photo.jpg"/>
+  <item  group="電影" name="吐嚎影院影評" type="ytItem" show="false" sort="no" link="PLnXpj1ybs_Az6Cw-P-CEQoHDs70TJ8q4T"
+    url="https://yt3.ggpht.com/-Z7IJ6yPjsNE/AAAAAAAAAAI/AAAAAAAAAAA/40Ho7CDFR3A/s%d-c-k-no/photo.jpg"/>
+  <item  group="電影" name="華納兄弟電影預告" type="yt" draw="WarnerBrosPicturestw.webp" show="false" sort="no" link="UC8XIx0eSj0onoJXa2iG0Rmw"
+	 url="https://yt3.ggpht.com/-D0H2DTFXqa0/AAAAAAAAAAI/AAAAAAAAAAA/srhuIFhxuk8/s%d-c-k-no/photo.jpg"/>
+  <item  group="電影" name="環球影片預告" type="yt" draw="universal.webp" show="false" sort="no" link="UC0w338Zlnrm8rUXC1GB-FGQ"
+	 url="https://yt3.ggpht.com/-JSOzfPk6tSE/AAAAAAAAAAI/AAAAAAAAAAA/syRAKLwrYFM/s%d-c-k-no/photo.jpg"/>
+  <item  group="電影" name="中國電影頻道" type="ytItem" show="true" sort="no" link="PLOrf2h5ONlwXu7fe_KagfkPV7DnjQ1VSV"
+	 url="https://yt3.ggpht.com/a-/ACSszfHJJmb1NSaNY_Zzy46Jq5nhivHbh23mKFDTRA=s%d-c-k-no"/>
+  <item  group="電影" name="網絡大電影合輯" type="ytItem" show="false" sort="no" link="PLLKyHTcYW_dpYeiuAt8MGWZ7Jg-F1X_Kr"
+	 url="https://i.ytimg.com/vi/bGx7IfTvSjQ/mqdefault.jpg"/>
+  <item  group="電影" name="大陸熱播網絡大電影" type="ytItem" show="false" sort="no" link="PLJ_pg2zwDrtJadXn6ucsDihN_DL3ATxoN"
+	 url="https://i.ytimg.com/vi/615m41qNpAc/mqdefault.jpg"/>
+  <item  group="電影" name="溢彩-奇樹有魚" type="yt" draw="UCRTkc2rieI4PyS3nVDkxrNg.webp" show="false" sort="no" link="UCRTkc2rieI4PyS3nVDkxrNg"
+	 url="https://yt3.ggpht.com/-kdhq4eYDJhk/AAAAAAAAAAI/AAAAAAAAAAA/aPDHhbvKTNA/s%d-c-k-no/photo.jpg"/>
+  <item  group="電影" name="免費網絡電影" type="ytItem" draw="couplelove.webp" show="false" sort="no" link="PLc0alVh4YIpjc8RYWgh1NBa-I9E3bQfPn"
+	 url="https://yt3.ggpht.com/-llXUXN1b6d8/AAAAAAAAAAI/AAAAAAAAAAA/QrPshd4YDXE/s%d-c-k-no/photo.jpg"/>
+
+  <item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['ok#cid=12','135#cid=12','131#cid=12','yj#cid=12','cj#cid=12']"
+	 url="https://4.bp.blogspot.com/-BHwHUKwjpfM/W0BvGeyoQiI/AAAAAAAAAmk/aINkON5K2kImAWlGtQJPPlugDhhIC0GOQCLcBGAs/s320/luju.png"
+	 description="採集資源網ok,yj,131"/>
+  <item  group="網搜" name="網搜日本戲劇" type="tvGrid" draw="ribenju.webp" show="false" link="['ok#cid=17','yj#cid=14','135#cid=14','cj#cid=14','bw#cid=14']"
+	 url="https://4.bp.blogspot.com/-PBq1hGwuhww/WwGRiYx6G-I/AAAAAAAAAlA/eAHlAPv0QQgyvnoNhG7W5mpeQl4wDqtBQCLcBGAs/s320/wsjapandrema.png"
+	 description="採集資源網ok,yj,135"/>
+  <item  group="網搜" name="網搜韓國戲劇" type="tvGrid" draw="hanguoju.webp" show="false" link="['yj#cid=16','135#cid=17','cj#cid=17','bw#cid=17']"
+	 url="https://2.bp.blogspot.com/-plmzsIiN-Tk/WwGRieHPFNI/AAAAAAAAAlE/ID95TUx2aN4exr-AYk-P4KnzOEvPpMOpQCLcBGAs/s320/wskoreadrema.png"
+	 description="採集資源網yj,135,cj"/>
+  <item  group="網搜" name="網搜歐美戲劇" type="tvGrid" draw="oumeiju.webp" show="false" link="['yj#cid=15','135#cid=15','ok#cid=15']"
+	 url="https://1.bp.blogspot.com/-5qg0wo6WGks/WwGRhuncU8I/AAAAAAAAAk0/V7Md3xDWgik2qA2XAxBT3453q3IJXq_JwCLcBGAs/s320/wseouramericadrema.png"
+	 description="採集資源網yj,135,ok"/>
+  <item  group="網搜" name="網搜台灣戲劇" type="tvGrid" draw="taiju.webp" show="false" link="['yj#cid=17','ok#cid=16']" 
+	 url="https://2.bp.blogspot.com/-DFruZ4iwJZ4/WwGRjg2mIcI/AAAAAAAAAlM/IqSzXx67A34JWIzXS8pbQleC0U6nvGvIACLcBGAs/s320/wstaiwandrema.png"
+	 description="採集資源網yj,ok"/>
+  <item  group="網搜" name="網搜動漫" type="tvGrid" draw="dongmanju.webp" show="false" link="['yj#cid=4','135#cid=4','ok#cid=4']"
+	 url="https://2.bp.blogspot.com/-f_2cOxUS3lM/W0BqGIPV3xI/AAAAAAAAAmM/79XAzHvJR1kup1SDbFkSdpz-DUvddUf0ACLcBGAs/s320/dongman.png"
+	 description="採集資源網yj,135,ok"/>
+  <item  group="網搜" name="網搜綜藝節目" type="tvGrid" draw="zhongyiju.webp" show="false" link="['yj#cid=3','cj#cid=3','ok#cid=3','135#cid=3']"
+	 url="https://4.bp.blogspot.com/-Z2-9MU4BoXs/WwGRj-FK9mI/AAAAAAAAAlU/DQA0GCp3OskTQ_WH13yx3pyNE4ue_6SXwCLcBGAs/s320/wszhongyi.png"
+	 description="採集資源網yj,cj,ok"/>
+  <item  group="網搜" name="網搜喜劇電影" type="tvGrid" draw="yijudianying.webp" show="true" link="['ok#cid=6','135#cid=6','cj#cid=6','yj#cid=6']"
+	 url="https://1.bp.blogspot.com/-AzsR7ltXyfE/WwGRiOyTz2I/AAAAAAAAAk8/E3rod9u-BEMgjvyS7yaz88iUCGkTTRklACLcBGAs/s320/wsfunny.png"
+	 description="採集資源網ok,135,cj"/>
+  <item  group="網搜" name="網搜動作電影" type="tvGrid" draw="dongzhuodianying.webp" show="true" link="['ok#cid=5','135#cid=5','cj#cid=5','yj#cid=5']"
+	 url="https://3.bp.blogspot.com/-pxhxnUeAEKo/WwGRg_tcCpI/AAAAAAAAAkk/CPB6j4W6Mww2uLZuDo1tgNDppaZ6zvZHQCLcBGAs/s320/wsaction.png"
+	 description="採集資源網ok,135,cj"/>
+  <item  group="網搜" name="網搜劇情電影" type="tvGrid" draw="juqindianying.webp" show="false" link="['135#cid=10','ok#cid=10','yj#cid=10','cj#cid=10']"
+	 url="https://3.bp.blogspot.com/-yNunz27qJWo/WwGRhnx1zuI/AAAAAAAAAkw/lDU_ut6uZPcAHzq6HAE4aPW8nSYqqng2wCLcBGAs/s320/wsdremamov.png"
+	 description="採集資源網135,ok,yj"/>
+  <item  group="網搜" name="網搜科幻電影" type="tvGrid" draw="kuanhuandianying.webp" show="true" link="['135#cid=8','ok#cid=8','cj#cid=8','yj#cid=8']"
+	 url="https://2.bp.blogspot.com/-WDg0-ni4L0Q/WwGRjkzE7eI/AAAAAAAAAlQ/-R5VsaqY2pcrTGKgA8MhzbDhbeppV3QbgCLcBGAs/s320/wsscieace.png"
+	 description="採集資源網135,ok,cj"/>
+  <item  group="網搜" name="網搜愛情電影" type="tvGrid" draw="haiqindianying.webp" show="false" link="['ok#cid=7','135#cid=7','cj#cid=7','yj#cid=7']"
+	 url="https://1.bp.blogspot.com/-NdiuJpKLblI/WwGRi4CIgsI/AAAAAAAAAlI/oUeMmiyvuzM0opo8tFT5flMLDF7Jv12dACLcBGAs/s320/wslover.png"
+	 description="採集資源網ok,135,cj"/>
+  <item  group="網搜" name="網搜恐怖電影" type="tvGrid" draw="kongbudianying.webp" show="false" link="['135#cid=9','ok#cid=9','yj#cid=9','cj#cid=9']"
+	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
+	 description="採集資源網135,ok,yj"/>
+
+<set_pref ziyuan_path=['yj#$www.yongjiuzy.cc/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','131#$cj.131zy.net/inc/feifei3$131資源網','135#$cj.135zy.co/inc/feifei3$135資源網','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','cj#$www.caijizy.com/inc/feifei3$極速云','zx#$api.zuixinapi.com/inc/feifei3$最新源']/>
+<set_pref ziyuan_search=['yj#','ok#','131#','kb#','zx#']/>
+
+<gen_items cnt="12" group="戲劇" link="['yj#cid=12','131#cid=12','kb#cid=12','zx#cid=12&amp;p=2','131#cid=12&amp;p=2']"/>
+<gen_items cnt="3" group="日韓" link="['yj#cid=16','yj#cid=16&amp;p=2','bw#cid=17']"/>
+<gen_items cnt="3" group="日韓" link="['135#cid=14','bw#cid=14']"/>
+<gen_items append="['chinaq$http://www.chinaq.me$div.items.sizing a[href]']"/>
