@@ -1168,7 +1168,7 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網135,ok,yj"/>
 
-<set_pref ziyuan_path=['yj#$www.yongjiuzy.cc/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','131#$cj.131zy.net/inc/feifei3$131資源網','135#$cj.135zy.co/inc/feifei3$135資源網','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','cj#$www.caijizy.com/inc/feifei3$極速云','zx#$api.zuixinapi.com/inc/feifei3$最新源']/>
+<set_pref ziyuan_path=['yj#$cj.yongjiuzyw.com/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','131#$cj.131zy.net/inc/feifei3$131資源網','135#$cj.135zy.co/inc/feifei3$135資源網','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','cj#$www.caijizy.com/inc/feifei3$極速云','zx#$api.zuixinapi.com/inc/feifei3$最新源']/>
 <set_pref ziyuan_search=['yj#','ok#','131#','kb#','zx#']/>
 
 <gen_items cnt="12" group="戲劇" link="['yj#cid=12','131#cid=12','kb#cid=12','zx#cid=12&amp;p=2','131#cid=12&amp;p=2']"/>
