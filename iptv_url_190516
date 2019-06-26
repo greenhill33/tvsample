@@ -15,6 +15,7 @@
 常用電台,大愛電視台,http://61.58.60.230:9319/live/10.m3u8$$$hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv007&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,大愛二台,http://61.58.60.230:9319/live/191.m3u8$$$https://www.youtube.com/watch?v=aGmRaGyAU8s
 常用電台,TVBS歡樂台,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001693$json::url::msg"
+常用電台,三立都會台,"hget$://m.iptv444.com/?act=play&token=668841fe0f80f118375da9312af93ab4&tid=gt&id=43$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1"
 常用電台,CNEX紀實,http://61.58.60.230:9319/live/257.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001773$json::url::msg
 常用電台,東森亞洲,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv020&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html"
 常用電台,東森幼幼台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv021&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
@@ -62,7 +63,7 @@
 常用電台,靖天電影台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv061&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,优電影,https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8$$$https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 常用電台,好萊塢流行,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv034&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,HBO,"hget$://m.iptv444.com/?act=play&token=9753b206017d71375c4417f6132d6aee&tid=gt&id=28$reg::/play::.*?/play.*?(\?t.*?)"".*::http://api2.iptv888.com/play.m3u8$1$$$http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8"
+常用電台,HBO,"hget$://m.iptv444.com/?act=play&token=9753b206017d71375c4417f6132d6aee&tid=gt&id=28$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1$$$http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8"
 常用電台,CI罪案偵查,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv027&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,動作電影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 常用電台,Newtv明星大片,http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
@@ -75,8 +76,8 @@
 常用電台,五星體育,http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 常用電台,香港奇妙電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 常用電台,唐人經典台,http://174.127.67.246/live330/playlist.m3u8?$FitXY
-常用電台,鳳凰衛視中文,"hget$://m.iptv444.com/?act=play&token=dc9cf8b3879ed33e4a0441279ba2adb8&tid=gt&id=2$reg::/play::.*?/play.*?(\?t.*?)"".*::http://api2.iptv888.com/play.m3u8$1"
-常用電台,環球電視台,"hget$://m.iptv444.com/?act=play&token=0022e10111ea547a7017035b2982d6b1&tid=gt&id=29$reg::/play::.*?/play.*?(\?t.*?)"".*::http://api2.iptv888.com/play.m3u8$1"
+常用電台,鳳凰衛視中文,"hget$://m.iptv444.com/?act=play&token=dc9cf8b3879ed33e4a0441279ba2adb8&tid=gt&id=2$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1"
+常用電台,環球電視台,"hget$://m.iptv444.com/?act=play&token=0022e10111ea547a7017035b2982d6b1&tid=gt&id=29$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1"
 常用電台,新加坡新聞臺,http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 常用電台,新加坡頻道8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
