@@ -6,7 +6,7 @@
 常用電台,台視 HD,"https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8$$$hget$://m.iptv200.com/?act=play&token=17f48dd6e530e550753775bf45bc0b28&tid=gt&id=75$reg::/play::.*?/play.*?(\?t.*?)"".*::http://api2.iptv888.com/play.m3u8$1"
 常用電台,中視 HD,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv040&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html"
 常用電台,華視 HD,https://www.youtube.com/watch?v=TL8mmew3jb8
-常用電台,公視 HD,"hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
+常用電台,公視 HD,"https://www.youtube.com/watch?v=_isseGKrquc$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
 常用電台,公視二台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv107&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,公視戲劇,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv042&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,客家電視台,https://www.youtube.com/watch?v=q4RRxSSZfEI
