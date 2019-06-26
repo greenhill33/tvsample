@@ -76,7 +76,7 @@
 常用電台,五星體育,http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 常用電台,香港奇妙電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 常用電台,唐人經典台,http://174.127.67.246/live330/playlist.m3u8?$FitXY
-常用電台,鳳凰衛視中文,"hget$://m.iptv444.com/?act=play&token=dc9cf8b3879ed33e4a0441279ba2adb8&tid=gt&id=2$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1"
+常用電台,鳳凰衛視資訊,"hget$://m.iptv444.com/?act=play&token=fe5d2c78180b341fa467b366c91992cd&tid=gt&id=3$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1"
 常用電台,環球電視台,"hget$://m.iptv444.com/?act=play&token=0022e10111ea547a7017035b2982d6b1&tid=gt&id=29$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1"
 常用電台,新加坡新聞臺,http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 常用電台,新加坡頻道8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
