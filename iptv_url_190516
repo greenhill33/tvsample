@@ -6,9 +6,10 @@
 常用電台,台視 HD,"https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8"
 常用電台,中視 HD,"hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv040&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html"
 常用電台,華視 HD,https://www.youtube.com/watch?v=TL8mmew3jb8
-常用電台,公視 HD,"https://www.youtube.com/watch?v=_isseGKrquc$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
+常用電台,公視 HD,"https://www.youtube.com/watch?v=ED4QXd5xAco$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
 常用電台,公視二台,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv107&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,公視戲劇,hget$s://app.4gtv.tv/Data/HiNetGetChannelURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv042&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
+常用電台,公視台語台,https://www.youtube.com/watch?v=sHVv4H_mva0
 常用電台,客家電視台,https://www.youtube.com/watch?v=q4RRxSSZfEI
 常用電台,原住民電視台,"https://bcovlive-a.akamaihd.net/d25bdf194d374524a881126cb6fd3031/ap-northeast-1/5817780548001/playlist.m3u8"
 常用電台,人間衛視,hget$://www.bltv.tv/about/?f=audience$jsoup::source[src]
