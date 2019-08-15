@@ -16,7 +16,7 @@
 常用電台,中視新聞台,https://www.youtube.com/watch?v=8xkTsk5T_SY
 常用電台,華視新聞台,https://www.youtube.com/watch?v=TL8mmew3jb8
 常用電台,TVBS新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=11&clientId=$$$http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8"
-常用電台,三立新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=39&clientId=$$$hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1$$$http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8"
+常用電台,三立新聞台,"http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=39&clientId=$$$hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,中天新聞台,https://www.youtube.com/watch?v=wUPPkSANpyo
 常用電台,非凡新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27&clientId="
 常用電台,壹電視新聞,http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8$$$http://wowza4.nexttv.com.tw/liveedge/eratv2/chunklist.m3u8
@@ -31,10 +31,9 @@
 常用電台,優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 常用電台,全美台,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 常用電台,中天综合,http://198.16.106.58:8278/ctizhonghe/playlist.m3u8?tid=m02000000000012497296&ct=18032&tsum=aefc5e143197130c81bd5857a5f89307
-常用電台,三立戲劇台,http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
+常用電台,三立戲劇台,http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m02000000000010527727&ct=18032&tsum=c58a9aa7bad904b79fe7cccb04d7e158
 常用電台,三立綜合台,http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m02000000000017328101&ct=18032&tsum=a95904ef0276902aac85429552c61914
 常用電台,Gtv八大綜合,http://198.16.106.58:8278/badazhonghe/playlist.m3u8?tid=m02000000000011374017&ct=18032&tsum=21f8cd939b2a5109de4b3cb656cefee2
-常用電台,Gtv八大第1台,http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=m02000000000010410120&ct=18032&tsum=055aef0bb13ac1e927f118680b4ec78d
 常用電台,Gtv八大戲劇台,http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m02000000000010527727&ct=18032&tsum=c58a9aa7bad904b79fe7cccb04d7e158
 常用電台,東森洋片,http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=m02000000000013926527&ct=18032&tsum=7fa0f9b36f3c2f6f2913a720ad795285$FitXY
 常用電台,Elta綜合,http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
