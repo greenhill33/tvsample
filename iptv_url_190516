@@ -35,7 +35,6 @@
 常用電台,三立綜合台,http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m02000000000017328101&ct=18032&tsum=a95904ef0276902aac85429552c61914
 常用電台,Gtv八大綜合,http://198.16.106.58:8278/badazhonghe/playlist.m3u8?tid=m02000000000011374017&ct=18032&tsum=21f8cd939b2a5109de4b3cb656cefee2
 常用電台,Gtv八大戲劇台,http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m02000000000010527727&ct=18032&tsum=c58a9aa7bad904b79fe7cccb04d7e158
-常用電台,東森洋片,http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=m02000000000013926527&ct=18032&tsum=7fa0f9b36f3c2f6f2913a720ad795285$FitXY
 常用電台,Elta綜合,http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
 常用電台,Elta戲劇,http://198.16.106.58:8278/eltadrama_twn/playlist.m3u8?tid=m02000000000017968370&ct=18032&tsum=0918e7edb4e700da112c60d22e0aa4d5
 常用電台,愛爾達娛樂台,"hget$s://eltaott.tv/change_channel/play_v2$json::url"
