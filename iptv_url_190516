@@ -22,8 +22,8 @@
 常用電台,壹電視新聞,http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8$$$http://wowza4.nexttv.com.tw/liveedge/eratv2/chunklist.m3u8
 常用電台,寰宇新聞,hget$s://www.faintv.com.tw/asianewslivechannel/1$http://globalnewstv.com.tw/tvonline$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
-常用電台,東森新聞台,https://www.youtube.com/watch?v=dxpWqjvEKaM
-常用電台,東森財經新聞台,https://www.youtube.com/watch?v=2R0xV_F8I-4
+常用電台,東森新聞台,https://www.youtube.com/watch?v=RaIJ767Bj_M
+常用電台,東森財經新聞台,https://www.youtube.com/watch?v=qcDtcAK_hUg
 常用電台,三立iNEWS,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001843$json::url::msg$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,天空新聞,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 常用電台,澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8
@@ -31,8 +31,6 @@
 常用電台,優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 常用電台,全美台,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 常用電台,中天综合,http://198.16.106.58:8278/ctizhonghe/playlist.m3u8?tid=m02000000000012497296&ct=18032&tsum=aefc5e143197130c81bd5857a5f89307
-常用電台,三立戲劇台,http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m02000000000010527727&ct=18032&tsum=c58a9aa7bad904b79fe7cccb04d7e158
-常用電台,三立綜合台,http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m02000000000017328101&ct=18032&tsum=a95904ef0276902aac85429552c61914
 常用電台,Gtv八大綜合,http://198.16.106.58:8278/badazhonghe/playlist.m3u8?tid=m02000000000011374017&ct=18032&tsum=21f8cd939b2a5109de4b3cb656cefee2
 常用電台,Gtv八大戲劇台,http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m02000000000010527727&ct=18032&tsum=c58a9aa7bad904b79fe7cccb04d7e158
 常用電台,Elta綜合,http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
