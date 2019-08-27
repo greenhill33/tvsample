@@ -157,7 +157,7 @@
 	 link="https://ibank.firstbank.com.tw/NetBank/7/0201.html?sh=none"
 	 url="https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/a4/a8/48/a4a848e4-0db4-fe73-4938-5a3bee4272c0/source/180x180.jpg"/>
   <item  group="新聞" name="台鐵時刻表" type="web" draw="twtraffic.webp" show="true"
-	 link="http://twtraffic.tra.gov.tw/twrail/mobile/home.aspx"
+	 link="https://tip.railway.gov.tw/tra-tip-web/tip/tip001/tip112/gobytime"
 	 url="http://twtraffic.tra.gov.tw/twrail/mobile/images/TRA_Logo.png"/>
   <item  group="新聞" name="高鐵時刻表" type="web" draw="revision_logo.webp" show="true"
 	 link="https://m.thsrc.com.tw/tw/TimeTable/SearchResult"
