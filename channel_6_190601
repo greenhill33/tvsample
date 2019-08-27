@@ -155,7 +155,7 @@
 	 url="http://taichung.tranews.com/Show/images/News/63312_1.jpg"/>
   <item  group="新聞" name="貨幣匯率" type="web" draw="etnetbank.webp" show="true"
 	 link="https://ibank.firstbank.com.tw/NetBank/7/0201.html?sh=none"
-	 url="http://www.hitrust.com.tw/images/logos/LOGO003.jpg"/>
+	 url="https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/a4/a8/48/a4a848e4-0db4-fe73-4938-5a3bee4272c0/source/180x180.jpg"/>
   <item  group="新聞" name="台鐵時刻表" type="web" draw="twtraffic.webp" show="true"
 	 link="http://twtraffic.tra.gov.tw/twrail/mobile/home.aspx"
 	 url="http://twtraffic.tra.gov.tw/twrail/mobile/images/TRA_Logo.png"/>
@@ -601,9 +601,9 @@
   <item  group="美食" name="夢幻廚房在我家" type="yt" draw="dreamchefhome.webp" show="true" link="UCUz5OVO4aYhfur0R-TCaBtg"
 	 url="https://yt3.ggpht.com/a-/AAuE7mBce3517hMKEUUfc8yCzgjknH8BiYwzki9pYA=s%d-c-k-no"
 	 description="跟著影音學做菜"/>
-  <item  group="美食" name="大師來上菜" type="ytItem" show="true" link="PLxs0zPb8D0BzpMQ0CDdDNsvCOPDrrsg7a"
-    url="https://i.ytimg.com/vi/jMtZ_6_DwxU/mqdefault.jpg"
-    description="美味生活HowLiving"/>
+  <item  group="美食" name="美味生活" type="yt" show="true" link="UCsd3YtVFfGGTxtj98Hz-JvQ"
+         url="https://yt3.ggpht.com/a/AGF-l79zs77DCCvCoTUBhLVNE246ycyGx7eVp9t3Pg=s%d-c-k-no"
+        description="美味生活HowLiving"/>
   <item  group="美食" name="小高姐" type="yt" show="true" link="UCCKlp1JI9Yg3-cUjKPdD3mw"
 	 url="https://yt3.ggpht.com/a-/AN66SAz9xaHqgWmDlGWNb7ZK9RqN3cyxJ2HjiMEkmg=s%d-c-k-no"
 	 description="製作很多西安美食"/>
@@ -1103,6 +1103,8 @@
  	url="http://pic.china-gif.com/pic/upload/vod/2018-03/15224343765.jpg"/>
   <item  group="經典" name="宅男行不行/生活大爆炸1-12" type="combo" show="false" sort="no" link="['ok#15114$第一季','ok#15115$第二季','ok#15116$第三季','ok#15117$第四季','ok#15118$第五季','ok#15120$第七季','ok#15121$第八季','yj#2565$第十一季','yj#14778$第十二季']"
  	url="http://img.yongjiu7.com/upload/vod/2019-01-17/154772890819.jpg"/>
+  <item  group="經典" name="我的家裡空無一物" type="ytItem" show="false" sort="title" link="PLnVcQKmOc0S3YZIWn3hR3nCMkUKuHP-6A"
+   	url="https://i.ytimg.com/vi/3WgksPKDFuo/mqdefault.jpg"/>
 
   <item  group="電影" name="近期新片推薦" type="ytItem" show="true" link="PL316wRwpvsnGLncT6CHiy-mfibsREFDsF"
 	 url="https://yt3.ggpht.com/-j27YTxGrrpQ/AAAAAAAAAAI/AAAAAAAAAAA/Ws4MA2Dozlw/s%d-c-k-no/photo.jpg"/>
