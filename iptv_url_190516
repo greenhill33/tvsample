@@ -2,7 +2,7 @@
 常用電台,台視 HD,"https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8"
 常用電台,公視 HD,"https://www.youtube.com/watch?v=ED4QXd5xAco$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
 常用電台,公視台語台,https://www.youtube.com/watch?v=sHVv4H_mva0
-常用電台,客家電視台,https://www.youtube.com/watch?v=IVWLupq4pk0
+常用電台,客家電視台,https://www.youtube.com/watch?v=86d1yxc0N6U
 常用電台,原住民電視台,"https://bcovlive-a.akamaihd.net/d25bdf194d374524a881126cb6fd3031/ap-northeast-1/5817780548001/playlist.m3u8"
 常用電台,人間衛視,hget$://www.bltv.tv/about/?f=audience$jsoup::source[src]
 常用電台,大愛電視台,http://61.58.60.230:9319/live/10.m3u8
@@ -13,7 +13,7 @@
 常用電台,靖天卡通台,http://61.58.60.230:9319/live/207.m3u8
 常用電台,民視新聞台,"https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
 常用電台,台視新聞台,"hget$s://www.ttv.com.tw/videocity/video_play.asp?id=99$jsoup::meta[content~=youtube]"
-常用電台,中視新聞台,https://www.youtube.com/watch?v=PORc-lyx36k
+常用電台,中視新聞台,https://www.youtube.com/watch?v=QodVMR2oMQw
 常用電台,華視新聞台,https://www.youtube.com/watch?v=TL8mmew3jb8
 常用電台,TVBS新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=11&clientId=$$$http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8"
 常用電台,三立新聞台,"http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=39&clientId=$$$hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
