@@ -5,9 +5,6 @@
   <item  group="直播" name="正在直播" type="live" show="true" sort="no" link="yt#PLU12uITxBEPFJGVb2zSgCaWvMBe7vHonB"
   	 url="https://yt3.ggpht.com/BQSIiLDxZiZpzR4C6pK-NKkKOv3fsPsWuKVJxpmYCnEASI8W5pglXP1vF30D98doHzsP_JwPLycrfd-FFnw=s%d-nd-c-k-no"
   	 description="Youtube正在直播中"/>
-  <item  group="直播" name="壹新聞" type="live" draw="nexttv.webp" show="false"
-	 link="['http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8','http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8','http://www.ssh101.com/m3u8/dyn/NEXTTVHD/index.m3u8']"
-	 url="http://s.nexttv.com.tw/g/img/nexttv_logo.png"/>
   <item  group="直播" name="體育直播" type="live" show="false" sort="no" link="yt#PL8fVUTBmJhHJrxHg_uNTMyRmsWbFltuQV"
   	 url="https://yt3.ggpht.com/onI7jrH8ZWTnfJgXzGHnfRIuwMZqN0GctBWnsqnSS9ZeIgSed8K2H6sZYW_DQnQs6nyedKk3jl8cvOX-e1I=s%d-nd-c-k-no"/>
   <item  group="直播" name="即將播送" type="live" show="false" sort="no" link="yt#PLU12uITxBEPHb1IgzEPHZpje-903Qkfne"
@@ -59,6 +56,9 @@
 	 url="https://yt3.ggpht.com/-eZ3XbwnxaFA/AAAAAAAAAAI/AAAAAAAAAAA/s806uRWM7S8/s%d-c-k-no/photo.jpg"/>
   <item  group="新聞" name="USTV非凡電視台" type="yt" draw="ustv.webp" show="true" link="UCYIVkruUoN04UjV9pkBTswg"
 	 url="https://yt3.ggpht.com/-Oem4aRfAPK0/AAAAAAAAAAI/AAAAAAAAAAA/SGoPFlczmfA/s%d-c-k-no/photo.jpg"/>
+  <item  group="新聞" name="壹新聞" type="ytItem" draw="eranewstest.webp" show="true" link="PLiY6wtxjK6QMR2sn5r4FNrdPDyXrfiOMH"
+	 url="https://yt3.ggpht.com/a/AGF-l7_sEXLZOhaopSnq7LcAPz8EWIqq0pNYHzROWA=s%d-c-k-no"
+	 description="「沒有更真，唯壹最敢」的新聞台"/>
   <item  group="新聞" name="台灣蘋果日報" type="yt" draw="twappledaily.webp" show="true" link="UChLEhd2gouo1H-c9Zy9WGDA"
 	 url="https://yt3.ggpht.com/-lZ7xBAHXkiw/AAAAAAAAAAI/AAAAAAAAAAA/NCXkSHR-a9A/s%d-c-k-no/photo.jpg"
 	 description="3D動畫模擬新聞"/>
@@ -598,24 +598,36 @@
   <item  group="旅遊" name="寶島神很大" type="ytItem" show="false" link="PLSV0e_16dYDZcWMUavFbgYImHeUrFDEoP"
 	 url="https://yt3.ggpht.com/-gBsUb6R8vF0/AAAAAAAAAAI/AAAAAAAAAAA/8N4-iHEOMuM/s%d-c-k-no/photo.jpg"/>
 
-  <item  group="美食" name="夢幻廚房在我家" type="yt" draw="dreamchefhome.webp" show="true" link="UCUz5OVO4aYhfur0R-TCaBtg"
-	 url="https://yt3.ggpht.com/a-/AAuE7mBce3517hMKEUUfc8yCzgjknH8BiYwzki9pYA=s%d-c-k-no"
-	 description="跟著影音學做菜"/>
-  <item  group="美食" name="美味生活" type="yt" show="true" link="UCsd3YtVFfGGTxtj98Hz-JvQ"
-         url="https://yt3.ggpht.com/a/AGF-l79zs77DCCvCoTUBhLVNE246ycyGx7eVp9t3Pg=s%d-c-k-no"
-        description="美味生活HowLiving"/>
   <item  group="美食" name="小高姐" type="yt" show="true" link="UCCKlp1JI9Yg3-cUjKPdD3mw"
 	 url="https://yt3.ggpht.com/a-/AN66SAz9xaHqgWmDlGWNb7ZK9RqN3cyxJ2HjiMEkmg=s%d-c-k-no"
 	 description="製作很多西安美食"/>
+  <item  group="美食" name="夢幻廚房在我家" type="yt" draw="dreamchefhome.webp" show="true" link="UCUz5OVO4aYhfur0R-TCaBtg"
+	 url="https://yt3.ggpht.com/a-/AAuE7mBce3517hMKEUUfc8yCzgjknH8BiYwzki9pYA=s%d-c-k-no"
+	 description="跟著影音學做菜"/>
+  <item  group="美食" name="不萊嗯廚房" type="yt" draw="BrianPastry.webp" show="true" link="UCg7l-Uy0OZiAl2xkNe_5tNA"
+	 url="https://yt3.ggpht.com/a/AGF-l799FYePzqAHuvrZJjpasQ96ICo0YrBPqDtPwA=s%d-c-k-no"
+	 description="歐法鄉居料理食譜"/>
+  <item  group="美食" name="美味生活" type="yt" show="true" link="UCsd3YtVFfGGTxtj98Hz-JvQ"
+         url="https://yt3.ggpht.com/a/AGF-l79zs77DCCvCoTUBhLVNE246ycyGx7eVp9t3Pg=s%d-c-k-no"
+        description="美味生活HowLiving"/>
   <item  group="美食" name="曼食慢語" type="yt" draw="amandaslittlekitchen.webp" show="true" link="UCmXkJ9ReY5hjvYPcnmBwing"
 	 url="https://yt3.ggpht.com/a-/AN66SAyR1pccBz3JjXhfDscKuJKwCgJTNqZLFX9vWw=s%d-c-k-no"
 	 description="Amanda的小厨房"/>
+  <item  group="美食" name="滇西小哥" type="yt" draw="dianxixiaoge.webp" show="true" link="UCQG_fzADCunBTV1KwjkfAQQ"
+	 url="https://yt3.ggpht.com/a/AGF-l7_bRMuFzX-FGk9gF4OZDcRlFBDk-QTz0QvyvQ=s%d-c-k-no"
+	 description="一个地道的云南妹子"/>
   <item  group="美食" name="烘焙甜點手作坊" type="yt" draw="Weichi.webp" show="true" link="UCqPUL8iNYux30OnvZEm-fow"
 	 url="https://yt3.ggpht.com/a-/AN66SAzMOWx-GJa2bJN7_OJ34OlN_W_q7Zgag8xZqg=s%d-c-k-no"
 	 description="熱愛甜點的高中生"/>
   <item  group="美食" name="楊桃美食網" type="yt" draw="ytower01.webp" show="true" link="UCctVKh07hVAyQtqpl75pxYA"
 	 url="https://yt3.ggpht.com/-euuR016v2rw/AAAAAAAAAAI/AAAAAAAAAAA/Pqwm0agDMvA/s%d-c-k-no/photo.jpg"
 	 description="華文最強食譜資訊"/>
+  <item  group="美食" name="西西烹飪筆記" type="yt" draw="sophienini.webp" show="true" link="UCwi8HA54pFD6nFRDOMo-b3A"
+	 url="https://yt3.ggpht.com/a/AGF-l79bQ-xJftlIMJLvYChckVvAqSNCRyFtv8CoKw=s%d-c-k-no"
+	 description="烘焙食譜"/>
+  <item  group="美食" name="美食天堂" type="yt" draw="NTDfoodparadise.webp" show="true" link="UCBmxVsLmv3_I2FwvtM5BG0g"
+	 url="https://yt3.ggpht.com/a/AGF-l7_NHaB7Pk-306iTSbgwbBSQ-aIjBxDHAjwCkQ=s%d-c-k-no"
+	 description="新唐人電視台美食天堂"/>
   <item  group="美食" name="回家吃飯" type="ytItem" draw="dailydietofficia.webp" show="true" link="PLoFgjsHU7UTBO8NGpUNPMIPxpvP-fZcvm"
 	 url="https://yt3.ggpht.com/a-/AN66SAyCuOB0_gNsFwqNKqxegyUc2clbs6BCAmaVxg=s%d-c-k-no"
 	 description="CCTV美食頻道"/>
@@ -627,6 +639,9 @@
   <item  group="美食" name="食尚玩家" type="yt" draw="shshangwanjia.webp" show="true" link="UC00wMIWR48SYidE6jmpL7Qg"
 	 url="https://yt3.ggpht.com/-0AGfBUkhxrU/AAAAAAAAAAI/AAAAAAAAAAA/jzoMZWK67_I/s%d-c-k-no/photo.jpg"
 	 description="吃喝玩樂一手包辦"/>
+  <item  group="美食" name="千千進食中" type="yt" draw="chienshu_tw.webp" show="true" link="UC9i2Qgd5lizhVgJrdnxunKw"
+	 url="https://yt3.ggpht.com/a/AGF-l7_Bg1oSAk7wqIlaB2AUd6FhUMzD-Ls3YtW2pQ=s%d-c-k-no"
+	 description="有美食就會感到幸福"/>
   <item  group="美食" name="田园时光" type="yt" draw="MsCnck.webp" show="true" link="UCEkG-qWrskKVdawEFA99koA"
 	 url="https://yt3.ggpht.com/a-/AN66SAyk3nGLDSRLnpRaxS3VxCOglMtEzPogChUecw=s%d-c-k-no"/>
   <item  group="美食" name="甜悦下午茶" type="yt" draw="tinrry2013.webp" show="true" link="UCkcl1RXQtnd5ZKCEPLHvX1Q"
@@ -1087,7 +1102,7 @@
  	url="http://pic.china-gif.com/pic/upload/vod/2017-09-11/150513102914.jpg"/>
   <item  group="經典" name="冰與火之歌/權力遊戲1-8(18+)" type="combo" show="false" sort="no" link="['ok#1775$第一季','ok#1774$第二季','ok#1773$第三季','ok#1772$第四季','ok#1771$第五季','ok#1761$第六季','ok#1085$第七季','ok#31933$第八季']"
  	url="http://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2462245619.jpg"/>
-  <item  group="經典" name="陰屍路/行尸走肉1-9(18+)" type="combo" show="false" sort="no" link="['yj#2811$第一季','yj#2824$第二季','yj#2843$第三季','yj#2845$第四季','yj#2846$第五季','yj#2847$第六季','131#1928$第七季','yj#3577$第八季','yj#15195$第九季']"
+  <item  group="經典" name="陰屍路/行尸走肉1-9(18+)" type="combo" show="false" sort="no" link="['yj#2811$第一季','yj#2824$第二季','yj#2843$第三季','yj#2845$第四季','yj#2846$第五季','yj#2847$第六季','131#1928$第七季','yj#3577$第八季','yj#15195$第九季','yj#28202$第十季']"
  	url="http://ww1.sinaimg.cn/large/6b8ae5f3gy1fk3xaxppncj207g0b53yw.jpg"/>
   <item  group="經典" name="紙鈔屋/紙房子1-2" type="combo" show="false" sort="no" link="['131#12201$第一季','131#12949$第二季','yj#9097$第一季','yj#9801$第二季']"
  	url="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505704270.jpg"/>
