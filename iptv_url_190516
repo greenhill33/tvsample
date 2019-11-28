@@ -26,6 +26,7 @@
 常用電台,東森新聞台,https://www.youtube.com/watch?v=RaIJ767Bj_M
 常用電台,東森財經新聞台,https://www.youtube.com/watch?v=q8u9qK5niss
 常用電台,三立iNEWS,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001843$json::url::msg$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
+常用電台,Bloomberg,"hget$s://video.friday.tw/api2/streaming/get?streamingId=7&streamingType=1&contentType=1&clientId="
 常用電台,天空新聞,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 常用電台,澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 常用電台,寰宇地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
