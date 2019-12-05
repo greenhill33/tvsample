@@ -616,6 +616,12 @@
   <item  group="美食" name="滇西小哥" type="yt" draw="dianxixiaoge.webp" show="true" link="UCQG_fzADCunBTV1KwjkfAQQ"
 	 url="https://yt3.ggpht.com/a/AGF-l7_bRMuFzX-FGk9gF4OZDcRlFBDk-QTz0QvyvQ=s%d-c-k-no"
 	 description="一个地道的云南妹子"/>
+  <item  group="美食" name="李子柒 Liziqi" type="yt" draw="cnliziqi.webp" show="true" link="UCoC47do520os_4DBMEFGg4A"
+	 url="https://yt3.ggpht.com/a/AGF-l7_mB38bEGfOr7WpI8ZPStxPKqSx0VuJD4Usgg=s%d-c-k-no"
+	 description="山村乡野生活"/>
+  <item  group="美食" name="辦公室小野" type="yt" draw="missxiaoye.webp" show="true" link="UCRB4xZ_2ew7fzmrcv8aj4Lw"
+	 url="https://yt3.ggpht.com/a/AGF-l7-fFCDnrgtvzZsxXNfoGl9LxkxwoZUrlJUgjQ=s%d-c-k-no"
+	 description="一個來自火星的行走食譜"/>
   <item  group="美食" name="烘焙甜點手作坊" type="yt" draw="Weichi.webp" show="true" link="UCqPUL8iNYux30OnvZEm-fow"
 	 url="https://yt3.ggpht.com/a-/AN66SAzMOWx-GJa2bJN7_OJ34OlN_W_q7Zgag8xZqg=s%d-c-k-no"
 	 description="熱愛甜點的高中生"/>
@@ -955,8 +961,8 @@
     description="EYNY伊莉影片"/>
   <item  group="戲劇" name="⚽OK資源網" type="web" draw="okzyzy.webp" show="false" link="http://www.okzy.co/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
     url="http://www.okzy.me/template/okokzy/images/logo.png"/>
-  <item  group="戲劇" name="⚽永久雲資源" type="web" draw="yongjiuzy.webp" show="true" link="http://www.yongjiuzy.cc/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
-    url="http://www.yongjiuzy.cc/template/35zy/images/logo.png"
+  <item  group="戲劇" name="⚽永久雲資源" type="web" draw="yongjiuzy.webp" show="true" link="http://cj.yongjiuzyw.com/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
+    url="http://cj.yongjiuzyw.com/template/35zy/images/logo.png"
     description="永久云资源影片"/>
   <item  group="戲劇" name="⚽最大資源" type="web" draw="zuidazy.webp" show="false" link="http://www.zuida.me/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
     url="http://www.zuida.me/template/ziyuan3/images/logo.png"/>
