@@ -1050,9 +1050,9 @@
  	description="愛爾達綜合台"/>
   <item  group="經典" name="甄嬛傳" type="combo" show="false" sort="no" link="['yj#13063','kb#8964','ok#12518']"
  	url="http://img.zxziyuan.com/images/upload/vod/2018-06-15/152904206912.jpg"/>
-  <item  group="經典" name="延禧攻略" type="combo" show="false" sort="no" link="['yj#12811','kk#16223','bw#16298']"
+  <item  group="經典" name="延禧攻略" type="combo" show="false" sort="no" link="['yj#12811','bw#16298']"
  	url="https://i.ytimg.com/vi/tr_R9s7gMgk/mqdefault.jpg"/>
-  <item  group="經典" name="如懿傳" type="combo" show="false" sort="no" link="['yj#13881','kk#17333','bw#17193','ok#18599']"
+  <item  group="經典" name="如懿傳" type="combo" show="false" sort="no" link="['yj#13881','bw#17193','ok#18599']"
  	url="https://i.ytimg.com/vi/5feBdku0GjM/mqdefault.jpg"/>
   <item  group="經典" name="鹿鼎記" type="ytItem" show="false" sort="title" link="PLHljQIk6QUw_-yEXx33A3K7sIXXaYEZfn"/>
   <item  group="經典" name="陸小鳳與花滿樓2015" type="ytItem" show="true" sort="title" link="PLf7jU5YdQ7lyuAxLVfOYc7mgyYG27ErkZ"
@@ -1065,7 +1065,7 @@
  	url="https://i.ytimg.com/vi/x-7zhhAnABs/mqdefault.jpg"/>
   <item  group="經典" name="司馬懿之軍師聯盟 42全2017" type="combo" show="false" sort="title" link="['yj#4362','thread-2852.htm','dayi.ca/?p=165434']"
 	url="http://ww1.sinaimg.cn/large/7d172de2gy1fgtrc6adwpj208c0cit9y.jpg"/>
-  <item  group="經典" name="司馬懿之虎嘯龍吟 44全2017" type="combo" show="false" sort="title" link="['kk#9708','yj#5304','thread-4262.htm','dayi.ca/?p=187791']"
+  <item  group="經典" name="司馬懿之虎嘯龍吟 44全2017" type="combo" show="false" sort="title" link="['yj#5304','thread-4262.htm','dayi.ca/?p=187791']"
 	url="http://ww1.sinaimg.cn/large/7d172de2gy1fm8kfgvuguj207i0anmxn.jpg"/>
   <item  group="經典" name="隋唐演義" type="ytItem" show="true" sort="title" link="PLHndevUejuw4PjMj39z9QZgryN6f67x6_"
    	description="永乐影视官方频道"/>
@@ -1074,25 +1074,23 @@
    	description="热播剧场"/>
   <item  group="經典" name="絕命毒師1-5 2013(18+)" type="combo" show="false" sort="no" link="['ok#14334$第一季','ok#14335$第二季','ok#14336$第三季','ok#14338$第四季','ok#14339$第五季']"
  	url="http://pic.china-gif.com/pic/upload/vod/2018-05/15268931685.jpg"/>
-  <item  group="經典" name="絕命律師3-4 2018" type="combo" show="false" sort="no" link="['kk#16880$第四季']"
- 	url="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2526785183.jpg"/>
    <item  group="經典" name="超感獵殺/超感八人組1-3 2018" type="combo" show="false" sort="no" link="['ok#15230$第一季','ok#254$第二季','ok#15291$第三季']"
  	url="http://pic.china-gif.com/pic/upload/vod/2018-04/152283042210.jpg"/>
   <item  group="經典" name="驚魂序曲/貝茲旅社1-5(12+)" type="combo" show="false" sort="no" link="['ok#20805$第一季','ok#20806$第二季','ok#20807$第三季','ok#20808$第四季','ok#139$第五季']"
  	url="http://pic.china-gif.com/pic/upload/vod/2017-09-11/150513102914.jpg"/>
   <item  group="經典" name="冰與火之歌/權力遊戲1-8(18+)" type="combo" show="false" sort="no" link="['ok#1775$第一季','ok#1774$第二季','ok#1773$第三季','ok#1772$第四季','ok#1771$第五季','ok#1761$第六季','ok#1085$第七季','ok#31933$第八季']"
  	url="http://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2462245619.jpg"/>
-  <item  group="經典" name="陰屍路/行尸走肉1-9(18+)" type="combo" show="false" sort="no" link="['yj#2811$第一季','yj#2824$第二季','yj#2843$第三季','yj#2845$第四季','yj#2846$第五季','yj#2847$第六季','kk#1928$第七季','yj#3577$第八季','yj#15195$第九季','yj#28202$第十季']"
+  <item  group="經典" name="陰屍路/行尸走肉1-9(18+)" type="combo" show="false" sort="no" link="['yj#2811$第一季','yj#2824$第二季','yj#2843$第三季','yj#2845$第四季','yj#2846$第五季','yj#2847$第六季','jk#31802$第七季','yj#3577$第八季','yj#15195$第九季','yj#28202$第十季']"
  	url="http://ww1.sinaimg.cn/large/6b8ae5f3gy1fk3xaxppncj207g0b53yw.jpg"/>
-  <item  group="經典" name="紙鈔屋/紙房子1-2" type="combo" show="false" sort="no" link="['kk#12201$第一季','kk#12949$第二季','yj#9097$第一季','yj#9801$第二季']"
+  <item  group="經典" name="紙鈔屋/紙房子1-3" type="combo" show="false" sort="no" link="['jk#31239$第一季','jk#31768$第二季','jk#53162$第三季','yj#9097$第一季','yj#9801$第二季']"
  	url="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505704270.jpg"/>
   <item  group="經典" name="矽谷黑歷史1-5" type="combo" show="false" sort="no" link="['ok#14997$第一季','ok#14998$第二季','ok#14999$第三季','ok#214$第四季','ok#11012$第五季']"
  	url="http://pic.china-gif.com/pic/upload/vod/2018-06/201806051528187425.jpg"/>
   <item  group="經典" name="黑鏡1-4" type="combo" show="false" sort="no" link="['ok#14949$第一季','ok#14950$第二季','ok#14951$第三季','ok#5431$第四季']"
  	url="http://pic.china-gif.com/pic/upload/vod/2018-06/201806041528089742.jpg"/>
-  <item  group="經典" name="西方極樂園/西部世界2(15+)" type="combo" show="false" sort="no" link="['kk#13268$第二季']"
+  <item  group="經典" name="西方極樂園/西部世界1-2(15+)" type="combo" show="false" sort="no" link="['jk#23102$第一季','jk#32080$第二季']"
  	url="http://ww1.sinaimg.cn/large/7d172de2gy1fhp9cwxpb4j208c0ccab4.jpg"/>
-  <item  group="經典" name="這就是我們/我们这一天1-3" type="combo" show="false" sort="no" link="['ok#20658$第一季','kk#6345$第二季','kk#18664$第三季']"
+  <item  group="經典" name="這就是我們/我们这一天1-3" type="combo" show="false" sort="no" link="['ok#20658$第一季','jk#25948$第二季','jk#35966$第三季','jk#55777$第四季']"
  	url="http://pic.china-gif.com/pic/upload/vod/2018-09/15379535217.jpg"/>
   <item  group="經典" name="冷戰諜夢/美國諜夢1-6" type="combo" show="false" sort="no" link="['ok#22927$第一季','ok#22928$第二季','ok#22929$第三季','ok#22930$第四季','ok#189$第五季','ok#11144$第六季']"
  	url="http://pic.china-gif.com/pic/upload/vod/2018-03/15224343765.jpg"/>
@@ -1117,9 +1115,9 @@
   <item  group="電影" name="中國電影頻道" type="ytItem" show="true" sort="no" link="PLOrf2h5ONlwXu7fe_KagfkPV7DnjQ1VSV"
 	 url="https://yt3.ggpht.com/a-/ACSszfHJJmb1NSaNY_Zzy46Jq5nhivHbh23mKFDTRA=s%d-c-k-no"/>
 
-  <item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['ok#cid=12','yj#cid=12','135#cid=12','kk#cid=12','jk#cid=12']"
+  <item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['ok#cid=12','yj#cid=12','135#cid=12','jk#cid=12']"
 	 url="https://4.bp.blogspot.com/-BHwHUKwjpfM/W0BvGeyoQiI/AAAAAAAAAmk/aINkON5K2kImAWlGtQJPPlugDhhIC0GOQCLcBGAs/s320/luju.png"
-	 description="採集資源網ok,yj,kk"/>
+	 description="採集資源網ok,yj,jk"/>
   <item  group="網搜" name="網搜日本戲劇" type="tvGrid" draw="ribenju.webp" show="false" link="['ok#cid=17','yj#cid=14','135#cid=14','jk#cid=14','bw#cid=14']"
 	 url="https://4.bp.blogspot.com/-PBq1hGwuhww/WwGRiYx6G-I/AAAAAAAAAlA/eAHlAPv0QQgyvnoNhG7W5mpeQl4wDqtBQCLcBGAs/s320/wsjapandrema.png"
 	 description="採集資源網ok,yj,135"/>
@@ -1157,10 +1155,10 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網135,ok,yj"/>
 
-<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','yj#$cj.yongjiuzyw.com/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','kk#$v.bbtsv.com/inc/feifei3$看看資源','135#$cj.135zy.co/inc/feifei3$135資源網','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','jk#$www.jikzy.com/inc/feifei3$極快資源','zx#$api.zuixinapi.com/inc/feifei3$最新源']/>
-<set_pref ziyuan_search=['yj#','ok#','kk#','kb#','zx#','sb#']/>
+<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','yj#$cj.yongjiuzyw.com/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','135#$cj.135zy.co/inc/feifei3$135資源網','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','jk#$www.jikzy.com/inc/feifei3$極快資源','zx#$api.zuixinapi.com/inc/feifei3$最新源','kk#$v.bbtsv.com/inc/feifei3$看看資源']/>
+<set_pref ziyuan_search=['yj#','ok#','jk#','kb#','zx#','sb#']/>
 
-<gen_items cnt="12" group="戲劇" link="['yj#cid=12','kk#cid=12','kb#cid=12','zx#cid=12&amp;p=2','kk#cid=12&amp;p=2']"/>
+<gen_items cnt="12" group="戲劇" link="['yj#cid=12','jk#cid=12','kb#cid=12','zx#cid=12&amp;p=2','jk#cid=12&amp;p=2']"/>
 <gen_items cnt="3" group="日韓" link="['yj#cid=16','yj#cid=16&amp;p=2','bw#cid=17']"/>
 <gen_items cnt="3" group="日韓" link="['135#cid=14','bw#cid=14']"/>
 <gen_items append="['chinaq$http://www.chinaq.me$div.items.sizing a[href]']"/>
