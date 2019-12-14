@@ -33,12 +33,8 @@
 常用電台,寰宇地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 常用電台,優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 常用電台,全美台,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-常用電台,三立戲劇,http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
-常用電台,三立綜合,http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m02000000000017328101&ct=18032&tsum=a95904ef0276902aac85429552c61914
-常用電台,Gtv八大綜合,http://198.16.106.58:8278/badazhonghe/playlist.m3u8?tid=m02000000000011374017&ct=18032&tsum=21f8cd939b2a5109de4b3cb656cefee2
+常用電台,三立台灣台,https://cs573508.vkuservideo.net/video/hls_raw/3/e55OjI_ODw-NzQy/videos/6663190dd2/index-f5-v1-a1.m3u8
 常用電台,Gtv八大第1,http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=m02000000000010410120&ct=18032&tsum=055aef0bb13ac1e927f118680b4ec78d
-常用電台,Elta綜合,http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
-常用電台,Elta戲劇,http://198.16.106.58:8278/eltadrama_twn/playlist.m3u8?tid=m02000000000017968370&ct=18032&tsum=0918e7edb4e700da112c60d22e0aa4d5
 常用電台,愛爾達娛樂台,"hget$s://eltaott.tv/change_channel/play_v2$json::url"
 常用電台,靖天資訊台,http://61.58.60.230:9319/live/202.m3u8
 常用電台,靖天育樂台,http://61.58.60.230:9319/live/204.m3u8
@@ -59,7 +55,6 @@
 常用電台,唐人經典台,http://174.127.67.246/live330/playlist.m3u8?$FitXY
 常用電台,鳳凰衛視資訊,"http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8$$$hget$://m.iptv444.com/?act=play&token=fe5d2c78180b341fa467b366c91992cd&tid=gt&id=3$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1"
 常用電台,香港有線新聞台,"http://hls2.live.126.net/live/b02a3a6873cff68b24b5fb821c92c59eb/playlist.m3u8$$$hget$://m.iptv444.com/?act=play&token=48d9f50a6a10a1e39b38a82fcb8edbf8&tid=gt&id=31$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1"
-常用電台,新加坡頻道5,http://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 常用電台,新加坡頻道8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 常用電台,東方衛視,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
