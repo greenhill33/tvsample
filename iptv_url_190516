@@ -15,7 +15,7 @@
 常用電台,Baby First第一寶貝,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 常用電台,民視新聞台,"https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
 常用電台,台視新聞台,"hget$s://www.ttv.com.tw/videocity/video_play.asp?id=99$jsoup::meta[content~=youtube]"
-常用電台,中視新聞台,https://www.youtube.com/watch?v=me_mFzhe-cE
+常用電台,中視新聞台,https://www.youtube.com/watch?v=xaoxMjkV_Qo
 常用電台,華視新聞台,https://www.youtube.com/watch?v=TL8mmew3jb8
 常用電台,TVBS新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=11&clientId=$$$http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8"
 常用電台,三立新聞台,"http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=39&clientId=$$$hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
