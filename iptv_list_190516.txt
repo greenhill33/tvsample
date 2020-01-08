@@ -3,10 +3,10 @@
 
 常用電台(2018/6/25)_60頻道,csv,g,https://raw.githubusercontent.com/greenhill33/tvsample/master/iptv_url_190516
 購物宗教(2018/3/17)_20頻道,m3u,g,https://pastebin.com/raw/TCJX9jLm
-中港台_黃河(2018/3/15)_80頻道,m3u,g,https://raw.githubusercontent.com/exodiver/IPTV/master/Castpack/HuangHe.m3u8
-日韓電台(2018/3/15)_60頻道,m3u,g,https://raw.githubusercontent.com/exodiver/IPTV/master/Castpack/Han.m3u8
-大陸地方_長江(2018/3/15)_120頻道,m3u,g,https://raw.githubusercontent.com/exodiver/IPTV/master/Castpack/Yangtze.m3u8
+中港台_黃河(2018/3/15)_80頻道,m3u,g,https://raw.githubusercontent.com/exodiver/IPTV/master/Castpack/Middle%20Kingdom/HuangHe.m3u8
+日韓電台(2018/3/15)_60頻道,m3u,g,https://raw.githubusercontent.com/exodiver/IPTV/master/Castpack/Middle%20Kingdom/Han.m3u8
+大陸地方_長江(2018/3/15)_120頻道,m3u,g,https://raw.githubusercontent.com/exodiver/IPTV/master/Castpack/Middle%20Kingdom/Yangtze.m3u8
 大陸電視(2018/2/24)_156頻道,csv,g,https://pastebin.com/raw/7SvQsKFy
-體育及電影電台(2018/2/15)_180頻道,m3u,g,https://raw.githubusercontent.com/exodiver/IPTV/master/Special/Hollywood.m3u8
+體育及電影電台(2018/2/15)_180頻道,m3u,g,https://raw.githubusercontent.com/exodiver/IPTV/master/Castpack/Commonwealth/Hollywood.m3u8
 戰旗電影(2018/1/27)_45頻道,csv,g,https://pastebin.com/raw/RHW7Ez73
 港澳電台(2017/12/31)_107頻道,m3u,g,https://pastebin.com/raw/SRTRhHGN
