@@ -20,7 +20,7 @@
 常用電台,華視新聞台,https://www.youtube.com/watch?v=TL8mmew3jb8
 常用電台,TVBS新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=11&clientId=$$$http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8"
 常用電台,三立新聞台,"http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=39&clientId=$$$hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
-常用電台,中天新聞台,"http://192.200.108.130:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8$$$https://www.youtube.com/watch?v=wUPPkSANpyo"
+常用電台,中天新聞台,"https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
 常用電台,壹新聞,http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
 常用電台,非凡新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27&clientId="
 常用電台,寰宇新聞,hget$s://www.faintv.com.tw/asianewslivechannel/1$http://globalnewstv.com.tw/tvonline$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
