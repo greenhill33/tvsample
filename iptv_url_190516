@@ -31,7 +31,7 @@
 常用電台,三立iNEWS,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001843&freeProduct=1$json::url::msg$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,Bloomberg,"hget$s://video.friday.tw/api2/streaming/get?streamingId=7&streamingType=1&contentType=1&clientId="
 常用電台,天空新聞,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-常用電台,澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+常用電台,澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8$FitXY
 常用電台,國家地理,http://192.154.103.74:8080/ZZ_hbo/ZZ_hbo.m3u8
 常用電台,寰宇地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 常用電台,優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
@@ -58,7 +58,7 @@
 常用電台,香港奇妙電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 常用電台,唐人經典台,http://174.127.67.246/live330/playlist.m3u8?$FitXY
 常用電台,鳳凰衛視資訊,"http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8$$$hget$://m.iptv444.com/?act=play&token=fe5d2c78180b341fa467b366c91992cd&tid=gt&id=3$reg::/play::.*?/play.*?(\?t.*?)"".*::http://104.233.225.199:888/play.m3u8$1"
-常用電台,中華衛視台灣台,http://pull.leshantangjt.com/live/playlist.m3u8
+常用電台,中華衛視台灣台,http://pull.leshantangjt.com/live/playlist.m3u8$FitXY
 常用電台,新加坡頻道8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 常用電台,湖南衛視,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 常用電台,東方衛視,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
