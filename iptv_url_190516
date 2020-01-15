@@ -1,6 +1,5 @@
 常用電台,民視綜藝台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001611&freeProduct=1$json::url::msg$FitXY
 常用電台,台視 HD,"https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8"
-常用電台,華視,http://192.154.103.74:8080/ZZ_huashi/ZZ_huashi.m3u8
 常用電台,公視 HD,"https://www.youtube.com/watch?v=ED4QXd5xAco$$$newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
 常用電台,公視台語台,"https://www.youtube.com/watch?v=ihWafbJ_Ics$$$hget$s://taigi.pts.org.tw$jsoup::iframe[src]"
 常用電台,客家電視台,https://www.youtube.com/watch?v=vgXpF25lbYk
@@ -22,7 +21,6 @@
 常用電台,TVBS新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=11&clientId=$$$http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8"
 常用電台,三立新聞台,"http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=39&clientId=$$$hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,中天新聞台,"https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
-常用電台,年代新聞,http://192.154.103.74:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 常用電台,非凡新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27&clientId="
 常用電台,寰宇新聞,hget$s://www.faintv.com.tw/asianewslivechannel/1$http://globalnewstv.com.tw/tvonline$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
