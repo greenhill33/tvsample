@@ -950,7 +950,7 @@
     description="EYNY伊莉影片"/>
   <item  group="戲劇" name="⚽OK資源網" type="web" draw="okzyzy.webp" show="false" link="http://www.okzy.co/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
     url="http://www.okzy.me/template/okokzy/images/logo.png"/>
-  <item  group="戲劇" name="⚽永久雲資源" type="web" draw="yongjiuzy.webp" show="true" link="http://cj.yongjiuzyw.com/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
+  <item  group="戲劇" name="⚽永久雲資源" type="web" draw="yongjiuzy.webp" show="false" link="http://cj.yongjiuzyw.com/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
     url="http://cj.yongjiuzyw.com/template/35zy/images/logo.png"
     description="永久云资源影片"/>
   <item  group="戲劇" name="⚽最大資源" type="web" draw="zuidazy.webp" show="false" link="http://www.zuida.me/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
@@ -976,7 +976,7 @@
   	ckaddr="\.mei.*/shows"
     url="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/128/Japan-Flag-icon.png"/>
 
-  <item  group="戲劇" name="⚽骨朵傳媒排行榜" type="web" draw="guduomedia.webp" show="false" link="https://d.guduodata.com" ckaddr="guduodata.com/m/show/detail"
+  <item  group="戲劇" name="⚽骨朵傳媒排行榜" type="web" draw="guduomedia.webp" show="true" link="https://d.guduodata.com" ckaddr="guduodata.com/m/show/detail"
   	 url="http://static.guduomedia.com/gd_logo.png"/>
   <item  group="戲劇" name="⚽PTT娛樂區" type="web" draw="pttent.webp" show="false" link="https://pttent.com" ckaddr="youtube"
   	 url="https://4.bp.blogspot.com/-8cJCGr5pIks/XCGtupFbYMI/AAAAAAAAAnc/5VfVvQ8YDMYZufIKK5HParpjfR9uzeaDQCEwYBhgL/s320/pptent.jpg"
