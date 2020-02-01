@@ -1,5 +1,7 @@
 常用電台,民視綜藝台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001611&freeProduct=1$json::url::msg$FitXY
 常用電台,台視 HD,"https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8"
+常用電台,中視,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+常用電台,華視,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 常用電台,公視 HD,"https://www.youtube.com/watch?v=ED4QXd5xAco$$$newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
 常用電台,公視台語台,"https://www.youtube.com/watch?v=ihWafbJ_Ics$$$hget$s://taigi.pts.org.tw$jsoup::iframe[src]"
 常用電台,客家電視台,https://www.youtube.com/watch?v=vgXpF25lbYk
@@ -9,6 +11,7 @@
 常用電台,大愛二台,"http://61.58.60.230:9319/live/191.m3u8$$$https://tv2.wanfudaluye.com/live/live.m3u8$$$https://www.youtube.com/watch?v=8ddDTi-gzQA"
 常用電台,大愛三台,https://tv3.wanfudaluye.com/live/live.m3u8
 常用電台,TVBS歡樂台,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001693&freeProduct=1$json::url::msg"
+常用電台,中天綜合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 常用電台,CNEX紀實,http://61.58.60.230:9319/live/257.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001773&freeProduct=1$json::url::msg
 常用電台,靖洋戲劇台,http://61.58.60.230:9319/live/203.m3u8
 常用電台,靖洋卡通台,http://61.58.60.230:9319/live/206.m3u8
