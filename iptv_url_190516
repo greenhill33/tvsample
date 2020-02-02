@@ -1,4 +1,5 @@
 常用電台,民視綜藝台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001611&freeProduct=1$json::url::msg$FitXY
+常用電台,民視,http://lss.line-scdn.net/cc_tw/p/live/hFLJmpY8ZGGIleQZyH2wFVUwVEwBcIg43T3dVDQUURwcKLA0xSnZeVQAVElNZdwplSnJeUFMcRVtYYV9mTCcFAQcTWVNbO142Qm1WB1sLR1FYL140SntW/720/chunklist.m3u8
 常用電台,台視 HD,"https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8"
 常用電台,中視,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 常用電台,華視,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
@@ -18,17 +19,20 @@
 常用電台,靖天卡通台,http://61.58.60.230:9319/live/207.m3u8
 常用電台,Baby First第一寶貝,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 常用電台,民視新聞台,"https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
-常用電台,台視新聞台,"hget$s://www.ttv.com.tw/videocity/video_play.asp?id=99$jsoup::meta[content~=youtube]"
-常用電台,中視新聞台,"https://www.youtube.com/watch?v=94wGQ2EFR98$$$newslive$中視新聞台"
+常用電台,台視新聞台,"https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8$$$hget$s://www.ttv.com.tw/videocity/video_play.asp?id=99$jsoup::meta[content~=youtube]"
+常用電台,中視新聞台,"https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8$$$https://www.youtube.com/watch?v=94wGQ2EFR98$$$newslive$中視新聞台"
 常用電台,華視新聞台,https://www.youtube.com/watch?v=TL8mmew3jb8
 常用電台,TVBS新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=11&clientId=$$$http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8"
 常用電台,三立新聞台,"http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=39&clientId=$$$hget$s://live.setn.com/Live/358$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
-常用電台,中天新聞台,"https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
+常用電台,中天新聞台,"http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8$$$https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
+常用電台,臺新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+常用電台,年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 常用電台,非凡新聞台,"hget$s://video.friday.tw/api2/streaming/get?streamingType=1&contentType=1&streamingId=27&clientId="
 常用電台,寰宇新聞,hget$s://www.faintv.com.tw/asianewslivechannel/1$http://globalnewstv.com.tw/tvonline$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,寰宇新聞2台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
-常用電台,東森新聞台,"https://www.youtube.com/watch?v=RaIJ767Bj_M$$$newslive$東森新聞"
+常用電台,東森新聞台,"http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8$$$https://www.youtube.com/watch?v=RaIJ767Bj_M$$$newslive$東森新聞"
 常用電台,東森財經新聞台,"https://www.youtube.com/watch?v=q8u9qK5niss$$$newslive$東森財經"
+常用電台,台視財經台,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 常用電台,三立iNEWS,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001843&freeProduct=1$json::url::msg$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,Bloomberg,"hget$s://video.friday.tw/api2/streaming/get?streamingId=7&streamingType=1&contentType=1&clientId="
 常用電台,天空新聞,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
