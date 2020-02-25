@@ -396,7 +396,7 @@
 	url="https://i.ytimg.com/vi/TJ8_aRUIBMU/mqdefault.jpg"/>
   <item  group="政論" name="新聞面對面" type="ytItem" show="false" link="PLbyorRThEk_JGS6h0vE_HofTNJPMgh_b3"
 	url="https://i.ytimg.com/vi/WuAx5_LyW0o/mqdefault.jpg"
-	description="📺年代新聞台(50頻道)"/>
+	description="?年代新聞台(50頻道)"/>
   <item  group="政論" name="新聞追追追" type="ytItem" show="false" link="PLbyorRThEk_K5jWTcQowYNi7EbKDBmToq"
 	url="https://i.ytimg.com/vi/MRTvIrvnreA/mqdefault.jpg"
 	description="一起追真相、追是非"/>
@@ -1115,15 +1115,15 @@
   <item  group="電影" name="中國電影頻道" type="ytItem" show="true" sort="no" link="PLOrf2h5ONlwXu7fe_KagfkPV7DnjQ1VSV"
 	 url="https://yt3.ggpht.com/a-/ACSszfHJJmb1NSaNY_Zzy46Jq5nhivHbh23mKFDTRA=s%d-c-k-no"/>
 
-  <item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['zx#cid=12','ok#cid=12','yj#cid=12','kb#cid=12','gq#cid=31','ky#t=12']"
+  <item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['zx#cid=12','ok#cid=12','yj#cid=12','kb#cid=12','3u#cid=12','gq#cid=31','ky#t=12']"
 	 url="https://4.bp.blogspot.com/-BHwHUKwjpfM/W0BvGeyoQiI/AAAAAAAAAmk/aINkON5K2kImAWlGtQJPPlugDhhIC0GOQCLcBGAs/s320/luju.png"
 	 description="採集資源網zx,ok,yj"/>
-  <item  group="網搜" name="網搜日本戲劇" type="tvGrid" draw="ribenju.webp" show="false" link="['ok#cid=17','yj#cid=14','kb#cid=20','ky#t=15']"
+  <item  group="網搜" name="網搜日本戲劇" type="tvGrid" draw="ribenju.webp" show="false" link="['ok#cid=17','yj#cid=14','kb#cid=20','jk#cid=14','ky#t=15']"
 	 url="https://4.bp.blogspot.com/-PBq1hGwuhww/WwGRiYx6G-I/AAAAAAAAAlA/eAHlAPv0QQgyvnoNhG7W5mpeQl4wDqtBQCLcBGAs/s320/wsjapandrema.png"
 	 description="採集資源網ok,yj,ky"/>
-  <item  group="網搜" name="網搜韓國戲劇" type="tvGrid" draw="hanguoju.webp" show="false" link="['zx#cid=14','yj#cid=16','kb#cid=19','ky#t=19','gq#cid=24']"
+  <item  group="網搜" name="網搜韓國戲劇" type="tvGrid" draw="hanguoju.webp" show="false" link="['zx#cid=14','yj#cid=16','kb#cid=19','jk#cid=17','ky#t=19','gq#cid=24']"
 	 url="https://2.bp.blogspot.com/-plmzsIiN-Tk/WwGRieHPFNI/AAAAAAAAAlE/ID95TUx2aN4exr-AYk-P4KnzOEvPpMOpQCLcBGAs/s320/wskoreadrema.png"
-	 description="採集資源網zx,yj"/>
+	 description="採集資源網zx,yj,jk"/>
   <item  group="網搜" name="網搜歐美戲劇" type="tvGrid" draw="oumeiju.webp" show="false" link="['yj#cid=15','kb#cid=15','ok#cid=15']"
 	 url="https://1.bp.blogspot.com/-5qg0wo6WGks/WwGRhuncU8I/AAAAAAAAAk0/V7Md3xDWgik2qA2XAxBT3453q3IJXq_JwCLcBGAs/s320/wseouramericadrema.png"
 	 description="採集資源網yj,kb,ok"/>
@@ -1133,32 +1133,32 @@
   <item  group="網搜" name="網搜動漫" type="tvGrid" draw="dongmanju.webp" show="false" link="['yj#cid=4','kb#cid=4','ok#cid=4']"
 	 url="https://2.bp.blogspot.com/-f_2cOxUS3lM/W0BqGIPV3xI/AAAAAAAAAmM/79XAzHvJR1kup1SDbFkSdpz-DUvddUf0ACLcBGAs/s320/dongman.png"
 	 description="採集資源網yj,kb,ok"/>
-  <item  group="網搜" name="網搜綜藝節目" type="tvGrid" draw="zhongyiju.webp" show="false" link="['yj#cid=3','ok#cid=3','kb#cid=3']"
+  <item  group="網搜" name="網搜綜藝節目" type="tvGrid" draw="zhongyiju.webp" show="false" link="['yj#cid=3','jk#cid=3','ok#cid=3','kb#cid=3']"
 	 url="https://4.bp.blogspot.com/-Z2-9MU4BoXs/WwGRj-FK9mI/AAAAAAAAAlU/DQA0GCp3OskTQ_WH13yx3pyNE4ue_6SXwCLcBGAs/s320/wszhongyi.png"
-	 description="採集資源網yj,ok"/>
-  <item  group="網搜" name="網搜喜劇電影" type="tvGrid" draw="yijudianying.webp" show="true" link="['zx#cid=6','ok#cid=6','kb#cid=6','yj#cid=6','ky#ac=videolist&amp;t=6','gq#cid=6']"
+	 description="採集資源網yj,jk,ok"/>
+  <item  group="網搜" name="網搜喜劇電影" type="tvGrid" draw="yijudianying.webp" show="true" link="['zx#cid=6','ok#cid=6','kb#cid=6','jk#cid=6','yj#cid=6','ky#ac=videolist&amp;t=6','gq#cid=6']"
 	 url="https://1.bp.blogspot.com/-AzsR7ltXyfE/WwGRiOyTz2I/AAAAAAAAAk8/E3rod9u-BEMgjvyS7yaz88iUCGkTTRklACLcBGAs/s320/wsfunny.png"
-	 description="採集資源網ok,kb"/>
-  <item  group="網搜" name="網搜動作電影" type="tvGrid" draw="dongzhuodianying.webp" show="true" link="['zx#cid=5','ok#cid=5','kb#cid=5','yj#cid=5','gq#cid=5']"
+	 description="採集資源網ok,kb,jk"/>
+  <item  group="網搜" name="網搜動作電影" type="tvGrid" draw="dongzhuodianying.webp" show="true" link="['zx#cid=5','ok#cid=5','kb#cid=5','jk#cid=5','yj#cid=5','gq#cid=5']"
 	 url="https://3.bp.blogspot.com/-pxhxnUeAEKo/WwGRg_tcCpI/AAAAAAAAAkk/CPB6j4W6Mww2uLZuDo1tgNDppaZ6zvZHQCLcBGAs/s320/wsaction.png"
-	 description="採集資源網ok,zx"/>
-  <item  group="網搜" name="網搜劇情電影" type="tvGrid" draw="juqindianying.webp" show="false" link="['kb#cid=10','ok#cid=10','yj#cid=10','gq#cid=10']"
+	 description="採集資源網ok,zx,jk"/>
+  <item  group="網搜" name="網搜劇情電影" type="tvGrid" draw="juqindianying.webp" show="false" link="['kb#cid=10','ok#cid=10','yj#cid=10','jk#cid=10','gq#cid=10']"
 	 url="https://3.bp.blogspot.com/-yNunz27qJWo/WwGRhnx1zuI/AAAAAAAAAkw/lDU_ut6uZPcAHzq6HAE4aPW8nSYqqng2wCLcBGAs/s320/wsdremamov.png"
 	 description="採集資源網kb,ok,yj"/>
-  <item  group="網搜" name="網搜科幻電影" type="tvGrid" draw="kuanhuandianying.webp" show="true" link="['kb#cid=8','ok#cid=8','yj#cid=8']"
+  <item  group="網搜" name="網搜科幻電影" type="tvGrid" draw="kuanhuandianying.webp" show="true" link="['kb#cid=8','ok#cid=8','jk#cid=8','yj#cid=8','3u#cid=8']"
 	 url="https://2.bp.blogspot.com/-WDg0-ni4L0Q/WwGRjkzE7eI/AAAAAAAAAlQ/-R5VsaqY2pcrTGKgA8MhzbDhbeppV3QbgCLcBGAs/s320/wsscieace.png"
-	 description="採集資源網kb,ok"/>
-  <item  group="網搜" name="網搜愛情電影" type="tvGrid" draw="haiqindianying.webp" show="false" link="['ok#cid=7','kb#cid=7','yj#cid=7']"
+	 description="採集資源網kb,ok,jk"/>
+  <item  group="網搜" name="網搜愛情電影" type="tvGrid" draw="haiqindianying.webp" show="false" link="['ok#cid=7','kb#cid=7','jk#cid=7','yj#cid=7']"
 	 url="https://1.bp.blogspot.com/-NdiuJpKLblI/WwGRi4CIgsI/AAAAAAAAAlI/oUeMmiyvuzM0opo8tFT5flMLDF7Jv12dACLcBGAs/s320/wslover.png"
-	 description="採集資源網ok,kb"/>
-  <item  group="網搜" name="網搜恐怖電影" type="tvGrid" draw="kongbudianying.webp" show="false" link="['kb#cid=9','ok#cid=9','yj#cid=9']"
+	 description="採集資源網ok,kb,jk"/>
+  <item  group="網搜" name="網搜恐怖電影" type="tvGrid" draw="kongbudianying.webp" show="false" link="['kb#cid=9','ok#cid=9','yj#cid=9','jk#cid=9']"
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網kb,ok,yj"/>
 
-<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','yj#$cj.yongjiuzyw.com/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','jk#$www.jikzy.com/inc/feifei3$極快資源','zx#$api.zuixinapi.com/inc/feifei3$最新源','gq#$cj.gaoqingzyw.com/inc/feifei3$高清資源','ky#$www.kuyunzyw.tv/inc/ldg_api.php$酷雲','123#$www.123ku.com/inc/feifei.php$123資源網','135#$cj.135zy.co/inc/feifei3$135資源網','kk#$v.bbtsv.com/inc/feifei3$看看資源']/>
-<set_pref ziyuan_search=['yj#','ok#','kb#','zx#','sb#','gq#']/>
+<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','yj#$cj.yongjiuzyw.com/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','jk#$www.jikzy.com/inc/feifei3$極快資源','zx#$api.zuixinapi.com/inc/feifei3$最新源','gq#$cj.gaoqingzyw.com/inc/feifei3$高清資源','ky#$www.kuyunzyw.tv/inc/ldg_api.php$酷雲','3u#$cj.1156zy.com/inc/feifei3$33uu資源','123#$www.123ku.com/inc/feifei.php$123資源網','135#$cj.135zy.co/inc/feifei3$135資源網','kk#$v.bbtsv.com/inc/feifei3$看看資源','ix#$api.iixxzyapi.com/inc/feifei3$IIXX']/>
+<set_pref ziyuan_search=['yj#','ok#','3u#','kb#','zx#','sb#','gq#']/>
 
-<gen_items cnt="12" group="戲劇" link="['yj#cid=12','kb#cid=12','zx#cid=12&amp;p=2']"/>
+<gen_items cnt="12" group="戲劇" link="['yj#cid=12','jk#cid=12','kb#cid=12','zx#cid=12&amp;p=2','jk#cid=12&amp;p=2']"/>
 <gen_items cnt="3" group="日韓" link="['yj#cid=16','yj#cid=16&amp;p=2','123#t=14','gq#cid=24']"/>
 <gen_items cnt="3" group="日韓" link="['kb#cid=20','ky#t=15','gq#cid=25']"/>
 <gen_items append="['chinaq$http://www.chinaq.me$div.items.sizing a[href]']"/>
