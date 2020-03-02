@@ -19,6 +19,9 @@
   <item  group="新聞" name="國內焦點新聞" type="ytItem" show="true" link="PLNjtpXOAJhQIId9CWVMpKhhp2OrrM9iok"
 	 url="https://yt3.ggpht.com/lJ--VcehMEav4ZRvOBvdkkTsRHAk3AzFIv7lezB5ORSBfVruoFsaj3PKxFz6jCCkBqNrItsaXgKE8rEVhg=s%d-nd-c-k-no"
 	 description="Youtube自動產生最新報導"/>
+  <item  group="新聞" name="武漢肺炎 懶人包" type="ytItem" show="true" link="PLxhUsq3CF77hFpQGjLk_6a5OJ7ZEkAttp"
+	 url="https://i.ytimg.com/vi/sWTM5tfClkw/mqdefault.jpg"
+	 description="三立新聞網SETN"/>
   <item  group="新聞" name="時下熱門精選" type="ytVideo" mix="true" draw="hot_video.webp" show="true" link="chart=mostPopular&amp;regionCode=TW"
 	 url="https://yt3.ggpht.com/fDruQ6odgPE2OZUVI0Putfb9BOhN_tbbn5ezQ40f1D2-VuxEc-0dv8BzTdRuLb5rkGK4loBeR-uk1IpCpA=s%d-nd-c-k-no"
 	 description="Youtube自動產生主題頻道"/>
@@ -396,7 +399,7 @@
 	url="https://i.ytimg.com/vi/TJ8_aRUIBMU/mqdefault.jpg"/>
   <item  group="政論" name="新聞面對面" type="ytItem" show="false" link="PLbyorRThEk_JGS6h0vE_HofTNJPMgh_b3"
 	url="https://i.ytimg.com/vi/WuAx5_LyW0o/mqdefault.jpg"
-	description="?年代新聞台(50頻道)"/>
+	description="年代新聞台(50頻道)"/>
   <item  group="政論" name="新聞追追追" type="ytItem" show="false" link="PLbyorRThEk_K5jWTcQowYNi7EbKDBmToq"
 	url="https://i.ytimg.com/vi/MRTvIrvnreA/mqdefault.jpg"
 	description="一起追真相、追是非"/>
@@ -1155,7 +1158,7 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網kb,ok,yj"/>
 
-<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','yj#$cj.yongjiuzyw.com/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','jk#$www.jikzy.com/inc/feifei3$極快資源','zx#$api.zuixinapi.com/inc/feifei3$最新源','gq#$cj.gaoqingzyw.com/inc/feifei3$高清資源','ky#$www.kuyunzyw.tv/inc/ldg_api.php$酷雲','3u#$cj.1156zy.com/inc/feifei3$33uu資源','123#$www.123ku.com/inc/feifei.php$123資源網','135#$cj.135zy.co/inc/feifei3$135資源網','kk#$v.bbtsv.com/inc/feifei3$看看資源','ix#$api.iixxzyapi.com/inc/feifei3$IIXX']/>
+<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','yj#$cj.yongjiuzyw.com/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','jk#$www.jikzy.com/inc/feifei3$極快資源','zx#$api.zuixinapi.com/inc/feifei3$最新源','gq#$cj.gaoqingzyw.com/inc/feifei3$高清資源','ky#$www.kuyunzyw.tv/inc/ldg_api.php$酷雲','3u#$cj.1156zy.com/inc/feifei3$33uu資源','123#$www.123ku.com/inc/feifei.php$123資源網','135#$cj.135zy.co/inc/feifei3$135資源網','kk#$v.bbtsv.com/inc/feifei3$看看資源']/>
 <set_pref ziyuan_search=['yj#','ok#','3u#','kb#','zx#','sb#']/>
 
 <gen_items cnt="12" group="戲劇" link="['yj#cid=12','jk#cid=12','kb#cid=12','zx#cid=12&amp;p=2','jk#cid=12&amp;p=2']"/>
