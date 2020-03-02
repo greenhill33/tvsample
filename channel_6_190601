@@ -20,7 +20,7 @@
 	 url="https://yt3.ggpht.com/lJ--VcehMEav4ZRvOBvdkkTsRHAk3AzFIv7lezB5ORSBfVruoFsaj3PKxFz6jCCkBqNrItsaXgKE8rEVhg=s%d-nd-c-k-no"
 	 description="Youtube自動產生最新報導"/>
   <item  group="新聞" name="武漢肺炎 懶人包" type="ytItem" show="true" link="PLxhUsq3CF77hFpQGjLk_6a5OJ7ZEkAttp"
-	 url="https://i.ytimg.com/vi/sWTM5tfClkw/mqdefault.jpg"
+	 url="https://st3.depositphotos.com/1229718/33641/i/450/depositphotos_336415838-stock-photo-coronavirus-disease.jpg"
 	 description="三立新聞網SETN"/>
   <item  group="新聞" name="時下熱門精選" type="ytVideo" mix="true" draw="hot_video.webp" show="true" link="chart=mostPopular&amp;regionCode=TW"
 	 url="https://yt3.ggpht.com/fDruQ6odgPE2OZUVI0Putfb9BOhN_tbbn5ezQ40f1D2-VuxEc-0dv8BzTdRuLb5rkGK4loBeR-uk1IpCpA=s%d-nd-c-k-no"
