@@ -24,10 +24,8 @@
 常用電台,TVBS新聞台,"http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8$$$newslive$TVBS新聞"
 常用電台,三立新聞台,"http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$newslive$三立LIVE"
 常用電台,中天新聞台,"http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8$$$https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
-常用電台,臺新聞,"hget$://m.iptv444.com/?act=play&token=183575b97128e72fd586b209c2c65c48&tid=gt&id=49$reg::token=::.*(http.*?token.*?)"".*::$1$$reg::m3u8::.*(http.*?m3u8.*?)\'.*::$1$$$https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8"
-常用電台,年代新聞,"hget$://m.iptv444.com/?act=play&token=117bee8da890949626ac98bd2f601ae6&tid=gt&id=52$reg::token=::.*(http.*?token.*?)"".*::$1$$reg::m3u8::.*(http.*?m3u8.*?)\'.*::$1$$$http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8"
-常用電台,寰宇新聞,hget$s://www.faintv.com.tw/asianewslivechannel/1$http://globalnewstv.com.tw/tvonline$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
-常用電台,寰宇新聞台灣台,hget$://pc.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
+常用電台,臺新聞,"https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8$$$hget$://m.iptv555.com/?act=play&token=183575b97128e72fd586b209c2c65c48&tid=gt&id=49$reg::token=::.*(http.*?token.*?)"".*::$1$$reg::m3u8::.*(http.*?m3u8.*?)\'.*::$1"
+常用電台,年代新聞,"http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8$$$hget$://m.iptv555.com/?act=play&token=117bee8da890949626ac98bd2f601ae6&tid=gt&id=52$reg::token=::.*(http.*?token.*?)"".*::$1$$reg::m3u8::.*(http.*?m3u8.*?)\'.*::$1"
 常用電台,東森新聞台,"https://www.youtube.com/watch?v=RaIJ767Bj_M$$$newslive$東森新聞"
 常用電台,東森財經新聞台,"https://www.youtube.com/watch?v=dphWo0r27Z4$$$newslive$東森財經"
 常用電台,台視財經台,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
