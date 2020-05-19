@@ -1,10 +1,10 @@
-常用電台,民視綜藝台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001611&freeProduct=1$json::url::msg$FitXY
+常用電台,民視無線台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001798&freeProduct=1$json::url::msg$FitXY
 常用電台,台視 HD,"https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8"
 常用電台,中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 常用電台,華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 常用電台,公視 HD,"https://www.youtube.com/watch?v=ED4QXd5xAco$$$newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
 常用電台,公視台語台,"https://www.youtube.com/watch?v=ihWafbJ_Ics$$$hget$s://taigi.pts.org.tw$jsoup::iframe[src]"
-常用電台,客家電視台,https://www.youtube.com/watch?v=vgXpF25lbYk
+常用電台,客家電視台,https://www.youtube.com/watch?v=XCJv1Nz6sz0
 常用電台,原住民電視台,"https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/playlist.m3u8"
 常用電台,人間衛視,hget$://www.bltv.tv/about/?f=audience$jsoup::source[src]
 常用電台,大愛電視台,"http://61.58.60.230:9319/live/10.m3u8$$$https://tv1.wanfudaluye.com/live/live.m3u8$$$newslive$大愛一臺"
@@ -19,11 +19,11 @@
 常用電台,Baby First第一寶貝,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 常用電台,民視新聞台,"https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
 常用電台,台視新聞台,"hget$s://www.ttv.com.tw/videocity/video_play.asp?id=99$jsoup::meta[content~=youtube]"
-常用電台,中視新聞台,"https://www.youtube.com/watch?v=94wGQ2EFR98$$$newslive$中視新聞台"
+常用電台,中視新聞台,"https://www.youtube.com/watch?v=3OPNkiqD48g$$$newslive$中視新聞台"
 常用電台,華視新聞台,https://www.youtube.com/watch?v=TL8mmew3jb8
 常用電台,TVBS新聞台,"http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8$$$newslive$TVBS新聞"
 常用電台,三立新聞台,"http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$newslive$三立LIVE"
-常用電台,中天新聞台,"http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8$$$https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
+常用電台,中天新聞台,"https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
 常用電台,臺新聞,"https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8$$$hget$://m.iptv345.com/?act=play&token=159f9178b20da1ed325052f41b74b711&tid=gt&id=49$reg::token=::.*(http.*?token.*?)"".*::$1$$reg::m3u8::.*(http.*?m3u8.*?)\'.*::$1"
 常用電台,年代新聞,"hget$://m.iptv345.com/?act=play&token=baad7f53941bde8ba7417998c386be3c&tid=gt&id=52$reg::token=::.*(http.*?token.*?)"".*::$1$$reg::m3u8::.*(http.*?m3u8.*?)\'.*::$1$$$http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8"
 常用電台,寰宇新聞,hget$://www.faintv.com.tw/asianewslivechannel/1$http://globalnewstv.com.tw/tvonline$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
@@ -31,10 +31,9 @@
 常用電台,東森新聞台,"https://www.youtube.com/watch?v=RaIJ767Bj_M$$$newslive$東森新聞"
 常用電台,東森財經新聞台,"https://www.youtube.com/watch?v=dphWo0r27Z4$$$newslive$東森財經"
 常用電台,台視財經台,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
-常用電台,三立iNEWS,"hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001843&freeProduct=1$json::url::msg$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
-常用電台,天空新聞,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-常用電台,澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8$FitXY
-常用電台,國家地理,http://192.154.103.75:8080/ZZ_hbo/ZZ_hbo.m3u8
+常用電台,非凡商業台,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001739&freeProduct=1$json::url::msg$FitXY
+常用電台,三立iNEWS,"hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
+常用電台,澳亞衛視,http://61.58.60.230:9319/live/256.m3u8$FitXY
 常用電台,優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 常用電台,全美台,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 常用電台,八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
@@ -48,7 +47,7 @@
 常用電台,靖天日本台,http://61.58.60.230:9319/live/243.m3u8
 常用電台,福斯動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 常用電台,華納電影,http://192.154.103.75:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-常用電台,家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
+常用電台,Newtv動作影院,http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
 常用電台,Newtv明星大片,http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
 常用電台,Newtv驚悚懸疑,http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
 常用電台,愛爾達電視,"hget$s://eltaott.tv/free$reg::m3u8::.*file:.*?(http.*?m3u8.*?)"".*::$1"
@@ -58,8 +57,8 @@
 常用電台,五星體育,http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 常用電台,香港奇妙電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 常用電台,唐人經典台,http://174.127.67.246/live330/playlist.m3u8?$FitXY
-常用電台,鳳凰衛視資訊,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-常用電台,鳳凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
+常用電台,鳳凰衛視資訊,http://117.169.120.138:8080/live/fhzixun/.m3u8
+常用電台,鳳凰中文,http://223.82.250.72/live/fhchinese/1.m3u8
 常用電台,中華衛視台灣台,http://pull.leshantangjt.com/live/playlist.m3u8$FitXY
 常用電台,新加坡頻道8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 常用電台,湖南衛視,http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8$$$http://111.40.205.76/PLTV/88888888/224/3221225610/index.m3u8
