@@ -118,7 +118,7 @@
 	 url="http://www.gstatic.com/news-static/img/logo/zh-TW_tw/news.gif"/>
   <item  group="新聞" name="聯合新聞" type="rss" draw="udn_logo.webp" show="false"
 	 link="https://udn.com/rssfeed/news/2/6638?ch=news"
-	 url="https://udn.com/static/img/logo_mark.svg"/>
+	 url="https://yt3.ggpht.com/a/AATXAJyQMuNEOJrg0z0x0MnuHjlKgTmj1IQaQZ3kbg=s%d-c-k-no"/>
   <item  group="新聞" name="奇摩新聞" type="rss" draw="yahoo_news.webp" show="false"
 	 link="https://tw.news.yahoo.com/rss/"
 	 url="http://img.scl13.com/yahoo20-2/y1.jpg"/>
