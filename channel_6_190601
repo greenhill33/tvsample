@@ -1160,6 +1160,7 @@
 
 <set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','yj#$cj.yongjiuzyw.com/inc/feifei3$永久云','ok#$www.apiokzy.com/inc/feifei3s$OK資源','kb#$api.kbzyapi.com/inc/feifei3.4$酷播','jk#$www.jikzy.com/inc/feifei3$極快資源','zx#$api.zuixinapi.com/inc/feifei3$最新源','gq#$cj.gaoqingzyw.com/inc/feifei3$高清資源','ky#$www.kuyunzyw.tv/inc/ldg_api.php$酷雲','3u#$cj.1886zy.co/inc/feifei3$33uu資源','123#$www.123ku.com/inc/feifei.php$123資源網','135#$cj.135zy.co/inc/feifei3$135資源網','kk#$v.bbtsv.com/inc/feifei3$看看資源']/>
 <set_pref ziyuan_search=['yj#','ok#','kb#','zx#']/>
+<set_pref user_defined_api_key=NULL/>
 
 <gen_items cnt="12" group="戲劇" link="['yj#cid=12','jk#cid=12','kb#cid=12','zx#cid=12&amp;p=2','jk#cid=12&amp;p=2']"/>
 <gen_items cnt="3" group="日韓" link="['yj#cid=16','yj#cid=16&amp;p=2','123#t=14']"/>
