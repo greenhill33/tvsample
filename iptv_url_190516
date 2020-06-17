@@ -24,7 +24,7 @@
 常用電台,三立新聞台,"http://seb.sason.top/sc/sllive_fhd.m3u8$$$http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$newslive$三立LIVE"
 常用電台,中天新聞台,"http://seb.sason.top/sc/ztxw_fhd.m3u8$$$https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
 常用電台,臺新聞,"http://stream.nexttv.com.tw/n001/hd/live.m3u8$$$hget$://m.iptv345.com/?act=play&token=159f9178b20da1ed325052f41b74b711&tid=gt&id=49$reg::token=::.*(http.*?token.*?)"".*::$1$$reg::m3u8::.*(http.*?m3u8.*?)\'.*::$1"
-常用電台,年代新聞,http://58.99.33.9:1935/liveedge2/live_50_1.stream/playlist.m3u8
+常用電台,年代新聞,http://58.99.33.9:1935/liveedge2/live_50_1.stream/playlist.m3u8$FitXY
 常用電台,寰宇新聞,hget$://www.faintv.com.tw/asianewslivechannel/1$http://globalnewstv.com.tw/tvonline$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,寰宇新聞台灣台,hget$://www.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,東森新聞台,"http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8$$$https://www.youtube.com/watch?v=RaIJ767Bj_M$$$newslive$東森新聞"
