@@ -678,7 +678,7 @@
 	 description="Youtube自動產生主題頻道"/>
   <item  group="音樂" name="台灣點歌王" type="web" draw="songcorp.webp" show="true" 
 	 ckaddr="songID=" ckiframe="input#ContentPlaceHolder1_youtubeID[value]"
-	 link="https://song.corp.com.tw/company.aspx?company=%E9%9F%B3%E5%9C%93"
+	 link="https://song.corp.com.tw"
 	 url="https://song.corp.com.tw/images/org_180.png"
 	 description="支援觸屏、滑鼠"/>
   <item  group="音樂" name="台灣那麼旺" type="ytItem" draw="ya1650.webp" show="true" link="PLU4sOKAxAVf0wY1124O3f8GacGz1sRno8"
