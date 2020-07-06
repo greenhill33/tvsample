@@ -677,7 +677,7 @@
 	 url="https://yt3.ggpht.com/0v8T0CTAv8VPxA5lJtz-tqJe-tR-3VQc0ONhD6Az2RWjNRnwh5QQzPYz5I7wbYljU_tQjZ2ok2W59_v_=s%d-nd-c-k-no"
 	 description="Youtube自動產生主題頻道"/>
   <item  group="音樂" name="台灣點歌王" type="web" draw="songcorp.webp" show="true" 
-	 ckaddr="songID=" ckiframe="input#ContentPlaceHolder1_youtubeID[value]"
+	 ckaddr="songID=" ckiframe="input[id$=_youtubeID][value]"
 	 link="https://song.corp.com.tw"
 	 url="https://song.corp.com.tw/images/org_180.png"
 	 description="支援觸屏、滑鼠"/>
