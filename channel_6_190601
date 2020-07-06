@@ -676,7 +676,8 @@
   <item  group="音樂" name="熱門音樂" type="ytItem" mix="true" draw="hot_music.webp" show="true" link="PLFgquLnL59amN9tYr7o2a60yFUfzQO3sU"
 	 url="https://yt3.ggpht.com/0v8T0CTAv8VPxA5lJtz-tqJe-tR-3VQc0ONhD6Az2RWjNRnwh5QQzPYz5I7wbYljU_tQjZ2ok2W59_v_=s%d-nd-c-k-no"
 	 description="Youtube自動產生主題頻道"/>
-  <item  group="音樂" name="台灣點歌王" type="web" draw="songcorp.webp" show="true"  ckaddr="youtu.be"
+  <item  group="音樂" name="台灣點歌王" type="web" draw="songcorp.webp" show="true" 
+	 ckaddr="songID=" ckiframe="input#ContentPlaceHolder1_youtubeID[value]"
 	 link="https://song.corp.com.tw/company.aspx?company=%E9%9F%B3%E5%9C%93"
 	 url="https://song.corp.com.tw/images/org_180.png"
 	 description="支援觸屏、滑鼠"/>
