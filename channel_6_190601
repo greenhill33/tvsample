@@ -1071,8 +1071,8 @@
 	url="http://ww1.sinaimg.cn/large/7d172de2gy1fgtrc6adwpj208c0cit9y.jpg"/>
   <item  group="經典" name="司馬懿之虎嘯龍吟 44全2017" type="combo" show="false" sort="title" link="['yj#5304','thread-4262.htm','dayi.ca/?p=187791']"
 	url="http://ww1.sinaimg.cn/large/7d172de2gy1fm8kfgvuguj207i0anmxn.jpg"/>
-  <item  group="經典" name="隋唐演義" type="ytItem" show="true" sort="title" link="PLHndevUejuw4PjMj39z9QZgryN6f67x6_"
-   	description="永乐影视官方频道"/>
+  <item  group="經典" name="絕命卦師" type="ytItem" show="true" sort="title" link="PLIx8QniXH-rHE_xCXRa2FxXPoy3DuUW66"
+   	url="https://i.ytimg.com/vi/urpybKlWmBk/mqdefault.jpg" description="永乐影视官方频道"/>
   <item  group="經典" name="神鵰俠侶2014" type="ytItem" show="false" sort="title" link="PLf7jU5YdQ7lwuN7yq0NRVSgLZny9eOeCg"/>
   <item  group="經典" name="笑傲江湖(李亞鵬)" type="ytItem" show="false" sort="title" link="PLL7H7U6zd1f0IfK2LASb-E-vzq5R90OUm"
    	description="热播剧场"/>
@@ -1090,7 +1090,7 @@
  	url="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505704270.jpg"/>
   <item  group="經典" name="矽谷黑歷史1-5" type="combo" show="false" sort="no" link="['ok#14997$第一季','ok#14998$第二季','ok#14999$第三季','ok#214$第四季','ok#11012$第五季']"
  	url="http://pic.china-gif.com/pic/upload/vod/2018-06/201806051528187425.jpg"/>
-  <item  group="經典" name="黑鏡1-4" type="combo" show="false" sort="no" link="['ok#14949$第一季','ok#14950$第二季','ok#14951$第三季','ok#5431$第四季']"
+  <item  group="經典" name="黑鏡1-5" type="combo" show="false" sort="no" link="['ok#14949$第一季','ok#14950$第二季','ok#14951$第三季','ok#5431$第四季','ok#34869$第五季','ok#37002$圣诞篇']"
  	url="http://pic.china-gif.com/pic/upload/vod/2018-06/201806041528089742.jpg"/>
   <item  group="經典" name="西方極樂園/西部世界1-2(15+)" type="combo" show="false" sort="no" link="['jk#23102$第一季','jk#32080$第二季']"
  	url="http://ww1.sinaimg.cn/large/7d172de2gy1fhp9cwxpb4j208c0ccab4.jpg"/>
@@ -1102,6 +1102,8 @@
  	url="http://img.yongjiu7.com/upload/vod/2019-01-17/154772890819.jpg"/>
   <item  group="經典" name="我的家裡空無一物" type="ytItem" show="false" sort="title" link="PLnVcQKmOc0S3YZIWn3hR3nCMkUKuHP-6A"
    	url="https://i.ytimg.com/vi/3WgksPKDFuo/mqdefault.jpg"/>
+  <item  group="經典" name="核爆家園" type="combo" show="false" sort="no" link="['ok#33101','yj#24252']"
+ 	url="https://img.yongjiu7.com/upload/vod/2019-05-07/15572308261.jpg"/>
 
   <item  group="電影" name="近期新片推薦" type="ytItem" show="true" link="PL316wRwpvsnGLncT6CHiy-mfibsREFDsF"
 	 url="https://yt3.ggpht.com/-j27YTxGrrpQ/AAAAAAAAAAI/AAAAAAAAAAA/Ws4MA2Dozlw/s%d-c-k-no/photo.jpg"/>
