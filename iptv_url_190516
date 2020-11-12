@@ -1,6 +1,6 @@
 常用電台,台視 HD,"https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8"
 常用電台,公視 HD,"https://www.youtube.com/watch?v=ED4QXd5xAco$$$newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
-常用電台,公視台語台,"https://www.youtube.com/watch?v=iTz7AfRrxH4$$$hget$s://taigi.pts.org.tw$jsoup::iframe[src]"
+常用電台,公視台語台,"https://www.youtube.com/watch?v=HyhkhY0tTjo$$$hget$s://taigi.pts.org.tw$jsoup::iframe[src]"
 常用電台,客家電視台,https://www.youtube.com/watch?v=LWwepk1p5kE
 常用電台,原住民電視台,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
 常用電台,人間衛視,https://bcovlive-a.akamaihd.net/69bacfa7211642a9b8daf66177fa32af/ap-northeast-1/6169276188001/playlist.m3u8
@@ -20,8 +20,6 @@
 常用電台,三立新聞台,"http://seb.sason.top/sc/sllive_fhd.m3u8$$$http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8$$$newslive$三立LIVE"
 常用電台,中天新聞台,"http://seb.sason.top/sc/ztxw_fhd.m3u8$$$https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
 常用電台,臺新聞,"http://stream.nexttv.com.tw/n001/hd/live.m3u8$$$hget$://m.iptv345.com/?act=play&token=159f9178b20da1ed325052f41b74b711&tid=gt&id=49$reg::token=::.*(http.*?token.*?)"".*::$1$$reg::m3u8::.*(http.*?m3u8.*?)\'.*::$1"
-常用電台,寰宇新聞,hget$://www.faintv.com.tw/asianewslivechannel/1$http://globalnewstv.com.tw/tvonline$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
-常用電台,寰宇新聞台灣台,hget$://www.faintv.com.tw/asianewslivechannel/2$http://globalnewstv.com.tw/tvonline2$reg::chtplayer.src::.*chtplayer\.src.*?(http.*?)'\);.*::$1
 常用電台,東森新聞台,"http://seb.sason.top/sc/dsxw_fhd.m3u8$$$https://www.youtube.com/watch?v=RaIJ767Bj_M$$$newslive$東森新聞"
 常用電台,東森財經新聞台,"http://seb.sason.top/sc/dscjxw_fhd.m3u8$$$https://www.youtube.com/watch?v=68lLQ7hkdzU$$$newslive$東森財經"
 常用電台,三立財經台,http://seb.sason.top/sc/slinews_fhd.m3u8
