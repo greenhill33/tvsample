@@ -17,7 +17,7 @@
 常用電台,中視新聞台,"http://seb.sason.top/sc/zsxw_fhd.m3u8$$$https://www.youtube.com/watch?v=ptqD4qo9D3I$$$newslive$中視新聞台"
 常用電台,華視新聞台,"http://seb.sason.top/sc/hsxw_fhd.m3u8$$$https://www.youtube.com/watch?v=HvqBnBVNRuw$$$newslive$華視新聞"
 常用電台,TVBS新聞台,"http://seb.sason.top/sc/tvbsxw_fhd.m3u8$$$newslive$TVBS新聞"
-常用電台,三立新聞台,"https://www.youtube.com/watch?v=4ZVUmEUFwaY$$$newslive$三立LIVE"
+常用電台,三立新聞台,"http://seb.sason.top/sc/sllive_fhd.m3u8$$$https://www.youtube.com/watch?v=4ZVUmEUFwaY$$$newslive$三立LIVE"
 常用電台,中天新聞台,"http://seb.sason.top/sc/ztxw_fhd.m3u8$$$https://www.youtube.com/watch?v=wUPPkSANpyo$$$newslive$中天新聞"
 常用電台,臺新聞,"http://stream.nexttv.com.tw/n001/hd/live.m3u8$$$hget$://m.iptv345.com/?act=play&token=159f9178b20da1ed325052f41b74b711&tid=gt&id=49$reg::token=::.*(http.*?token.*?)"".*::$1$$reg::m3u8::.*(http.*?m3u8.*?)\'.*::$1"
 常用電台,東森新聞台,"http://seb.sason.top/sc/dsxw_fhd.m3u8$$$https://www.youtube.com/watch?v=RaIJ767Bj_M$$$newslive$東森新聞"
