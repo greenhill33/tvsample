@@ -974,7 +974,7 @@
   	 description="PTT看板 娛樂區列表"/>
 
 <item  group="經典" name="女力報到" type="combo" show="true" sort="no" link="['yt#PLo4BeRaZpHRistlMk9TQsJkMIbI-7pPLJ$第7季最美的約定','yt#PLo4BeRaZpHRgkPF6gqRm1g29Lh-UQdiUd$第6季正好愛上你','yt#PLo4BeRaZpHRg4koNVwWWH8rBA0W_EPHvQ$第5季最佳拍檔']"
- 	url="https://i.ytimg.com/vi/LcagmAYYbpo/mqdefault.jpg"
+ 	url="https://i.ytimg.com/vi/LcagmAYYbpo/mqdefault.jpg"/>
 <item  group="經典" name="春風愛河邊 60全2017" type="ytItem" show="false" sort="no" link="PL8MwjIpV5cFVgruHt1IoZvKSB2ZpSnVI-"
  	 url="https://i.ytimg.com/vi/6HEK744hzA4/mqdefault.jpg"/>
 <item  group="經典" name="阿爸的願望 30全" type="ytItem" show="false" sort="no" link="PL2FfYhEj_1e6TkR8M7DUXvKlutPGNOqra"
