@@ -972,7 +972,9 @@
 <item  group="戲劇" name="⚽PTT娛樂區" type="web" draw="pttent.webp" show="false" link="https://pttent.com" ckaddr="youtube"
   	 url="https://4.bp.blogspot.com/-8cJCGr5pIks/XCGtupFbYMI/AAAAAAAAAnc/5VfVvQ8YDMYZufIKK5HParpjfR9uzeaDQCEwYBhgL/s320/pptent.jpg"
   	 description="PTT看板 娛樂區列表"/>
-    
+
+<item  group="經典" name="女力報到" type="combo" show="true" sort="no" link="['yt#PLo4BeRaZpHRistlMk9TQsJkMIbI-7pPLJ$第7季最美的約定','yt#PLo4BeRaZpHRgkPF6gqRm1g29Lh-UQdiUd$第6季正好愛上你','yt#PLo4BeRaZpHRg4koNVwWWH8rBA0W_EPHvQ$第5季最佳拍檔']"
+ 	url="https://i.ytimg.com/vi/LcagmAYYbpo/mqdefault.jpg"
 <item  group="經典" name="春風愛河邊 60全2017" type="ytItem" show="false" sort="no" link="PL8MwjIpV5cFVgruHt1IoZvKSB2ZpSnVI-"
  	 url="https://i.ytimg.com/vi/6HEK744hzA4/mqdefault.jpg"/>
 <item  group="經典" name="阿爸的願望 30全" type="ytItem" show="false" sort="no" link="PL2FfYhEj_1e6TkR8M7DUXvKlutPGNOqra"
@@ -1047,7 +1049,7 @@
  	url="https://i.ytimg.com/vi/tr_R9s7gMgk/mqdefault.jpg"/>
 <item  group="經典" name="如懿傳" type="combo" show="false" sort="no" link="['yj#13881','ok#18599']"
  	url="https://i.ytimg.com/vi/5feBdku0GjM/mqdefault.jpg"/>
-<item  group="經典" name="陸小鳳與花滿樓2015" type="ytItem" show="true" sort="title" link="PLf7jU5YdQ7lyuAxLVfOYc7mgyYG27ErkZ"
+<item  group="經典" name="陸小鳳與花滿樓2015" type="ytItem" show="false" sort="title" link="PLf7jU5YdQ7lyuAxLVfOYc7mgyYG27ErkZ"
  	url="https://i.ytimg.com/vi/Hbm73FowTsk/mqdefault.jpg"/>
 <item  group="經典" name="新醉打金枝" type="ytItem" show="false" sort="title" link="PLSIJismKOisEbSdby0r4IU2fEzzvO500G"/>
 <item  group="經典" name="董鄂妃傳" type="ytItem" show="false" sort="title" link="PLeuPaltH7SfHQtk0-f-KB_ODCFRiI-y7s"/>
@@ -1091,6 +1093,8 @@
    	url="https://i.ytimg.com/vi/3WgksPKDFuo/mqdefault.jpg"/>
 <item  group="經典" name="核爆家園" type="combo" show="false" sort="no" link="['ok#33101','yj#24252']"
  	url="https://img.yongjiu7.com/upload/vod/2019-05-07/15572308261.jpg"/>
+<item  group="經典" name="后翼棄兵" type="combo" show="false" sort="no" link="['ok#66249']"
+ 	url="http://images.cnblogsc.com/pic/upload/vod/2020-10/1603874972.jpg"/>
 
 <item  group="電影" name="近期新片推薦" type="ytItem" show="true" link="PL316wRwpvsnGLncT6CHiy-mfibsREFDsF"
 	 url="https://yt3.ggpht.com/-j27YTxGrrpQ/AAAAAAAAAAI/AAAAAAAAAAA/Ws4MA2Dozlw/s%d-c-k-no/photo.jpg"/>
