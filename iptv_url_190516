@@ -22,7 +22,7 @@
 常用電台,東森新聞台,"http://seb.sason.top/sc/dsxw_fhd.m3u8$$$newslive$東森新聞"
 常用電台,東森財經新聞台,"http://seb.sason.top/sc/dscjxw_fhd.m3u8$$$newslive$東森財經"
 常用電台,三立財經台,http://seb.sason.top/sc/slinews_fhd.m3u8
-常用電台,三立iNEWS,"newslive$SET iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
+常用電台,三立iNEWS,"newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 常用電台,優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 常用電台,亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 常用電台,亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
