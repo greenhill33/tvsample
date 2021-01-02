@@ -1,5 +1,5 @@
 <item  group="直播" name="我的直播" type="rtmp" draw="live.png" sort="no" show="true" link="在線直播" description="自行添加串流"/>
-<item  group="直播" name="新聞直播" type="live" show="true" sort="no" filter="(新聞|國會|公共|大愛|財經|盤中)" link="yt#PLU12uITxBEPFJGVb2zSgCaWvMBe7vHonB"
+<item  group="直播" name="新聞直播" type="live" show="true" sort="no" filter="(新聞|國會|公共|公視|大愛|財經|盤中)" link="yt#PLU12uITxBEPFJGVb2zSgCaWvMBe7vHonB"
   	 url="https://yt3.ggpht.com/7xqC5TXeVwzt4_Yergj3yEBX1z0JyO152DgWyUoKycm66TeJbXhXe2oMK_wDuVyvByuzWhqFs9-T07b_f5k=s%d-nd-c-k-no"
   	 description="Youtube直播中"/>
 <item  group="直播" name="正在直播" type="live" show="true" sort="no" link="yt#PLU12uITxBEPFJGVb2zSgCaWvMBe7vHonB"
