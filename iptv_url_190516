@@ -1,5 +1,3 @@
-常用電台,民視,http://seb.sason.top/ptv/ftv.php?id=ms
-常用電台,民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
 常用電台,台視 HD,"https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8"
 常用電台,公視 HD,"https://www.youtube.com/watch?v=ED4QXd5xAco$$$newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
 常用電台,公視台語台,"https://www.youtube.com/watch?v=HyhkhY0tTjo$$$hget$s://taigi.pts.org.tw$jsoup::iframe[src]"
@@ -29,7 +27,6 @@
 常用電台,亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 常用電台,亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 常用電台,亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-常用電台,空中英語教室,http://220.158.149.28:8180/live/TV00000000000000000077@HHZT$FitXY
 常用電台,愛爾達娛樂台,"hget$s://eltaott.tv/change_channel/play_v2$json::url"
 常用電台,靖天歡樂台,http://61.58.60.230:9319/live/201.m3u8
 常用電台,靖天資訊台,http://61.58.60.230:9319/live/202.m3u8
@@ -56,16 +53,14 @@
 常用電台,唐人經典台,http://174.127.67.246/live330/playlist.m3u8?$FitXY
 常用電台,鳳凰衛視資訊,http://117.169.120.138:8080/live/fhzixun/.m3u8
 常用電台,鳳凰中文,http://223.82.250.72/live/fhchinese/1.m3u8
-常用電台,新加8新聞,https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 常用電台,湖南衛視,http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8$$$http://111.40.205.76/PLTV/88888888/224/3221225610/index.m3u8
 常用電台,東方衛視,http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8$$$http://111.40.205.76/PLTV/88888888/224/3221225700/index.m3u8
 常用電台,北京衛視,http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8$$$http://111.40.205.76/PLTV/88888888/224/3221225651/index.m3u8
 常用電台,浙江衛視,http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
 常用電台,江蘇衛視,http://223.110.243.173/PLTV/3/224/3221227255/index.m3u8$$$http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
-常用電台,FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 常用電台,放鬆吉他音樂,https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 常用電台,5m快速工藝品,https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
 常用電台,5m生活黑客,https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 常用電台,5m廚房黑客,https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
-常用電台,國會頻道1,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001736&freeProduct=1$json::url::msg$FitXY
-常用電台,國會頻道2,hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001735&freeProduct=1$json::url::msg$FitXY
+常用電台,國會頻道1,"http://61.58.60.230:9319/live/123.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001736&freeProduct=1$json::url::msg$FitXY"
+常用電台,國會頻道2,"http://61.58.60.230:9319/live/124.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001735&freeProduct=1$json::url::msg$FitXY"
