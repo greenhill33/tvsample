@@ -932,40 +932,23 @@
 	 url="https://i.ytimg.com/vi/NfxYYRgEDWQ/mqdefault.jpg"/>
 
 <item  group="戲劇" name="⚽達意影視" type="web" draw="dayica.webp" show="false" link="http://www.dayi.ca" ckaddr="dayi.*?p="
-  	ckiframe="p.dayi-visited a[href~=(STD)]"
   	url="http://www.dayi.ca/wp-content/uploads/2014/12/dayi-logo1.png"/>
-<item  group="戲劇" name="⚽中國人線上看" type="web" draw="chinaq.webp" show="false" link="http://www.chinaq.me/kr"
-  	ckaddr="chinaq\..+?/.+?/.+?/"
-  	url="http://csdnimg.cn/public/favicon.ico"/>
+<item  group="戲劇" name="⚽影視娛樂快播" type="web" show="false" sort="title" draw="tv8fun.webp" link="http://tv8.fun/category/tvshow/"
+  	ckaddr="tv8.fun/"
+  	url="http://pics.sc.chinaz.com/Files/pic/icons128/6085/tv13.png"/>
 <item  group="戲劇" name="⚽伊莉影片區" type="web" draw="video_eyny.webp" show="true" link="http://video.eyny.com/"
 	 ckaddr="watch\?v=" ckiframe="video#mediaplayer source[src]"
-	 url="http://a0.att.hudong.com/27/42/20300001128119136308428788756_s.jpg"
+	 url="http://www.eyny.com/static/image/common/logo.gif"
 	 description="EYNY伊莉影片"/>
 <item  group="戲劇" name="⚽OK資源網" type="web" draw="okzyzy.webp" show="false" link="http://www.okzy.co/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
 	 url="http://www.okzy.me/template/okokzy/images/logo.png"/>
-<item  group="戲劇" name="⚽永久雲資源" type="web" draw="yongjiuzy.webp" show="false" link="http://cj.yongjiuzyw.com/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
-	 url="http://cj.yongjiuzyw.com/template/35zy/images/logo.png"
-	 description="永久云资源影片"/>
 <item  group="戲劇" name="⚽最大資源" type="web" draw="zuidazy.webp" show="false" link="http://www.zuida.me/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
 	 url="http://www.zuida.me/template/ziyuan3/images/logo.png"/>
 <item  group="戲劇" name="⚽LINE TV" type="web" draw="line_tv.webp" show="false" link="https://www.linetv.tw/channel/1?channel_id=1"
 	 ckaddr="tv\.line\.me/v/" url="https://img.isuper.tv/live-tv/channel/line-tv-live.jpg"/>
-<item  group="戲劇" name="⚽陸劇追劇" type="web" show="false" sort="title" draw="cn_tvshows.webp" link="http://feeds.feedburner.com/cn_tvshows?format=xml"
-  	ckaddr="\.mei.*/shows"
-  	url="http://downloadicons.net/sites/default/files/windows-media-player-logo-icon-66463.png"/>
-<item  group="戲劇" name="⚽影視娛樂快播" type="web" show="false" sort="title" draw="tv8fun.webp" link="http://tv8.fun/category/tvshow/"
-  	ckaddr="tv8.fun/" ckiframe="div.entry-content iframe[src~=(STD)]"
-  	url="http://pics.sc.chinaz.com/Files/pic/icons128/6085/tv13.png"/>
 <item  group="戲劇" name="⚽韓劇網" type="web" draw="twkorean.webp" show="false" link="http://www.twkor.com"
-  	ckaddr="player.*html$" ckiframe="div.playleft embed[src], div.playleft video[src], div.playleft iframe[src]"
+  	ckaddr="view.*html" ckiframe="div.playleft embed[src], div.playleft video[src], div.playleft iframe[src]"
   	url="http://twkor.com/images/logoa.gif"/>
-
-<item  group="戲劇" name="⚽韓劇追劇" type="web" show="false" sort="title" draw="kreandrama.webp" link="http://feeds.feedburner.com/kreandrama?format=xml"
-  	ckaddr="\.mei.*/shows"
-    url="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/128/Korea-Flag-icon.png"/>
-<item  group="戲劇" name="⚽日劇追劇" type="web" show="false" sort="title" draw="jp_tvshows.webp" link="http://feeds.feedburner.com/jp_tvshows?format=xml"
-  	ckaddr="\.mei.*/shows"
-    url="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/128/Japan-Flag-icon.png"/>
 
 <item  group="戲劇" name="⚽骨朵傳媒排行榜" type="web" draw="guduomedia.webp" show="true" link="https://d.guduodata.com" ckaddr="guduodata.com/m/show/detail"
   	 url="http://static.guduomedia.com/gd_logo.png"/>
