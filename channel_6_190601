@@ -944,8 +944,6 @@
 	 url="http://www.okzy.me/template/okokzy/images/logo.png"/>
 <item  group="戲劇" name="⚽最大資源" type="web" draw="zuidazy.webp" show="false" link="http://www.zuida.me/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
 	 url="http://www.zuida.me/template/ziyuan3/images/logo.png"/>
-<item  group="戲劇" name="⚽LINE TV" type="web" draw="line_tv.webp" show="false" link="https://www.linetv.tw/channel/1?channel_id=1"
-	 ckaddr="tv\.line\.me/v/" url="https://img.isuper.tv/live-tv/channel/line-tv-live.jpg"/>
 <item  group="戲劇" name="⚽韓劇網" type="web" draw="twkorean.webp" show="false" link="http://www.twkor.com"
   	ckaddr="view.*html" ckiframe="div.playleft embed[src], div.playleft video[src], div.playleft iframe[src]"
   	url="http://twkor.com/images/logoa.gif"/>
