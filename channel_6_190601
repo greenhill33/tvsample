@@ -931,23 +931,25 @@
 <item  group="創作" name="開心劇樂部" type="ytItem" show="false" sort="no" link="PLmHvcli_9mkQZIZGi9PjkO0Sdf4jSAy0l"
 	 url="https://i.ytimg.com/vi/NfxYYRgEDWQ/mqdefault.jpg"/>
 
-<item  group="戲劇" name="⚽達意影視" type="web" draw="dayica.webp" show="false" link="http://www.dayi.ca" ckaddr="dayi.*?p="
-  	url="http://www.dayi.ca/wp-content/uploads/2014/12/dayi-logo1.png"/>
-<item  group="戲劇" name="⚽影視娛樂快播" type="web" show="false" sort="title" draw="tv8fun.webp" link="http://tv8.fun/category/tvshow/"
-  	ckaddr="tv8.fun/"
-  	url="http://pics.sc.chinaz.com/Files/pic/icons128/6085/tv13.png"/>
 <item  group="戲劇" name="⚽伊莉影片區" type="web" draw="video_eyny.webp" show="true" link="http://video.eyny.com/"
 	 ckaddr="watch\?v=" ckiframe="video#mediaplayer source[src]"
 	 url="https://lh5.ggpht.com/YmBdOzdbP_joBeCWW4gPFsAhLIFoxThkLr3Gc_tZg3kXE3T7Z8XL-FcowpjCvfQGYA"
 	 description="EYNY伊莉影片"/>
 <item  group="戲劇" name="⚽OK資源網" type="web" draw="okzyzy.webp" show="false" link="http://www.okzy.co/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
-	 url="http://www.okzy.me/template/okokzy/images/logo.png"/>
-<item  group="戲劇" name="⚽最大資源" type="web" draw="zuidazy.webp" show="false" link="http://www.zuida.me/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
-	 url="http://www.zuida.me/template/ziyuan3/images/logo.png"/>
+	 url="https://www.okzy.co/template/okokzy/images/logo.png"/>
+<item  group="戲劇" name="⚽最大資源" type="web" draw="zuidazy.webp" show="false" link="http://www.zdziyuan.com/" ckaddr="m=vod-detail"
+	 url="http://www.zdziyuan.com/template/ziyuan3/images/logo.png"/>
+<item  group="戲劇" name="⚽速播資源" type="web" draw="subozy.webp" show="false" link="https://www.subo988.com/" ckaddr="m=vod-detail"
+	 url="https://www.subo988.com/template/ziyuan2/images/logo.png"/>
 <item  group="戲劇" name="⚽韓劇網" type="web" draw="twkorean.webp" show="false" link="http://www.twkor.com"
   	ckaddr="view.*html" ckiframe="div.playleft embed[src], div.playleft video[src], div.playleft iframe[src]"
   	url="http://twkor.com/images/logoa.gif"/>
-
+<item  group="戲劇" name="⚽達意影視" type="web" draw="dayica.webp" show="false" link="http://www.dayi.ca" ckaddr="dayi.*?p="
+  	url="http://www.dayi.ca/wp-content/uploads/2014/12/dayi-logo1.png"/>
+<item  group="戲劇" name="⚽影視娛樂快播" type="web" show="false" sort="title" draw="tv8fun.webp" link="http://tv8.fun/category/tvshow/"
+  	ckaddr="tv8.fun/"
+  	url="http://pics.sc.chinaz.com/Files/pic/icons128/6085/tv13.png"/>
+  	
 <item  group="戲劇" name="⚽骨朵傳媒排行榜" type="web" draw="guduomedia.webp" show="true" link="https://d.guduodata.com" ckaddr="guduodata.com/m/show/detail"
   	 url="http://static.guduomedia.com/gd_logo.png"/>
 <item  group="戲劇" name="⚽PTT娛樂區" type="web" draw="pttent.webp" show="false" link="https://pttent.com" ckaddr="youtube"
@@ -1128,7 +1130,7 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網mh,ok,zd"/>
 
-<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','zd#$www.zdziyuan.com/inc/s_feifei3.4$最大','ok#$www.apiokzy.com/inc/feifei3s$OK資源','mh#$www.mahuazy.net/inc/feifei3$麻花源','ld#$www.leduozy.com/inc/feifei3$樂多源','3u#$cj.1886zy.co/inc/feifei3$1886資源','123#$www.123ku.com/inc/feifei.php$123資源網']/>
+<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','zd#$www.zdziyuan.com/inc/s_feifei3.4$最大','ok#$www.apiokzy.com/inc/feifei3s$OK資源','mh#$www.mahuazy.net/inc/feifei3$麻花源','ld#$www.leduozy.com/inc/feifei3$樂多源','3u#$cj.1886zy.co/inc/feifei3$1886資源','123#$www.123ku.com/inc/feifei.php$123資源網','jh#$www.juhezyw.com/inc/feifei3.4s$聚合資源']/>
 <set_pref ziyuan_search=['ok#','zd#','mh#','3u#']/>
 <set_pref user_defined_api_key=NULL/>
 
