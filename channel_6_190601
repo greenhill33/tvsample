@@ -1126,7 +1126,7 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網mh,ok,zd"/>
 
-<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','zd#$www.zdziyuan.com/inc/feifei3.4$最大','ok#$cj.okzy.tv/inc/feifei3$OK資源','mh#$https://www.mhapi123.com/inc/feifei3$麻花源','ld#$www.leduozy.com/inc/feifei3$樂多源','3u#$cj.1886zy.co/inc/feifei3$1886資源','123#$www.123ku.com/inc/feifei.php$123資源網','jh#$www.juhezyw.com/inc/feifei3.4s$聚合資源']/>
+<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','zd#$www.zuidazy4.com/inc/feifei3.4$最大','ok#$cj.okzy.tv/inc/feifei3$OK資源','mh#$https://www.mhapi123.com/inc/feifei3$麻花源','ld#$www.leduozy.com/inc/feifei3$樂多源','3u#$cj.1886zy.co/inc/feifei3$1886資源','123#$www.123ku.com/inc/feifei.php$123資源網','jh#$www.juhezyw.com/inc/feifei3.4s$聚合資源']/>
 <set_pref ziyuan_getvodurl=['ld#hget$s://api.leduotv.com/wp-api/getvodurl.php?vid=%s$json::url']/>
 <set_pref ziyuan_search=['mh#','zd#','ld#','3u#']/>
 <set_pref user_defined_api_key=NULL/>
