@@ -467,9 +467,6 @@
   	url="https://yt3.ggpht.com/a/AGF-l78xiT6udaqHq7DJEUzpGS7Oz2UEtUugirQjeQ=s%d-c-k-no"
   	description="SMG上海電視台官方頻道"/>
 
-<item  group="綜藝" name="⚽台灣綜藝" type="web" show="false" sort="title" draw="twtalkshow.webp" link="http://feeds.feedburner.com/twtalkshow?format=xml"
-  	ckaddr="\.mei.*/shows"
-  	url="http://icons.iconarchive.com/icons/dailyoverview/tv/128/television-04-icon.png"/>
 <item  group="綜藝" name="綜藝大集合" type="ytItem" show="true" link="PLi0ZZWlxtL4HAiQjwZ6djimZBm7uW8jOf"
 	 url="https://i.ytimg.com/vi/4jI-QKvRc9g/mqdefault.jpg"
 	 description="各種吃喝玩樂的內容"/>
@@ -1001,7 +998,6 @@
 	 url="https://i.ytimg.com/vi/jwlnOqinrLw/mqdefault.jpg"/>
 <item  group="經典" name="多桑の純萃年代" type="yt" draw="UCT1N38wSEHLSq7wYJSrNOcw.webp" show="false" sort="no" link="UCT1N38wSEHLSq7wYJSrNOcw"
 	 url="https://yt3.ggpht.com/-oHevDOQKRuY/AAAAAAAAAAI/AAAAAAAAAAA/GDgziACOjWk/s%d-c-k-no/photo.jpg"/>
-<item  group="經典" name="來自未來的史密特" type="ytItem" show="false" sort="title" link="PLeuPaltH7SfF9NePkWYUOIMZU85IF8jfM"/>
 <item  group="經典" name="麵包樹上的女人" type="ytItem" show="false" sort="title" link="PLeuPaltH7SfFrZRxMptvXh5WWyLmounLh"/>
 <item  group="經典" name="幸福之約" type="ytItem" show="false" sort="title" link="PLc8M1wVJOpHxivbnidjoxG2-B4XbFq1b4"
  	url="https://i.ytimg.com/vi/pRF5AlBacmo/mqdefault.jpg"/>
@@ -1017,11 +1013,11 @@
 	 url="https://yt3.ggpht.com/-U0GyHRv2RIo/AAAAAAAAAAI/AAAAAAAAAAA/Zt8SO3K_ScI/s%d-c-k-no/photo.jpg"/>
 <item  group="經典" name="愛 來的剛好" type="ytItem" show="false" sort="title" link="PLl2tYmXaN6qummsNMOqzcgkgCwHpbtnsd"
  	url="https://i.ytimg.com/vi/lTjG9WrPLaU/mqdefault.jpg"/>
-<item  group="經典" name="三生三世十里桃花 2017" type="combo" show="false" sort="title" link="['ok#14344','thread-2047.htm','dayi.ca/?p=165285']"
+<item  group="經典" name="三生三世十里桃花 2017" type="combo" show="false" sort="title" link="['ok#14344','dayi.ca/?p=165285']"
  	url="http://www.juqingba.cn/uploads/allimg/161007/16_161007100921_1.jpg"/>
-<item  group="經典" name="我的前半生 42全2017" type="combo" show="false" sort="no" link="['ok#909','thread-2902.htm','dayi.ca/?p=186329']"
+<item  group="經典" name="我的前半生 42全2017" type="combo" show="false" sort="no" link="['ok#909','dayi.ca/?p=186329']"
 	url="http://www.dayi.ca/wp-content/uploads/2017/06/%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F.jpg"/>
-<item  group="經典" name="那年花開月正圓 74全2017" type="combo" show="false" sort="no" link="['thread-3265.htm','mei#333175','dayi.ca/?p=191310']"
+<item  group="經典" name="那年花開月正圓 74全2017" type="combo" show="false" sort="no" link="['dayi.ca/?p=191310']"
  	url="https://i.ytimg.com/vi/G2YJcsXNe5Q/mqdefault.jpg"/>
 <item  group="經典" name="芈月傳" type="combo" show="false" sort="no" link="['ok#12584']"
  	url="https://img.yongjiu7.com/upload/vod/2020-10-21/1603215730.jpg"/>
@@ -1035,13 +1031,13 @@
  	url="https://i.ytimg.com/vi/Hbm73FowTsk/mqdefault.jpg"/>
 <item  group="經典" name="新醉打金枝" type="ytItem" show="false" sort="title" link="PLSIJismKOisEbSdby0r4IU2fEzzvO500G"/>
 <item  group="經典" name="董鄂妃傳" type="ytItem" show="false" sort="title" link="PLeuPaltH7SfHQtk0-f-KB_ODCFRiI-y7s"/>
-<item  group="經典" name="大秦帝國1-3" type="combo" show="false" sort="title" link="['ok#12880','ok#12964','ok#13733','thread-1775.htm']"
+<item  group="經典" name="大秦帝國1-3" type="combo" show="false" sort="title" link="['ok#12880','ok#12964','ok#13733']"
 	 url="http://www.juqingba.cn/uploads/allimg/160818/16_160818110715_1.jpg"/>
-<item  group="經典" name="三國演義3D動畫 40全2017" type="combo" show="false" sort="no" link="['yt#PLNNKkgQ-e0TUvpmj44lcEGZaMzMh542hh','thread-3533.htm']"
+<item  group="經典" name="三國演義3D動畫 40全2017" type="combo" show="false" sort="no" link="['yt#PLNNKkgQ-e0TUvpmj44lcEGZaMzMh542hh']"
  	url="https://i.ytimg.com/vi/x-7zhhAnABs/mqdefault.jpg"/>
-<item  group="經典" name="司馬懿之軍師聯盟 42全2017" type="combo" show="false" sort="title" link="['thread-2852.htm','dayi.ca/?p=165434']"
+<item  group="經典" name="司馬懿之軍師聯盟 42全2017" type="combo" show="false" sort="title" link="['dayi.ca/?p=165434']"
 	url="http://ww1.sinaimg.cn/large/7d172de2gy1fgtrc6adwpj208c0cit9y.jpg"/>
-<item  group="經典" name="司馬懿之虎嘯龍吟 44全2017" type="combo" show="false" sort="title" link="['thread-4262.htm','dayi.ca/?p=187791']"
+<item  group="經典" name="司馬懿之虎嘯龍吟 44全2017" type="combo" show="false" sort="title" link="['dayi.ca/?p=187791']"
 	url="http://ww1.sinaimg.cn/large/7d172de2gy1fm8kfgvuguj207i0anmxn.jpg"/>
 <item  group="經典" name="絕命卦師" type="ytItem" show="true" sort="title" link="PLIx8QniXH-rHE_xCXRa2FxXPoy3DuUW66"
    	url="https://i.ytimg.com/vi/urpybKlWmBk/mqdefault.jpg" description="永乐影视官方频道"/>
@@ -1076,9 +1072,9 @@
 
 <item  group="電影" name="近期新片推薦" type="ytItem" show="true" link="PL316wRwpvsnGLncT6CHiy-mfibsREFDsF"
 	 url="https://yt3.ggpht.com/-j27YTxGrrpQ/AAAAAAAAAAI/AAAAAAAAAAA/Ws4MA2Dozlw/s%d-c-k-no/photo.jpg"/>
-<item  group="電影" name="熱門影片" type="ytItem" show="true" sort="no" link="PLzjFbaFzsmMQ2AAzM2Y-ARGvMnQKyRaJw"
-	 url="https://yt3.ggpht.com/qgAMspKekhapIIu6oDpA1L9jTVqOdGsfRAV0UnNunasrAK7vmHAnF3roDJmcUUxWX0Asbzh1HTuGJIQ1Lw=s%d-c-k-no"
-	 description="Youtube自動產生主題頻道"/>
+<item  group="電影" name="粵迷" type="yt" show="true" sort="no" link="UCrctj85pNWMzDd9eYRkd1Aw"
+	 url="https://yt3.ggpht.com/ytc/AAUvwnirsCo3YV58o_vw3BtdiSKkVx7Qclin4Nuv4osfCQ=s%d-c-k-no"
+	 description="粵語電影，粵語朗讀"/>
 <item  group="電影" name="阿斗講電影" type="yt" draw="hadou.webp" show="false" sort="no" link="UCohOr1LlszMeXkSPCU9T2ng"
 	 url="https://yt3.ggpht.com/-iC720nCvv-A/AAAAAAAAAAI/AAAAAAAAAAA/PjpcUMv4qC0/s%d-c-k-no/photo.jpg"/>
 <item  group="電影" name="吐嚎影院影評" type="ytItem" show="false" sort="no" link="PLnXpj1ybs_Az6Cw-P-CEQoHDs70TJ8q4T"
@@ -1130,7 +1126,8 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網mh,ok,zd"/>
 
-<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','zd#$www.zdziyuan.com/inc/s_feifei3.4$最大','ok#$www.apiokzy.com/inc/feifei3s$OK資源','mh#$www.mahuazy.net/inc/feifei3$麻花源','ld#$www.leduozy.com/inc/feifei3$樂多源','3u#$cj.1886zy.co/inc/feifei3$1886資源','123#$www.123ku.com/inc/feifei.php$123資源網','jh#$www.juhezyw.com/inc/feifei3.4s$聚合資源']/>
+<set_pref ziyuan_path=['sb#$www.subo988.com/inc/feifei3.4$速播','zd#$www.zdziyuan.com/inc/feifei3.4$最大','ok#$cj.okzy.tv/inc/feifei3$OK資源','mh#$https://www.mhapi123.com/inc/feifei3$麻花源','ld#$www.leduozy.com/inc/feifei3$樂多源','3u#$cj.1886zy.co/inc/feifei3$1886資源','123#$www.123ku.com/inc/feifei.php$123資源網','jh#$www.juhezyw.com/inc/feifei3.4s$聚合資源']/>
+<set_pref ziyuan_getvodurl=['ld#hget$s://api.leduotv.com/wp-api/getvodurl.php?vid=%s$json::url']/>
 <set_pref ziyuan_search=['ok#','zd#','mh#','3u#']/>
 <set_pref user_defined_api_key=NULL/>
 
