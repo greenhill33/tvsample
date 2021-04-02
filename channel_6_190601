@@ -932,10 +932,10 @@
 	 ckaddr="watch\?v=" ckiframe="video#mediaplayer source[src]"
 	 url="https://lh5.ggpht.com/YmBdOzdbP_joBeCWW4gPFsAhLIFoxThkLr3Gc_tZg3kXE3T7Z8XL-FcowpjCvfQGYA"
 	 description="EYNY伊莉影片"/>
-<item  group="戲劇" name="⚽OK資源網" type="web" draw="okzyzy.webp" show="false" link="http://www.okzy.co/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
-	 url="https://www.okzy.co/template/okokzy/images/logo.png"/>
-<item  group="戲劇" name="⚽最大資源" type="web" draw="zuidazy.webp" show="false" link="http://www.zdziyuan.com/" ckaddr="m=vod-detail"
-	 url="http://www.zdziyuan.com/template/ziyuan3/images/logo.png"/>
+<item  group="戲劇" name="⚽88資源網" type="web" draw="88zyw.webp" show="false" link="http://www.88zyw.net/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
+	 url="http://www.88zyw.net/images/logo.gif"/>
+<item  group="戲劇" name="⚽209資源" type="web" draw="209zy.webp" show="false" link="http://www.209zy.com/" ckaddr="m=vod-detail"
+	 url="http://www.209zy.com/template/diaosizy/images/logo.gif"/>
 <item  group="戲劇" name="⚽速播資源" type="web" draw="subozy.webp" show="false" link="https://www.subo988.com/" ckaddr="m=vod-detail"
 	 url="https://www.subo988.com/template/ziyuan2/images/logo.png"/>
 <item  group="戲劇" name="⚽韓劇網" type="web" draw="twkorean.webp" show="false" link="http://www.twkor.com"
