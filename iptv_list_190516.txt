@@ -3,7 +3,7 @@
 
 常用電台(2018/6/25)_60頻道,csv,g,https://raw.githubusercontent.com/greenhill33/tvsample/master/iptv_url_190516
 好消息電視台(2018/2/15)_66頻道,m3u,g,https://raw.githubusercontent.com/iptv-org/iptv/master/channels/tw.m3u
-中港台_黃河(2018/3/15)_80頻道,m3u,g,https://raw.githubusercontent.com/pcccw/pcccw.github.io/main/Prototype/Gugong.m3u8
+中港台_黃河(2018/3/15)_80頻道,m3u,g,https://github.com/pcccw/Ark/raw/main/Prototype/Gugong.m3u8
 大陸衛視(2018/3/15)_120頻道,m3u,g,https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU.m3u
-東南亞(2017/12/31)_250頻道,m3u,g,https://raw.githubusercontent.com/pcccw/pcccw.github.io/main/Prototype/Istana.m3u8
+東南亞(2017/12/31)_250頻道,m3u,g,https://github.com/pcccw/Ark/raw/main/Prototype/Istana.m3u8
 希臘電台(2018/3/15)_120頻道,m3u,g,https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/android.m3u
