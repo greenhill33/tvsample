@@ -937,7 +937,9 @@
 <item  group="戲劇" name="⚽605資源" type="web" draw="605zy.webp" show="false" link="http://www.605zy.co" ckaddr="m=vod-detail"
 	 url="http://www.605zy.com/template/caonima/images/logo.png"/>
 <item  group="戲劇" name="⚽聚合資源" type="web" draw="juhezyw..webp" show="false" link="http://www.juhezyw.com" ckaddr="m=vod-detail"
-	 url="http://www.juhezyw.com/template/juhe/pic/logo.png"/>
+	 ckiframe="div[class^=playlist] li"  url="http://www.juhezyw.com/template/juhe/pic/logo.png"/>
+<item  group="戲劇" name="⚽乐多資源" type="web" draw="leduozy..webp" show="false" link="http://www.leduozy.com" ckaddr="m=vod-detail"
+	url="http://www.leduozy.com/template/35zy/images/logo.png"/>
 <item  group="戲劇" name="⚽韓劇網" type="web" draw="twkorean.webp" show="false" link="http://www.twkor.com"
   	ckaddr="view.*html" ckiframe="div.playleft embed[src], div.playleft video[src], div.playleft iframe[src]"
   	url="http://twkor.com/images/logoa.gif"/>
@@ -1056,13 +1058,13 @@
 <item  group="電影" name="中國電影頻道" type="ytItem" show="true" sort="no" link="PLOrf2h5ONlwXu7fe_KagfkPV7DnjQ1VSV"
 	 url="https://yt3.ggpht.com/a/AATXAJwo34b254KyyCbFZ0flUEYadhjaP9pC6vT2s8GxxA=s%d-c-k-no"/>
 
-<item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['tk#cid=12','bd#cid=12','lw#cid=12','ld#cid=12']"
+<item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['tk#cid=12','bd#cid=12','ld#cid=12']"
 	 url="https://4.bp.blogspot.com/-BHwHUKwjpfM/W0BvGeyoQiI/AAAAAAAAAmk/aINkON5K2kImAWlGtQJPPlugDhhIC0GOQCLcBGAs/s320/luju.png"
 	 description="採集資源網tk,bd"/>
 <item  group="網搜" name="網搜日本戲劇" type="tvGrid" draw="ribenju.webp" show="false" link="['tk#cid=14','bd#cid=14']"
 	 url="https://4.bp.blogspot.com/-PBq1hGwuhww/WwGRiYx6G-I/AAAAAAAAAlA/eAHlAPv0QQgyvnoNhG7W5mpeQl4wDqtBQCLcBGAs/s320/wsjapandrema.png"
 	 description="採集資源網tk,bd"/>
-<item  group="網搜" name="網搜韓國戲劇" type="tvGrid" draw="hanguoju.webp" show="false" link="['tk#cid=34','bd#cid=37','ld#cid=17','lw#cid=17']"
+<item  group="網搜" name="網搜韓國戲劇" type="tvGrid" draw="hanguoju.webp" show="false" link="['tk#cid=34','bd#cid=37','ld#cid=17']"
 	 url="https://2.bp.blogspot.com/-plmzsIiN-Tk/WwGRieHPFNI/AAAAAAAAAlE/ID95TUx2aN4exr-AYk-P4KnzOEvPpMOpQCLcBGAs/s320/wskoreadrema.png"
 	 description="採集資源網bd,tk"/>
 <item  group="網搜" name="網搜歐美戲劇" type="tvGrid" draw="oumeiju.webp" show="false" link="['tk#cid=15','bd#cid=15']"
@@ -1077,10 +1079,10 @@
 <item  group="網搜" name="網搜綜藝節目" type="tvGrid" draw="zhongyiju.webp" show="false" link="['bd#cid=3','tk#cid=3']"
 	 url="https://4.bp.blogspot.com/-Z2-9MU4BoXs/WwGRj-FK9mI/AAAAAAAAAlU/DQA0GCp3OskTQ_WH13yx3pyNE4ue_6SXwCLcBGAs/s320/wszhongyi.png"
 	 description="採集資源網bd,tk"/>
-<item  group="網搜" name="網搜喜劇電影" type="tvGrid" draw="yijudianying.webp" show="true" link="['tk#cid=6','bd#cid=6','lw#t=6']"
+<item  group="網搜" name="網搜喜劇電影" type="tvGrid" draw="yijudianying.webp" show="true" link="['tk#cid=6','bd#cid=6']"
 	 url="https://1.bp.blogspot.com/-AzsR7ltXyfE/WwGRiOyTz2I/AAAAAAAAAk8/E3rod9u-BEMgjvyS7yaz88iUCGkTTRklACLcBGAs/s320/wsfunny.png"
 	 description="採集資源網tk,bd"/>
-<item  group="網搜" name="網搜動作電影" type="tvGrid" draw="dongzhuodianying.webp" show="true" link="['tk#cid=5','bd#cid=5','lw#t=5']"
+<item  group="網搜" name="網搜動作電影" type="tvGrid" draw="dongzhuodianying.webp" show="true" link="['tk#cid=5','bd#cid=5']"
 	 url="https://3.bp.blogspot.com/-pxhxnUeAEKo/WwGRg_tcCpI/AAAAAAAAAkk/CPB6j4W6Mww2uLZuDo1tgNDppaZ6zvZHQCLcBGAs/s320/wsaction.png"
 	 description="採集資源網tk,bd"/>
 <item  group="網搜" name="網搜劇情電影" type="tvGrid" draw="juqindianying.webp" show="false" link="['bd#cid=10','tk#cid=10']"
@@ -1098,7 +1100,7 @@
 
 <set_pref ziyuan_path=['tk#$v8.tiankongzy.cc/inc/feifei3$天空','bd#$json.apibdzy.com/inc/feifei$百度','lw#$www.605zy.co/inc/605m3u8.php$605資源','bb#$www.88zyw.vip/inc/feifeiapi.php$88資源','ld#$www.leduozy.com/inc/feifei3$樂多源_慢','jh#$www.juhezyw.com/inc/feifei3.4s$聚合資源_慢']/>
 <set_pref ziyuan_getvodurl=['ld#hget$s://api.leduotv.com/wp-api/getvodurl.php?vid=%s$json::url']/>
-<set_pref ziyuan_search=['bd#','tk#','lw#','jh#']/>
+<set_pref ziyuan_search=['bd#','tk#','jh#']/>
 <set_pref user_defined_api_key=NULL/>
 
 <gen_items cnt="12" group="戲劇" link="['bd#cid=12','tk#cid=12','bd#cid=12&amp;p=2']"/>
