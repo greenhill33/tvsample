@@ -1100,7 +1100,7 @@
 
 <set_pref ziyuan_path=['tk#$v8.tiankongzy.cc/inc/feifei3$天空','bd#$json.apibdzy.com/inc/feifei$百度','lw#$www.605zy.co/inc/605m3u8.php$605資源','bb#$www.88zyw.vip/inc/feifeiapi.php$88資源','ld#$www.leduozy.com/inc/feifei3$樂多源_慢','jh#$www.juhezyw.com/inc/feifei3.4s$聚合資源_慢','bw#$https://www.beiwoysw.com/api.php/provide/vod/at/xml$被窩影視','kb#$www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲']/>
 <set_pref ziyuan_getvodurl=['ld#hget$s://api.leduotv.com/wp-api/getvodurl.php?vid=%s$json::url']/>
-<set_pref ziyuan_search=['bd#','tk#','jh#']/>
+<set_pref ziyuan_search=['bd#','tk#']/>
 <set_pref user_defined_api_key=NULL/>
 
 <gen_items cnt="12" group="戲劇" link="['bd#cid=12','tk#cid=12','bd#cid=12&amp;p=2']"/>
