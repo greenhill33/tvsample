@@ -1044,7 +1044,7 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網tk,bd"/>
 
-<set_pref ziyuan_path=['tk#$v8.tiankongzy.cc/inc/feifei3$天空','lw#$www.605zy.co/inc/605m3u8.php$605資源','bb#$www.88zyw.vip/inc/feifeiapi.php$88資源','kb#$www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','39#$https://www.39kan.com/api.php/provide/vod/at/xml$39影視','wj#$https://api.wujinapi.com/api.php/provide/vod$無盡資源','hn#$https://www.hongniuzy.com/inc/feifei$紅牛影視']/>
+<set_pref ziyuan_path=['tk#$v8.tiankongzy.cc/inc/feifei3$天空','lw#$www.605zy.co/inc/605m3u8.php$605資源','bb#$www.88zyw.vip/inc/feifeiapi.php$88資源','kb#$www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','39#$https://www.39kan.com/api.php/provide/vod/at/xml$39影視','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xml$無盡資源','hn#$https://www.hongniuzy.com/inc/feifei$紅牛影視']/>
 <set_pref ziyuan_search=['kb#','bb#','hn#']/>
 
 <gen_items cnt="12" group="戲劇" link="['tk#cid=12']"/>
