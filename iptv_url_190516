@@ -1,5 +1,5 @@
 常用電台,民視 SD,hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv002&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
-常用電台,民視第一台 SD,hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv003&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
+常用電台,民視第一台 SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl31oMCwWmTLRKNUmM9uhVZN5RCu8U2UDok0u63Z+xW5yUKb5p7+Z+glZ8Pce2azud5bCqf5LIAy+zgYm108RvFxP0OqHUsUL3ZtssFy2xJd/41pAupbN14jHqWzEofSIhPw==
 常用電台,中視 SD,hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv040&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,華視 SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl34imCItd3CcSou1MMFXqdpx4y3XhJZ0LnEy7NFG9szO7H7g4Q+q2FJGsZRuMwM7zmo3Xg8A+KAa3qn9RwPaVf6W4IP1knoyV23lXsIjZYyYFb07+kYkCvMgz+3Qmt5V9jg==
 常用電台,公視 HD,"newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
@@ -24,12 +24,12 @@
 常用電台,台視新聞台,"http://seb.sason.top/sc/tsxw_fhd.m3u8$$$newslive$台視新聞$$$hget$s://www.ttv.com.tw/videocity/video_play.asp?id=99$jsoup::meta[content~=youtube]"
 常用電台,中視新聞台,"http://seb.sason.top/sc/zsxw_fhd.m3u8$$$hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv074&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$newslive$中視新聞台"
 常用電台,華視新聞台,"http://seb.sason.top/sc/hsxw_fhd.m3u8$$$hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv052&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$newslive$華視新聞"
-常用電台,TVBS新聞台,"http://seb.sason.top/sc/tvbsxw_fhd.m3u8$$$newslive$TVBS新聞"
+常用電台,TVBS新聞台,"http://seb.sason.top/sc/tvbsxw_fhd.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3/yovlxEtmuZxbqNp/B3720MksFwZgySIAsqLWDXZ1p/7YKxQjnk+bTBwDLACIRX7CJ2L6SEerB6aC2rk7cXxzQlP9C4RjPTQJ1S2NlS2aKeQAmSIPXdNdiYFS2iVbWGa00GWx4WrIDglTSFuyYN5ho=$$$newslive$TVBS新聞"
 常用電台,三立新聞台,"http://seb.sason.top/sc/sllive_fhd.m3u8$$$http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8$$$newslive$三立 LIVE"
-常用電台,中天新聞台,"http://seb.sason.top/sc/ztxw_fhd.m3u8$$$hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv009&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$newslive$中天新聞"
+常用電台,中天新聞台,"http://seb.sason.top/sc/ztxw_fhd.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl36FMnNZa6ZLNO6YRqJyXzU4HLjn9L2nYL1AGdzj+jW8e1HgmU4jvU3yKyPGkqL31k378rpRozl74XRjMLA0EVLndxMjAiXTOUjsQaM2BGY/roLGzuRZfB0ozLSsmlm8f4g==$$$newslive$中天新聞"
 常用電台,臺新聞,"http://stream.nexttv.com.tw/n001/hd/live.m3u8"
 常用電台,寰宇新聞台SD,"newslive$寰宇新聞"
-常用電台,東森新聞台,"http://seb.sason.top/sc/dsxw_fhd.m3u8$$$newslive$東森新聞"
+常用電台,東森新聞台,"http://seb.sason.top/sc/dsxw_fhd.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3xwxVR9RqdvHiZWtLvFrysHoEP9dFlPCMOp5+e5BWbeyHsjajVHnALPzE+IdprUPg6/JBwFhhVjzJ+ltlMLOWhPP3sNd1v5iuhijM2nMVN6dqsGX9s7CByNHaYgyqMikSw==$$$newslive$東森新聞"
 常用電台,東森財經新聞台,"http://seb.sason.top/sc/dscjxw_fhd.m3u8$$$newslive$東森財經"
 常用電台,三立財經台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl356k8xGDPGfNgTrEpVqxjCnLf4MntFDCeE4C0H3z71DwCr2uyAPUKcmu8FaXgEfw6VpX2vZ/Qe43eQADF0Mpa+H9glj/22KG1kCTvUNwRHo7yRoDmWfGOiDbqcSRAi1h4yGluXC4JTwD/LrViU6fAHY=$$$http://seb.sason.top/sc/slinews_fhd.m3u8"
 常用電台,三立iNEWS,"newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
@@ -72,7 +72,7 @@
 常用電台,北京衛視,http://39.134.168.91/PLTV/1/224/3221225526/index.m3u8
 常用電台,浙江衛視,http://39.134.168.91/PLTV/1/224/3221225522/index.m3u8
 常用電台,江蘇衛視,http://39.134.168.91/PLTV/1/224/3221225514/index.m3u8
-常用電台,民視綜藝台SD,hget$https://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv004&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
+常用電台,民視綜藝台SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3wBH1V2TQVFQTj6Vj9/6A0i9fFEuKaO1KELBsyarjMHTbniL8maT960fBO0KKxIO4W4NaH2f8qsibAhK/ttwKXP425at80j5y2e20Aun/WxpKpvE1iOaVcc+EokLh2JwnA==
 常用電台,豬哥亮歌廳秀SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33p56Wbr50+9A64hA3ZJnG6RD5k+J+WvwP/B1Juu3/YG4fwq2nxM9KHBJu47uPAIt7qtsM3Xreh8uvGDs6UGEfyiBBwGo2GxP83k5bk1syugFTXFI1u7guscQ+0U8DZGAUeiZ50o2OLMsoYvUbu+uRM=
 常用電台,國會頻道1,"http://61.58.60.230:9319/live/123.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001736&freeProduct=1$json::url::msg$FitXY"
 常用電台,國會頻道2,"http://61.58.60.230:9319/live/124.m3u8$$$hget$://hamivideo.hinet.net/api/play.do?id=OTT_LIVE_0000001735&freeProduct=1$json::url::msg$FitXY"
