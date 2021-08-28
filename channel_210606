@@ -1004,16 +1004,16 @@
 <item  group="電影" name="中國電影頻道" type="ytItem" show="true" sort="no" link="PLOrf2h5ONlwXu7fe_KagfkPV7DnjQ1VSV"
 	 url="https://yt3.ggpht.com/a/AATXAJwo34b254KyyCbFZ0flUEYadhjaP9pC6vT2s8GxxA=s%d-c-k-no"/>
 
-<item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['kb#t=13','tk#cid=12','bb#t=12']"
+<item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['hn#cid=12','kb#t=13','tk#cid=12','wj#t=13']"
 	 url="https://4.bp.blogspot.com/-BHwHUKwjpfM/W0BvGeyoQiI/AAAAAAAAAmk/aINkON5K2kImAWlGtQJPPlugDhhIC0GOQCLcBGAs/s320/luju.png"
 	 description="採集資源網tk,bd"/>
 <item  group="網搜" name="網搜日本戲劇" type="tvGrid" draw="ribenju.webp" show="false" link="['tk#cid=14','bb#t=14']"
 	 url="https://4.bp.blogspot.com/-PBq1hGwuhww/WwGRiYx6G-I/AAAAAAAAAlA/eAHlAPv0QQgyvnoNhG7W5mpeQl4wDqtBQCLcBGAs/s320/wsjapandrema.png"
 	 description="採集資源網tk,bd"/>
-<item  group="網搜" name="網搜韓國戲劇" type="tvGrid" draw="hanguoju.webp" show="false" link="['tk#cid=34','kb#t=15']"
+<item  group="網搜" name="網搜韓國戲劇" type="tvGrid" draw="hanguoju.webp" show="false" link="['hn#cid=18','tk#cid=34','kb#t=15']"
 	 url="https://2.bp.blogspot.com/-plmzsIiN-Tk/WwGRieHPFNI/AAAAAAAAAlE/ID95TUx2aN4exr-AYk-P4KnzOEvPpMOpQCLcBGAs/s320/wskoreadrema.png"
 	 description="採集資源網bd,tk"/>
-<item  group="網搜" name="網搜歐美戲劇" type="tvGrid" draw="oumeiju.webp" show="false" link="['tk#cid=15']"
+<item  group="網搜" name="網搜歐美戲劇" type="tvGrid" draw="oumeiju.webp" show="false" link="['hn#cid=15','tk#cid=15']"
 	 url="https://1.bp.blogspot.com/-5qg0wo6WGks/WwGRhuncU8I/AAAAAAAAAk0/V7Md3xDWgik2qA2XAxBT3453q3IJXq_JwCLcBGAs/s320/wseouramericadrema.png"
 	 description="採集資源網bd,tk"/>
 <item  group="網搜" name="網搜台灣戲劇" type="tvGrid" draw="taiju.webp" show="false" link="['tk#cid=19','bb#t=13']" 
@@ -1044,8 +1044,8 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網tk,bd"/>
 
-<set_pref ziyuan_path=['tk#$v8.tiankongzy.cc/inc/feifei3$天空','lw#$www.605zy.co/inc/605m3u8.php$605資源','bb#$www.88zyw.vip/inc/feifeiapi.php$88資源','kb#$www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','39#$https://www.39kan.com/api.php/provide/vod/at/xml$39影視']/>
-<set_pref ziyuan_search=['kb#','bb#']/>
+<set_pref ziyuan_path=['tk#$v8.tiankongzy.cc/inc/feifei3$天空','lw#$www.605zy.co/inc/605m3u8.php$605資源','bb#$www.88zyw.vip/inc/feifeiapi.php$88資源','kb#$www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','39#$https://www.39kan.com/api.php/provide/vod/at/xml$39影視','wj#$https://api.wujinapi.com/api.php/provide/vod$無盡資源','hn#$https://www.hongniuzy.com/inc/feifei$紅牛影視']/>
+<set_pref ziyuan_search=['kb#','bb#','hn#']/>
 
 <gen_items cnt="12" group="戲劇" link="['tk#cid=12']"/>
 <gen_items cnt="3" group="日韓" link="['tk#cid=34','lw#t=17']"/>
