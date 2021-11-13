@@ -896,6 +896,8 @@
 	 ckaddr="watch\?v=" ckiframe="video#mediaplayer source[src]"
 	 url="https://lh5.ggpht.com/YmBdOzdbP_joBeCWW4gPFsAhLIFoxThkLr3Gc_tZg3kXE3T7Z8XL-FcowpjCvfQGYA"
 	 description="EYNY伊莉影片"/>
+<item  group="戲劇" name="⚽天空資源網" type="web" draw="tiankong.webp" show="false" link="https://api.tiankongapi.com" ckaddr="vod/detail"
+	 url="https://api.tiankongapi.com/template/ziyuan2/images/logo.png"/>
 <item  group="戲劇" name="⚽88資源網" type="web" draw="88zyw.webp" show="false" link="http://www.88zyw.net/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
 	 url="http://www.88zyw.net/images/logo.gif"/>
 <item  group="戲劇" name="⚽605資源" type="web" draw="605zy.webp" show="false" link="http://www.605zy.co" ckaddr="m=vod-detail"
@@ -1044,7 +1046,7 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網tk,bd"/>
 
-<set_pref ziyuan_path=['tk#$https://api.tiankongapi.com/api.php/provide/vod/at/xml$天空','bd#$json.apibdzy.com/inc/feifei$百度','lw#$www.605zy.co/inc/605m3u8.php$605資源','bb#$www.88zyw.vip/inc/feifeiapi.php$88資源','kb#$www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xmlsea$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xml$無盡資源','hn#$https://www.hongniuzy.com/inc/feifei$紅牛影視','be#$https://v8.bdxzyapi.com/inc/feifei34$北斗資源','xk#$https://m3u8.xiangkanapi.com/provide/vod/cms/feifei50/at/xml/from/xkm3u8$想看資源','lj#$https://apilj.com/api.php/provide/vod/at/xml$辣椒','hj#$https://ff.apihjzy.com/inc/feifei34$花椒']/>
+<set_pref ziyuan_path=['tk#$https://api.tiankongapi.com/api.php/provide/vod/at/xml$天空','bd#$json.apibdzy.com/inc/feifei$百度','lw#$www.605zy.co/inc/605m3u8.php$605資源','bb#$www.88zyw.vip/inc/feifeiapi.php$88資源','kb#$www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','hn#$https://www.hongniuzy.com/inc/feifei$紅牛影視','be#$https://v8.bdxzyapi.com/inc/feifei34$北斗資源','xk#$https://m3u8.xiangkanapi.com/provide/vod/cms/feifei50/at/xml/from/xkm3u8$想看資源','lj#$https://apilj.com/api.php/provide/vod/at/xml$辣椒','hj#$https://ff.apihjzy.com/inc/feifei34$花椒']/>
 <set_pref ziyuan_search=['bb#','xk#','be#','wj#']/>
 
 <gen_items cnt="12" group="戲劇" link="['tk#t=13']"/>
