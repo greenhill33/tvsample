@@ -76,6 +76,9 @@
 <item  group="新聞" name="優視焦點" type="yt" draw="Uchannelus.webp" show="true" link="UC9QotuR3RBijf3UHBs5Jdew"
 	 url="https://yt3.ggpht.com/-URVd3l9OpKk/AAAAAAAAAAI/AAAAAAAAAAA/x_RU71B4Po0/s%d-c-k-no/photo.jpg"
 	 description="公眾優質的資訊"/>
+<item  group="新聞" name="鏡新聞" type="yt" draw="mnews.webp" show="true" link="UC4LjkybVKXCDlneVXlKAbmw"
+	 url="https://yt3.ggpht.com/VZn4d9ZIvAj2ZTdGw8dU9IPkDOvbofQYxSd61nfO-qm14RKRpxJMFbe0Ndhbb_-sjAMV50yURA=s%d-c-k-no"
+	 description="開拓具多元視野，讓收聽眾吸收新知的平台"/>
 <item  group="新聞" name="NOW今日新聞" type="yt" draw="NOWnewscom.webp" show="true" link="UCg8EwsqYmiw7G267xxPyXsg"
 	 url="https://yt3.ggpht.com/-F6Xk59-ymps/AAAAAAAAAAI/AAAAAAAAAAA/xwPfZr4267M/s%d-c-k-no/photo.jpg"/>
 <item  group="新聞" name="東森新聞" type="ytItem" draw="newsebc.webp" show="true" link="PLp7hnLHxd1KHfBguJW0qB_8S6XldZC4fe"
