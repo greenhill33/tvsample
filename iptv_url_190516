@@ -21,7 +21,7 @@
 常用電台,中視新聞台,"http://seb.sason.top/sc/zsxw_fhd.m3u8$$$hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv074&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$newslive$中視新聞台"
 常用電台,華視新聞台,"http://seb.sason.top/sc/hsxw_fhd.m3u8$$$hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv052&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html$$$newslive$華視新聞"
 常用電台,TVBS新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3/yovlxEtmuZxbqNp/B3720MksFwZgySIAsqLWDXZ1p/7YKxQjnk+bTBwDLACIRX7CJ2L6SEerB6aC2rk7cXxzQlP9C4RjPTQJ1S2NlS2aKeQAmSIPXdNdiYFS2iVbWGa00GWx4WrIDglTSFuyYN5ho=$$$newslive$TVBS新聞"
-常用電台,三立新聞台,"newslive$LIVE 三立"
+常用電台,三立新聞台,"https://www.youtube.com/watch?v=EB4g7wecgTI$$$newslive$LIVE 三立"
 常用電台,中天新聞台,"http://seb.sason.top/sc/ztxw_fhd.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl36FMnNZa6ZLNO6YRqJyXzU4HLjn9L2nYL1AGdzj+jW8e1HgmU4jvU3yKyPGkqL31k378rpRozl74XRjMLA0EVLndxMjAiXTOUjsQaM2BGY/roLGzuRZfB0ozLSsmlm8f4g==$$$newslive$中天新聞"
 常用電台,臺新聞,"http://stream.nexttv.com.tw/n001/hd/live.m3u8"
 常用電台,寰宇新聞台SD,"newslive$寰宇新聞"
