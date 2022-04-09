@@ -26,7 +26,7 @@
 常用電台,臺新聞,"http://stream.nexttv.com.tw/n001/hd/live.m3u8"
 常用電台,寰宇新聞台SD,"https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/寰宇新聞.m3u8$$$newslive$寰宇新聞"
 常用電台,鏡新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/鏡新聞.m3u8
-常用電台,東森新聞台,"http://seb.sason.top/sc/dsxw_fhd.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3xwxVR9RqdvHiZWtLvFrysHoEP9dFlPCMOp5+e5BWbeyHsjajVHnALPzE+IdprUPg6/JBwFhhVjzJ+ltlMLOWhPP3sNd1v5iuhijM2nMVN6dqsGX9s7CByNHaYgyqMikSw==$$$newslive$東森新聞"
+常用電台,東森新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl31y39XRyHjIy8ZtJrT7uXGZFvfZwZJSk/uC1fqqxypQmQX3tQUi4oOCfXozIYGe/UjwGAmQ7fWCpuCtKagvP3cpalD6/m9Xp1YHz6wRjwj1K2Af7IyRXYTyGLi8fSkN9Ay6vGFEQB3GIi9S0KGcE8ww=$$$newslive$東森新聞"
 常用電台,東森財經新聞台,"http://seb.sason.top/sc/dscjxw_fhd.m3u8$$$newslive$東森財經"
 常用電台,三立財經台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33FO2wSsGHKJNVAIXanEvpQvwi3ICy6/TPs2FX/XUP8IlH7e5OWbMUTg6WBSk7WhKYHwfyDx3HaL11hKWP7yBxiPFYFPeMIlbQGbltCwE91CFGSiyghL6qkKmSDCaxtIypbEnPElu9tqc1Ws3+xBA18=$$$http://seb.sason.top/sc/slinews_fhd.m3u8"
 常用電台,三立iNEWS,"http://seb.sason.top/sc/slinews_fhd.m3u8$$$newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
