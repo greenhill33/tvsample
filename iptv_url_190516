@@ -49,9 +49,6 @@
 常用電台,龍華電影台,hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=litv-longturn03&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 常用電台,天映頻道,http://iptv.tvfix.org/hls/tyjd.m3u8
-常用電台,金庸武俠電影,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
-常用電台,高分電影,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-常用電台,DVD電影院,http://117.148.179.159/PLTV/88888888/224/3221231640/index.m3u8
 常用電台,影迷數位電影,hget$https://app.4gtv.tv/Data/HiNet/GetURL.ashx?ChannelNamecallback=channelname&Type=LIVE&Content=4gtv-4gtv011&HostURL=https%3A%2F%2Fwww.hinet.net%2Ftv%2Findex.html
 常用電台,CATCHPLAY,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3xOrt5QZQSiPB46o7SViZTSy/5aqtPcLX/EFP8pBSjl0B4/ks/W/wGM386PlxmhMg/Xuf0Uu9/P2JHtt91KybeKPqcpeiuiaTo3gMrw6llQtFFEwYchxB1/bqnZ4WQci8VZ2J95QhIBELCW9hijIfv4=
 常用電台,生活時尚,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3wPSVN7PDZknFsY7eX6pw8jeYwnTGpPAUPF+JA+B13U8SWEnYlLfL93pnkl+GpOa8DRVX59ksWdsQCUtwdchGZzmueGKHuU7HlIf/2utDTMvJdRzL8Iqb8hAItaO1fjn1IhuAfS+VM+Tces8GaQ00RE=
