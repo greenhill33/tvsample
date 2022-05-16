@@ -21,7 +21,7 @@
 <item  group="新聞" name="國內焦點新聞" type="ytItem" show="true" link="PLNjtpXOAJhQIId9CWVMpKhhp2OrrM9iok"
 	 url="https://yt3.ggpht.com/lJ--VcehMEav4ZRvOBvdkkTsRHAk3AzFIv7lezB5ORSBfVruoFsaj3PKxFz6jCCkBqNrItsaXgKE8rEVhg=s%d-nd-c-k-no"
 	 description="Youtube自動產生最新報導"/>
-<item  group="新聞" name="疫情新聞 懶人包" type="ytItem" show="true" link="PLxhUsq3CF77hFpQGjLk_6a5OJ7ZEkAttp"
+<item  group="新聞" name="疫情新聞 懶人包" type="ytItem" show="true" link="PLxhUsq3CF77gtk2S9-3kOPEMwwYx_u_jY"
 	 url="https://st3.depositphotos.com/1229718/33641/i/450/depositphotos_336415838-stock-photo-coronavirus-disease.jpg"
 	 description="三立新聞網SETN"/>
 <item  group="新聞" name="時下熱門精選" type="ytVideo" mix="true" draw="hot_video.webp" show="true" link="chart=mostPopular&amp;regionCode=TW"
