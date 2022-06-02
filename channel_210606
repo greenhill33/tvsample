@@ -401,6 +401,9 @@
 <item  group="政論" name="驚爆新聞線" type="yt" show="true" draw="jingbaonews.webp" link="UCwDyCMbrFn0RkqXdCKxjIbg"
 	 url="https://yt3.ggpht.com/-isee7uzzFws/AAAAAAAAAAI/AAAAAAAAAAA/3kB23dq78V0/s%d-c-k-no/photo.jpg"
 	 description="呂惠敏帶您報內幕追真相"/>
+<item  group="政論" name="頭條熱搜" type="ytItem" show="true" link="PLD0nIS14ohhdV8DLlA2wvoyYKKNsQK4N1"
+	 url="https://i.ytimg.com/vi/PKj6f0Pv4eg/mqdefault.jpg"
+	description="中天頭條開講"/>
 <item  group="政論" name="文字播放 News" type="yt" show="false" link="UCH5fR0JxZcCafpEjpvfGamQ"
 	 url="https://yt3.ggpht.com/a-/AN66SAyFAKxSxN5DXZjbt_WXH7QpQYIwBAe5RD9RPw=s%d-nd-c-k-no"/>
 	 
@@ -576,7 +579,13 @@
 	 url="https://yt3.ggpht.com/ytc/AKedOLTn7jeQfrrEQzXzIY6-H9YQ434ygzhaGjEJt-sN=s%d-c-k-no"/>
 <item  group="旅遊" name="好想去喔Wantogo" type="yt" draw="Wantogo.webp" show="true" link="UCDc3f0CVMKpL8VreS4tsjnQ"
 	 url="https://yt3.ggpht.com/ytc/AKedOLTPrc-44vJZfk7gXHHfug_vaIXgeaDyYAo-gYAr5w=s%d-c-k-no"/>
-	 
+<item  group="旅遊" name="地球的慶典" type="ytItem" show="false" link="PLf7jU5YdQ7lwgzGczvWP3tkvri_RxYvir"
+	url="https://i.ytimg.com/vi/VZ6Pm9gpYRs/mqdefault.jpg"
+	description="愛爾達，集結文化、旅遊、知識"/>
+<item  group="旅遊" name="她·鄉-風一樣的女子" type="ytItem" show="true" link="PL_jWxCs5g4OWUgHnj07J_b69sP75DNtpN"
+	url="https://i.ytimg.com/vi/gp_p7jOg3GA/mqdefault.jpg"
+	description="芒果TV，和姐姐們壹起逃離城市喧囂"/>
+	
 <item  group="美食" name="小高姐" type="yt" show="true" link="UCCKlp1JI9Yg3-cUjKPdD3mw"
 	 url="https://yt3.ggpht.com/a-/AN66SAz9xaHqgWmDlGWNb7ZK9RqN3cyxJ2HjiMEkmg=s%d-c-k-no"
 	 description="製作很多西安美食"/>
