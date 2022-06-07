@@ -1061,6 +1061,6 @@
 <set_pref ziyuan_path=['tk#$https://api.tiankongapi.com/api.php/provide/vod$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','tp#$https://taopianapi.com/home/cjapi/as/fei4/vod/json$淘片資源','kb#$https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','bt#$https://api.bdxapi.com/api.php/provide/vod/from/bdxm3u8$北斗資源','wl#$https://collect.wolongzyw.com/api.php/provide/vod$卧龍','pi#$https://piccdn.so301.com/api.php/provide/vod$达达兔','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','xk#$https://m3u8.xiangkanapi.com/api.php/provide/vod$想看資源']/>
 <set_pref ziyuan_search=['uk#','sd#','hn#','pi#']/>
 
-<gen_items cnt="12" group="戲劇" link="['bd#t=13','bt#t=13']"/>
-<gen_items cnt="3" group="日韓" link="['sd#t=15','bt#t=23']"/>
+<gen_items cnt="12" group="戲劇" link="['bd#t=13']"/>
+<gen_items cnt="3" group="日韓" link="['sd#t=15']"/>
 <gen_items cnt="3" group="日韓" link="['bd#t=16']"/>
