@@ -40,9 +40,9 @@
 常用電台,CNBC,hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?callback=channelname&Type=LIVE&ChannelId=4gtv-live130&HostURL=https%3A%2F%2Fwww.hinet.net%2F
 常用電台,LiveABC英語,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl34Xj9JIXFIRWupGT5gJiKezLgLAJ/zMiKwRaYsz8bBOlSOwRHYB+4QGj4v0dUgu1XdXqi+pj7EBsiYrehr8ftubASMpwCnbY6/vVT7iTBFU1yhDbexLJOmjnSjPfFIobYcRA/eLTvN8B/H40GmUlmoY=
 常用電台,ELTV生活英語台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl38X/pch5qDZr2tza1HEnb2fzgDMXFNIuHaZMg1YP+v03t1tzJeP3Uukbc1Lw7mkPsIzkhY/ykmLP/m8hm/+nm/wnzrQWQYVzEBH9mRHNztW6ol/Q4RLOt4YvDm2HaUZERZ0GtCm93VqG7z1iuq8hxdA=
-常用電台,動物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-常用電台,國家地理頻道,https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-常用電台,Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+常用電台,動物星球,embed$https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+常用電台,國家地理頻道,embed$https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+常用電台,Discovery,embed$https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 常用電台,優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 常用電台,亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 常用電台,華語電視,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8$$$http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
