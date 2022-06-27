@@ -2,7 +2,6 @@
 常用電台,民視第一台 SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl31oMCwWmTLRKNUmM9uhVZN5RCu8U2UDok0u63Z+xW5yUKb5p7+Z+glZ8Pce2azud5bCqf5LIAy+zgYm108RvFxP0OqHUsUL3ZtssFy2xJd/41pAupbN14jHqWzEofSIhPw==
 常用電台,民視台灣 HD,embed$http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
 常用電台,民視影劇,embed$http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-常用電台,民視綜藝,embed$http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
 常用電台,中視 SD,hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?callback=channelname&Type=LIVE&ChannelId=4gtv-4gtv040&HostURL=https%3A%2F%2Fwww.hinet.net%2F
 常用電台,華視 SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl34imCItd3CcSou1MMFXqdpx4y3XhJZ0LnEy7NFG9szO7H7g4Q+q2FJGsZRuMwM7zmo3Xg8A+KAa3qn9RwPaVf6W4IP1knoyV23lXsIjZYyYFb07+kYkCvMgz+3Qmt5V9jg==
 常用電台,華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
@@ -79,13 +78,13 @@
 常用電台,新唐人亞太,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/新唐人亞太.m3u8
 常用電台,鳳凰資訊,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 常用電台,鳳凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-常用電台,湖南衛視,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
-常用電台,東方衛視,http://183.207.255.197/live/program/live/hddfws/4000000/mnf.m3u8
-常用電台,北京衛視,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
-常用電台,浙江衛視,http://183.207.255.197/live/program/live/zjwshd/2300000/mnf.m3u8
-常用電台,江蘇衛視,http://183.207.255.197/live/program/live/jswshd/4000000/mnf.m3u8
+#常用電台,湖南衛視,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+#常用電台,東方衛視,http://183.207.255.197/live/program/live/hddfws/4000000/mnf.m3u8
+#常用電台,北京衛視,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+#常用電台,浙江衛視,http://183.207.255.197/live/program/live/zjwshd/2300000/mnf.m3u8
+#常用電台,江蘇衛視,http://183.207.255.197/live/program/live/jswshd/4000000/mnf.m3u8
 常用電台,中天全民最大黨,embed$http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-常用電台,民視綜藝台SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3wBH1V2TQVFQTj6Vj9/6A0i9fFEuKaO1KELBsyarjMHTbniL8maT960fBO0KKxIO4W4NaH2f8qsibAhK/ttwKXP425at80j5y2e20Aun/WxpKpvE1iOaVcc+EokLh2JwnA==
+常用電台,民視綜藝台SD,"embed$http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3wBH1V2TQVFQTj6Vj9/6A0i9fFEuKaO1KELBsyarjMHTbniL8maT960fBO0KKxIO4W4NaH2f8qsibAhK/ttwKXP425at80j5y2e20Aun/WxpKpvE1iOaVcc+EokLh2JwnA=="
 常用電台,豬哥亮歌廳秀SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33p56Wbr50+9A64hA3ZJnG6RD5k+J+WvwP/B1Juu3/YG4fwq2nxM9KHBJu47uPAIt7qtsM3Xreh8uvGDs6UGEfyiBBwGo2GxP83k5bk1syugFTXFI1u7guscQ+0U8DZGAUeiZ50o2OLMsoYvUbu+uRM=
 常用電台,國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 常用電台,國會頻道2,http://61.58.60.230:9319/live/124.m3u8
