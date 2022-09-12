@@ -996,14 +996,18 @@
 <item  group="經典" name="董鄂妃傳" type="ytItem" show="false" sort="title" link="PLeuPaltH7SfHQtk0-f-KB_ODCFRiI-y7s"/>
 <item  group="經典" name="三國演義3D動畫 40全2017" type="combo" show="false" sort="no" link="['yt#PLNNKkgQ-e0TUvpmj44lcEGZaMzMh542hh']"
  	url="https://i.ytimg.com/vi/x-7zhhAnABs/mqdefault.jpg"/>
+ <item  group="經典" name="後宮甄嬛傳" type="combo" show="false" sort="no" link="['tk#33168']"
+ 	url="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2456185533.webp"/>
+<item  group="經典" name="父母愛情" type="combo" show="false" sort="no" link="['kc#36321']"
+ 	url="https://www.kuaichezy.com/upload/vod/20220623-1/8f2403aa03dce40182143b8b0e86cbbd.jpg"/>
+<item  group="經典" name="武林外傳" type="combo" show="false" sort="no" link="['tk#34211']"
+ 	url="https://p2.img.cctvpic.com/photoworkspace/2022/03/14/2022031409123975337.jpg"/>
 <item  group="經典" name="絕命卦師" type="ytItem" show="true" sort="title" link="PLIx8QniXH-rHE_xCXRa2FxXPoy3DuUW66"
    	url="https://i.ytimg.com/vi/urpybKlWmBk/mqdefault.jpg" description="永樂影視官方頻道"/>
-<item  group="經典" name="絕命毒師1-5 2013(18+)" type="combo" show="false" sort="no" link="['tk#3120$第一季','tk#3119$第二季','tk#3118$第三季','tk#3044$第四季','tk#3117$第五季']"
+<item  group="經典" name="絕命毒師1-5 2013(18+)" type="combo" show="false" sort="no" link="['tk#34432$第一季','tk#34433$第二季','tk#34434$第三季','tk#34435$第四季','tk#34436$第五季']"
  	url="http://pic.china-gif.com/pic/upload/vod/2018-05/15268931685.jpg"/>
-<item  group="經典" name="冰與火之歌/權力遊戲1-8(18+)" type="combo" show="false" sort="no" link="['tk#2263$第一季','tk#2262$第二季','tk#2261$第三季','tk#2260$第四季','tk#2259$第五季','tk#2258$第六季','tk#2257$第七季','tk#3664$第八季','tk#8336$守夜人']"
+<item  group="經典" name="冰與火之歌/權力遊戲1-8(18+)" type="combo" show="false" sort="no" link="['tk#33944$第一季','tk#33945$第二季','tk#33946$第三季','tk#33947$第四季','tk#33948$第五季','tk#33949$第六季','tk#33950$第七季','tk#33951$第八季','tk#46663$守夜人']"
  	url="http://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2462245619.jpg"/>
-<item  group="經典" name="后翼棄兵" type="combo" show="false" sort="no" link="['tk#37627','tk#37137']"
- 	url="http://images.cnblogsc.com/pic/upload/vod/2020-10/1603874972.jpg"/>
 
 <item  group="電影" name="近期新片推薦" type="ytItem" show="true" link="PL316wRwpvsnGLncT6CHiy-mfibsREFDsF"
 	 url="https://yt3.ggpht.com/-j27YTxGrrpQ/AAAAAAAAAAI/AAAAAAAAAAA/Ws4MA2Dozlw/s%d-c-k-no/photo.jpg"/>
@@ -1061,7 +1065,7 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網"/>
 
-<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://api.tiankongapi.com/api.php/provide/vod$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','kb#$https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','pi#$https://piccdn.so301.com/api.php/provide/vod$达达兔','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','xk#$https://m3u8.xiangkanapi.com/api.php/provide/vod$想看資源','gj#$https://www.cmpzy.com/api.php/provide/vod$冠军資源']/>
+<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','kb#$https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','pi#$https://piccdn.so301.com/api.php/provide/vod$达达兔','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','xk#$https://m3u8.xiangkanapi.com/api.php/provide/vod$想看資源','gj#$https://www.cmpzy.com/api.php/provide/vod$冠军資源']/>
 <set_pref ziyuan_search=['uk#','sd#','hn#','pi#','kc#']/>
 
 <gen_items cnt="12" group="戲劇" link="['bd#t=13','kc#t=12']"/>
