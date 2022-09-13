@@ -572,6 +572,10 @@
      url="https://yt3.ggpht.com/-IpNINW0feGI/AAAAAAAAAAI/AAAAAAAAAAA/PvFC4ZoDj-E/s%d-c-k-no/photo.jpg"/>
 <item  group="旅遊" name="大陸尋奇" type="ytItem" show="false" link="PLPlqExP6kZDS1GUN3GN6tjz0LotWmZLhh"
      url="https://yt3.ggpht.com/CRyvI-J3Xr3e8JWQn9a8C9A2aq1--dJvOAoIE19IvJN9y4klDrDZqr9LoFnnUvFkXUms6nvg633kE71RDbc=s%d"/>
+<item  group="旅遊" name="食尚玩嘎" type="ytItem" show="true" refresh="true" link="PL008735D47571CA4B"
+	 url="https://i.ytimg.com/vi/IS3A4UvVZ5E/mqdefault.jpg"/>
+<item  group="旅遊" name="MaoMao TV" type="yt" draw="MaoMaoTV.webp" show="true" link="UCflli65jykYa6D0AU8JSuGA"
+	 url="https://yt3.ggpht.com/ytc/AMLnZu_GJcco_cVtDX57nC2pPuDSBdhRWOTxfIPijcRRzQ=s%d-c-k-no"/>
 <item  group="旅遊" name="驚奇日本" type="yt" draw="xpcubex.webp" show="false" link="UCzqlJ8YEDtFJNRc-b1lzeTg"
 	 url="https://yt3.ggpht.com/-zOcbjee92xg/AAAAAAAAAAI/AAAAAAAAAAA/UMM4zAE0eTE/s%d-c-k-no/photo.jpg"/>
 <item  group="旅遊" name="影動台灣" type="yt" draw="pitourtw.webp" show="false" link="UC6S-3AuLr2WvZS_YqU5Ii2w"
@@ -589,15 +593,18 @@
 	url="https://i.ytimg.com/vi/gp_p7jOg3GA/mqdefault.jpg"
 	description="芒果TV，和姐姐們壹起逃離城市喧囂"/>
 	
-<item  group="美食" name="小高姐" type="yt" show="true" link="UCCKlp1JI9Yg3-cUjKPdD3mw"
-	 url="https://yt3.ggpht.com/a-/AN66SAz9xaHqgWmDlGWNb7ZK9RqN3cyxJ2HjiMEkmg=s%d-c-k-no"
-	 description="製作很多西安美食"/>
 <item  group="美食" name="夢幻廚房在我家" type="yt" draw="dreamchefhome.webp" show="true" link="UCUz5OVO4aYhfur0R-TCaBtg"
 	 url="https://yt3.ggpht.com/a-/AAuE7mBce3517hMKEUUfc8yCzgjknH8BiYwzki9pYA=s%d-c-k-no"
 	 description="跟著影音學做菜"/>
 <item  group="美食" name="不萊嗯廚房" type="yt" draw="BrianPastry.webp" show="true" link="UCg7l-Uy0OZiAl2xkNe_5tNA"
 	 url="https://yt3.ggpht.com/a/AGF-l799FYePzqAHuvrZJjpasQ96ICo0YrBPqDtPwA=s%d-c-k-no"
 	 description="歐法鄉居料理食譜"/>
+<item  group="美食" name="小高姐" type="yt" show="true" link="UCCKlp1JI9Yg3-cUjKPdD3mw"
+	 url="https://yt3.ggpht.com/a-/AN66SAz9xaHqgWmDlGWNb7ZK9RqN3cyxJ2HjiMEkmg=s%d-c-k-no"
+	 description="製作很多西安美食"/>
+<item  group="美食" name="蘿潔塔的廚房" type="yt" draw="rosalinakitchen.webp" show="true" link="UCcb9uxCoIgw7RQjQnlgd0Xw"
+         url="https://yt3.ggpht.com/ytc/AMLnZu_KVLHNslNYY2rwHOqwwDBjRFfbeTpDGmBV94Ed=s%d-c-k-no"
+        description="傳遞幸福味道的美食"/>
 <item  group="美食" name="美味生活" type="yt" show="true" link="UCsd3YtVFfGGTxtj98Hz-JvQ"
          url="https://yt3.ggpht.com/a/AGF-l79zs77DCCvCoTUBhLVNE246ycyGx7eVp9t3Pg=s%d-c-k-no"
         description="美味生活HowLiving"/>
@@ -636,6 +643,9 @@
 <item  group="美食" name="食尚玩家" type="yt" draw="shshangwanjia.webp" show="true" link="UC00wMIWR48SYidE6jmpL7Qg"
 	 url="https://yt3.ggpht.com/-0AGfBUkhxrU/AAAAAAAAAAI/AAAAAAAAAAA/jzoMZWK67_I/s%d-c-k-no/photo.jpg"
 	 description="吃喝玩樂一手包辦"/>
+<item  group="美食" name="古娃娃WawaKu" type="yt" draw="WawaKu.webp" show="true" link="UCVw4CvsOUuVJpFyW_VPnIBQ"
+	 url="https://yt3.ggpht.com/JXUkYFhxBFrXXpqwVCueT133nIgsnk5-aTrlGL0ph53D_4NneNRgGceWYPRxvOC1LthG7tAGTA=s%d-c-k-no"
+	 description="便利商店女神"/>
 <item  group="美食" name="千千進食中" type="yt" draw="chienshu_tw.webp" show="true" link="UC9i2Qgd5lizhVgJrdnxunKw"
 	 url="https://yt3.ggpht.com/a/AGF-l7_Bg1oSAk7wqIlaB2AUd6FhUMzD-Ls3YtW2pQ=s%d-c-k-no"
 	 description="有美食就會感到幸福"/>
@@ -855,6 +865,9 @@
 <item  group="教育" name="Duncan教英語" type="yt" draw="duncaninchina.webp" show="true" link="UC8pPDhxSn1nee70LRKJ0p3g"
 	 url="https://yt3.ggpht.com/-JtRMyAgEXXI/AAAAAAAAAAI/AAAAAAAAAAA/aaN-IV31DOQ/s%d-c-k-no/photo.jpg"
 	 description="Misterduncan"/>
+<item  group="教育" name="English Paradise Kids" type="yt" draw="EnglishParadiseKids.webp" show="true" link="UC1THeiEwEW3N02ZmqmDKquQ"
+	 url="https://yt3.ggpht.com/ytc/AMLnZu9v3xstXPUCadgLQnDl3suJkofEQbA5Zk2eK_-3=s%d-c-k-no"
+	 description="動物的英文名稱跟正確發音"/>
 <item  group="教育" name="真實初學英語" type="yt" draw="realenglish1.webp" show="false" link="UCUqbE6Sd6DW6M6ZBkZFDfmA"
 	 url="https://yt3.ggpht.com/-pFDZd2Y6FZY/AAAAAAAAAAI/AAAAAAAAAAA/rXCwzeorWOE/s%d-c-k-no/photo.jpg"/>
 <item  group="教育" name="兒童學英文" type="yt" draw="british.webp" show="false" link="UC-qWJlvaPME3MWvrY-yjXeA"
@@ -878,6 +891,9 @@
 	 url="https://yt3.ggpht.com/-vLfSz1mmTuQ/AAAAAAAAAAI/AAAAAAAAAAA/MZVIxCq-j9k/s%d-c-k-no/photo.jpg"/>
 <item  group="創作" name="阿兜仔不教美語" type="yt" draw="noldoazul.webp" show="false" link="UCYgpfeq5JyEo_pPmu-4VLiA"
 	 url="https://yt3.ggpht.com/-c7JMSjGK1ps/AAAAAAAAAAI/AAAAAAAAAAA/1AsexDrBgOM/s%d-c-k-no/photo.jpg"/>
+<item  group="創作" name="葉式特工 Yes Ranger" type="yt" draw="YEKON1.webp" show="true" link="UCXpxKdZAiyUEaTkoCPpEZzg"
+	 url="https://yt3.ggpht.com/ytc/AMLnZu_-D0Td519-waxQX-Aq7EDHMaxyNq3UblexrBYx=s%d-c-k-no"
+	 description="不用最紅但求最強"/>
 <item  group="創作" name="蔡阿嘎" type="yt" draw="kyoko38.webp" show="false" link="UCPwxSX0DYDMQxCvgfeVDv_g"
 	 url="https://yt3.ggpht.com/-yJntIumko7E/AAAAAAAAAAI/AAAAAAAAAAA/1M3Sz0Apjl8/s%d-c-k-no/photo.jpg"/>
 <item  group="創作" name="這群人" type="yt" draw="e84768131.webp" show="false" link="UC6FcYHEm7SO1jpu5TKjNXEA"
@@ -911,12 +927,10 @@
 	 ckaddr="watch\?v=" ckiframe="video#mediaplayer source[src]"
 	 url="https://lh5.ggpht.com/YmBdOzdbP_joBeCWW4gPFsAhLIFoxThkLr3Gc_tZg3kXE3T7Z8XL-FcowpjCvfQGYA"
 	 description="EYNY伊莉影片"/>
-<item  group="戲劇" name="⚽天空資源網" type="web" draw="tiankong.webp" show="false" link="https://api.tiankongapi.com" ckaddr="vod/detail"
+<item  group="戲劇" name="⚽天空資源網" type="web" draw="tiankong.webp" show="false" link="http://www.tiankongzy.com/" ckaddr="vod/detail"
 	 url="https://api.tiankongapi.com/template/ziyuan2/images/logo.png"/>
-<item  group="戲劇" name="⚽88資源網" type="web" draw="88zyw.webp" show="false" link="http://www.88zyw.net/?m=vod-type-id-2.html" ckaddr="m=vod-detail"
-	 url="http://www.88zyw.net/images/logo.gif"/>
-<item  group="戲劇" name="⚽605資源" type="web" draw="605zy.webp" show="false" link="http://www.605zy.co" ckaddr="m=vod-detail"
-	 url="http://www.605zy.com/template/caonima/images/logo.png"/>
+<item  group="戲劇" name="⚽1080資源" type="web" draw="1080zyk.webp" show="false" link="http://1080zyk.com" ckaddr="m=vod-detail"
+	 url="https://1080zyk.com/template/newstyle/images/logo.gif"/>
 <item  group="戲劇" name="⚽韓劇網" type="web" draw="twkorean.webp" show="false" link="http://www.twkor.com"
   	ckaddr="view.*html" ckiframe="div.playleft embed[src], div.playleft video[src], div.playleft iframe[src]"
   	url="http://twkor.com/images/logoa.gif"/>
@@ -925,7 +939,6 @@
 <item  group="戲劇" name="⚽影視娛樂快播" type="web" show="false" sort="title" draw="tv8fun.webp" link="http://tv8.fun/category/tvshow/"
   	ckaddr="tv8.fun/"
   	url="http://pics.sc.chinaz.com/Files/pic/icons128/6085/tv13.png"/>
-  	
 <item  group="戲劇" name="⚽骨朵傳媒排行榜" type="web" draw="guduomedia.webp" show="true" link="https://d.guduodata.com" ckaddr="guduodata.com/m/show/detail"
   	 url="http://static.guduomedia.com/gd_logo.png"/>
 <item  group="戲劇" name="⚽PTT娛樂區" type="web" draw="pttent.webp" show="false" link="https://pttent.com" ckaddr="youtube"
@@ -996,10 +1009,16 @@
 <item  group="經典" name="董鄂妃傳" type="ytItem" show="false" sort="title" link="PLeuPaltH7SfHQtk0-f-KB_ODCFRiI-y7s"/>
 <item  group="經典" name="三國演義3D動畫 40全2017" type="combo" show="false" sort="no" link="['yt#PLNNKkgQ-e0TUvpmj44lcEGZaMzMh542hh']"
  	url="https://i.ytimg.com/vi/x-7zhhAnABs/mqdefault.jpg"/>
- <item  group="經典" name="後宮甄嬛傳" type="combo" show="false" sort="no" link="['uk#35559','kc#31743','sd#38555']"
+<item  group="經典" name="後宮甄嬛傳" type="combo" show="false" sort="no" link="['uk#35559','kc#31743','sd#38555','ko#22729']"
  	url="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2456185533.webp"/>
-<item  group="經典" name="父母愛情" type="combo" show="false" sort="no" link="['kc#36321','sd#38001']"
+<item  group="經典" name="父母愛情" type="combo" show="false" sort="no" link="['kc#36321','sd#38001','ko#1002']"
  	url="https://www.kuaichezy.com/upload/vod/20220623-1/8f2403aa03dce40182143b8b0e86cbbd.jpg"/>
+<item  group="經典" name="知否知否應是綠肥紅瘦" type="combo" show="false" sort="no" link="['ko#987']"
+ 	url="https://pic1.zykpic.com/upload/vod/2022-03-24/164809634419.jpg"/>
+<item  group="經典" name="琅琊榜" type="combo" show="false" sort="no" link="['ko#995']"
+ 	url="https://pic1.zykpic.com/upload/vod/2022-03-24/16480963878.jpg"/>
+<item  group="經典" name="燦爛的守護神-鬼怪" type="combo" show="false" sort="no" link="['ko#2160']"
+ 	url="https://pic1.zykpic.com/upload/vod/2022-03-28/16484388280.jpg"/>
 <item  group="經典" name="絕命卦師" type="ytItem" show="true" sort="title" link="PLIx8QniXH-rHE_xCXRa2FxXPoy3DuUW66"
    	url="https://i.ytimg.com/vi/urpybKlWmBk/mqdefault.jpg" description="永樂影視官方頻道"/>
 <item  group="經典" name="絕命毒師1-5 2013(18+)" type="combo" show="false" sort="no" link="['tk#34432$第一季','tk#34433$第二季','tk#34434$第三季','tk#34435$第四季','tk#34436$第五季']"
@@ -1063,8 +1082,8 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網"/>
 
-<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','kb#$https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','pi#$https://piccdn.so301.com/api.php/provide/vod$达达兔','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','xk#$https://m3u8.xiangkanapi.com/api.php/provide/vod$想看資源','gj#$https://www.cmpzy.com/api.php/provide/vod$冠军資源']/>
-<set_pref ziyuan_search=['uk#','sd#','hn#','pi#','kc#']/>
+<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','kb#$https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','pi#$https://piccdn.so301.com/api.php/provide/vod$达达兔','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','xk#$https://m3u8.xiangkanapi.com/api.php/provide/vod$想看資源','gj#$https://www.cmpzy.com/api.php/provide/vod$冠军資源','ko#$https://api.1080zyku.com/inc/feifei3$優質資源']/>
+<set_pref ziyuan_search=['uk#','sd#','hn#','pi#','kc#','ko#']/>
 
 <gen_items cnt="12" group="戲劇" link="['bd#t=13','kc#t=12']"/>
 <gen_items cnt="3" group="日韓" link="['sd#t=15','kc#t=16']"/>
