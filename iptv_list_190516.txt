@@ -2,9 +2,10 @@
 #SET_PREF hpost_default_parser_rule=json::Data,flstURLs::ErrMessage
 
 常用電台(2018/6/25)_60頻道,csv,g,https://raw.githubusercontent.com/greenhill33/tvsample/master/iptv_url_190516
+機哥分享(2020),csv,g,https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt
 好消息電視台(2018/2/15)_66頻道,m3u,g,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
-中港台_黃河(2018/3/15)_80頻道,m3u,g,https://github.com/pcccw/Ark/raw/main/Prototype/Gugong.m3u8
-zhyzjkpa整理(2020),csv,g,https://raw.githubusercontent.com/zhyzjkpa/iptv/master/all2.txt
+中港台_黃河(2018/3/15)_80頻道,m3u,g,https://raw.githubusercontent.com/syafsonang/yehas/main/Prototype/Gugong.m3u8
+zhyzjkpa整理(2020),csv,g,https://raw.githubusercontent.com/zhyzjkpa/iptv/master/all.txt
 大陸衛視(2018/3/15)_120頻道,m3u,g,https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-SXYD.m3u
-東南亞(2017/12/31)_250頻道,m3u,g,https://github.com/pcccw/Ark/raw/main/Ark/Oriental/Bangkok.m3u8
+東南亞(2017/12/31)_250頻道,m3u,g,https://raw.githubusercontent.com/syafsonang/yehas/main/Ark/Oriental/Mekong.m3u8
 希臘電台(2018/3/15)_120頻道,m3u,g,https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/android.m3u
