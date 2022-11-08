@@ -65,6 +65,7 @@
 常用電台,愛爾達娛樂台,"hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?callback=channelname&Type=LIVE&ChannelId=4gtv-4gtv070&HostURL=https%3A%2F%2Fwww.hinet.net%2F$$$hget$s://eltaott.tv/change_channel/play_v2$json::url$$$hget$s://eltaott.tv/channel/play/104/4$reg::m3u8::.*file:.*?(http.*?m3u8.*?)"".*::$1"
 常用電台,靖天日本台,hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?callback=channelname&Type=LIVE&ChannelId=4gtv-4gtv047&HostURL=https%3A%2F%2Fwww.hinet.net%2F
 常用電台,東京淺草,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+常用電台,古風美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 常用電台,龍華電影台,hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?callback=channelname&Type=LIVE&ChannelId=litv-longturn03&HostURL=https%3A%2F%2Fwww.hinet.net%2F
 常用電台,經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 常用電台,金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -79,14 +80,28 @@
 常用電台,博斯運動II,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 常用電台,網球頻道,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 常用電台,香港奇妙電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#below 1, from, ntnas.top:82/typecho/archives/799
+常用電台,唐人亞太,http://tv.redrainl.site:9500/live.m3u8?c=52
 常用電台,唐人經典台,"http://174.127.67.246/live330/playlist.m3u8?$FitXY$$$http://cnhls.ntdtv.com/cn/live800/playlist.m3u8"
 常用電台,鳳凰資訊,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 常用電台,鳳凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#below 9, from, notabug.org/859106823/zy/src/master/ZB%202.txt 愛奇藝
+常用電台,華數影視,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+常用電台,熱播劇集,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
+常用電台,收視冠軍,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_600_t10/c56_lb_230_600_t10.m3u8
+常用電台,票房電影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+常用電台,五星影院,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+常用電台,仙俠玄幻,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
+常用電台,權謀劇場,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8
+常用電台,宮廷正劇,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
+常用電台,經典港片,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+常用電台,驚悚午夜,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
 常用電台,湖南電視劇,http://124.232.231.246:6610/000000001001/201600010006/index.m3u8?A=&IASHttpSessionId=OTT?zhund
 #常用電台,東方衛視,http://183.207.255.197/live/program/live/hddfws/4000000/mnf.m3u8
 #常用電台,北京衛視,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
 #常用電台,浙江衛視,http://183.207.255.197/live/program/live/zjwshd/2300000/mnf.m3u8
 #常用電台,江蘇衛視,http://183.207.255.197/live/program/live/jswshd/4000000/mnf.m3u8
+常用電台,江西衛視,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8$FitXY
 #常用電台,中天全民最大黨,embed$http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
 常用電台,民視綜藝台SD,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3wBH1V2TQVFQTj6Vj9/6A0i9fFEuKaO1KELBsyarjMHTbniL8maT960fBO0KKxIO4W4NaH2f8qsibAhK/ttwKXP425at80j5y2e20Aun/WxpKpvE1iOaVcc+EokLh2JwnA=="
 常用電台,豬哥亮歌廳秀SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33p56Wbr50+9A64hA3ZJnG6RD5k+J+WvwP/B1Juu3/YG4fwq2nxM9KHBJu47uPAIt7qtsM3Xreh8uvGDs6UGEfyiBBwGo2GxP83k5bk1syugFTXFI1u7guscQ+0U8DZGAUeiZ50o2OLMsoYvUbu+uRM=
