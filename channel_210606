@@ -61,10 +61,10 @@
 	 url="https://yt3.ggpht.com/-eZ3XbwnxaFA/AAAAAAAAAAI/AAAAAAAAAAA/s806uRWM7S8/s%d-c-k-no/photo.jpg"/>
 <item  group="新聞" name="USTV非凡電視台" type="yt" draw="ustv.webp" show="true" link="UCYIVkruUoN04UjV9pkBTswg"
 	 url="https://yt3.ggpht.com/-Oem4aRfAPK0/AAAAAAAAAAI/AAAAAAAAAAA/SGoPFlczmfA/s%d-c-k-no/photo.jpg"/>
-<item  group="新聞" name="壹新聞" type="ytItem" draw="eranewstest.webp" show="true" link="PLiY6wtxjK6QMR2sn5r4FNrdPDyXrfiOMH"
+<item  group="新聞" name="壹新聞" type="ytItem" draw="twnexttv.webp" show="true" link="PLiY6wtxjK6QMOa43pVQPPL-TGD6XI0rv9"
 	 url="https://yt3.ggpht.com/a/AGF-l7_sEXLZOhaopSnq7LcAPz8EWIqq0pNYHzROWA=s%d-c-k-no"
 	 description="「沒有更真，唯壹最敢」的新聞台"/>
-<item  group="新聞" name="台灣蘋果日報" type="yt" draw="twappledaily.webp" show="true" link="UChLEhd2gouo1H-c9Zy9WGDA"
+<item  group="新聞" name="台灣蘋果日報" type="yt" draw="twappledaily.webp" show="false" link="UChLEhd2gouo1H-c9Zy9WGDA"
 	 url="https://yt3.ggpht.com/-lZ7xBAHXkiw/AAAAAAAAAAI/AAAAAAAAAAA/NCXkSHR-a9A/s%d-c-k-no/photo.jpg"
 	 description="3D動畫模擬新聞"/>
 <item  group="新聞" name="TITV 原視" type="yt" draw="taiwanindigenoustv.webp" show="true" link="UCjJWicFvAqzrNjPAcG6ufVQ"
@@ -81,7 +81,7 @@
 	 description="開拓具多元視野，讓收聽眾吸收新知的平台"/>
 <item  group="新聞" name="NOW今日新聞" type="yt" draw="NOWnewscom.webp" show="true" link="UCg8EwsqYmiw7G267xxPyXsg"
 	 url="https://yt3.ggpht.com/-F6Xk59-ymps/AAAAAAAAAAI/AAAAAAAAAAA/xwPfZr4267M/s%d-c-k-no/photo.jpg"/>
-<item  group="新聞" name="東森新聞" type="ytItem" draw="newsebc.webp" show="true" link="PLp7hnLHxd1KHfBguJW0qB_8S6XldZC4fe"
+<item  group="新聞" name="東森新聞" type="ytItem" draw="newsebc.webp" show="true" link="PLp7hnLHxd1KEPfqgLz961fsnWu0xwPhya"
 	 url="https://yt3.ggpht.com/-Tde9HzEFQZI/AAAAAAAAAAI/AAAAAAAAAAA/RN3PefMXBLA/s%d-c-k-no/photo.jpg"
 	 description="最即時的東森新聞"/>
 <item  group="新聞" name="東森新聞雲" type="yt" draw="ettoday.webp" show="true" link="UCl3aKvzB7uC5mTlVEWiCogA"
@@ -97,7 +97,7 @@
 	 url="https://yt3.ggpht.com/a-/AN66SAx57P6aDkrSsuE8yEZLtq9F6tDx65pXcV5RaA=s%d-c-k-no"/>
 <item  group="新聞" name="57新聞王" type="ytItem" draw="newsking57.webp" show="false" link="PLXum85pWmFYQhwRrKM02Phhus1D1dbTlf"
 	 url="https://yt3.ggpht.com/-n6eI3gTuT60/AAAAAAAAAAI/AAAAAAAAAAA/MtDIIykepug/s%d-c-k-no/photo.jpg"/>
-<item  group="新聞" name="udn 新聞" type="ytItem" show="true" link="PL_P8_T8v8mroo9YHhT_iOdMRaxVadEMqS"
+<item  group="新聞" name="udn 新聞" type="ytItem" show="true" link="PL_P8_T8v8mrqMkR7i5_ofmIpKxQZjpHBZ"
   	 url="https://yt3.ggpht.com/-c9cNgeG4Gsg/AAAAAAAAAAI/AAAAAAAAAAA/Ov2YKQAA95A/s%d-c-k-no/photo.jpg"/>
 <item  group="新聞" name="自由時報" type="yt" draw="tvforltn.webp" show="true" link="UCrbctXCueK60wHFE2o8YL-Q"
 	 url="https://yt3.ggpht.com/-L25FBShTKFU/AAAAAAAAAAI/AAAAAAAAAAA/i3IV4ZcoVig/s%d-c-k-no/photo.jpg"/>
@@ -155,7 +155,7 @@
 	 link="https://tip.railway.gov.tw/tra-tip-web/tip/tip001/tip112/gobytime"
 	 url="https://tip.railway.gov.tw/tra-tip-web/static/images/logo-tra.png"/>
 <item  group="新聞" name="高鐵時刻表" type="web" draw="revision_logo.webp" show="true"
-	 link="https://m.thsrc.com.tw/tw/TimeTable/SearchResult"
+	 link="https://www.thsrc.com.tw/ArticleContent/a3b630bb-1066-4352-a1ef-58c7b4e8ef7c"
 	 url="https://m.thsrc.com.tw/Common/assets/img/logo/144_144.png"/>
 <item  group="新聞" name="批踢踢八卦板" type="web" draw="ptt_gossiping.webp" show="true"
 	 link="https://www.ptt.cc/bbs/Gossiping"
@@ -167,9 +167,9 @@
 	 description="Youtube自動產生主題頻道"/>
 <item  group="國際" name="天下雜誌" type="yt" draw="cwtv.webp" show="true" link="UCoS753iLrVE-1PZrsUak6Qg"
 	 url="https://yt3.ggpht.com/-H1xtySJxr3c/AAAAAAAAAAI/AAAAAAAAAAA/6cTKeWhTCK8/s%d-c-k-no/photo.jpg"/>
-<item  group="國際" name="TomoNews 台灣" type="yt" draw="nmanews.webp" show="true" link="UC778cAEgKGDmh-teUWdg-uQ"
+<item  group="國際" name="TomoNews 台灣" type="yt" draw="nmanews.webp" show="false" link="UC778cAEgKGDmh-teUWdg-uQ"
 	 url="https://yt3.ggpht.com/-bHbDm5nHuZ8/AAAAAAAAAAI/AAAAAAAAAAA/KwtVrVTmE48/s%d-c-k-no/photo.jpg"/>
-<item  group="國際" name="兩岸時報" type="yt" draw="0982079985.webp" show="true" link="UCFTps-sk8F-V1_B6l9UtBfg"
+<item  group="國際" name="兩岸時報" type="yt" draw="0982079985.webp" show="false" link="UCFTps-sk8F-V1_B6l9UtBfg"
 	url="https://yt3.ggpht.com/a-/AAuE7mDJOjKkGOGzJFmtRnCAo6UvlPxqYTWIffDh5Q=s%d-c-k-no"/>
 <item  group="國際" name="華語晚間新聞" type="ytItem" draw="UCBwTT2stRrz7PUneqs--5YQ.webp" show="true" link="PLtqYHBUpyPc9knrH9Ya-ZHzDAkrr7q46P"
 	url="https://yt3.ggpht.com/-3atLjT62Uko/AAAAAAAAAAI/AAAAAAAAAAA/kdCBJiRESp4/s%d-c-k-no/photo.jpg"/>
@@ -193,7 +193,7 @@
 	 url="https://yt3.ggpht.com/-8EmOV6Uyan8/AAAAAAAAAAI/AAAAAAAAAAA/lsr2usyFUO0/s%d-c-k-no/photo.jpg"/>
 <item  group="國際" name="Associated Press" type="yt" draw="associatedpress.webp" show="true" link="UC52X5wxOL_s5yw0dQk7NtgA"
 	 url="https://yt3.ggpht.com/-w68FQ_fAEwk/AAAAAAAAAAI/AAAAAAAAAAA/0O-NUcXQDOA/s%d-c-k-no/photo.jpg"/>
-<item  group="國際" name="RT" type="yt" draw="russiatoday.webp" show="true" link="UCpwvZwUam-URkxB7g4USKpg"
+<item  group="國際" name="RT" type="yt" draw="russiatoday.webp" show="false" link="UCpwvZwUam-URkxB7g4USKpg"
 	 url="https://yt3.ggpht.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAAA/5NdDPcu1rz8/s%d-c-k-no/photo.jpg"/>
 <item  group="國際" name="ABC News" type="yt" draw="abcnews.webp" show="true" link="UCBi2mrWuNuyYy4gbM6fU18Q"
 	 url="https://yt3.ggpht.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAAAA/Yt468AF7XKE/s%d-c-k-no/photo.jpg"/>
@@ -214,8 +214,6 @@
 	 url="https://yt3.ggpht.com/-L1fgJChgvTM/AAAAAAAAAAI/AAAAAAAAAAA/CqworCyWXF0/s%d-c-k-no/photo.jpg"/>
 <item  group="地方" name="紅樹林新聞" type="yt" draw="redforestnews.webp" show="true" link="UCBekjy3cWsLpEjibeFYecLQ"
 	 url="https://yt3.ggpht.com/-uw290s4TUIQ/AAAAAAAAAAI/AAAAAAAAAAA/gOyHYNV40jY/s%d-c-k-no/photo.jpg"/>
-<item  group="地方" name="豐盟山線新聞" type="yt" draw="fmcatv1968.webp" show="true" link="UCBNwSjWLSkiKh84P5QDvUbQ"
-	 url="https://yt3.ggpht.com/-j_2xrSA8yCI/AAAAAAAAAAI/AAAAAAAAAAA/SNOQaE6mLbI/s%d-c-k-no/photo.jpg"/>
 <item  group="地方" name="桃園有線新聞" type="yt" draw="ntyprogram.webp" show="true" link="UCFmODKUuOEFh7-67cgCuAcQ"
 	 url="https://yt3.ggpht.com/-PqS-t3L6gX8/AAAAAAAAAAI/AAAAAAAAAAA/lpj1ZXeTSEs/s%d-c-k-no/photo.jpg"/>
 <item  group="地方" name="新竹振道新聞部" type="yt" draw="hsinshu_locnews.webp" show="true" link="UCANtgYMp3bxGWmr3qL4NdBA"
@@ -235,15 +233,15 @@
 	 url="https://yt3.ggpht.com/-ZratLqJBbBM/AAAAAAAAAAI/AAAAAAAAAAA/9tEDRPrEimg/s%d-c-k-no/photo.jpg"/>
 <item  group="氣象" name="民視氣象預報" type="ytItem" show="true" refresh="true" link="PL05E88006D42B812E"
 	 url="https://i.ytimg.com/vi/4Pp4SMtNwOw/mqdefault.jpg"/>
-<item  group="氣象" name="三立準氣象" type="ytItem" show="true" refresh="true" link="PLd5zGth6CDdUHAsoVtz2uS50pYjbfROwF"
+<item  group="氣象" name="三立準氣象" type="ytItem" show="true" refresh="true" link="PLd5zGth6CDdUvxTntBD9cKgg4BCnqLjWf"
 	 url="https://i.ytimg.com/vi/arfTv0p_y3M/mqdefault.jpg"/>
-<item  group="氣象" name="大愛氣象" type="ytItem" show="true" refresh="true" link="PL9GjONJu_nMJlSPldXwKfBFAVyOa62wTr"
-	 url="https://i.ytimg.com/vi/dUJp1VDxz0w/mqdefault.jpg"/>
+<item  group="氣象" name="早安天氣" type="ytItem" show="true" refresh="true" link="PL9GjONJu_nMJYsoK4pDut1netpv0ngpIs"
+	 url="https://i.ytimg.com/vi/KL-bfcsX3BQ/mqdefault.jpg"/>
 <item  group="氣象" name="中視氣象台" type="ytItem" show="true" refresh="true" link="PLu_yoBy_pbO2B6R3uZksexM5LfGLPOAMY"
 	 url="https://i.ytimg.com/vi/FztH1x2MyXk/mqdefault.jpg"/>
 <item  group="氣象" name="年代氣象" type="ytItem" show="true" refresh="true" link="PLbyorRThEk_Jx6CxIEBt6fcBSuswrNyFD"
 	 url="https://i.ytimg.com/vi/paPclGT25Sk/mqdefault.jpg"/>
-<item  group="氣象" name="原視山海氣象" type="ytItem" show="true" refresh="true" link="PLg1mbcTIhW06r5ov7Sl-_07Ot-pwdMYim"
+<item  group="氣象" name="原視山海氣象" type="ytItem" show="true" refresh="true" link="PLtE4cgfvTnt470nKyN59XUcfNloNbC5Fo"
 	 url="https://i.ytimg.com/vi/4KiMWbUhpG0/mqdefault.jpg"/>
 <item  group="氣象" name="東森氣象" type="ytItem" show="true" refresh="true" link="PLp7hnLHxd1KHK1HUzgpM9bJWdavXPE-Bl"
 	 url="https://i.ytimg.com/vi/mMDTNygCQqU/mqdefault.jpg"/>
@@ -1085,8 +1083,8 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網"/>
 
-<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','kb#$https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','pi#$http://kbtv.so301.com//api.php/provide/vod$达达兔','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','xk#$https://m3u8.xiangkanapi.com/api.php/provide/vod$想看資源','ko#$https://api.1080zyku.com/inc/feifei3$優質資源','ka#$https://www.39kan.com/api.php/provide/vod$39資源']/>
-<set_pref ziyuan_search=['uk#','sd#','hn#','pi#','kc#','ko#']/>
+<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','kb#$https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','pi#$http://kbtv.so301.com//api.php/provide/vod$达达兔','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','lz#$https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8$量子資源','ko#$https://api.1080zyku.com/inc/feifei3$優質資源','ka#$https://www.39kan.com/api.php/provide/vod$39資源','fs#$https://www.feisuzyapi.com/api.php/provide/vod$飛速資源']/>
+<set_pref ziyuan_search=['uk#','sd#','hn#','pi#','kc#','ko#','lz#']/>
 
 <gen_items cnt="12" group="戲劇" link="['bd#t=13','kc#t=12']"/>
 <gen_items cnt="3" group="日韓" link="['sd#t=15','kc#t=16']"/>
