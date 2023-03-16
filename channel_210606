@@ -21,9 +21,6 @@
 <item  group="新聞" name="國內焦點新聞" type="ytItem" show="true" link="PLNjtpXOAJhQIId9CWVMpKhhp2OrrM9iok"
 	 url="https://yt3.ggpht.com/lJ--VcehMEav4ZRvOBvdkkTsRHAk3AzFIv7lezB5ORSBfVruoFsaj3PKxFz6jCCkBqNrItsaXgKE8rEVhg=s%d-nd-c-k-no"
 	 description="Youtube自動產生最新報導"/>
-<item  group="新聞" name="疫情新聞 懶人包" type="ytItem" show="true" link="PLxhUsq3CF77gtk2S9-3kOPEMwwYx_u_jY"
-	 url="https://st3.depositphotos.com/1229718/33641/i/450/depositphotos_336415838-stock-photo-coronavirus-disease.jpg"
-	 description="三立新聞網SETN"/>
 <item  group="新聞" name="時下熱門精選" type="ytVideo" mix="true" draw="hot_video.webp" show="true" link="chart=mostPopular&amp;regionCode=TW"
 	 url="https://yt3.ggpht.com/fDruQ6odgPE2OZUVI0Putfb9BOhN_tbbn5ezQ40f1D2-VuxEc-0dv8BzTdRuLb5rkGK4loBeR-uk1IpCpA=s%d-nd-c-k-no"
 	 description="Youtube自動產生主題頻道"/>
@@ -161,6 +158,9 @@
 	 link="https://www.ptt.cc/bbs/Gossiping"
 	 url="http://ibb.com.tw/images/ptt-hot-boards-01.png"
 	 description="PTT看板 Gossiping"/>
+<item  group="新聞" name="疫情新聞 懶人包" type="ytItem" show="false" link="PLxhUsq3CF77gtk2S9-3kOPEMwwYx_u_jY"
+	 url="https://st3.depositphotos.com/1229718/33641/i/450/depositphotos_336415838-stock-photo-coronavirus-disease.jpg"
+	 description="三立新聞網SETN"/>	 
 
 <item  group="國際" name="國際焦點新聞" type="ytItem" show="true" link="PLr1-FC1l_JLEQIukjyY0gvmx9HULyEpdP"
 	 url="https://yt3.ggpht.com/wFzIMQkD7T4GelAT7xOs0gTZ9tiUg_dkuEfNCWeHj6UhcGf-lFLcmOM5xetp2IAEL3e9HW4Vjj15pb3O=s%d-nd-c-k-no"
@@ -942,7 +942,7 @@
   	url="http://pics.sc.chinaz.com/Files/pic/icons128/6085/tv13.png"/>
 <item  group="戲劇" name="⚽骨朵傳媒排行榜" type="web" draw="guduomedia.webp" show="true" link="https://d.guduodata.com" ckaddr="guduodata.com/m/show/detail"
   	 url="http://static.guduomedia.com/gd_logo.png"/>
-<item  group="戲劇" name="⚽PTT娛樂區" type="web" draw="pttent.webp" show="false" link="https://pttent.com" ckaddr="youtube"
+<item  group="戲劇" name="⚽PTT娛樂區" type="web" draw="pttent.webp" show="false" link="https://pttent.com/boards/" ckaddr="youtube"
   	 url="https://4.bp.blogspot.com/-8cJCGr5pIks/XCGtupFbYMI/AAAAAAAAAnc/5VfVvQ8YDMYZufIKK5HParpjfR9uzeaDQCEwYBhgL/s320/pptent.jpg"
   	 description="PTT看板 娛樂區列表"/>
 
@@ -1064,26 +1064,26 @@
 <item  group="網搜" name="網搜綜藝節目" type="tvGrid" draw="zhongyiju.webp" show="false" link="['uk#t=3','ku#t=30']"
 	 url="https://4.bp.blogspot.com/-Z2-9MU4BoXs/WwGRj-FK9mI/AAAAAAAAAlU/DQA0GCp3OskTQ_WH13yx3pyNE4ue_6SXwCLcBGAs/s320/wszhongyi.png"
 	 description="採集資源網"/>
-<item  group="網搜" name="網搜喜劇電影" type="tvGrid" draw="yijudianying.webp" show="true" link="['ku#t=7','sd#t=7','bd#t=7','kc#t=3']"
+<item  group="網搜" name="網搜喜劇電影" type="tvGrid" draw="yijudianying.webp" show="true" link="['ku#t=7','sd#t=7','bd#t=7','kc#t=3','fo#t=5']"
 	 url="https://1.bp.blogspot.com/-AzsR7ltXyfE/WwGRiOyTz2I/AAAAAAAAAk8/E3rod9u-BEMgjvyS7yaz88iUCGkTTRklACLcBGAs/s320/wsfunny.png"
 	 description="採集資源網"/>
-<item  group="網搜" name="網搜動作電影" type="tvGrid" draw="dongzhuodianying.webp" show="true" link="['sd#t=6','ku#t=6','kc#t=2','pi#t=6']"
+<item  group="網搜" name="網搜動作電影" type="tvGrid" draw="dongzhuodianying.webp" show="true" link="['sd#t=6','ku#t=6','kc#t=2','pi#t=6','fo#t=4']"
 	 url="https://3.bp.blogspot.com/-pxhxnUeAEKo/WwGRg_tcCpI/AAAAAAAAAkk/CPB6j4W6Mww2uLZuDo1tgNDppaZ6zvZHQCLcBGAs/s320/wsaction.png"
 	 description="採集資源網"/>
-<item  group="網搜" name="網搜劇情電影" type="tvGrid" draw="juqindianying.webp" show="false" link="['hn#cid=10','kc#t=8']"
+<item  group="網搜" name="網搜劇情電影" type="tvGrid" draw="juqindianying.webp" show="false" link="['hn#cid=10','kc#t=8','fo#t=9']"
 	 url="https://3.bp.blogspot.com/-yNunz27qJWo/WwGRhnx1zuI/AAAAAAAAAkw/lDU_ut6uZPcAHzq6HAE4aPW8nSYqqng2wCLcBGAs/s320/wsdremamov.png"
 	 description="採集資源網"/>
-<item  group="網搜" name="網搜科幻電影" type="tvGrid" draw="kuanhuandianying.webp" show="true" link="['uk#t=9','sd#t=9','bd#t=9']"
+<item  group="網搜" name="網搜科幻電影" type="tvGrid" draw="kuanhuandianying.webp" show="true" link="['uk#t=9','sd#t=9','bd#t=9','fo#t=7']"
 	 url="https://2.bp.blogspot.com/-WDg0-ni4L0Q/WwGRjkzE7eI/AAAAAAAAAlQ/-R5VsaqY2pcrTGKgA8MhzbDhbeppV3QbgCLcBGAs/s320/wsscieace.png"
 	 description="採集資源網"/>
-<item  group="網搜" name="網搜愛情電影" type="tvGrid" draw="haiqindianying.webp" show="false" link="['sd#t=8','pi#t=8']"
+<item  group="網搜" name="網搜愛情電影" type="tvGrid" draw="haiqindianying.webp" show="false" link="['sd#t=8','pi#t=8','fo#t=6']"
 	 url="https://1.bp.blogspot.com/-NdiuJpKLblI/WwGRi4CIgsI/AAAAAAAAAlI/oUeMmiyvuzM0opo8tFT5flMLDF7Jv12dACLcBGAs/s320/wslover.png"
 	 description="採集資源網"/>
-<item  group="網搜" name="網搜恐怖電影" type="tvGrid" draw="kongbudianying.webp" show="false" link="['sd#t=10','pi#t=10']"
+<item  group="網搜" name="網搜恐怖電影" type="tvGrid" draw="kongbudianying.webp" show="false" link="['sd#t=10','pi#t=10','fo#t=8']"
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網"/>
 
-<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','kb#$https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','pi#$http://kbtv.so301.com//api.php/provide/vod$达达兔','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','lz#$https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8$量子資源','ko#$https://api.1080zyku.com/inc/feifei3$優質資源','ka#$https://www.39kan.com/api.php/provide/vod$39資源','fs#$https://www.feisuzyapi.com/api.php/provide/vod$飛速資源']/>
+<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','kb#$https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml$快播雲','ku#$https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml$酷点資源','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','pi#$http://kbtv.so301.com//api.php/provide/vod$达达兔','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','lz#$https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8$量子資源','ko#$https://api.1080zyku.com/inc/feifei3$優質資源','ka#$https://www.39kan.com/api.php/provide/vod$39資源','fs#$https://www.feisuzyapi.com/api.php/provide/vod$飛速資源','fo$https://api.foxzyapi.com/api.php/provide/vod$FOX資源']/>
 <set_pref ziyuan_search=['uk#','sd#','hn#','pi#','kc#','ko#','lz#']/>
 
 <gen_items cnt="12" group="戲劇" link="['bd#t=13','kc#t=12']"/>
