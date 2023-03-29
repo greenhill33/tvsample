@@ -28,13 +28,13 @@
 常用電台,中視新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8$$$hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?callback=channelname&Type=LIVE&ChannelId=4gtv-4gtv074&HostURL=https%3A%2F%2Fwww.hinet.net%2F$$$newslive$中視新聞台"
 常用電台,華視新聞台,"hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?callback=channelname&Type=LIVE&ChannelId=4gtv-4gtv052&HostURL=https%3A%2F%2Fwww.hinet.net%2F$$$newslive$華視新聞"
 常用電台,TVBS新聞台,"http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3/yovlxEtmuZxbqNp/B3720MksFwZgySIAsqLWDXZ1p/7YKxQjnk+bTBwDLACIRX7CJ2L6SEerB6aC2rk7cXxzQlP9C4RjPTQJ1S2NlS2aKeQAmSIPXdNdiYFS2iVbWGa00GWx4WrIDglTSFuyYN5ho=$$$http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8$$$newslive$TVBS新聞"
-常用電台,三立新聞台,"http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8$$$https://ytm2.yuanhsing.cf/SETLIVE.m3u8$$$newslive$LIVE 三立"
-常用電台,臺新聞,"http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8$$$http://stream.nexttv.com.tw/n001/hd/live.m3u8"
+常用電台,三立新聞台,"https://ytm2.yuanhsing.cf/SETLIVE.m3u8$$$http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8$$$newslive$LIVE 三立"
+#常用電台,臺新聞,"http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8$$$http://stream.nexttv.com.tw/n001/hd/live.m3u8"
 常用電台,寰宇新聞台SD,"https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8$$$newslive$寰宇新聞"
 常用電台,鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3yHHFO2fEF6p3RS5iixbz5nlE+VAQr9YDFLVUrDgFAy4Wub7q0Acv7cTGNrRul7tQ44+aL9qvPHSMBADI7jwBh49kuhCX6NJcruwWDeT7zt76IwTf+Uqjz+RsD9JuhUiCE83X+e5tHKnI8RRCXflNx0="
 常用電台,東森新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl31y39XRyHjIy8ZtJrT7uXGZFvfZwZJSk/uC1fqqxypQmQX3tQUi4oOCfXozIYGe/UjwGAmQ7fWCpuCtKagvP3cpalD6/m9Xp1YHz6wRjwj1K2Af7IyRXYTyGLi8fSkN9Ay6vGFEQB3GIi9S0KGcE8ww=$$$newslive$東森新聞"
-#常用電台,非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-#常用電台,年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+常用電台,非凡新聞,http://220.134.196.147:9539/index.m3u8
+常用電台,年代新聞,http://220.134.196.147:9517/index.m3u8
 常用電台,中天新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl36FMnNZa6ZLNO6YRqJyXzU4HLjn9L2nYL1AGdzj+jW8e1HgmU4jvU3yKyPGkqL31k378rpRozl74XRjMLA0EVLndxMjAiXTOUjsQaM2BGY/roLGzuRZfB0ozLSsmlm8f4g==$$$newslive$中天新聞"
 常用電台,東森財經新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
 常用電台,三立財經台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33FO2wSsGHKJNVAIXanEvpQvwi3ICy6/TPs2FX/XUP8IlH7e5OWbMUTg6WBSk7WhKYHwfyDx3HaL11hKWP7yBxiPFYFPeMIlbQGbltCwE91CFGSiyghL6qkKmSDCaxtIypbEnPElu9tqc1Ws3+xBA18=$$$http://seb.sason.top/sc/slinews_fhd.m3u8"
@@ -48,7 +48,7 @@
 常用電台,LiveABC英語,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl34Xj9JIXFIRWupGT5gJiKezLgLAJ/zMiKwRaYsz8bBOlSOwRHYB+4QGj4v0dUgu1XdXqi+pj7EBsiYrehr8ftubASMpwCnbY6/vVT7iTBFU1yhDbexLJOmjnSjPfFIobYcRA/eLTvN8B/H40GmUlmoY=
 常用電台,ELTV生活英語台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl38X/pch5qDZr2tza1HEnb2fzgDMXFNIuHaZMg1YP+v03t1tzJeP3Uukbc1Lw7mkPsIzkhY/ykmLP/m8hm/+nm/wnzrQWQYVzEBH9mRHNztW6ol/Q4RLOt4YvDm2HaUZERZ0GtCm93VqG7z1iuq8hxdA=
 #常用電台,動物星球,"http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288$$$embed$https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8"
-#常用電台,國家地理頻道,"embed$https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8"
+常用電台,地理野生,"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
 #常用電台,Discovery,embed$https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #3 channels, from ,github.com/reysc/M3U8/blob/master/all.m3u
 #頓常用電台,GoodTV綜合台,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
@@ -93,7 +93,7 @@
 常用電台,金光布袋戲,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl38b4+gjRwJeaTLaLPd4XIQunlFXzy4NDFzXI9qJEKZjhAQhFhMfO13Ff2Jlfm5igMgqONupliXV1TR1LwQmUjmZfKSKTII6LcE/3iFKTyVZgm5m5CFCneLj9vCZZ3Nt7/BG6/jT5k9ZKRbPyEXj+Ct8=
 常用電台,智林體育台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3+oEbGOViXvz+EUuicMvPYRS7jHhItbVsOX8Kcr33bsraWiT25Uje3oioRIW5zg1tPCvtp1Nlnc8W2Svyx3WdDHcyGX0Zq60PygRB16HByAIuTahHUxFNn3dnAJSTJfX9A==
 常用電台,緯來體育,http://123.51.230.108:18509/.m3u8
-常用電台,博斯運動II,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+#常用電台,博斯運動II,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 常用電台,SPORTS STARS,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 常用電台,高爾夫球,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 常用電台,紅牛運動,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
