@@ -379,7 +379,7 @@
 	 description="主持人:胡忠信"/>
 <item  group="政論" name="石濤TV" type="yt" draw="shitaotv.webp" show="false" link="UCAwZ8EvcM8IQNtOW5gRIGZg"
 	 url="https://yt3.ggpht.com/-zSL1LFmfZ2M/AAAAAAAAAAI/AAAAAAAAAAA/RV7-L2R3nLo/s%d-c-k-no/photo.jpg"/>
-<item  group="政論" name="少康戰情室" type="ytItem" show="true" draw="shaokangzanqinshi.webp" link="PL64Si-sSRnvbUf3hUoFvrq4LyMiiRf7kb"
+<item  group="政論" name="少康戰情室" type="yt" show="true" draw="shaokangzanqinshi.webp" link="UCLZBXiS9ZrIXgKBs_SMfGBQ"
      url="https://yt3.ggpht.com/-yNyklmwUzuU/AAAAAAAAAAI/AAAAAAAAAAA/d5TSBz3ZIQY/s%d-c-k-no/photo.jpg"
      description="用「趙少康式」獨到觀點"/>
 <item  group="政論" name="蔻蔻早餐" type="yt" draw="hitfmcoco.webp" show="false" link="UCCqzJQ5njsxCQ_nZFct7lrw"
@@ -594,6 +594,12 @@
 	url="https://i.ytimg.com/vi/gp_p7jOg3GA/mqdefault.jpg"
 	description="芒果TV，和姐姐們壹起逃離城市喧囂"/>
 	
+<item  group="美食" name="培仁蔬食MAMA" type="yt" draw="MAMA-gl6sl.webp" show="true" link="UC5fhJGc9ve4RcnSkXNaJUDw"
+	 url="https://yt3.googleusercontent.com/ytc/AOPolaQIJc6LbN0TU0vmRh1Yd1zATxjpNeb0TESqIUNg=s%d-c-k-no"
+	 description="熱愛做菜、鑽研各種蔬食"/>
+<item  group="美食" name="阿慶師" type="yt" draw="achingchef.webp" show="true" link="UC-SP7S0UGHLs_Miu4_0ccNg"
+	 url="https://yt3.googleusercontent.com/ytc/AOPolaRKe6-ZWrIaeEmTLjIxHzYSNhHaV_d2VqKKKq3J=s%d-c-k-no"
+	 description="國宴主廚阿慶師，讓你在家也能變大師"/>
 <item  group="美食" name="夢幻廚房在我家" type="yt" draw="dreamchefhome.webp" show="true" link="UCUz5OVO4aYhfur0R-TCaBtg"
 	 url="https://yt3.ggpht.com/a-/AAuE7mBce3517hMKEUUfc8yCzgjknH8BiYwzki9pYA=s%d-c-k-no"
 	 description="跟著影音學做菜"/>
