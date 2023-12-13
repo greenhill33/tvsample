@@ -601,6 +601,9 @@
 <item  group="美食" name="甜悦下午茶" type="yt" draw="tinrry2013.webp" show="false" link="UCkcl1RXQtnd5ZKCEPLHvX1Q"
 	 url="https://yt3.ggpht.com/a-/AN66SAwXaxvnbjymp2DNdcTG5mCJC0ZlJNEQd3RCGA=s%d-c-k-no"
 	 description="Tinrry下午茶西點烘培"/>
+<item  group="美食" name="厭世甜點店"  type="yt" draw="energydessert2019.webp" show="false" link="UChDYtWoZDndUFoVSyEzx_og"
+	url="https://yt3.ggpht.com/g7tfxCZp2Js9vsq-xS9Sr5LB6bKvNGXfDWqzQY_XLg0NNqWMxIvsojjoAe8mRqurfKVsoYot7w=s%d-c-k-no"
+	description="人生不如意十之八九，我愛的人不愛我"/>
 <item  group="美食" name="琳達公主的廚房" type="yt" draw="linda1224.webp" show="false" link="UCtyoVKfoboHxDN4BYDMRXxg"
 	 url="https://yt3.ggpht.com/a-/AN66SAzT8CERBIKi4JqcsjGnH6GEv6wzmbRTH8S_Hg=s%d-c-k-no"/>
 <item  group="美食" name="韓國媳婦凱莉之料理女王" type="yt" draw="KellyseoulKR.webp" show="false" link="UCco6Epuz5S3_crW-9cZQuGw"
@@ -773,6 +776,12 @@
     	 url="https://yt3.ggpht.com/a-/AAuE7mCc5berbLrkH-EHv8eg_N9OPHqZ4iD1wRG8gg=s%d-c-k-no"/>
 <item  group="體育" name="運動Play吧" type="ytItem" show="false" refresh="true" link="PLDB8ct-UxVokZPphJiwjEHuZc15k_f4dw"
   	 url="https://i.ytimg.com/vi/nQuIhxWlHiw/mqdefault.jpg"/>
+<item  group="體育" name="八段锦" type="ytItem" show="false" link="PLkWWcTwDGs4Zv1-2x5lAkqb-O1AadyrNs"
+    	  url="https://i.ytimg.com/vi/UWBdynJ7iF0/mqdefault.jpg"/>
+<item  group="體育" name="五禽戲" type="ytItem" show="false" link="PLkWWcTwDGs4bxfGMt-q7M7EsalQnfvnkX"
+    	 url="https://i.ytimg.com/vi/CFAv8M3_kIw/mqdefault.jpg"/>
+<item  group="體育" name="八式太極拳" type="ytItem" show="false" link="PLkWWcTwDGs4ambkQlcVLtehFPPnTseKab"
+    	 url="https://i.ytimg.com/vi/CNWMeEcWn8M/mqdefault.jpg"/>  	 
 <item  group="體育" name="自由時報體育" type="rss" draw="freenewpaper.webp" show="false"
 	 link="http://news.ltn.com.tw/rss/sports.xml"
 	 url="https://cdn3.iconfinder.com/data/icons/alien/128/news.png"/>
