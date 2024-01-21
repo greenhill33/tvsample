@@ -33,8 +33,8 @@
 常用電台,寰宇新聞台SD,"https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8$$$newslive$寰宇新聞"
 常用電台,鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3yHHFO2fEF6p3RS5iixbz5nlE+VAQr9YDFLVUrDgFAy4Wub7q0Acv7cTGNrRul7tQ44+aL9qvPHSMBADI7jwBh49kuhCX6NJcruwWDeT7zt76IwTf+Uqjz+RsD9JuhUiCE83X+e5tHKnI8RRCXflNx0="
 常用電台,東森新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl31y39XRyHjIy8ZtJrT7uXGZFvfZwZJSk/uC1fqqxypQmQX3tQUi4oOCfXozIYGe/UjwGAmQ7fWCpuCtKagvP3cpalD6/m9Xp1YHz6wRjwj1K2Af7IyRXYTyGLi8fSkN9Ay6vGFEQB3GIi9S0KGcE8ww=$$$newslive$東森新聞"
-常用電台,非凡新聞,"http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997$$$http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997"
-常用電台,年代新聞,"http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a$$$http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a"
+常用電台,非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+常用電台,年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 常用電台,中天新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl36FMnNZa6ZLNO6YRqJyXzU4HLjn9L2nYL1AGdzj+jW8e1HgmU4jvU3yKyPGkqL31k378rpRozl74XRjMLA0EVLndxMjAiXTOUjsQaM2BGY/roLGzuRZfB0ozLSsmlm8f4g==$$$newslive$中天新聞"
 常用電台,東森財經新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
 常用電台,三立財經台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33FO2wSsGHKJNVAIXanEvpQvwi3ICy6/TPs2FX/XUP8IlH7e5OWbMUTg6WBSk7WhKYHwfyDx3HaL11hKWP7yBxiPFYFPeMIlbQGbltCwE91CFGSiyghL6qkKmSDCaxtIypbEnPElu9tqc1Ws3+xBA18=$$$http://seb.sason.top/sc/slinews_fhd.m3u8"
@@ -58,6 +58,7 @@
 常用電台,龍華日韓台,hget$s://app.4gtv.tv/Data/HiNet/GetURL.ashx?callback=channelname&Type=LIVE&ChannelId=litv-longturn11&HostURL=https%3A%2F%2Fwww.hinet.net%2F
 常用電台,東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$FitXY
 常用電台,經典台劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+常用電台,百視TV,https://bp-caster.bestv.com.cn/723/3/video.m3u8
 #below 9, from, notabug.org/859106823/zy/src/master/ZB%202.txt 愛奇藝
 常用電台,長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #常用電台,宮廷戲劇,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key
@@ -80,10 +81,12 @@
 常用電台,生活時尚,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3wPSVN7PDZknFsY7eX6pw8jeYwnTGpPAUPF+JA+B13U8SWEnYlLfL93pnkl+GpOa8DRVX59ksWdsQCUtwdchGZzmueGKHuU7HlIf/2utDTMvJdRzL8Iqb8hAItaO1fjn1IhuAfS+VM+Tces8GaQ00RE=
 常用電台,金光布袋戲,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl38b4+gjRwJeaTLaLPd4XIQunlFXzy4NDFzXI9qJEKZjhAQhFhMfO13Ff2Jlfm5igMgqONupliXV1TR1LwQmUjmZfKSKTII6LcE/3iFKTyVZgm5m5CFCneLj9vCZZ3Nt7/BG6/jT5k9ZKRbPyEXj+Ct8=
 常用電台,智林體育台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3+oEbGOViXvz+EUuicMvPYRS7jHhItbVsOX8Kcr33bsraWiT25Uje3oioRIW5zg1tPCvtp1Nlnc8W2Svyx3WdDHcyGX0Zq60PygRB16HByAIuTahHUxFNn3dnAJSTJfX9A==
+常用電台,緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8$$$http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #常用電台,博斯運動II,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 常用電台,高爾夫球,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 常用電台,紅牛運動,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 常用電台,Edge運動,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?blog.ntnas.top
+常用電台,杜拜體育,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #below 1, from, ntnas.top:82/typecho/archives/799
 常用電台,唐人亞太,http://tv.redrainl.site:9500/live.m3u8?c=52
 常用電台,唐人經典台,"http://cnhls.ntdtv.com/cn/live800/playlist.m3u8"
