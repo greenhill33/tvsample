@@ -29,13 +29,13 @@
 常用電台,華視新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl30c3bPo4jZgdCLVF7KmfV6cE/Gzn79qIsuGwFGW5jQFhQJcAtXP/+Tffn5FMJcpd9sadRYOyVoXdt1+RulX0znDtFE/AAuCjwvrgI600L0/+C/rnAaE/ouZot4hUAw4PDa1/Iv54zzz7VCU546n3DuI=$$$newslive$華視新聞"
 常用電台,TVBS新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl300PegB6ui9zoAYsdq3L5UNlYjlI1fYlOemNiY8pH7GDpzigwjSnmCpnWX/zFLYdIfItZw9LnWGfHmZfoo/j/g2/rEWYKyS8CV58TVCLAVkkAJnV4thctDgYjd5hUX1DHrgALUqHDtNh6EpX4Y+cgmE=$$$http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8$$$newslive$TVBS新聞"
 常用電台,三立新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl31GZmoST+Or3abjSaPdUPD3YZ8l3lGtoF7aM68wYsFbFCKIQikQu+PX4opaKj6fv9PbBgP0Ahbd1p8iCx6HiFC1NSwO/bJHQFcS/L83w1jvzeuTspBBhe4s0dhAoYEy9iRoy4XCGPjUax6WJ+7NB6C4=$$$newslive$LIVE 三立"
-#常用電台,臺新聞,http://211.23.114.106:8517/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
 常用電台,寰宇新聞台SD,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$newslive$寰宇新聞"
 常用電台,寰宇新聞台灣台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3xQqjM/XwBkaD6w3A6AHDIGTq2RdJ3/HdwyhsCkfK/Et1ml6nymcOAWAIqgWEJSvpiNZ5Rf4k/8fZxFMjZKxJc805HFhct1LuFnfxfVwggpxH9u7x6zAfWty/SmYt4jYKRDU6sbmIdxp3ytVu8LJCcg="
 常用電台,鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3yHHFO2fEF6p3RS5iixbz5nlE+VAQr9YDFLVUrDgFAy4Wub7q0Acv7cTGNrRul7tQ44+aL9qvPHSMBADI7jwBh49kuhCX6NJcruwWDeT7zt76IwTf+Uqjz+RsD9JuhUiCE83X+e5tHKnI8RRCXflNx0="
 常用電台,東森新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl379e49RoY5BjsHp+Wc4j+iywJYPuzu30DKr8dqwG1w5X/cBkegFQLNhkMNI91uaCwBUtMIlDTyZNT+h1krTPOJGVTW3UiIP8/lYqW6mhT20wdaXyNAHvk6aAEcV1UmRs8F2lXaW0I92xD8YomJx8xWQ=$$$newslive$東森新聞"
 #常用電台,非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #常用電台,年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
+常用電台,臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 常用電台,中天新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3zXJf8FO/ivzgRiJT0l4ICFtaa3Awd/2SGkQa9syhbl4XIugndRvaq3/6+3L7xWman6zpNlGDIJaQ5jkccgt4QDvtxv5d66B3R8aY8AQ0oKQmAxMFubaeRl7nsTu9jV0axajXZKOU+6hbzHF2VOx6YA=$$$newslive$中天新聞"
 常用電台,東森財經新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
 常用電台,寰宇財經台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl39G9pAN5gCTF+hf9JKkDQWALNGq9FbSZKqC0G6u6Pb/BNseZZsAMYUa7eLhBCtFCfBrDWXG5p7uP/3xuoAbeD76CEl79nWVD5go190v/f/i6PR2BYsiE6izfWt96nwxXF7RAzstfuhw0NeYpJosAsDo="
@@ -55,10 +55,12 @@
 #3 channels, from ,github.com/reysc/M3U8/blob/master/all.m3u
 #頓常用電台,GoodTV綜合台,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #頓常用電台,GoodTV真情部落,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+常用電台,緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 常用電台,華語電視,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8$$$http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 常用電台,東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$FitXY
 常用電台,經典台劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 常用電台,百視TV,https://bp-caster.bestv.com.cn/723/3/video.m3u8
+常用電台,美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 #below 9, from, notabug.org/859106823/zy/src/master/ZB%202.txt 愛奇藝
 常用電台,長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #常用電台,宮廷戲劇,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key
