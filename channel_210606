@@ -16,7 +16,7 @@
 <item  group="直播" name="4K8K HDR測試片" type="yt" draw="jennifergala.webp" show="false" link="UCccXcNwSNFHcDQMX5dwxJ5w"
   	 url="https://yt3.ggpht.com/a/AATXAJwBFgYA15iMI4n5G9rpqbkCLGGHZdTYYhv0-R8r=s%d-nd-c-k-no"/>
 
-<item  group="新聞" name="國內焦點新聞" type="ytItem" show="true" link="PLNjtpXOAJhQIId9CWVMpKhhp2OrrM9iok"
+<item  group="新聞" name="國內焦點新聞" type="ytItem" show="false" link="PLNjtpXOAJhQIId9CWVMpKhhp2OrrM9iok"
 	 url="https://yt3.ggpht.com/lJ--VcehMEav4ZRvOBvdkkTsRHAk3AzFIv7lezB5ORSBfVruoFsaj3PKxFz6jCCkBqNrItsaXgKE8rEVhg=s%d-nd-c-k-no"
 	 description="Youtube自動產生最新報導"/>
 <item  group="新聞" name="時下熱門精選" type="ytVideo" mix="true" draw="hot_video.webp" show="true" link="chart=mostPopular&amp;regionCode=TW"
@@ -160,9 +160,9 @@
 	 url="https://st3.depositphotos.com/1229718/33641/i/450/depositphotos_336415838-stock-photo-coronavirus-disease.jpg"
 	 description="三立新聞網SETN"/>	 
 
-<item  group="國際" name="國際焦點新聞" type="ytItem" show="true" link="PLr1-FC1l_JLEQIukjyY0gvmx9HULyEpdP"
+<!--item  group="國際" name="國際焦點新聞" type="ytItem" show="true" link="PLr1-FC1l_JLEQIukjyY0gvmx9HULyEpdP"
 	 url="https://yt3.ggpht.com/wFzIMQkD7T4GelAT7xOs0gTZ9tiUg_dkuEfNCWeHj6UhcGf-lFLcmOM5xetp2IAEL3e9HW4Vjj15pb3O=s%d-nd-c-k-no"
-	 description="Youtube自動產生主題頻道"/>
+	 description="Youtube自動產生主題頻道"/!-->
 <item  group="國際" name="天下雜誌" type="yt" draw="cwtv.webp" show="true" link="UCoS753iLrVE-1PZrsUak6Qg"
 	 url="https://yt3.ggpht.com/-H1xtySJxr3c/AAAAAAAAAAI/AAAAAAAAAAA/6cTKeWhTCK8/s%d-c-k-no/photo.jpg"/>
 <item  group="國際" name="TomoNews 台灣" type="yt" draw="nmanews.webp" show="false" link="UC778cAEgKGDmh-teUWdg-uQ"
@@ -272,9 +272,9 @@
 	 url="http://i.imgur.com/YOImWIL.jpg"
 	 description="PTT看板 TY_Research"/>
 
-<item  group="財經" name="財經焦點新聞" type="ytItem" show="true" link="PLQ3HMgwndlsUPjx-KYZtcca7mSsa9LbUL"
+<!--item  group="財經" name="財經焦點新聞" type="ytItem" show="true" link="PLQ3HMgwndlsUPjx-KYZtcca7mSsa9LbUL"
 	 url="https://yt3.ggpht.com/y9K3KJEUWSOTg1i6o42zp19FhEtTjq7i-3Gv4SSLEMrd66eSSTaRnBCebnELQCXuPiSDPkgiYFakLwDj7HQ=s%d-nd-c-k-no"
-	 description="Youtube自動產生主題頻道"/>
+	 description="Youtube自動產生主題頻道"/!-->
 <item  group="財經" name="東森財經新聞台" type="yt" draw="57ETFN.webp" show="true" link="UCuzqko_GKcj9922M1gUo__w"
 	 url="https://yt3.ggpht.com/-3kYs5RQo7CY/AAAAAAAAAAI/AAAAAAAAAAA/ExRG8nQu3Vk/s%d-c-k-no/photo.jpg"
 	 description="A channel for better life"/>
@@ -475,9 +475,9 @@
 	url="https://yt3.ggpht.com/-3W29n1oLIv8/AAAAAAAAAAI/AAAAAAAAAAA/HDje6D2011I/s%d-c-k-no/photo.jpg"
 	description="主持人陳建州 舒子晨"/>
 
-<item  group="娛樂" name="娛樂焦點新聞" type="ytItem" show="true" link="PLivYonEKHnxwIH3-PheabJNs_kXGsvDO0"
+<!--item  group="娛樂" name="娛樂焦點新聞" type="ytItem" show="true" link="PLivYonEKHnxwIH3-PheabJNs_kXGsvDO0"
 	 url="https://yt3.ggpht.com/vj22mPIEKr0NszAU6ibQSyWkaIHc0w9dAwbq3TcaAKg64hRXgzg3BML4dVZxUCbmZmUxhEcdduyRaOBy=s%d-nd-c-k-no"
-	 description="Youtube自動產生主題頻道"/>	 
+	 description="Youtube自動產生主題頻道"/!-->	 
 <item  group="娛樂" name="Yes娛樂" type="yt" draw="chinayestv.webp" show="true" link="UCr-8dNDiVQHpWs7Znw4UQdQ"
 	 url="https://yt3.ggpht.com/-RZMsAvbJ7DI/AAAAAAAAAAI/AAAAAAAAAAA/aj31oKgJfAU/s%d-c-k-no/photo.jpg"/>
 <item  group="娛樂" name="噓!星聞" type="yt" draw="udnstar.webp" show="true" link="UCeF6JP-sxqJnznCAQo_K66g"
@@ -628,9 +628,9 @@
 	 link="https://www.google.com/maps/d/embed?mid=1KslcquNpR57IbKJbZ14_wbk-Z4g"
 	 url="https://cdn.pixabay.com/photo/2015/06/05/10/35/dishes-798316_960_720.png"/>
 
-<item  group="音樂" name="熱門音樂" type="ytItem" mix="true" draw="hot_music.webp" show="true" link="PLFgquLnL59amN9tYr7o2a60yFUfzQO3sU"
+<!--item  group="音樂" name="熱門音樂" type="ytItem" mix="true" draw="hot_music.webp" show="true" link="PLFgquLnL59amN9tYr7o2a60yFUfzQO3sU"
 	 url="https://yt3.ggpht.com/0v8T0CTAv8VPxA5lJtz-tqJe-tR-3VQc0ONhD6Az2RWjNRnwh5QQzPYz5I7wbYljU_tQjZ2ok2W59_v_=s%d-nd-c-k-no"
-	 description="Youtube自動產生主題頻道"/>
+	 description="Youtube自動產生主題頻道"/!-->
 <item  group="音樂" name="台灣點歌王" type="web" draw="songcorp.webp" show="true" 
 	 ckaddr="id=" ckiframe="input[id$=_youtubeID][value]"
 	 link="https://song.corp.com.tw"
