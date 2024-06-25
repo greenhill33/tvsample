@@ -1,4 +1,4 @@
-常用電台,華視TV324 HD,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+#常用電台,華視TV324 HD,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 常用電台,華視綜合,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8$$$https://ytm2.yuanhsing.cf/ctsprog.m3u8"
 常用電台,公視 HD,"newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
 常用電台,公視台語台,"http://194.87.101.118/live.m3u8?c=8$$$newslive$公視台語台$$$hget$s://taigi.pts.org.tw$reg::videoId::.*videoId:.*?'(.*?)'.*::https://www.youtube.com/watch?v=$1"
@@ -17,7 +17,7 @@
 常用電台,三立新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl31GZmoST+Or3abjSaPdUPD3YZ8l3lGtoF7aM68wYsFbFCKIQikQu+PX4opaKj6fv9PbBgP0Ahbd1p8iCx6HiFC1NSwO/bJHQFcS/L83w1jvzeuTspBBhe4s0dhAoYEy9iRoy4XCGPjUax6WJ+7NB6C4=$$$newslive$LIVE 三立"
 常用電台,寰宇新聞台SD,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$newslive$寰宇新聞"
 常用電台,鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3yHHFO2fEF6p3RS5iixbz5nlE+VAQr9YDFLVUrDgFAy4Wub7q0Acv7cTGNrRul7tQ44+aL9qvPHSMBADI7jwBh49kuhCX6NJcruwWDeT7zt76IwTf+Uqjz+RsD9JuhUiCE83X+e5tHKnI8RRCXflNx0="
-常用電台,東森新聞台,"newslive$東森新聞"
+#常用電台,東森新聞台,"newslive$東森新聞"
 #常用電台,非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #常用電台,年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 常用電台,臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
