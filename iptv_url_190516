@@ -1,57 +1,36 @@
-常用電台,民視 SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3w8eCeAPkSanyAMrX3E5yghmh1RHS3R88/LNmOnYgpeN53v0Z49o7J8FxPA4s8s8VHN5LBc+3VqGC+TeIp78v1udW9QspMGrEta7o0Guzl6LaBemHvN4Fh1cmlsCQ5Kd2C5Te6JOF+oXXVqFrPVba7c=
-常用電台,民視第一台 SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33CDLq94jwBfGYc9PBZbsfQlNXW4g/2ZJAM+H1V8NCs6hBNkY9JKrFM2Rmj29OseoAtTuZ9djGez2P8fQollKbIWWnSe434PVXRP2j832S+BYk//EDMenj+elAHHOgbSYzv+qesATctfeNueGth4STE=
-#常用電台,台視,http://162.19.247.76:22222/live/taishi/index.m3u8
-常用電台,中視 SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl32/3xwlpJ9MXbV7LmXPh8DauSmaopC7nAqBnqPXFuiZP46Kz+AmIbTiB50a0D2GFStFWN3GfGcxq+sbUEKVlY7fMWp8FvpF8joJIRiwjMRu7wCzPkQ1fecSTwbCcSF1jPuBDzZm31f6B4r7Jor21abg=
 常用電台,華視TV324 HD,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 常用電台,華視綜合,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8$$$https://ytm2.yuanhsing.cf/ctsprog.m3u8"
 常用電台,公視 HD,"newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
-常用電台,公視台語台,"newslive$公視台語台$$$hget$s://taigi.pts.org.tw$reg::videoId::.*videoId:.*?'(.*?)'.*::https://www.youtube.com/watch?v=$1"
-常用電台,公視戲劇SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3yy4uIbY/6GGsHnhHG85s2A0e5w1WPhFcYuGZ/MTYl5NAGkgZNBN9Uw6pXqFwS0Q++n0FfTFD5CPM39eOLnsw8jxgZjDq2k80rD4EaquhYmseFQ9kRWQPz/lwwekIYbB08kUR2w69O/qFAyKRE2ffW0=
-常用電台,客家電視台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl32MJVZrL+EwHOVmxJgkTi98PiS5K8r43IphSKNoGLNLI2hrVrjk4c4yZxKrJ7uvRbLWnDR3r3N4EcT73MaVy94M47SFGoeTAovuA4WEWbpoXcXwOStnGJrfWLJ3tMRZGFWCQVluanSusMu8eM54uao4=$$$newslive$客家"
-常用電台,原住民電視台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33ZwIvfRZdKdB2iRNg8laSMRHbOvYhwb5D20cpbm1VOEwIP1G2Z4NYgg2xecHWLWfFCcFGPYfvzrz67PdttqpNV8tlevkqmxYyQ7tquliOiBpNzVIbUUHrRWaigR0EaTnrH+3eu+8/pLHYPbmXHJ3eQ=
-常用電台,人間衛視SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl38QXnL+ymBTRGOZybWDBYPLatwrwgtVyzjeqQgA5/9zYFsaFfVIWFc6NadDUCpLW7WYH3kAT7NQ2N7N/2f5W77hyjcfgVuzUq8SiyIuFlF6V+c68zUzhACrUy8Pwsf+sv1cs0FqdU54SK5la7W6GYgY=
+常用電台,公視台語台,"http://194.87.101.118/live.m3u8?c=8$$$newslive$公視台語台$$$hget$s://taigi.pts.org.tw$reg::videoId::.*videoId:.*?'(.*?)'.*::https://www.youtube.com/watch?v=$1"
 常用電台,大愛電視台,"https://pulltv1.wanfudaluye.com/live/tv1.m3u8$$$newslive$大愛一臺"
 常用電台,大愛二台,"https://pulltv2.wanfudaluye.com/live/tv2.m3u8$$$https://www.youtube.com/watch?v=8ddDTi-gzQA"
 #常用電台,大愛三台,"https://pulltv3.wanfudaluye.com/live/tv3.m3u8$$$https://www.youtube.com/watch?v=MIqUplvSRWA"
 常用電台,雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-常用電台,民視旅遊台SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3zii/Yz5WZb6rXsMCtWfCbNGafQlOQjg997CaMO0lJgrp47esRjDqJ81aD3rGvefT5mRMwO+lKgv1o+s1C68c1t3zkrnLVKeltsjIv19xIKZJApgpOfAXPS2MzTbKzD+ig==
-常用電台,三立綜合台SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3+V8X7dkHxPd36/rrfi2ZhCyCqVbM5fF2SKaOMaHHxpGAF6mlpcZtYJ8h3mfkPsD++ggjIgYoU/uEBlP1bj9/askSZen81Tb39hDDw5BnLGjQaNDrkbdSB4uM8JlY7GRpyQOe7yv2j6uws4UOJ2n2Kw=
+常用電台,中天亞洲台,http://194.87.101.118/live.m3u8?c=3
 常用電台,TVBS亞洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-常用電台,兒童卡通台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl34Vc0FTSRgt4xTYFDVKultICYAtwN5R8781jcN0YNxn8oaCSTevGuQzPrvWnsNG0W8UHMsCPf1yef6J1KC/4OtKVcWST1tbL6Z719kgWGjcPt7CAZd0o7/9oniAA/oofb/gWqXQ9ZpY1EIKP+GsdYzM=
-常用電台,愛放動漫台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl332CllqGsxErr2cyTQQ/JstaNZcJGT1vxpmQZ3MPG1om9NM4nNuXhYitMi8HGDzIaAwknT+NIobY1m1JtRYnBnDx9Ew47pigBrdPKCPwThWgsYHv+A3ha65VuTLALPQokZYXYxY4GULQ0Rdb/hFJsVg=
-常用電台,MOMO親子台SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl32YkExFIk6v/Kwt1DzT6CcEnOP36vPnz1p6pV/7dJSPbRl9U7m+alutzTx0niRZWO+cuGHV1ydw98CLQbws4Fm8m9jLaMSgJtUzF7jMlbVaynhiMEHXNQtwvndepXnTSr4KA+MbRbtSrlbAzyEuGW44=
-#常用電台,我們這一家,http://cn-jsnt-ct-01-04.bilivideo.com/live-bvc/x988473/live_384415126_7322574/index.m3u8$FitXY
 #below, From, github.com/StanleyChen0924/stanleychen0924.github.io/tree/main/.github/workflows
-#常用電台,東森YOYO,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/ebcyoyo.m3u8
-常用電台,民視新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl37gYjiXZUUbpNbnEtpqw71Jqexz6YxbdAOSKja74PRKSseJSoesJZxgN4SzLGPar0WNv9NFxMV/hR2xgDDAEBQwaoyzZtp5yzHNRF7bQPtraWW64jgm/HX18kM4oNV1sQA==$$$newslive$民視新聞"
+常用電台,民視新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl37gYjiXZUUbpNbnEtpqw71Jqexz6YxbdAOSKja74PRKSseJSoesJZxgN4SzLGPar0WNv9NFxMV/hR2xgDDAEBQwaoyzZtp5yzHNRF7bQPtraWW64jgm/HX18kM4oNV1sQA==$$$http://194.87.101.118/live.m3u8?c=11$$$newslive$民視新聞"
 常用電台,台視新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8$$$newslive$台視新聞"
 常用電台,中視新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8$$$newslive$中視新聞台"
-常用電台,華視新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl30c3bPo4jZgdCLVF7KmfV6cE/Gzn79qIsuGwFGW5jQFhQJcAtXP/+Tffn5FMJcpd9sadRYOyVoXdt1+RulX0znDtFE/AAuCjwvrgI600L0/+C/rnAaE/ouZot4hUAw4PDa1/Iv54zzz7VCU546n3DuI=$$$newslive$華視新聞"
+常用電台,華視新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl30c3bPo4jZgdCLVF7KmfV6cE/Gzn79qIsuGwFGW5jQFhQJcAtXP/+Tffn5FMJcpd9sadRYOyVoXdt1+RulX0znDtFE/AAuCjwvrgI600L0/+C/rnAaE/ouZot4hUAw4PDa1/Iv54zzz7VCU546n3DuI=$$$http://194.87.101.118/live.m3u8?c=13$$$newslive$華視新聞"
 常用電台,TVBS新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl300PegB6ui9zoAYsdq3L5UNlYjlI1fYlOemNiY8pH7GDpzigwjSnmCpnWX/zFLYdIfItZw9LnWGfHmZfoo/j/g2/rEWYKyS8CV58TVCLAVkkAJnV4thctDgYjd5hUX1DHrgALUqHDtNh6EpX4Y+cgmE=$$$http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8$$$newslive$TVBS新聞"
 常用電台,三立新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl31GZmoST+Or3abjSaPdUPD3YZ8l3lGtoF7aM68wYsFbFCKIQikQu+PX4opaKj6fv9PbBgP0Ahbd1p8iCx6HiFC1NSwO/bJHQFcS/L83w1jvzeuTspBBhe4s0dhAoYEy9iRoy4XCGPjUax6WJ+7NB6C4=$$$newslive$LIVE 三立"
 常用電台,寰宇新聞台SD,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$newslive$寰宇新聞"
-常用電台,寰宇新聞台灣台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3xQqjM/XwBkaD6w3A6AHDIGTq2RdJ3/HdwyhsCkfK/Et1ml6nymcOAWAIqgWEJSvpiNZ5Rf4k/8fZxFMjZKxJc805HFhct1LuFnfxfVwggpxH9u7x6zAfWty/SmYt4jYKRDU6sbmIdxp3ytVu8LJCcg="
 常用電台,鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8$$$hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3yHHFO2fEF6p3RS5iixbz5nlE+VAQr9YDFLVUrDgFAy4Wub7q0Acv7cTGNrRul7tQ44+aL9qvPHSMBADI7jwBh49kuhCX6NJcruwWDeT7zt76IwTf+Uqjz+RsD9JuhUiCE83X+e5tHKnI8RRCXflNx0="
-常用電台,東森新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl379e49RoY5BjsHp+Wc4j+iywJYPuzu30DKr8dqwG1w5X/cBkegFQLNhkMNI91uaCwBUtMIlDTyZNT+h1krTPOJGVTW3UiIP8/lYqW6mhT20wdaXyNAHvk6aAEcV1UmRs8F2lXaW0I92xD8YomJx8xWQ=$$$newslive$東森新聞"
+常用電台,東森新聞台,"newslive$東森新聞"
 #常用電台,非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #常用電台,年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 常用電台,臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
-常用電台,中天新聞台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3zXJf8FO/ivzgRiJT0l4ICFtaa3Awd/2SGkQa9syhbl4XIugndRvaq3/6+3L7xWman6zpNlGDIJaQ5jkccgt4QDvtxv5d66B3R8aY8AQ0oKQmAxMFubaeRl7nsTu9jV0axajXZKOU+6hbzHF2VOx6YA=$$$newslive$中天新聞"
-常用電台,東森財經新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
-常用電台,寰宇財經台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl39G9pAN5gCTF+hf9JKkDQWALNGq9FbSZKqC0G6u6Pb/BNseZZsAMYUa7eLhBCtFCfBrDWXG5p7uP/3xuoAbeD76CEl79nWVD5go190v/f/i6PR2BYsiE6izfWt96nwxXF7RAzstfuhw0NeYpJosAsDo="
-常用電台,三立財經台,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33FO2wSsGHKJNVAIXanEvpQvwi3ICy6/TPs2FX/XUP8IlH7e5OWbMUTg6WBSk7WhKYHwfyDx3HaL11hKWP7yBxiPFYFPeMIlbQGbltCwE91CFGSiyghL6qkKmSDCaxtIypbEnPElu9tqc1Ws3+xBA18=$$$http://seb.sason.top/sc/slinews_fhd.m3u8"
+常用電台,中天新聞台,"http://194.87.101.118/live.m3u8?c=7$$$newslive$中天新聞"
+常用電台,東森財經新聞台,"http://194.87.101.118/live.m3u8?c=14$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
+#常用電台,寰宇財經台,
+#常用電台,三立財經台,"http://seb.sason.top/sc/slinews_fhd.m3u8"
 常用電台,三立iNEWS,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8$$$newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
-常用電台,SBN全球財經台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl388ygk4YinmV/ZLLkqd6hRBv/jApJF5oJZNOhgMhpSstYCoKDY4MA19qUJPwMD0mKG9wNE7Sz+Eu1Jl9ogcf8KWty8Dgh6XSvXldIEc3vk7f9neLc84Y/NEBs4vh/BXrhhLW1OlOqKWNy7ybrJ0PI8A=
 常用電台,EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-常用電台,半島電視台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3zAC4w7REvMeTUN1ZNNlw/9QMm1Qj+CEJKY3GA2HAm6rYrgH1q/z+Cx3uqpae4xLtlzY8ntW7RubM2oKiVxCwg/eJbsVn1AIamWftmSPVY+vcSdOnIyjO3aNr1997wzkJw==
 常用電台,ABCNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8$$$https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ABCNews.m3u8
 常用電台,DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+常用電台,FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 常用電台,亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-常用電台,LiveABC英語,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl39ahm/FPXnwfCvS0BBSLc8JbdMyxAMUjzn79no/kVxV3o7k1Wb8e7fFXBMhcstaNMo5UevyZCBN2JaZ7LGmIurq5OF9Kfg0XF52GD5vGIoPX4gG21LQJ2lVB/g2Bwfj4wCowiXoP3jGYMKNGPHHsGtU=
-常用電台,ELTV生活英語台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl334qHiBx5Ob3QaqvbcnaQrsdlWF1N+Ctd+FuicsPDpElfMgVKMEo7G2SR9geV8mVzbXzzRlU724+d8tYnUyOhYizIAJVAPN2/375kzk67QqggD5MdEnL9yIp4Sza/bnw7XfBJNYud6QQaQs1fKXQg6o=
-#常用電台,動物星球,"http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288$$$embed$https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8"
-#常用電台,HBO,"http://220.134.196.147:9520/index.m3u8"
-#常用電台,Discovery,embed$https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #3 channels, from ,github.com/reysc/M3U8/blob/master/all.m3u
 #頓常用電台,GoodTV綜合台,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #頓常用電台,GoodTV真情部落,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
@@ -63,24 +42,13 @@
 常用電台,美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 #below 9, from, notabug.org/859106823/zy/src/master/ZB%202.txt 愛奇藝
 常用電台,長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-#常用電台,宮廷戲劇,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key
-#常用電台,票房電影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key
-#常用電台,經典港片,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key
-#常用電台,驚悚午夜,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
-常用電台,票房電影台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl369MaXSUgY4/MsKsT+Oc3X8MdFfyU7x1U1mcbrmTOMu6mH6pBGf64kvWcKuquK4+5WRm7PlvXW5NTqP91QF8dd8ssrPvfMdmILrvlV7UhIP0sYbsSl7OAcgZ6RtG0ElrHi68+btI01TyFwtRCsRkDw8=
 常用電台,光影歐洲,http://210.210.155.37/uq2663/h/h18/index.m3u8
-常用電台,經典電影台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl35sdpGFrpggd+GjhfARdeBXFz/yMmK77eewg71TVRlulxuxKqInv46ObVpIwkLv7/Y3xpd3bqdNnB/0Fr2Sq7NATISAEIqDVFsFJbPNLPsEDyYl4ofBYna6ozk1fSjkn7xOFPzykbaVYbH5elLFd3lQ=
 常用電台,MTV音樂pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-常用電台,幸福空間居家,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3yHnriBxk4cLSxsrz88fsehzcnpuG/BIlL+bSPKDuoL9AcxJpSq9vj9Sg71Qc4CrQub36k5VyHcVYR8BJu4lGpnJVQXtdmnP1aQd+1EbtpzSl0006D91k15Y+QEJyKjiveSO6piGiIT8nzqpelRGQKo=
 常用電台,MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+常用電台,世新綜合,http://61.58.60.230:9319/live/49.m3u8
+常用電台,SHOW,http://61.58.60.230:9319/live/100.m3u8
 #below, from, github.com/jackson0829/jackson0829.github.io/blob/f76f9ddb53deeea0ab8e3065ed9be76f1f5d5c28/CR2.txt
-常用電台,愛爾達生活旅遊,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl32Gy0lHhGY8sMLNXicUD0kaBbKw3RbTE4GyFKIdLNaagkj54WTR2H0HFUbN4pi5M6E1Y/aqExGj6RMCiXTNGZ47BRchokOX3nFvDPMmpK9gja/C5UfEYqN1ZOy9WC1YxMX7d1WUGJmc+SOg8eit7R+w=$$$hget$s://eltaott.tv/change_channel/play_v2$json::url$$$hget$s://eltaott.tv/channel/play/104/4$reg::m3u8::.*file:.*?(http.*?m3u8.*?)"".*::$1"
-#常用電台,古風美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8$FitXY
-常用電台,生活時尚,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3++795TfYBMuxVKtnK1ASaiOy3Cr8hHF5pAdF0yLdDUuPcjJKKMSaCrphwH6h94gDVbBEmAxnHsDu+9rXTn7ZMeLggH/dIspj4NzOAAeQ3dQrwqvyyNzbkjorU3Ti0jyqYYSX+n8bi1zADewPWh3zgA=
-常用電台,金光布袋戲,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl34yR8rRrnbLn6omx3/gblUodRYdKW+m1WxFEYuC84bqaUyN1hR5D3SwjYw3dWSyaPFi5b/ltEa6GvYY67oU4ZSm6uBzmHD3UeZLU1JbWjoHQcwi4s2ud62SzmTTDF9WYnVXRNDhe5josQ0LHZZqhN4M=
-常用電台,智林體育台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl30hlhyzXtiw0iofkFmhvLrwFkD0ygbLTaRfl8F3b53Ulq3M8m9RjHZ7RuZyLAk7N3DlsCW8hXisqkLdDEqDGiRlwJsJNjgC+mbFWEXXFlsDa13xhHszSD0vdfvE5GVqsEnineWrIoMif2yebGxOrKV4=
 常用電台,緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8$$$http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-#常用電台,博斯運動II,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 常用電台,高爾夫球,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 常用電台,紅牛運動,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 常用電台,Edge運動,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?blog.ntnas.top
@@ -88,27 +56,19 @@
 #below 1, from, ntnas.top:82/typecho/archives/799
 常用電台,唐人亞太,http://tv.redrainl.site:9500/live.m3u8?c=52
 常用電台,唐人經典台,"http://cnhls.ntdtv.com/cn/live800/playlist.m3u8"
-#常用電台,鳳凰資訊,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#常用電台,鳳凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 常用電台,新馬亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 常用電台,南京溧水影視,https://live.lsrmw.cn/ysyl/sd/live.m3u8
 常用電台,金磚五國,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #below 4, from, hexo.ntnas.top
 常用電台,浙江衛視,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$$$http://yfsl.vsd.gehua.net.cn/live/ZheJiangHD_1200.m3u8
-#常用電台,江蘇衛視,http://yfsl.vsd.gehua.net.cn/live/JiangSuHD_1200.m3u8
 常用電台,衢江綜合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 常用電台,文化影視,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 常用電台,青海衛視,http://stream.qhbtv.com/qhws/sd/live.m3u8
 常用電台,香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#常用電台,中天全民最大黨,embed$http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-常用電台,民視綜藝台SD,"hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl33iSU1p+57/35LwAdkx8RaJu+tfWRm+yuKIqnCHD+wHkV6hYd2MM8Ey0FX+G76rCwk0K2wH7fu+pFI6IgvPJ4vugplq9rcRI4H/c3ejftv3oYTUhlfEUhrxSO+JoBxzLWRh+ly1Z4zxoj8yCLP3xNjQ="
-常用電台,豬哥亮歌廳秀SD,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl38Sb4LYiGFfcdwRGug9pZxGzPBU9rtmfha25+hGOVVD/+RCi8Ee6IOm0wz9JsgqSc+syZRq47Ba453TdZcAbqBuyESN2m8h4EXRSLGe7vZKkoYL2db6y7Wdyi2D5MhFCQES+9KDZoNWoE/bShHtljg4=
-常用電台,好消息2台,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl3z4XS1rN6xwTtd+I8uJq/hwbGymxqnMJGc9LHkabi35ehDh0X2N+PLdueG9UIUSczacaGBkpqV54D0rWvI3MqvGsMctktz232cOUa8skS3/9icxO+s1jTwEAliwq2ct7Ig==
 常用電台,momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 常用電台,momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 常用電台,東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 常用電台,東森購物3台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#常用電台,美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 常用電台,美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-常用電台,國會頻道1,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl34GQQso+BhkFY2E5x5DIpnEzUeEwXHSiX8h5QTWZIo1x2OFAZrai6dZ3XBkVn3mEdcVO2LvzdzXm47LtYUgN/Dcz9jUMqi9OdNVlO7RR2ptIMY2SrMWk+N9Qd+Zln4Adlc5HCuoNa6lm28XWepyU1nM=
-常用電台,國會頻道2,hpost$s://api2.4gtv.tv/Channel/GetChannelUrl3$https://www.4gtv.tv/?value=AWjB+iPGYznmXp6O+9Bl36FM+ua8ryDwPLrCz65KQyTnomdv632tenWQhzGme4wV5HBLsDyAa8PP/Asr7r6L4nv2hf63F+7eqrQc+WagWl6v15o8ZHoXC3uB8ZEr8tF75ChwA4OHfCcP7RZQcToSKOc9TTJS8yBiQvgjVC5lwbM=
+常用電台,國會頻道1,http://61.58.60.230:9319/live/123.m3u8
+常用電台,國會頻道2,http://61.58.60.230:9319/live/124.m3u8
