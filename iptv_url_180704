@@ -48,7 +48,7 @@ ELTV生活英語台,hpost$s://www.ofiii.com/?asset_id=litv-longturn20
 龍華戲劇台,hpost$s://www.ofiii.com/?asset_id=litv-longturn18
 龍華偶像台,hpost$s://www.ofiii.com/?asset_id=litv-longturn12
 龍華電影台,hpost$s://www.ofiii.com/?asset_id=litv-longturn03
-周星馳電影台,hpost$s://www.ofiii.com/?asset_id=ofiii73
+周星馳電影台,hget$s://www.ofiii.com/channel/watch/ofiii73
 美亞電視C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 TAIWANPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 阿里郎頻道,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -63,7 +63,7 @@ AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 光影歐洲,http://210.210.155.37/uq2663/h/h18/index.m3u8
 MTV音樂pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-Yes娛樂,hpost$s://www.ofiii.com/?asset_id=ofiii47
+Yes娛樂,hget$s://www.ofiii.com/channel/watch/ofiii47
 亞洲旅遊台,hpost$s://www.ofiii.com/?asset_id=litv-longturn17
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
 SHOW,http://61.58.60.230:9319/live/100.m3u8
@@ -85,7 +85,7 @@ Edge運動,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?blog.ntnas.t
 文化影視,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 青海衛視,http://stream.qhbtv.com/qhws/sd/live.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-豬哥亮綜藝,hpost$s://www.ofiii.com/?asset_id=ofiii126
+豬哥亮綜藝,hget$s://www.ofiii.com/channel/watch/ofiii126
 好消息,hpost$s://www.ofiii.com/?asset_id=litv-ftv16
 好消息2台,hpost$s://www.ofiii.com/?asset_id=litv-ftv17
 momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
