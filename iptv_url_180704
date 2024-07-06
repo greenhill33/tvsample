@@ -10,7 +10,6 @@
 大愛電視台,"https://pulltv1.wanfudaluye.com/live/tv1.m3u8$$$newslive$大愛一臺"
 大愛二台,"https://pulltv2.wanfudaluye.com/live/tv2.m3u8$$$https://www.youtube.com/watch?v=8ddDTi-gzQA"
 #大愛三台,"https://pulltv3.wanfudaluye.com/live/tv3.m3u8$$$https://www.youtube.com/watch?v=MIqUplvSRWA"
-中天亞洲台,http://194.87.101.118/live.m3u8?c=3
 TVBS亞洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 #below, From, github.com/StanleyChen0924/stanleychen0924.github.io/tree/main/.github/workflows
@@ -26,7 +25,7 @@ TVBS新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #東森新聞台,"newslive$東森新聞"
 #非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
-臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
+#臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 中天新聞台,"http://194.87.101.118/live.m3u8?c=7$$$newslive$中天新聞"
 東森財經新聞台,"http://194.87.101.118/live.m3u8?c=14$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
 寰宇財經台,hpost$s://www.ofiii.com/?asset_id=litv-longturn23
@@ -55,20 +54,15 @@ TAIWANPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-
 華語電視,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8$$$http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$FitXY
 經典台劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-百視TV,https://bp-caster.bestv.com.cn/723/3/video.m3u8
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
-#below 9, from, notabug.org/859106823/zy/src/master/ZB%202.txt 愛奇藝
-長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-光影歐洲,http://210.210.155.37/uq2663/h/h18/index.m3u8
-MTV音樂pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 Yes娛樂,hget$s://www.ofiii.com/channel/watch/ofiii47
 亞洲旅遊台,hpost$s://www.ofiii.com/?asset_id=litv-longturn17
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
 SHOW,http://61.58.60.230:9319/live/100.m3u8
 #below, from, github.com/jackson0829/jackson0829.github.io/blob/f76f9ddb53deeea0ab8e3065ed9be76f1f5d5c28/CR2.txt
-緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8$$$http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#緯來體育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 高爾夫球,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 紅牛運動,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Edge運動,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?blog.ntnas.top
@@ -78,7 +72,7 @@ Edge運動,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?blog.ntnas.t
 唐人經典台,"http://cnhls.ntdtv.com/cn/live800/playlist.m3u8"
 新馬亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 南京溧水影視,https://live.lsrmw.cn/ysyl/sd/live.m3u8
-金磚五國,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#金磚五國,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #below 4, from, hexo.ntnas.top
 浙江衛視,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$$$http://yfsl.vsd.gehua.net.cn/live/ZheJiangHD_1200.m3u8
 衢江綜合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
