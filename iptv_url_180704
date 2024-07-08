@@ -1,4 +1,6 @@
 常用電台,#genre#
+#below, search from, tonkiang.us
+民視,https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 台視HD,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv066
 中視HD,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv040
 華視HD,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv041
@@ -22,7 +24,7 @@ TVBS新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 寰宇新聞台SD,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$hpost$s://www.ofiii.com/?asset_id=litv-longturn14$$$newslive$寰宇新聞"
 寰宇新聞台灣台,hpost$s://www.ofiii.com/?asset_id=litv-longturn15
 鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8"
-#東森新聞台,"newslive$東森新聞"
+東森新聞台,"https://z02.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8$$$newslive$東森新聞"
 #非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 #臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
@@ -35,9 +37,9 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 ABCNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8$$$https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ABCNews.m3u8
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-ELTV生活英語台,hpost$s://www.ofiii.com/?asset_id=litv-longturn20
-亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+ELTV生活英語台,hpost$s://www.ofiii.com/?asset_id=litv-longturn20
 #3 channels, from ,github.com/reysc/M3U8/blob/master/all.m3u
 #頓,GoodTV綜合台,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #頓,GoodTV真情部落,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
@@ -65,7 +67,7 @@ SHOW,http://61.58.60.230:9319/live/100.m3u8
 #緯來體育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 高爾夫球,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 紅牛運動,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-Edge運動,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?blog.ntnas.top
+Edge運動,https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 杜拜體育,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #below 1, from, ntnas.top:82/typecho/archives/799
 唐人亞太,http://tv.redrainl.site:9500/live.m3u8?c=52
@@ -73,8 +75,9 @@ Edge運動,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?blog.ntnas.t
 新馬亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 南京溧水影視,https://live.lsrmw.cn/ysyl/sd/live.m3u8
 #金磚五國,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#below, search from, tonkiang.us
+浙江衛視,http://597ca2.netsite.cc/proxy/1076829733/1076829733.m3u8
 #below 4, from, hexo.ntnas.top
-浙江衛視,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$$$http://yfsl.vsd.gehua.net.cn/live/ZheJiangHD_1200.m3u8
 衢江綜合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 文化影視,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 青海衛視,http://stream.qhbtv.com/qhws/sd/live.m3u8
