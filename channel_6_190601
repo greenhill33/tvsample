@@ -18,6 +18,12 @@
 <item  group="直播" name="4K8K HDR測試片" type="yt" draw="jennifergala.webp" show="false" link="UCccXcNwSNFHcDQMX5dwxJ5w"
   	 url="https://yt3.ggpht.com/a/AATXAJwBFgYA15iMI4n5G9rpqbkCLGGHZdTYYhv0-R8r=s%d-nd-c-k-no"/>
 
+<item  group="新聞" name="國內焦點新聞" type="ytItem" show="true" link="PLNjtpXOAJhQIId9CWVMpKhhp2OrrM9iok"
+	 url="https://yt3.ggpht.com/lJ--VcehMEav4ZRvOBvdkkTsRHAk3AzFIv7lezB5ORSBfVruoFsaj3PKxFz6jCCkBqNrItsaXgKE8rEVhg=s%d-nd-c-k-no"
+	 description="Youtube自動產生最新報導"/>
+<item  group="新聞" name="疫情新聞 懶人包" type="ytItem" show="true" link="PLxhUsq3CF77hFpQGjLk_6a5OJ7ZEkAttp"
+	 url="https://st3.depositphotos.com/1229718/33641/i/450/depositphotos_336415838-stock-photo-coronavirus-disease.jpg"
+	 description="三立新聞網SETN"/>
 <item  group="新聞" name="時下熱門精選" type="ytVideo" mix="true" draw="hot_video.webp" show="true" link="chart=mostPopular&amp;regionCode=TW"
 	 url="https://yt3.ggpht.com/fDruQ6odgPE2OZUVI0Putfb9BOhN_tbbn5ezQ40f1D2-VuxEc-0dv8BzTdRuLb5rkGK4loBeR-uk1IpCpA=s%d-nd-c-k-no"
 	 description="Youtube自動產生主題頻道"/>
@@ -1093,8 +1099,11 @@
 	 description="採集資源網"/>
 
 <set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','zd#$https://api.zuidapi.com/api.php/provide/vod$最大資源','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','lz#$https://cj.lziapi.com/api.php/provide/vod$量子資源','ko#$https://api.1080zyku.com/inc/feifei3$優質資源','ka#$https://www.39kan.com/api.php/provide/vod$39資源','fs#$https://www.feisuzyapi.com/api.php/provide/vod$飛速資源','sn#$https://suoniapi.com/api.php/provide/vod$索尼資源','hh#$https://hhzyapi.com/api.php/provide/vod$火狐資源']/>
+<set_pref ziyuan_getvodurl=['ld#hget$s://api.leduotv.com/wp-api/getvodurl.php?vid=%s$json::url']/>
 <set_pref ziyuan_search=['uk#','sd#','hn#','kc#','ko#','lz#']/>
+<set_pref user_defined_api_key=NULL/>
 
 <gen_items cnt="12" group="戲劇" link="['bd#t=13','kc#t=13']"/>
 <gen_items cnt="3" group="日韓" link="['sd#t=15','kc#t=15']"/>
 <gen_items cnt="3" group="日韓" link="['bd#t=16','kc#t=16']"/>
+<gen_items append="['chinaq$http://www.chinaq.me$div.items.sizing a[href]']"/>
