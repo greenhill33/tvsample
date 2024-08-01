@@ -1,6 +1,6 @@
 常用電台,#genre#
 #below, search from, tonkiang.us
-民視,https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+民視,http://37.27.111.214:8080/live/6/hls.m3u8
 台視HD,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv066
 中視HD,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv040
 華視HD,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv041
@@ -24,7 +24,7 @@ TVBS新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 寰宇新聞台SD,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$hpost$s://www.ofiii.com/?asset_id=litv-longturn14$$$newslive$寰宇新聞"
 寰宇新聞台灣台,hpost$s://www.ofiii.com/?asset_id=litv-longturn15
 鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8"
-東森新聞台,"https://z02.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8$$$newslive$東森新聞"
+東森新聞台,"http://37.27.111.214:8080/live/20/hls.m3u8$$$newslive$東森新聞"
 #非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 #臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
