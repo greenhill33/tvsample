@@ -8,7 +8,8 @@
 華視戲劇,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8$$$https://ytm2.yuanhsing.cf/ctsprog.m3u8"
 公視 HD,"newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
 台灣戲劇台,,hpost$s://www.ofiii.com/?asset_id=litv-longturn22
-公視台語台,"http://194.87.101.118/live.m3u8?c=8$$$newslive$公視台語台$$$hget$s://taigi.pts.org.tw$reg::videoId::.*videoId:.*?'(.*?)'.*::https://www.youtube.com/watch?v=$1"
+公視台語台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8$$$newslive$公視台語台$$$hget$s://taigi.pts.org.tw$reg::videoId::.*videoId:.*?'(.*?)'.*::https://www.youtube.com/watch?v=$1"
+公視戲劇,http://37.27.111.214:8080/live/87/hls.m3u8
 客家電視台,http://4gtv.mumi.rip:9877/107/4gtv-4gtv043/index.m3u8
 原住民族電視台,http://4gtv.mumi.rip:9877/273/4gtv-live014/index.m3u8
 大愛電視台,"https://pulltv1.wanfudaluye.com/live/tv1.m3u8$$$newslive$大愛一臺"
@@ -20,7 +21,7 @@
 民視新聞台,"http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8$$$newslive$民視新聞"
 台視新聞台,"hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv051$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8$$$newslive$台視新聞"
 中視新聞台,"hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv074$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8$$$newslive$中視新聞台"
-華視新聞台,"hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv052$$$http://194.87.101.118/live.m3u8?c=13$$$newslive$華視新聞"
+華視新聞台,"hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv052$$$newslive$華視新聞"
 TVBS新聞台,"http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8$$$newslive$TVBS NEWS"
 三立新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$$$hpost$s://www.ofiii.com/?asset_id=iNEWS$$$newslive$LIVE 三立"
 寰宇新聞台SD,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$hpost$s://www.ofiii.com/?asset_id=litv-longturn14$$$newslive$寰宇新聞"
@@ -30,8 +31,8 @@ TVBS新聞台,"http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8$$$https://r
 #非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 #臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
-中天新聞台,"http://194.87.101.118/live.m3u8?c=7$$$http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8$$$newslive$中天新聞"
-東森財經新聞台,"http://194.87.101.118/live.m3u8?c=14$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
+中天新聞台,"http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8$$$newslive$中天新聞"
+東森財經新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
 寰宇財經台,hpost$s://www.ofiii.com/?asset_id=litv-longturn23
 #三立財經台,"http://seb.sason.top/sc/slinews_fhd.m3u8"
 三立iNEWS,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8$$$newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
