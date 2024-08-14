@@ -1,6 +1,6 @@
 常用電台,#genre#
 #below, search from, tonkiang.us
-民視,http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8$$$http://37.27.111.214:8080/live/6/hls.m3u8$$$http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
+民視,http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8$$$http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
 台視HD,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv066
 中視HD,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv040
 華視HD,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv041
@@ -26,11 +26,11 @@ TVBS新聞台,"http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8$$$https://r
 三立新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$$$hpost$s://www.ofiii.com/?asset_id=iNEWS$$$newslive$LIVE 三立"
 寰宇新聞台SD,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$hpost$s://www.ofiii.com/?asset_id=litv-longturn14$$$newslive$寰宇新聞"
 寰宇新聞台灣台,hpost$s://www.ofiii.com/?asset_id=litv-longturn15
-鏡新聞,"http://37.27.111.214:8080/live/62/hls.m3u8$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8"
-東森新聞台,"http://37.27.111.214:8080/live/20/hls.m3u8$$$http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8$$$newslive$東森新聞"
+鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8"
+東森新聞台,"http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8$$$newslive$東森新聞"
 #非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
-#臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
+#壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 中天新聞台,"http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8$$$newslive$中天新聞"
 東森財經新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
 寰宇財經台,hpost$s://www.ofiii.com/?asset_id=litv-longturn23
@@ -88,7 +88,7 @@ Edge運動,https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 青海衛視,http://stream.qhbtv.com/qhws/sd/live.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 霹靂布袋戲,http://4gtv.mumi.rip:9877/301/4gtv-live145/index.m3u8
-豬哥會社,http://37.27.111.214:8080/live/35/hls.m3u8$$$http://4gtv.mumi.rip:9877/113/4gtv-4gtv006/index.m3u8
+豬哥會社,http://4gtv.mumi.rip:9877/113/4gtv-4gtv006/index.m3u8
 豬哥亮綜藝,hget$s://www.ofiii.com/channel/watch/ofiii126
 好消息,hpost$s://www.ofiii.com/?asset_id=litv-ftv16
 好消息2台,hpost$s://www.ofiii.com/?asset_id=litv-ftv17
