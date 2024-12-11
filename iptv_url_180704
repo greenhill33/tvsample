@@ -25,14 +25,13 @@ TVBS新聞台,"http://61.221.215.25:8800/hls/9/index.m3u8$$$https://raw.githubus
 寰宇新聞台SD,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$hpost$s://www.ofiii.com/?asset_id=litv-longturn14$$$newslive$寰宇新聞"
 寰宇新聞台灣台,hpost$s://www.ofiii.com/?asset_id=litv-longturn15
 鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8"
-東森新聞台,"http://litv.zapi.us.kg/?id=4gtv-4gtv152$$$newslive$東森新聞"
-非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+東森新聞台,"newslive$東森新聞"
+#非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 #年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 #臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 中天新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$$$newslive$中天新聞"
 東森財經新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
 寰宇財經台,hpost$s://www.ofiii.com/?asset_id=litv-longturn23
-非凡商業,http://litv.zapi.us.kg/?id=4gtv-4gtv048
 #三立財經台,"http://seb.sason.top/sc/slinews_fhd.m3u8"
 三立iNEWS,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8$$$newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
@@ -52,7 +51,7 @@ ELTV生活英語台,hpost$s://www.ofiii.com/?asset_id=litv-longturn20
 龍華偶像台,hpost$s://www.ofiii.com/?asset_id=litv-longturn12
 龍華電影台,hpost$s://www.ofiii.com/?asset_id=litv-longturn03
 周星馳電影台,hget$s://www.ofiii.com/channel/watch/ofiii73
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8$$$http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 美亞電視C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 TAIWANPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 阿里郎頻道,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -62,12 +61,10 @@ TAIWANPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-靖天資訊,http://litv.zapi.us.kg/?id=4gtv-4gtv065
 Yes娛樂,hget$s://www.ofiii.com/channel/watch/ofiii47
 亞洲旅遊台,hpost$s://www.ofiii.com/?asset_id=litv-longturn17
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
 SHOW,http://61.58.60.230:9319/live/100.m3u8
-博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
 #below, from, github.com/jackson0829/jackson0829.github.io/blob/f76f9ddb53deeea0ab8e3065ed9be76f1f5d5c28/CR2.txt
 #緯來體育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 高爾夫球,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
