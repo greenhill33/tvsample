@@ -1026,7 +1026,7 @@
 	 description="採集資源網"/>
 
 <set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','zd#$https://api.zuidapi.com/api.php/provide/vod$最大資源','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','lz#$https://cj.lziapi.com/api.php/provide/vod$量子資源','ko#$https://api.1080zyku.com/inc/feifei3$優質資源','ka#$https://www.39kan.com/api.php/provide/vod$39資源','hw#$https://huaweiba.live/api.php/provide/vod$華為吧資源','sn#$https://suoniapi.com/api.php/provide/vod$索尼資源','hh#$https://hhzyapi.com/api.php/provide/vod$火狐資源']/>
-<set_pref ziyuan_search=['uk#','sd#','hn#','kc#','ko#','lz#']/>
+<set_pref ziyuan_search=['uk#','hw#','zd#','ko#','lz#']/>
 
 <gen_items cnt="12" group="戲劇" link="['bd#t=13','kc#t=13']"/>
 <gen_items cnt="3" group="日韓" link="['sd#t=15','kc#t=15']"/>
