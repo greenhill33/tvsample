@@ -24,12 +24,12 @@ TVBS新聞台,"http://61.221.215.25:8800/hls/9/index.m3u8$$$https://raw.githubus
 三立新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$$$hpost$s://www.ofiii.com/?asset_id=iNEWS$$$newslive$LIVE 三立"
 寰宇新聞台SD,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$hpost$s://www.ofiii.com/?asset_id=litv-longturn14$$$newslive$寰宇新聞"
 寰宇新聞台灣台,hpost$s://www.ofiii.com/?asset_id=litv-longturn15
-鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8"
+鏡新聞,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8$$$newslive$鏡新聞"
 東森新聞台,"http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$$$newslive$東森新聞"
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 #年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 #臺新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
-中天新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$$$newslive$中天新聞"
+中天新聞台,"hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv009$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$$$newslive$中天新聞"
 東森財經新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
 寰宇財經台,hpost$s://www.ofiii.com/?asset_id=litv-longturn23
 #三立財經台,"http://seb.sason.top/sc/slinews_fhd.m3u8"
@@ -38,7 +38,7 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 ABCNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8$$$https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ABCNews.m3u8
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 ELTV生活英語台,hpost$s://www.ofiii.com/?asset_id=litv-longturn20
 #3 channels, from ,github.com/reysc/M3U8/blob/master/all.m3u
@@ -57,8 +57,7 @@ TAIWANPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-
 阿里郎頻道,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 華語電視,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8$$$http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$FitXY
-經典台劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-美國中文電視,https://jpts.sinovision.net/livestream.m3u8
+經典台劇,http://37.27.111.214:8080/live/19/hls.m3u8$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 Yes娛樂,hget$s://www.ofiii.com/channel/watch/ofiii47
@@ -73,21 +72,23 @@ Edge運動,https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 杜拜體育,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #below 1, from, ntnas.top:82/typecho/archives/799
 唐人經典台,"http://cnhls.ntdtv.com/cn/live800/playlist.m3u8"
-新馬亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-南京溧水影視,https://live.lsrmw.cn/ysyl/sd/live.m3u8
-#金磚五國,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+新加坡8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+新加坡U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#南京溧水影視,https://live.lsrmw.cn/ysyl/sd/live.m3u8
+金磚五國,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #below, search from, tonkiang.us
-浙江衛視,http://597ca2.netsite.cc/proxy/1076829733/1076829733.m3u8
+#浙江衛視,http://597ca2.netsite.cc/proxy/1076829733/1076829733.m3u8
 #below 4, from, hexo.ntnas.top
-衢江綜合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#衢江綜合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 文化影視,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-青海衛視,http://stream.qhbtv.com/qhws/sd/live.m3u8
+#青海衛視,http://stream.qhbtv.com/qhws/sd/live.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 豬哥亮綜藝,hget$s://www.ofiii.com/channel/watch/ofiii126
 好消息,hpost$s://www.ofiii.com/?asset_id=litv-ftv16
 好消息2台,hpost$s://www.ofiii.com/?asset_id=litv-ftv17
 momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+東森購物1台,hpost$s://www.ofiii.com/?asset_id=4gtv-4gtv102
 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物3台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
