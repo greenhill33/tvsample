@@ -985,19 +985,19 @@
 <item  group="電影" name="中國電影頻道" type="ytItem" show="true" sort="no" link="PLOrf2h5ONlwXu7fe_KagfkPV7DnjQ1VSV"
 	 url="https://yt3.ggpht.com/a/AATXAJwo34b254KyyCbFZ0flUEYadhjaP9pC6vT2s8GxxA=s%d-c-k-no"/>
 
-<item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['uk#t=13','zd#t=13','wj#t=13','kc#t=13','lz#t=13','ka#t=13']"
+<item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['wj#t=13','uk#t=13','zd#t=13','kc#t=13','lz#t=13','ka#t=13']"
 	 url="https://4.bp.blogspot.com/-BHwHUKwjpfM/W0BvGeyoQiI/AAAAAAAAAmk/aINkON5K2kImAWlGtQJPPlugDhhIC0GOQCLcBGAs/s320/luju.png"
 	 description="採集資源網"/>
 <item  group="網搜" name="網搜日本戲劇" type="tvGrid" draw="ribenju.webp" show="false" link="['wj#t=23','sd#t=16','bd#t=16']"
 	 url="https://4.bp.blogspot.com/-PBq1hGwuhww/WwGRiYx6G-I/AAAAAAAAAlA/eAHlAPv0QQgyvnoNhG7W5mpeQl4wDqtBQCLcBGAs/s320/wsjapandrema.png"
 	 description="採集資源網"/>
-<item  group="網搜" name="網搜韓國戲劇" type="tvGrid" draw="hanguoju.webp" show="false" link="['uk#t=22','sd#t=15','wj#t=22','bd#t=15','lz#t=15']"
+<item  group="網搜" name="網搜韓國戲劇" type="tvGrid" draw="hanguoju.webp" show="false" link="['wj#t=22','uk#t=22','sd#t=15','bd#t=15','lz#t=15']"
 	 url="https://2.bp.blogspot.com/-plmzsIiN-Tk/WwGRieHPFNI/AAAAAAAAAlE/ID95TUx2aN4exr-AYk-P4KnzOEvPpMOpQCLcBGAs/s320/wskoreadrema.png"
 	 description="採集資源網"/>
 <item  group="網搜" name="網搜歐美戲劇" type="tvGrid" draw="oumeiju.webp" show="false" link="['hn#cid=15','wj#t=16','bd#t=22']"
 	 url="https://1.bp.blogspot.com/-5qg0wo6WGks/WwGRhuncU8I/AAAAAAAAAk0/V7Md3xDWgik2qA2XAxBT3453q3IJXq_JwCLcBGAs/s320/wseouramericadrema.png"
 	 description="採集資源網"/>
-<item  group="網搜" name="網搜台灣戲劇" type="tvGrid" draw="taiju.webp" show="false" link="['uk#t=21','sd#t=18','bd#t=21']" 
+<item  group="網搜" name="網搜台灣戲劇" type="tvGrid" draw="taiju.webp" show="false" link="['wj#t=15','uk#t=21','sd#t=18','bd#t=21']" 
 	 url="https://2.bp.blogspot.com/-DFruZ4iwJZ4/WwGRjg2mIcI/AAAAAAAAAlM/IqSzXx67A34JWIzXS8pbQleC0U6nvGvIACLcBGAs/s320/wstaiwandrema.png"
 	 description="採集資源網"/>
 <item  group="網搜" name="網搜動漫" type="tvGrid" draw="dongmanju.webp" show="false" link="['uk#t=20','sd#t=30','bd#t=30']"
