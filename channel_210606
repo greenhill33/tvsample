@@ -22,6 +22,9 @@
 <item  group="新聞" name="時下熱門精選" type="ytVideo" mix="true" draw="hot_video.webp" show="true" link="chart=mostPopular&amp;regionCode=TW"
 	 url="https://yt3.ggpht.com/fDruQ6odgPE2OZUVI0Putfb9BOhN_tbbn5ezQ40f1D2-VuxEc-0dv8BzTdRuLb5rkGK4loBeR-uk1IpCpA=s%d-nd-c-k-no"
 	 description="Youtube自動產生主題頻道"/>
+<item  group="新聞" name="CNEWS匯流新聞網" type="yt" draw="cnews.webp" show="true" link="UCciBAhIME9MQEmGbBPnh44g"
+	 url="https://yt3.ggpht.com/ytc/AIdro_kdpTa5k2a7SDb77RduG7lVmwt8N8CfMUhe7_VWS3PtwV0=s%d-nd-c-k-no"
+	 description="政治民調、數位匯流、醫藥生活、網路科技等領域"/>	 
 <item  group="新聞" name="TVBS" type="yt" draw="tvbs.webp" show="true" link="UC5nwNW4KdC0SzrhF9BXEYOQ"
 	 url="https://yt3.ggpht.com/-mEke_unF72Q/AAAAAAAAAAI/AAAAAAAAAAA/2XUjCR2p4Ng/s%d-c-k-no/photo.jpg"
 	 description="TVBS Taiwan News Live"/>
@@ -546,12 +549,18 @@
 <item  group="美食" name="小高姐" type="yt" show="true" link="UCCKlp1JI9Yg3-cUjKPdD3mw"
 	 url="https://yt3.ggpht.com/a-/AN66SAz9xaHqgWmDlGWNb7ZK9RqN3cyxJ2HjiMEkmg=s%d-c-k-no"
 	 description="製作很多西安美食"/>
+<item  group="美食" name="王明勇的健康廚房" type="yt" draw="wangmingyong.webp" show="true" link="UCU0xsSrQeeSwJVJsgZNQfSw"
+         url="https://yt3.ggpht.com/ytc/AIdro_mNCUY5TsyChiC0t7QCVppXEIaAOq3Z5qqlfySc3ZDyFNI=s%d-c-k-no"
+        description="傳統美食改造，健康飲食教育推廣活動"/>
 <item  group="美食" name="蘿潔塔的廚房" type="yt" draw="rosalinakitchen.webp" show="true" link="UCcb9uxCoIgw7RQjQnlgd0Xw"
          url="https://yt3.ggpht.com/ytc/AMLnZu_KVLHNslNYY2rwHOqwwDBjRFfbeTpDGmBV94Ed=s%d-c-k-no"
         description="傳遞幸福味道的美食"/>
 <item  group="美食" name="美味生活" type="yt" show="false" link="UCsd3YtVFfGGTxtj98Hz-JvQ"
          url="https://yt3.ggpht.com/a/AGF-l79zs77DCCvCoTUBhLVNE246ycyGx7eVp9t3Pg=s%d-c-k-no"
         description="美味生活HowLiving"/>
+<item  group="美食" name="常常好食Good Food" type="ytItem" draw="goodfoodmarket.webp" show="true" link="PLaRY1VzzkEYJU0LpKfECsz8XqzG2xVzhj"
+	 url="https://yt3.ggpht.com/MYKfhLVjayoz-xD-Hp-PwiZPLefB6IDgpQZ3fkL2FRqqftABmWUFlgzd3glhtLPz2bdtkhXV=s%d-c-k-no"
+	 description="醫師教我吃出健康力"/>
 <item  group="美食" name="曼食慢語" type="yt" draw="amandaslittlekitchen.webp" show="true" link="UCmXkJ9ReY5hjvYPcnmBwing"
 	 url="https://yt3.ggpht.com/a-/AN66SAyR1pccBz3JjXhfDscKuJKwCgJTNqZLFX9vWw=s%d-c-k-no"
 	 description="Amanda的小厨房"/>
@@ -582,7 +591,10 @@
 <item  group="美食" name="回家吃飯" type="ytItem" draw="dailydietofficia.webp" show="true" link="PLoFgjsHU7UTBO8NGpUNPMIPxpvP-fZcvm"
 	 url="https://yt3.ggpht.com/a-/AN66SAyCuOB0_gNsFwqNKqxegyUc2clbs6BCAmaVxg=s%d-c-k-no"
 	 description="CCTV美食頻道"/>
-<item  group="美食" name="美食台 Food Video" type="yt" draw="FoodVideo.webp" show="true" link="UCJsq4QYu9BaxXDk0qR8Ms3w"
+<item  group="美食" name="康健雜誌" type="ytItem" draw="commonhealth.webp" show="true" link="PLcm0l0QjySjn-zPHGtEIRRtrm1yz44uex"
+	 url="https://yt3.ggpht.com/E133CwgizYz1dSRCti7N2Kkrsj7FQPx-T-zstn2wb3TWgjSkOFjdkKApcdrKI4ceuhU79QlLGg=s%d-c-k-no"
+	 description="信賴的健康生活、醫療保健等"/>
+<item  group="美食" name="美食台 Food Video" type="yt" draw="FoodVideo.webp" show="false" link="UCJsq4QYu9BaxXDk0qR8Ms3w"
 	 url="https://yt3.ggpht.com/-05k45XsGjZA/AAAAAAAAAAI/AAAAAAAAAAA/pZCbiQzO_s8/s%d-c-k-no/photo.jpg"/>
 <item  group="美食" name="美食鳳味" type="ytItem" show="false" link="PLmbuHflx5EG_odNQjwXctsVnrZwKOZ4Gm"
 	 url="https://i.ytimg.com/vi/I3-_AosFlfc/mqdefault.jpg"
@@ -590,7 +602,7 @@
 <item  group="美食" name="食尚玩家" type="yt" draw="shshangwanjia.webp" show="true" link="UC00wMIWR48SYidE6jmpL7Qg"
 	 url="https://yt3.ggpht.com/-0AGfBUkhxrU/AAAAAAAAAAI/AAAAAAAAAAA/jzoMZWK67_I/s%d-c-k-no/photo.jpg"
 	 description="吃喝玩樂一手包辦"/>
-<item  group="美食" name="古娃娃WawaKu" type="yt" draw="WawaKu.webp" show="true" link="UCVw4CvsOUuVJpFyW_VPnIBQ"
+<item  group="美食" name="古娃娃WawaKu" type="yt" draw="WawaKu.webp" show="false" link="UCVw4CvsOUuVJpFyW_VPnIBQ"
 	 url="https://yt3.ggpht.com/JXUkYFhxBFrXXpqwVCueT133nIgsnk5-aTrlGL0ph53D_4NneNRgGceWYPRxvOC1LthG7tAGTA=s%d-c-k-no"
 	 description="便利商店女神"/>
 <item  group="美食" name="千千進食中" type="yt" draw="chienshu_tw.webp" show="true" link="UC9i2Qgd5lizhVgJrdnxunKw"
