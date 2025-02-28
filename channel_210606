@@ -788,12 +788,14 @@
     	 url="https://yt3.ggpht.com/a-/AAuE7mCc5berbLrkH-EHv8eg_N9OPHqZ4iD1wRG8gg=s%d-c-k-no"/>
 <item  group="體育" name="運動Play吧" type="ytItem" show="false" refresh="true" link="PLDB8ct-UxVokZPphJiwjEHuZc15k_f4dw"
   	 url="https://i.ytimg.com/vi/nQuIhxWlHiw/mqdefault.jpg"/>
-<item  group="體育" name="八段锦" type="ytItem" show="false" link="PLkWWcTwDGs4Zv1-2x5lAkqb-O1AadyrNs"
+<item  group="體育" name="八段錦" type="ytItem" show="false" link="PLkWWcTwDGs4Zv1-2x5lAkqb-O1AadyrNs"
     	  url="https://i.ytimg.com/vi/UWBdynJ7iF0/mqdefault.jpg"/>
+<item  group="體育" name="養生八段錦" type="ytItem" show="false" link="PLlmkHP1H8U_ClxkR3COIgTsYmvO3F5Z-U"
+    	  url="https://i.ytimg.com/vi/7yPPjPFtje0/mqdefault.jpg"/>
 <item  group="體育" name="五禽戲" type="ytItem" show="false" link="PLkWWcTwDGs4bxfGMt-q7M7EsalQnfvnkX"
     	 url="https://i.ytimg.com/vi/CFAv8M3_kIw/mqdefault.jpg"/>
 <item  group="體育" name="八式太極拳" type="ytItem" show="false" link="PLkWWcTwDGs4ambkQlcVLtehFPPnTseKab"
-    	 url="https://i.ytimg.com/vi/CNWMeEcWn8M/mqdefault.jpg"/>  	 
+    	 url="https://i.ytimg.com/vi/CNWMeEcWn8M/mqdefault.jpg"/>
 <item  group="體育" name="自由時報體育" type="rss" draw="freenewpaper.webp" show="false"
 	 link="http://news.ltn.com.tw/rss/sports.xml"
 	 url="https://cdn3.iconfinder.com/data/icons/alien/128/news.png"/>
@@ -997,7 +999,7 @@
 <item  group="電影" name="中國電影頻道" type="ytItem" show="true" sort="no" link="PLOrf2h5ONlwXu7fe_KagfkPV7DnjQ1VSV"
 	 url="https://yt3.ggpht.com/a/AATXAJwo34b254KyyCbFZ0flUEYadhjaP9pC6vT2s8GxxA=s%d-c-k-no"/>
 
-<item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['wj#t=13','uk#t=13','zd#t=13','kc#t=13','lz#t=13','ka#t=13']"
+<item  group="網搜" name="網搜大陸戲劇" type="tvGrid" draw="daluju.webp" show="false" link="['wj#t=13','uk#t=13','zd#t=13','kc#t=13','lz#t=13']"
 	 url="https://4.bp.blogspot.com/-BHwHUKwjpfM/W0BvGeyoQiI/AAAAAAAAAmk/aINkON5K2kImAWlGtQJPPlugDhhIC0GOQCLcBGAs/s320/luju.png"
 	 description="採集資源網"/>
 <item  group="網搜" name="網搜日本戲劇" type="tvGrid" draw="ribenju.webp" show="false" link="['wj#t=23','sd#t=16','bd#t=16']"
@@ -1037,7 +1039,7 @@
 	 url="https://2.bp.blogspot.com/-hjzNYbfOdpU/WwGRh41JRsI/AAAAAAAAAk4/F36bDYCei14GyDXFrN5-EIX2zVjlukksACLcBGAs/s320/wsfriad.png"
 	 description="採集資源網"/>
 
-<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','zd#$https://api.zuidapi.com/api.php/provide/vod$最大資源','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','lz#$https://cj.lziapi.com/api.php/provide/vod$量子資源','ko#$https://api.1080zyku.com/inc/feifei3$優質資源','ka#$https://www.39kan.com/api.php/provide/vod$39資源','hw#$https://huaweiba.live/api.php/provide/vod$華為吧資源','sn#$https://suoniapi.com/api.php/provide/vod$索尼資源','hh#$https://hhzyapi.com/api.php/provide/vod$火狐資源']/>
+<set_pref ziyuan_path=['kc#$https://caiji.kczyapi.com/api.php/provide/vod$快車','tk#$https://tkzy2.com/api.php/provide/vod/at/xml$天空','bd#$https://api.apibdzy.com/api.php/provide/vod$百度','wj#$https://api.wujinapi.com/api.php/provide/vod/at/xmlsea$無盡資源','uk#$https://api.ukuapi.com/api.php/provide/vod$U酷資源','sd#$https://sdzyapi.com/api.php/provide/vod$閃電資源','zd#$https://api.zuidapi.com/api.php/provide/vod$最大資源','hn#$https://www.hongniuzy2.com/api.php/provide/vod$紅牛影視','lz#$https://cj.lziapi.com/api.php/provide/vod$量子資源','ko#$https://api.1080zyku.com/inc/feifei3$優質資源','hw#$https://huaweiba.live/api.php/provide/vod$華為吧資源','sn#$https://suoniapi.com/api.php/provide/vod$索尼資源','hh#$https://hhzyapi.com/api.php/provide/vod$火狐資源']/>
 <set_pref ziyuan_search=['uk#','hw#','zd#','ko#','lz#']/>
 
 <gen_items cnt="12" group="戲劇" link="['bd#t=13','kc#t=13']"/>
