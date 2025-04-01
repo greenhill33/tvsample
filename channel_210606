@@ -796,6 +796,8 @@
     	 url="https://i.ytimg.com/vi/CFAv8M3_kIw/mqdefault.jpg"/>
 <item  group="體育" name="八式太極拳" type="ytItem" show="false" link="PLkWWcTwDGs4ambkQlcVLtehFPPnTseKab"
     	 url="https://i.ytimg.com/vi/CNWMeEcWn8M/mqdefault.jpg"/>
+<item  group="體育" name="外丹功" type="ytItem" show="false" link="PLz-sbCt6Zw_MqthVFp6Gjsf5A0YTL81J7"
+    	 url="https://i.ytimg.com/vi/MkPSsW94NMc/mqdefault.jpg"/>
 <item  group="體育" name="自由時報體育" type="rss" draw="freenewpaper.webp" show="false"
 	 link="http://news.ltn.com.tw/rss/sports.xml"
 	 url="https://cdn3.iconfinder.com/data/icons/alien/128/news.png"/>
