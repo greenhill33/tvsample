@@ -1,7 +1,7 @@
 常用電台,#genre#
 #below, search from, tonkiang.us or iptv-search.com/search/?q=
 民視,"http://live1.robyang.ggff.net:50009/li-4gtv-4gtv002/index.m3u8"
-台視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv066
+#台視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv066
 中視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv041
 #華視TV324 HD,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
@@ -20,16 +20,16 @@ TVBS HD,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv073/index.m3u8
 #MOMO親子台,http://106.107.177.223:50007/4gtv-live107/index.m3u8
 #below, From, github.com/StanleyChen0924/stanleychen0924.github.io/tree/main/.github/workflows
 民視新聞台,"http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$$$newslive$民視新聞"
-台視新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv051$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8$$$newslive$台視新聞"
+台視新聞台,"http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$$$hget$s://www.ofiii.com/channel/watch/4gtv-4gtv051$$$newslive$台視新聞"
 中視新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv074$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8$$$newslive$中視新聞台"
 華視新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv052$$$newslive$華視新聞"
-TVBS新聞台,"http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true$$$http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072$$$newslive$TVBS新聞"
+TVBS新聞台,"http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8$$$http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072$$$newslive$TVBS新聞"
 三立新聞台,"hget$s://www.ofiii.com/channel/watch/iNEWS$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$$$newslive$LIVE 三立"
 寰宇新聞台SD,"hget$s://www.ofiii.com/channel/watch/litv-longturn14$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$newslive$寰宇新聞"
 寰宇新聞台灣台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv156
 #鏡新聞,"http://live1.robyang.ggff.net:50009/li-4gtv-4gtv075/index.m3u8$$$newslive$鏡新聞"
-東森新聞台,"http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true$$$http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152$$$newslive$東森新聞"
-非凡新聞,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8?proxy=true$$$http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+東森新聞台,"http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8$$$http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152$$$newslive$東森新聞"
+非凡新聞,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8$$$http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 #今日新聞,http://106.107.177.223:50007/nnews-zh/index.m3u8
 年代新聞,http://51.89.166.17:3002/index.php?id=niandainews_twn
 #壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
