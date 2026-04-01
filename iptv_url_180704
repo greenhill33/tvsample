@@ -1,13 +1,12 @@
 常用電台,#genre#
 #below, search from, tonkiang.us or iptv-search.com/search/?q=
-民視,"http://live1.robyang.ggff.net:50009/li-4gtv-4gtv002/index.m3u8"
+#https://raw.githubusercontent.com/lisb0910/tv/main/liveTVList.txt
+民視,https://tv.iill.top/4gtv/4gtv-4gtv002
 #台視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv066
 中視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv041
-#華視TV324 HD,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-#華視綜合,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8$$$https://ytm2.yuanhsing.cf/ctsprog.m3u8"
-公視 HD,"http://live1.robyang.ggff.net:50009/li-4gtv-4gtv042/index.m3u8$$$newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
-原住民族電視台,http://live1.robyang.ggff.net:50009/4gtv-live014/index.m3u8
+#公視 HD,"http://live1.robyang.ggff.net:50009/li-4gtv-4gtv042/index.m3u8$$$newslive$公共電視$$$hget$s://service.ptsplus.tv/api/live/15345854389152982$json::youtube_link::brief"
+#原住民族電視台,http://live1.robyang.ggff.net:50009/4gtv-live014/index.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 台灣戲劇台,hget$s://www.ofiii.com/channel/watch/litv-longturn22
 公視台語台,"newslive$公視台語台$$$hget$s://taigi.pts.org.tw$reg::videoId::.*videoId:.*?'(.*?)'.*::https://www.youtube.com/watch?v=$1"
@@ -15,30 +14,29 @@
 大愛二台,"https://pulltv2.wanfudaluye.com/live/tv2.m3u8$$$https://www.youtube.com/watch?v=8ddDTi-gzQA"
 #大愛三台,"https://pulltv3.wanfudaluye.com/live/tv3.m3u8$$$https://www.youtube.com/watch?v=MIqUplvSRWA"
 TVBS亞洲,https://stream1.freetv.fun/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-TVBS HD,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv073/index.m3u8
-八大綜藝台,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv039/index.m3u8
+TVBS HD,https://tv.iill.top/4gtv/4gtv-live073
+八大綜藝台,https://tv.iill.top/4gtv/4gtv-4gtv039
 #MOMO親子台,http://106.107.177.223:50007/4gtv-live107/index.m3u8
 #below, From, github.com/StanleyChen0924/stanleychen0924.github.io/tree/main/.github/workflows
-民視新聞台,"http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$$$newslive$民視新聞"
-台視新聞台,"http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$$$hget$s://www.ofiii.com/channel/watch/4gtv-4gtv051$$$newslive$台視新聞"
-中視新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv074$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8$$$newslive$中視新聞台"
+民視新聞台,"https://tv.iill.top/4gtv/litv-ftv13$$$http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$$$newslive$民視新聞"
+台視新聞台,"https://tv.iill.top/4gtv/4gtv-4gtv051$$$http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$$$hget$s://www.ofiii.com/channel/watch/4gtv-4gtv051$$$newslive$台視新聞"
+中視新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv074$$$newslive$中視新聞台"
 華視新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv052$$$newslive$華視新聞"
-TVBS新聞台,"http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8$$$http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072$$$newslive$TVBS新聞"
-三立新聞台,"hget$s://www.ofiii.com/channel/watch/iNEWS$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$$$newslive$LIVE 三立"
-寰宇新聞台SD,"hget$s://www.ofiii.com/channel/watch/litv-longturn14$$$https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$$$newslive$寰宇新聞"
+TVBS新聞台,"https://tv.iill.top/4gtv/4gtv-4gtv072$$$newslive$TVBS新聞"
+三立新聞台,"hget$s://www.ofiii.com/channel/watch/iNEWS$$$newslive$LIVE 三立"
+寰宇新聞台SD,"hget$s://www.ofiii.com/channel/watch/litv-longturn14$$$newslive$寰宇新聞"
 寰宇新聞台灣台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv156
-#鏡新聞,"http://live1.robyang.ggff.net:50009/li-4gtv-4gtv075/index.m3u8$$$newslive$鏡新聞"
-東森新聞台,"http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8$$$http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152$$$newslive$東森新聞"
-非凡新聞,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8$$$http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+鏡新聞,"https://tv.iill.top/4gtv/4gtv-4gtv075$$$newslive$鏡新聞"
+東森新聞,"https://tv.iill.top/4gtv/4gtv-4gtv152$$$newslive$東森新聞"
+#非凡新聞,https://tv.iill.top/4gtv/4gtv-4gtv010
 #今日新聞,http://106.107.177.223:50007/nnews-zh/index.m3u8
 年代新聞,http://51.89.166.17:3002/index.php?id=niandainews_twn
 #壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 中天新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv009$$$newslive$中天新聞"
-東森財經新聞台,"https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8$$$newslive$東森財經"
+東森財經新聞台,"https://tv.iill.top/4gtv/4gtv-4gtv153$$$newslive$東森財經"
 寰宇財經台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv158
 #三立財經台,"http://seb.sason.top/sc/slinews_fhd.m3u8"
 #三立iNEWS,"http://106.107.177.223:50007/iNEWS/index.m3u8$$$newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
-#EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 半島新聞,https://live-hls-web-aje.getaj.net/AJE/01.m3u8$$$https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #DW,http://106.107.177.223:50007/4gtv-live071/index.m3u8
 CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -48,7 +46,7 @@ ELTV生活英語台,hget$s://www.ofiii.com/channel/watch/litv-longturn20
 #頓,GoodTV綜合台,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #頓,GoodTV真情部落,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
 #緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-八大精彩台,http://live1.robyang.ggff.net:50009/li-4gtv-4gtv034/index.m3u8
+八大精彩台,https://tv.iill.top/4gtv/4gtv-4gtv034
 三立綜合台,http://live1.robyang.ggff.net:50009/4gtv-live207/index.m3u8
 Smart知識台,http://live1.robyang.ggff.net:50009/li-litv-longturn19/index.m3u8
 龍華戲劇台,hget$s://www.ofiii.com/channel/watch/litv-longturn18
@@ -63,6 +61,7 @@ TAIWANPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-
 華語電視,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8$$$http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$FitXY
 時尚FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+時尚運動,https://tv.iill.top/4gtv/4gtv-4gtv014
 Yes娛樂,hget$s://www.ofiii.com/channel/watch/ofiii47
 天才衝衝衝,hget$s://www.ofiii.com/channel/watch/ofiii135
 亞洲旅遊台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv076
@@ -91,12 +90,9 @@ Edge運動,https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 好消息,hget$s://www.ofiii.com/channel/watch/litv-ftv16
 好消息2台,hget$s://www.ofiii.com/channel/watch/litv-ftv17
 日本購物台,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-#momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 東森購物1台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv102
 東森購物2台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv103
 #東森購物3台,http://106.107.177.223:50007/4gtv-live048/index.m3u8
 #東森購物4台,http://106.107.177.223:50007/4gtv-live049/index.m3u8
-#美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
