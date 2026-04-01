@@ -1,7 +1,8 @@
 常用電台,#genre#
 #below, search from, tonkiang.us or iptv-search.com/search/?q=
 #https://raw.githubusercontent.com/lisb0910/tv/main/liveTVList.txt
-#民視,https://tv.iill.top/4gtv/4gtv-4gtv002
+民視,browse$https://tv.iill.top/4gtv/4gtv-4gtv002
+民視綜藝,browse$https://tv.iill.top/4gtv/4gtv-4gtv004
 #台視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv066
 中視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視HD,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv041
@@ -30,14 +31,14 @@ TVBS新聞台,"http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://6
 東森新聞,"http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8$$$newslive$東森新聞"
 非凡新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1013.m3u8
 #今日新聞,http://106.107.177.223:50007/nnews-zh/index.m3u8
-年代新聞,http://51.89.166.17:3002/index.php?id=niandainews_twn
+#年代新聞,http://51.89.166.17:3002/index.php?id=niandainews_twn
 #壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 中天新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv009$$$newslive$中天新聞"
 東森財經新聞台,"http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1017.m3u8$$$newslive$東森財經"
 寰宇財經台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv158
 非凡商業台,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1012.m3u8
 #三立財經台,"http://seb.sason.top/sc/slinews_fhd.m3u8"
-#三立iNEWS,"http://106.107.177.223:50007/iNEWS/index.m3u8$$$newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
+三立iNEWS,"browse$https://tv.iill.top/4gtv/4gtv-live089$$$newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
 半島新聞,https://live-hls-web-aje.getaj.net/AJE/01.m3u8$$$https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #DW,http://106.107.177.223:50007/4gtv-live071/index.m3u8
 CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -47,8 +48,8 @@ ELTV生活英語台,hget$s://www.ofiii.com/channel/watch/litv-longturn20
 #頓,GoodTV綜合台,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #頓,GoodTV真情部落,embed$https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
 #緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-三立綜合台,http://live1.robyang.ggff.net:50009/4gtv-live207/index.m3u8
-Smart知識台,http://live1.robyang.ggff.net:50009/li-litv-longturn19/index.m3u8
+#三立綜合台,http://live1.robyang.ggff.net:50009/4gtv-live207/index.m3u8
+#Smart知識台,http://live1.robyang.ggff.net:50009/li-litv-longturn19/index.m3u8
 龍華戲劇台,hget$s://www.ofiii.com/channel/watch/litv-longturn18
 龍華偶像台,hget$s://www.ofiii.com/channel/watch/litv-longturn12
 龍華電影台,hget$s://www.ofiii.com/channel/watch/litv-longturn03
