@@ -21,21 +21,21 @@ TVBS HD,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.2
 #below, From, github.com/StanleyChen0924/stanleychen0924.github.io/tree/main/.github/workflows
 民視新聞台,"http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$$$newslive$民視新聞"
 台視新聞台,"http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1107.m3u8$$$http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$$$hget$s://www.ofiii.com/channel/watch/4gtv-4gtv051$$$newslive$台視新聞"
-中視新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv074$$$newslive$中視新聞台"
-華視新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv052$$$newslive$華視新聞"
+#中視新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv074$$$newslive$中視新聞台"
+華視新聞台,"http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1120.m3u8"
 TVBS新聞台,"http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1080.m3u8$$$newslive$TVBS新聞"
-三立新聞台,"hget$s://www.ofiii.com/channel/watch/iNEWS$$$newslive$LIVE 三立"
-寰宇新聞台SD,"hget$s://www.ofiii.com/channel/watch/litv-longturn14$$$newslive$寰宇新聞"
-寰宇新聞台灣台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv156
+三立新聞台,"http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1016.m3u8"
+寰宇新聞台SD,"http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1222.m3u8"
+#寰宇新聞台灣台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv156
 鏡新聞,"http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1031.m3u8$$$newslive$鏡新聞"
 東森新聞,"http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8$$$newslive$東森新聞"
 非凡新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1013.m3u8
 #今日新聞,http://106.107.177.223:50007/nnews-zh/index.m3u8
 #年代新聞,http://51.89.166.17:3002/index.php?id=niandainews_twn
 #壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
-中天新聞台,"hget$s://www.ofiii.com/channel/watch/4gtv-4gtv009$$$newslive$中天新聞"
+中天新聞台,"http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1015.m3u8"
 東森財經新聞台,"http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1017.m3u8$$$newslive$東森財經"
-寰宇財經台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv158
+#寰宇財經台,hget$s://www.ofiii.com/channel/watch/4gtv-4gtv158
 非凡商業台,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1012.m3u8
 #三立財經台,"http://seb.sason.top/sc/slinews_fhd.m3u8"
 三立iNEWS,"browse$https://tv.iill.top/4gtv/4gtv-live089$$$newslive$iNEWS$$$hget$s://live.setn.com/Live/691$reg::youtube.com::.*file:.*?(http.*?/embed/.*?)',.*::$1"
